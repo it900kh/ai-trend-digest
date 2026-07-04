@@ -12,7 +12,7 @@ export const SOURCES = [
 export const CONFIG = {
   itemsPerSource: 5,
   maxAgeDays: 7,
-  model: "gemini-2.5-flash",
+  model: "gemini-2.5-flash-lite",
   maxSummariesPerRun: 30,
   dbPath: "./data/digest.db",
   exportPath: "./data/digest.json",
