@@ -5,6 +5,9 @@ on:
     - cron: "0 22 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   digest:
     runs-on: ubuntu-latest
@@ -24,9 +27,7 @@ jobs:
         run: npm run run
 
       - name: 更新をコミット
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/digest.json data/digest.db
-          git diff --staged --quiet || git commit -m "chore: AIトレンド更新 $(date +%F)"
-          git push
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: AIトレンド更新"
+          file_pattern: "data/digest.json data/digest.db"
