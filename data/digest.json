@@ -1,0 +1,22 @@
+{
+  "updatedAt": "2026-07-06T12:32:35.276Z",
+  "count": 2,
+  "items": [
+    {
+      "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
+      "summary": "フランスのスタートアップ、Mistral AIは、誰でも最新AIを使えるようにすることを目指し、2023年の設立以来、多額の資金を集めています。特に、誰でも使える「オープンソース」のAIモデルを提供しているのが特徴です。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
+      "published": "2026-07-04T15:51:32.000Z"
+    },
+    {
+      "title": "New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.",
+      "summary": "ニューヨークで、学校と産業界のリーダーたちが集まり、AIを教室でどう使うかを話し合いました。これは、AIが学びをどう変えるか、そして将来にどう役立つかを考えるための大切な機会となりました。",
+      "source": "Google AI Blog",
+      "category": "research",
+      "url": "https://blog.google/products-and-platforms/products/education/nyc-ai-summit/",
+      "published": "2026-07-01T16:00:00.000Z"
+    }
+  ]
+}
