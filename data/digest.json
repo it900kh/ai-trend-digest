@@ -1,7 +1,63 @@
 {
-  "updatedAt": "2026-07-06T12:32:35.276Z",
-  "count": 2,
+  "updatedAt": "2026-07-07T10:38:05.160Z",
+  "count": 9,
   "items": [
+    {
+      "title": "The first American autonomous ground vehicles are fighting in Ukraine",
+      "summary": "アメリカ製の自動運転車両が、ウクライナでの戦闘に初めて投入されました。これにより、兵士が危険な任務に直接関わることなく、偵察や物資運搬などの役割を担えるようになり、戦場の安全性が高まる可能性があります。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine/",
+      "published": "2026-07-07T09:00:00.000Z"
+    },
+    {
+      "title": "Automated Data Readiness for Scientific AI",
+      "summary": "科学研究でAIを使うには、大量のデータをAIが理解できる形に整える必要があります。この手間を省くため、新しい「REDI」という仕組みが作られました。REDIは、データの取り込みからAIに使える状態にするまでを自動化し、研究で信頼できるデータを作れるようにします。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2607.02771",
+      "published": "2026-07-07T04:00:00.000Z"
+    },
+    {
+      "title": "QuantFlow: A Federated Mamba-Based Post-Transformer Foundation Model for Time-Series Forecasting",
+      "summary": "AIが未来の出来事を予測する（時系列予測）技術は、金融や交通など様々な分野で役立ちます。今回「QuantFlow」という新しいAIが登場し、データを一箇所に集めなくても、プライバシーを守りながら正確な予測ができるようになりました。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2607.02632",
+      "published": "2026-07-07T04:00:00.000Z"
+    },
+    {
+      "title": "US investors will soon get access to SK Hynix, another memory maker riding the AI boom",
+      "summary": "AI（人工知能）ブームで半導体メーカーSKハイニックスの業績が急成長。この勢いに乗り、米国で多額の新規株式公開（IPO）を行う見込み。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/",
+      "published": "2026-07-06T23:21:03.000Z"
+    },
+    {
+      "title": "You can now customize Siri’s pace and expressivity in the latest iOS 27 beta",
+      "summary": "Siriの声の速さや感情表現を、自分好みに調整できるようになりました。これは、AI（人工知能）の力でSiriをより自然で親しみやすいアシスタントにするための、Appleの大きな取り組みの一部です。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/",
+      "published": "2026-07-06T19:01:59.000Z"
+    },
+    {
+      "title": "PRX Part 4: Our Data Strategy",
+      "summary": "このAIは、たくさんの文章を読んで、それを元に新しい文章を作るのが得意なAI（LLM）です。このAIがさらに賢くなるために、どのようなデータ（文章や情報）をどのように集めて、どのように学習させていくかの計画が大切だと述べています。",
+      "source": "Hugging Face",
+      "category": "product",
+      "url": "https://huggingface.co/blog/Photoroom/prx-part4-data",
+      "published": "2026-07-06T15:30:55.000Z"
+    },
+    {
+      "title": "Amazon will stop accepting new customers for Mechanical Turk",
+      "summary": "Amazonの「Mechanical Turk」（たくさんの簡単な仕事をAIに手伝ってもらうサービス）が、新しい利用者の募集を停止することが決まりました。このサービスは、AIの学習に必要なデータ作りなどを支えてきましたが、今後は事業の形を変えていくことになりそうです。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
+      "published": "2026-07-05T17:43:36.000Z"
+    },
     {
       "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
       "summary": "フランスのスタートアップ、Mistral AIは、誰でも最新AIを使えるようにすることを目指し、2023年の設立以来、多額の資金を集めています。特に、誰でも使える「オープンソース」のAIモデルを提供しているのが特徴です。",
