@@ -1,7 +1,23 @@
 {
-  "updatedAt": "2026-07-09T10:46:41.224Z",
-  "count": 16,
+  "updatedAt": "2026-07-11T06:29:41.225Z",
+  "count": 19,
   "items": [
+    {
+      "title": "Meta removes controversial AI feature on Instagram after backlash",
+      "summary": "インスタグラムで、AI（人工知能）が写真に写っている人物の職業などを自動で推測する機能が、利用者からの反発を受けて削除されました。この機能は、クリエイティブなツールとして意図されていましたが、多くの人には不快に感じられたため、提供が中止されました。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
+      "published": "2026-07-10T23:55:07.000Z"
+    },
+    {
+      "title": "Apple sues OpenAI over alleged trade secret theft",
+      "summary": "AppleがOpenAIを提訴しました。Appleは、元従業員がOpenAIで働きながら、Appleの機密情報（企業秘密）を不正に持ち出し、OpenAIのAI開発に利用したと主張しています。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
+      "published": "2026-07-10T21:00:29.000Z"
+    },
     {
       "title": "AgentLens: Production-Assessed Trajectory Reviews for Coding Agent Evaluation",
       "summary": "AIにプログラムを作らせる時、ただ成功したか失敗したかだけでなく、どうやって作ったかの過程も大切です。AgentLensは、AIが指示通りに動いたか、間違いをどう直したかなど、その過程を詳しく評価する仕組みです。これにより、AIの改善点が見つかりやすくなります。",
@@ -25,6 +41,14 @@
       "category": "research",
       "url": "https://arxiv.org/abs/2607.06610",
       "published": "2026-07-09T04:00:00.000Z"
+    },
+    {
+      "title": "Google Photos adds a new AI ‘Video Remix’ tool",
+      "summary": "Googleフォトに、AIを使った「ビデオに魔法をかける」新機能が登場しました。暗い動画を明るくしたり、背景を楽しいものに変えたり、アート風に加工したりと、動画をもっと魅力的にできるようになったのです。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/07/08/google-photos-adds-a-new-ai-video-remix-tool/",
+      "published": "2026-07-08T18:30:08.000Z"
     },
     {
       "title": "Data for Agents",
