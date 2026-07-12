@@ -17,14 +17,15 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: "22"
+          cache: "npm"
 
       - name: 依存関係をインストール
-        run: npm install
+        run: npm ci
 
       - name: 収集→要約→書き出し
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-        run: npm run run
+        run: npm start
 
       - name: 更新をコミット
         uses: stefanzweifel/git-auto-commit-action@v5

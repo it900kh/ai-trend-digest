@@ -5,7 +5,7 @@ import { CONFIG } from "./config.js";
 import { summarizedArticles } from "./db.js";
 
 export function exportJson() {
-  const rows = summarizedArticles(100);
+  const rows = summarizedArticles(CONFIG.exportLimit);
 
   const payload = {
     updatedAt: new Date().toISOString(),
