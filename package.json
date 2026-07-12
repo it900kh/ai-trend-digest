@@ -4,8 +4,11 @@
   "description": "AIトレンドを自動収集し、非エンジニア向けに2〜3行へ要約するパイプライン",
   "type": "module",
   "scripts": {
-    "run": "node src/index.js",
+    "start": "node src/index.js",
     "export": "node src/export.js"
+  },
+  "engines": {
+    "node": ">=20"
   },
   "dependencies": {
     "@google/genai": "^1.0.0",
