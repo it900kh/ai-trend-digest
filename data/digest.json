@@ -1,7 +1,23 @@
 {
-  "updatedAt": "2026-07-13T08:41:07.788Z",
-  "count": 31,
+  "updatedAt": "2026-07-14T06:25:48.852Z",
+  "count": 34,
   "items": [
+    {
+      "title": "From ML Predictions to Informed Diagnostic Assistance Using the Toulmin Model of Argumentation",
+      "summary": "AIが病気の診断を助ける時に、その判断がどれくらい信頼できるかを分かりやすく評価する新しい方法が提案されました。AIの診断結果を、根拠や理由、例外などを整理して人間に伝えることで、医師がより的確な判断を下せるようになります。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2607.09664",
+      "published": "2026-07-14T04:00:00.000Z"
+    },
+    {
+      "title": "Faithful, Not Corrective: Message-Format Effects in Multi-Hop Agent Relays Are Tier-Dependent",
+      "summary": "AI同士が情報をやり取りする際、情報の伝え方（フォーマット）は重要か？という研究です。AIの能力が高い場合は伝え方を変えてもあまり精度は変わりませんが、能力が低い場合は情報の正確さが大きく変わることがわかりました。また、一度間違った情報が伝わると、AIはその間違いを訂正せず、そのまま次のAIに伝えてしまうことも明らかになりました。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2607.09678",
+      "published": "2026-07-14T04:00:00.000Z"
+    },
     {
       "title": "Long-Horizon-Terminal-Bench: Testing the Limits of Agents on Long-Horizon Terminal Tasks with Dense Reward-Based Grading",
       "summary": "AI（人工知能）が複雑な問題を解く能力を測るため、新しいテスト「Long-Horizon-Terminal-Bench」が開発されました。これは、AIが長期的な目標を達成する過程を細かく評価できるため、AIの真の力を知るのに役立ちます。",
@@ -128,6 +144,14 @@
       "source": "arXiv (cs.LG)",
       "category": "research",
       "url": "https://arxiv.org/abs/2607.06601",
+      "published": "2026-07-09T04:00:00.000Z"
+    },
+    {
+      "title": "NEST: Tackling Dataset-Level Distribution Shifts via Regime-Oriented Mixture-of-Experts",
+      "summary": "AIが未来の予測をする際、データの「クセ」が変わると精度が落ちてしまう課題を解決する新しい方法「NEST」が開発されました。これは、過去のデータから「いつもの状態」と「特別な時」に分けて、それぞれに合ったAI（専門家）が予測を立てる仕組みです。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2607.06607",
       "published": "2026-07-09T04:00:00.000Z"
     },
     {
