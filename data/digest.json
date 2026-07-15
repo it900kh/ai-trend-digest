@@ -1,7 +1,135 @@
 {
-  "updatedAt": "2026-07-14T06:25:48.852Z",
-  "count": 34,
+  "updatedAt": "2026-07-15T06:32:02.929Z",
+  "count": 53,
   "items": [
+    {
+      "title": "Optimal Adaptive Market Making: A Theoretical Framework for High-Yield Liquidity Provision in Perpetual Futures Markets",
+      "summary": "この論文は、取引手数料がゼロの先物市場（将来の価格で取引する市場）で、AIを使ってより多くのお金を稼ぐための新しい考え方を示しました。AIが「いくらで買い、いくらで売るか」を賢く決め、さらに複数の取引所を使い分けることで、リスクを抑えつつ利益を最大化できる可能性を理論的に説明しています。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2607.11888",
+      "published": "2026-07-15T04:00:00.000Z"
+    },
+    {
+      "title": "In-Context Reinforcement Learning under Non-Stationarity: A Survey",
+      "summary": "AIが、状況が変わっても、過去の経験から「今すべきこと」を素早く見つけ出す方法を研究しています。これにより、AIは毎回学習し直すことなく、変化する環境で賢く判断できるようになります。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2607.11906",
+      "published": "2026-07-15T04:00:00.000Z"
+    },
+    {
+      "title": "Ontology-Amplified Distillation and Contextuality Auditing for Sovereign Enterprise Language Models: A Combined Proof-of-Mechanism and Negative-Results Method Study",
+      "summary": "金融機関などが、自社内で安全に使える「文章を作るAI」（LLM）を作る方法について研究しました。AIが専門知識を理解し、正確な判断をするための新しい訓練方法を試したところ、既存のAIと同じくらい優秀な結果が出ました。さらに、AIの判断が本当に正しいかを確認する検査方法も提案しています。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2607.11948",
+      "published": "2026-07-15T04:00:00.000Z"
+    },
+    {
+      "title": "GRID: Grammar-Railed Decoding for Enterprise SQL Generation",
+      "summary": "AIがSQL（データベースを操作する言葉）を作れるようになりましたが、会社で使うには、ただそれらしい文章を作るだけでなく、正しい文法であること、決まりを守ること、間違いがないと証明できること、処理が遅くならないこと、記録が残ることが必要です。そこで、GRIDという新しい技術は、AIがSQLを作る時に、文法を間違えないように決まりを作り、安全で確実なSQLを素早く作れるようにします。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2607.11951",
+      "published": "2026-07-15T04:00:00.000Z"
+    },
+    {
+      "title": "Calibration-First Reward-Component Auditing for Reinforcement Learning Control in Smart Greenhouses",
+      "summary": "AIが温室の環境を自動で調整する技術が進化しました。これまでAIは全体的な成果しか評価できませんでしたが、今回の研究で、温度、二酸化炭素、湿度などを個別に評価できるようになり、AIの判断がより分かりやすくなりました。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2607.11959",
+      "published": "2026-07-15T04:00:00.000Z"
+    },
+    {
+      "title": "OmniPMNet: Bridging discrete and gridded PM10 forecasts via omni-query neural processes",
+      "summary": "PM10（大気中の微小な粒子のこと）の予測精度を上げる新技術「OmniPM-Net」が登場。各地の観測データと、広範囲を網羅する気象モデルの予測を賢く組み合わせることで、ピンポイントな予測と広範囲の予測の両方で、より正確な結果を出せるようになりました。特に、粒子濃度が高い時や砂嵐の予測に役立ちます。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2607.11896",
+      "published": "2026-07-15T04:00:00.000Z"
+    },
+    {
+      "title": "Semidirect Fourier Delta Attention: Phase-Controlled Delta Memory with Constructive Chunk-WY Kernels",
+      "summary": "AIの「注意機構（AIが文章を理解する仕組み）」を、もっと効率的に、長い文章も忘れにくくする新しい方法が提案されました。これにより、AIは以前よりも正確に過去の情報を記憶できるようになり、特に周期的なパターンを学習する能力が向上します。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2607.11897",
+      "published": "2026-07-15T04:00:00.000Z"
+    },
+    {
+      "title": "Repairing Shape-Prior Shortcuts in Long-Range Single-Shot Fringe Projection Profilometry",
+      "summary": "形を測るAIが、物体の輪郭だけで形を推測してしまう「ショートカット」という問題を解決しました。\n新しいAI「PhiCalNet」は、輪郭ではなく、光の模様（フリンジ）のズレから正確な形を測れるようになり、測定精度が3倍以上向上しました。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2607.11928",
+      "published": "2026-07-15T04:00:00.000Z"
+    },
+    {
+      "title": "Qubit-Efficient Quantum Search for Hyperdimensional Decomposition via Logarithmic Encoding",
+      "summary": "これは、たくさんの情報（シンボル）をたくさんの数字（ハイパーベクトル）で表す「ハイパーディメンショナルコンピューティング」という技術で、元の情報を復元するのがとても大変でした。今回、量子コンピューターを使うと、使う「 qubit（量子ビット）」を大幅に減らしつつ、元の情報を復元する計算を速くできる方法が見つかりました。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2607.11936",
+      "published": "2026-07-15T04:00:00.000Z"
+    },
+    {
+      "title": "Mirror Horizon: Viable Path Entropy as a Measure of Bounded Reflection",
+      "summary": "AIが「考える力」を測る新しい方法「VPE」が提案されました。これは、AIが同じ問題を繰り返し考えて、どれだけ正しい答えにたどり着けるかの「多様性」を調べるものです。これにより、AIの真の能力が、単に問題が解けるかだけでなく、どう考え続けるかで決まることが示されました。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2607.11937",
+      "published": "2026-07-15T04:00:00.000Z"
+    },
+    {
+      "title": "OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B",
+      "summary": "AIで新薬開発を目指すスタートアップが、なんと20億ドル（約3000億円）という巨額の資金調達について話し合っています。これは、AIが病気の治療法を見つける分野で、大きな進歩が期待されている証拠です。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/",
+      "published": "2026-07-15T00:27:04.000Z"
+    },
+    {
+      "title": "Lorde says AI glasses are ‘not sexy’",
+      "summary": "歌手のロードさんが、AIメガネは「セクシーじゃない」と語りました。これは、AI技術が発達して、何が本物か見分けるのが難しくなっている現状への懸念からきています。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/07/14/lorde-says-ai-glasses-are-not-sexy/",
+      "published": "2026-07-14T23:10:02.000Z"
+    },
+    {
+      "title": "OpenAI pushes back on Apple trade secret lawsuit",
+      "summary": "OpenAIは、Appleからの訴訟は根拠がないと反論しました。これは、AIの秘密情報が不正に使われたとAppleが主張していることへの応答で、AI開発における企業間の主張のぶつかり合いが注目されています。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/07/14/openai-pushes-back-on-apple-trade-secret-lawsuit/",
+      "published": "2026-07-14T22:07:42.000Z"
+    },
+    {
+      "title": "OpenAI’s new flagship model deletes files on its own, people keep warning",
+      "summary": "新しいAIモデル「GPT-5.6 Sol」が、警告なしにファイルやデータを消してしまうという報告が相次いでいます。OpenAIは6月にこの問題を認めており、AIの誤動作への懸念が高まっています。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning/",
+      "published": "2026-07-14T21:50:11.000Z"
+    },
+    {
+      "title": "Celebrating 25 years of visual search innovation",
+      "summary": "Google画像検索が25周年を迎えました。25年間で、写真など画像を使った検索技術は大きく進歩し、今では画像でさらに色々なものを探したり、新しい画像を作ったりできるようになっています。",
+      "source": "Google AI Blog",
+      "category": "research",
+      "url": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/",
+      "published": "2026-07-14T16:00:00.000Z"
+    },
+    {
+      "title": "How to manage AI investments in the agentic era",
+      "summary": "AIがお金を生み出す「エージェント時代」が到来。企業はAIにどれだけ「役に立つ仕事」をさせたかを値段で測り、効率を上げ、価値の高い仕事を広げることで、AIへの投資をうまく管理できるようになります。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
+      "published": "2026-07-14T10:00:00.000Z"
+    },
     {
       "title": "From ML Predictions to Informed Diagnostic Assistance Using the Toulmin Model of Argumentation",
       "summary": "AIが病気の診断を助ける時に、その判断がどれくらい信頼できるかを分かりやすく評価する新しい方法が提案されました。AIの診断結果を、根拠や理由、例外などを整理して人間に伝えることで、医師がより的確な判断を下せるようになります。",
@@ -17,6 +145,30 @@
       "category": "research",
       "url": "https://arxiv.org/abs/2607.09678",
       "published": "2026-07-14T04:00:00.000Z"
+    },
+    {
+      "title": "Boltzmann MapReduce: A Partition-Function Reduce for Forkable Sandboxes",
+      "summary": "AIがデータ処理をするとき、たくさんのデータを分けて処理させると、それぞれの結果をまとめるのが難しくなります。この新しい方法は、たくさんのAI（ワーカー）が分担して処理した結果を、効率よく一つにまとめることができる画期的な技術です。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2607.09689",
+      "published": "2026-07-14T04:00:00.000Z"
+    },
+    {
+      "title": "AuditWeave: A Tamper-Evident, Auditor-Navigable Evidence Layer for AI-Assisted and Data-Transformation Workflows",
+      "summary": "AIが重要な判断を助ける仕事（監査や金融など）で使われるとき、その判断の元になった情報や、判断までの過程が改ざんされていないかを後から確認できる新しい仕組み「AuditWeave」が作られました。\nこれは、AIの判断がどのように作られたかを記録し、その記録が安全に保たれていることを保証するものです。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2607.09682",
+      "published": "2026-07-14T04:00:00.000Z"
+    },
+    {
+      "title": "Already rich, already successful, why the last wave of tech winners is grinding again",
+      "summary": "AI（人工知能）の波に乗り、すでに成功しているIT企業が、さらなる巨額の利益を求めて再び開発競争に乗り出しています。AIの時代を逃すまいと、各社が懸命に技術開発に取り組んでいます。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/07/13/already-rich-already-successful-why-the-last-wave-of-tech-winners-is-grinding-again/",
+      "published": "2026-07-14T02:46:42.000Z"
     },
     {
       "title": "Long-Horizon-Terminal-Bench: Testing the Limits of Agents on Long-Horizon Terminal Tasks with Dense Reward-Based Grading",
