@@ -1,7 +1,151 @@
 {
-  "updatedAt": "2026-07-15T06:32:02.929Z",
-  "count": 53,
+  "updatedAt": "2026-07-16T06:39:33.100Z",
+  "count": 74,
   "items": [
+    {
+      "title": "SPINE: Bridging the Cyber-Physical Gap with Agentic AI",
+      "summary": "ロボットが賢く動くための「脳」（AI）は発達しましたが、それを実際のロボットに搭載するのは大変です。この「SPINE」という仕組みは、ロボットに専門知識がなくても、AIの能力を実際に使えるようにする新しい方法です。\n\nSPINEを使うと、ロボットの調子を整える作業が簡単になり、ロボットがもっと色々な場面で活躍できるようになります。専門家でなくても、ロボットを便利に使えるようになるため、AIが私たちの生活に役立つ場面が広がるかもしれません。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2607.13049",
+      "published": "2026-07-16T04:00:00.000Z"
+    },
+    {
+      "title": "Interventional Grounding Audits: Black-Box Premise-Dependency Tests for LLM Chain-of-Thought via Predicate Substitution",
+      "summary": "AI（文章を作るAI）が、正しい答えを導く過程で、実は根拠となる前提を本当に使っていないことがある。この新手法は、AIの考え方に介入し、前提が少し変わると考え方が変わるか調べることで、AIが本当に根拠を理解しているか確かめる。これにより、AIが「間違った理由で正しい答えを出している」場合を発見できる。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2607.13069",
+      "published": "2026-07-16T04:00:00.000Z"
+    },
+    {
+      "title": "Probabilistic Extension of Neuro-Symbolic AGI Robots based on Belnap's Typed Intensional FOL",
+      "summary": "AIロボットが、まだ分からないことでも、過去の経験から「これくらいありそうだ」と確率で判断できるようになりました。これにより、AIがより柔軟で賢く、自分で考えて行動できるようになることが期待されます。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2607.13073",
+      "published": "2026-07-16T04:00:00.000Z"
+    },
+    {
+      "title": "Self-Improvements in Modern Agentic Systems: A Survey",
+      "summary": "AIロボットが自分で賢くなる技術が進んでいます。人間があまり手を出さなくても、経験から学び、よりできるように進化するのです。これは、AIが文章を作る基盤（基盤モデル）と、記憶や道具を使う機能などを組み合わせて、自分で改善を繰り返す仕組みです。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2607.13104",
+      "published": "2026-07-16T04:00:00.000Z"
+    },
+    {
+      "title": "Automatic Differentiation from Scratch: How PyTorch Computes Gradients in Physics-Informed Neural Networks",
+      "summary": "PyTorchというAIの仕組み（自動微分）が、物理法則を学ぶAI（PINN）でどうやって計算しているかを、具体的な数字で解説しています。これにより、AIが物理問題を解くための仕組みがより分かりやすくなりました。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2607.13042",
+      "published": "2026-07-16T04:00:00.000Z"
+    },
+    {
+      "title": "Beyond Backbone Backpropagation: A Decoupled Strategy for Efficient Transfer Learning",
+      "summary": "AIの画像認識はすごいけど、計算に時間がかかりすぎるのが悩み。そこで、AIの「学習」方法を工夫して、新しい分野にAIを応用（転移学習）するのにかかる時間を大幅に短縮する技術が開発された。これなら、少ない電力でAIを動かせ、地球にも優しい。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2607.13043",
+      "published": "2026-07-16T04:00:00.000Z"
+    },
+    {
+      "title": "Federated Explainable Artificial Intelligence: Roles, Architectures, Evaluation, and Open Challenges",
+      "summary": "AIが「なぜその判断をしたのか」を、個人情報（データ）を外部に出さずに説明できるようにする技術（FedXAI）が登場しました。これにより、AIの信頼性が高まり、より安全にAIを使えるようになることが期待されます。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2607.13045",
+      "published": "2026-07-16T04:00:00.000Z"
+    },
+    {
+      "title": "What Your Model Threw Away and Why You'll Want It Back: Masking, Fingerprinting, and Privacy from Discarded Geometry",
+      "summary": "AIが学習で捨てた「隠された情報」を「復元」する新しい方法が見つかりました。これは、AIが気づかないデータの「対称性」を見つける技術で、個人情報保護やAIの「個性」を特定することに役立ちます。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2607.13046",
+      "published": "2026-07-16T04:00:00.000Z"
+    },
+    {
+      "title": "Targeted Recovery of Weight-Space Mechanisms From Neural Networks",
+      "summary": "AIの「仕組み」を理解するための新技術「tPD」は、AIの学習データの一部だけを効率的に調べる方法です。これにより、AIがどのように情報を処理しているかを、以前よりずっと少ない計算量で、正確に再現できるようになりました。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2607.13047",
+      "published": "2026-07-16T04:00:00.000Z"
+    },
+    {
+      "title": "Applied Computing wants to give oil and gas operators an AI model for the entire plant",
+      "summary": "石油・ガス業界向けに、工場全体の動きを理解できるAI（人工知能）を作ろうという会社が、20億円の資金を集めました。これにより、AIが工場全体の状況を把握し、より安全で効率的な操業を助けることが期待されます。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/",
+      "published": "2026-07-16T04:00:00.000Z"
+    },
+    {
+      "title": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
+      "summary": "マイクロソフトが、自社開発のAIモデルを、競合他社よりも安くて効率が良いと営業担当者に教え、売り込もうとしています。これは、AI開発競争が激しくなり、価格や性能で優位に立とうとする動きです。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
+      "published": "2026-07-15T23:59:44.000Z"
+    },
+    {
+      "title": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
+      "summary": "OpenAIは、コードを作るAI（Codex）と連携する光るキーボードを発売しました。これは、アップルとのハードウェアに関する法廷争いの中で発表され、AI開発をより身近にすることを目指しています。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
+      "published": "2026-07-15T19:41:38.000Z"
+    },
+    {
+      "title": "SpaceX falls to $135 IPO price ahead of Starship launch",
+      "summary": "スペースX（宇宙開発企業）の株価が、IPO（新規株式公開）後の高値から下落し、1株135ドルになった。イーロン・マスクCEOが約束した将来への期待が、市場で冷静に評価され始めているようだ。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/07/15/spacex-falls-to-135-ipo-price-ahead-of-starship-launch/",
+      "published": "2026-07-15T18:06:05.000Z"
+    },
+    {
+      "title": "Thinking Machines amps up its bet against one-size-fits-all AI with its first open model, Inkling",
+      "summary": "「すべてのAIは同じ」という考え方に反対する会社が、初めて「Inkling」という誰でも使えるAIモデルを発表しました。これは、1年半かけて裏で開発してきたAI技術の成果を初めて公開するものです。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/",
+      "published": "2026-07-15T18:04:06.000Z"
+    },
+    {
+      "title": "What building Shippy taught us about building agents",
+      "summary": "ShippyというAI（人工知能）のシステムを開発する経験から、AIに「指示を理解して自分で考えて行動する力」を持たせる（エージェントを作る）ための大切なことがわかった。",
+      "source": "Hugging Face",
+      "category": "product",
+      "url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
+      "published": "2026-07-15T17:29:41.000Z"
+    },
+    {
+      "title": "Model Routing Is Simple. Until It Isn’t.",
+      "summary": "AIがたくさんの仕事をする時、どれが一番得意かを選んで渡す「モデルルーティング」が大事。でも、AIの能力がどんどん上がって、たくさんの仕事が似てきて、どれが一番か選ぶのが難しくなってきている。",
+      "source": "Hugging Face",
+      "category": "product",
+      "url": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
+      "published": "2026-07-15T17:27:01.000Z"
+    },
+    {
+      "title": "The US is advancing AI safety through state and federal action",
+      "summary": "アメリカでは、AI（人工知能）を安全に使うためのルール作りが進んでいます。州の法律と国のルールを組み合わせることで、みんなが安心して使えるAIの仕組みを作ろうとしています。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
+      "published": "2026-07-15T12:00:00.000Z"
+    },
+    {
+      "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
+      "summary": "AIが自分で自分をテストして、より安全で、指示通りに動くように「賢く」なる新しい仕組み「GPT-Red」が開発されました。これは、AIが誤った指示（プロンプトインジェクション）をされないように、さらに強くなるためのものです。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+      "published": "2026-07-15T10:00:00.000Z"
+    },
     {
       "title": "Optimal Adaptive Market Making: A Theoretical Framework for High-Yield Liquidity Provision in Perpetual Futures Markets",
       "summary": "この論文は、取引手数料がゼロの先物市場（将来の価格で取引する市場）で、AIを使ってより多くのお金を稼ぐための新しい考え方を示しました。AIが「いくらで買い、いくらで売るか」を賢く決め、さらに複数の取引所を使い分けることで、リスクを抑えつつ利益を最大化できる可能性を理論的に説明しています。",
@@ -91,6 +235,22 @@
       "published": "2026-07-15T00:27:04.000Z"
     },
     {
+      "title": "Welcome Inkling by Thinking Machines",
+      "summary": "AIが文章を作る技術（LLM）が進化し、より自然で創造的な表現が可能になりました。これにより、物語の創作やコンテンツ制作など、新しいアイデアを生み出す強力なツールとして期待されています。",
+      "source": "Hugging Face",
+      "category": "product",
+      "url": "https://huggingface.co/blog/thinkingmachines-inkling",
+      "published": "2026-07-15T00:00:00.000Z"
+    },
+    {
+      "title": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
+      "summary": "声のAI（人工知能）が、どれだけ人間の声らしいかを測る新しい方法「VoiceEQ」が開発されました。これにより、AIがもっと自然で感情豊かな会話ができるようになるかどうかが分かり、より人間らしいAIアシスタントなどの開発に役立ちます。",
+      "source": "Hugging Face",
+      "category": "product",
+      "url": "https://huggingface.co/blog/real-world-voiceeq",
+      "published": "2026-07-15T00:00:00.000Z"
+    },
+    {
       "title": "Lorde says AI glasses are ‘not sexy’",
       "summary": "歌手のロードさんが、AIメガネは「セクシーじゃない」と語りました。これは、AI技術が発達して、何が本物か見分けるのが難しくなっている現状への懸念からきています。",
       "source": "TechCrunch AI",
@@ -152,6 +312,14 @@
       "source": "arXiv (cs.AI)",
       "category": "research",
       "url": "https://arxiv.org/abs/2607.09689",
+      "published": "2026-07-14T04:00:00.000Z"
+    },
+    {
+      "title": "Interpreting Latent CoT Reasoning as Dynamical Systems",
+      "summary": "AIが文章を作る時、いくつかの考え（候補）が同時に存在して、どう考えているか分かりにくい問題がありました。この研究では、AIの考え方を「動き」として捉え、それがどのように進んでいくかを分析しました。その結果、AIの思考には決まったパターンがあることが分かり、今後のAIの性能向上に役立つ発見です。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2607.09698",
       "published": "2026-07-14T04:00:00.000Z"
     },
     {
