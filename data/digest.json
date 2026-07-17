@@ -1,7 +1,167 @@
 {
-  "updatedAt": "2026-07-16T06:39:33.100Z",
-  "count": 74,
+  "updatedAt": "2026-07-17T06:31:11.616Z",
+  "count": 94,
   "items": [
+    {
+      "title": "HG-RAG: Hierarchy-Guided Retrieval-Augmented Generation for Structured Knowledge Graphs",
+      "summary": "AIが文章を作る（LLM）とき、関連情報を探し出して（RAG）より良い答えを出す技術が進化しています。新しい「HG-RAG」は、情報が整理された「知識グラフ」から、親子関係などをたどってより的確な情報をAIに渡すことで、複雑な質問にも正確に答えられるようになりました。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2607.14095",
+      "published": "2026-07-17T04:00:00.000Z"
+    },
+    {
+      "title": "IMEX Interaction-Based Model Explanation",
+      "summary": "AIの予測がなぜそうなるのかを説明する新しい技術「IMEX」が登場しました。これは、AIがどの情報（変数）を重視し、それらがどう組み合わさって結果を出しているかを詳しく教えてくれます。これにより、AIの判断がより分かりやすくなり、信頼性が高まります。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2607.14096",
+      "published": "2026-07-17T04:00:00.000Z"
+    },
+    {
+      "title": "RegNetAgents: A Multi-Agent Framework for Cross-Network Regulatory Driver Identification in Cancer Genomics",
+      "summary": "がんの遺伝子ネットワークを分析する新しいAI（人工知能）の仕組み「RegNetAgents」が開発されました。これにより、がんの発生に関わる遺伝子を特定し、その働きを詳しく調べることが可能になります。この技術は、がん治療法の開発に役立つと期待されています。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2607.14097",
+      "published": "2026-07-17T04:00:00.000Z"
+    },
+    {
+      "title": "DialogueVPR: Towards Conversational Visual Place Recognition",
+      "summary": "AIが写真から場所を特定する新しい方法「DialogueVPR」が開発されました。これは、人間が会話で場所を教え合うように、AIが質問をしながら場所を特定する仕組みです。これにより、あいまいな情報からでも場所を見つけやすくなり、実用的だと期待されています。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2607.14115",
+      "published": "2026-07-17T04:00:00.000Z"
+    },
+    {
+      "title": "Position: Explainability Research Must Prioritize Foundations over Ad-hoc Methods",
+      "summary": "AIの説明（AIがなぜそう判断したかの理由）は、たくさんの方法があるけど、実はいまひとつ役に立っていない。もっとAIの説明を、人が実際に使えるようにするための、根本的な仕組みづくりが大切だ。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2607.14123",
+      "published": "2026-07-17T04:00:00.000Z"
+    },
+    {
+      "title": "CARPRT: Class-Aware Zero-Shot Prompt Reweighting for Black-Box Vision-Language Models",
+      "summary": "画像と文章を理解するAI（VLM）で、写真に写ったものを識別する時、どんな言葉（プロンプト）を使うかで結果が変わります。そこで、クラス（犬、猫など）ごとに最適な言葉の組み合わせを見つける新しい方法「CARPRT」が開発されました。これにより、AIの判断精度が向上します。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2607.14125",
+      "published": "2026-07-17T04:00:00.000Z"
+    },
+    {
+      "title": "Explainable Geospatial AI for Satellite Ground Station Siting Using LiDAR-Derived Terrain Intelligence",
+      "summary": "人工衛星の基地をどこに建てるか決めるため、AIが地形の情報をより正確に分析できるようになりました。これまでの方法では、地形の凹凸が電波に与える影響を大まかにしか見積もれませんでしたが、新しいAIは、レーザーで測った地形データなどを使い、より細かく影響を予測できます。これにより、基地の設置場所をより効率的に選べるようになります。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2607.14127",
+      "published": "2026-07-17T04:00:00.000Z"
+    },
+    {
+      "title": "Certified Domain Consistency for Multi-Domain Retrieval: Label-Free Per-Domain Contamination Control with Conformal Risk Guarantees",
+      "summary": "たくさんの情報の中から、関連のあるものだけを選んでくるAI（情報検索AI）が、複数の分野の情報が混ざっている場合に、間違った分野の情報を混ぜてしまう問題がありました。この新しい技術「C3R」は、AIが間違った分野の情報を選ぶリスクを抑え、安全に情報を選べるようにします。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2607.14157",
+      "published": "2026-07-17T04:00:00.000Z"
+    },
+    {
+      "title": "QFireNet: A Quantum-Enhanced U-Net for Wildfire Segmentation from Sentinel-2 Imagery",
+      "summary": "衛星写真から山火事を見つけるのは難しいけれど、量子コンピュータの力を借りた新しいAI（QFireNet）で精度が上がった。特に、データをもっと混ぜる工夫で、山火事の場所を特定する能力が格段に向上した。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2607.14160",
+      "published": "2026-07-17T04:00:00.000Z"
+    },
+    {
+      "title": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
+      "summary": "AIのコンピューティング（計算処理）に企業がお金をかけるスピードが、そのコストを正確に把握する能力を上回っています。多くの企業がGPU（画像処理用の高性能チップ）を十分に使えず、AIにかかる本当のコストを把握できていないのです。",
+      "source": "VentureBeat AI",
+      "category": "business",
+      "url": "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs",
+      "published": "2026-07-16T19:16:48.000Z"
+    },
+    {
+      "title": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
+      "summary": "AIがシステムやデータにアクセスできるようになる中、それを守る仕組みが追いついていません。\n半数以上の会社でAIの「事故」や「危ない場面」がありましたが、多くのAIが他のAIと情報を共有したままです。",
+      "source": "VentureBeat AI",
+      "category": "business",
+      "url": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
+      "published": "2026-07-16T19:02:38.000Z"
+    },
+    {
+      "title": "Google Vids now lets you star in your own AI videos",
+      "summary": "Google Vidsに、自分そっくりのAIアバターで動画に出演できる機能が追加されました。文章や画像から動画を自動で作ったり、編集したりするAI（Gemini Omni）も使えます。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
+      "published": "2026-07-16T18:32:54.000Z"
+    },
+    {
+      "title": "Roblox launches an AI-powered game-creation feature in its mobile app",
+      "summary": "Roblox（ゲームを作るプラットフォーム）が、スマホアプリで「Build」という新機能を出しました。これを使えば、短い文章でゲームのアイデアを伝えるだけで、AIが簡単なゲームを作ってくれるようになります。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/",
+      "published": "2026-07-16T18:22:06.000Z"
+    },
+    {
+      "title": "The AI context gap: Enterprise AI organizations have a trust problem, not a retrieval problem — and most are still building the fix",
+      "summary": "AIが会社のこと（文脈）を理解して、正確な答えを出すのに苦労している。AIが自信満々に間違ったことを言う「文脈のすきま」問題が起きていて、会社側はその解決策を急いで作っているが、まだ十分ではない。",
+      "source": "VentureBeat AI",
+      "category": "business",
+      "url": "https://venturebeat.com/ai/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix",
+      "published": "2026-07-16T17:06:08.000Z"
+    },
+    {
+      "title": "The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to production anyway",
+      "summary": "AI（人工知能）が自律的に動くようになっても、その性能を試すテストと実際の仕事（顧客対応など）の間にズレがあり、AIが失敗することがわかっています。それでも、多くの会社は人のチェックなしでAIをどんどん仕事に使おうとしているのが現状です。",
+      "source": "VentureBeat AI",
+      "category": "business",
+      "url": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway",
+      "published": "2026-07-16T16:40:48.000Z"
+    },
+    {
+      "title": "Connect more of your apps to Search",
+      "summary": "Google検索で、普段使っているアプリとAIが直接つながるようになりました。これにより、AIモード（文章を作るAIなど）から、自分の好きなサービスを安全に利用できるようになり、さらに便利になります。",
+      "source": "Google AI Blog",
+      "category": "research",
+      "url": "https://blog.google/products-and-platforms/products/search/connected-apps/",
+      "published": "2026-07-16T16:00:00.000Z"
+    },
+    {
+      "title": "Create, edit and star in videos with two Google Vids updates",
+      "summary": "Google Vidsに、文章を話すAI「Gemini Omni」と、自分そっくりのアバター機能が追加され、動画作りがもっと簡単になりました。",
+      "source": "Google AI Blog",
+      "category": "research",
+      "url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/",
+      "published": "2026-07-16T16:00:00.000Z"
+    },
+    {
+      "title": "Why teens deserve access to safe AI",
+      "summary": "OpenAIは、10代の若者が安全にChatGPTを使えるように、年齢に合わせた機能や学習ツール、保護者向けの管理機能、専門家との連携を強化しています。これにより、若年層がAIをより安全に、かつ有益に活用できる環境を提供することが目指されています。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
+      "published": "2026-07-16T16:00:00.000Z"
+    },
+    {
+      "title": "Google’s AI Mode now lets you link and interact with select apps",
+      "summary": "GoogleのAIが、質問に答えるだけでなく、普段使っているアプリを操作できるようになりました。これにより、AIがより便利に私たちの生活をサポートしてくれるようになります。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/07/16/googles-ai-mode-now-lets-you-link-and-interact-with-select-apps/",
+      "published": "2026-07-16T16:00:00.000Z"
+    },
+    {
+      "title": "Yes, you can now order DoorDash from the command line",
+      "summary": "ドアーダッシュで、パソコンの黒い画面（コマンドライン）から食べ物を注文できるようになります。AI（人工知能）がお手伝いしてくれるので、人間が直接操作しなくても、お店を探して、カートに入れ、注文までできるようになるんです。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/07/16/yes-you-can-now-order-doordash-from-the-command-line/",
+      "published": "2026-07-16T15:38:55.000Z"
+    },
     {
       "title": "SPINE: Bridging the Cyber-Physical Gap with Agentic AI",
       "summary": "ロボットが賢く動くための「脳」（AI）は発達しましたが、それを実際のロボットに搭載するのは大変です。この「SPINE」という仕組みは、ロボットに専門知識がなくても、AIの能力を実際に使えるようにする新しい方法です。\n\nSPINEを使うと、ロボットの調子を整える作業が簡単になり、ロボットがもっと色々な場面で活躍できるようになります。専門家でなくても、ロボットを便利に使えるようになるため、AIが私たちの生活に役立つ場面が広がるかもしれません。",
