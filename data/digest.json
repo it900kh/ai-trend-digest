@@ -1,7 +1,63 @@
 {
-  "updatedAt": "2026-07-17T06:31:11.616Z",
-  "count": 94,
+  "updatedAt": "2026-07-18T05:56:44.665Z",
+  "count": 100,
   "items": [
+    {
+      "title": "Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs",
+      "summary": "高額なAI携帯電話「Vertu」は、ビジネスマン向けのAIエージェント機能を有料で提供。しかし、その性能は期待外れで、日常使いにはまだ課題が多いようです。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
+      "published": "2026-07-17T22:55:09.000Z"
+    },
+    {
+      "title": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
+      "summary": "AI分野で注目のDatabricksの会社価値が急上昇。彼らはAI開発に力を入れ、特に「オープンソースAIモデル」を使ったコード開発はコストを抑えられると発表し、その重要性を示しています。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
+      "published": "2026-07-17T22:12:56.000Z"
+    },
+    {
+      "title": "The Zoom hack that says, ‘Don’t record me’",
+      "summary": "AIが会議の内容を自動で書き起こし、要約してくれる技術が登場。しかし、この技術が普及すると、誰も内容を読まなくなるのでは？という懸念も出てきています。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/07/17/the-zoom-hack-that-says-dont-record-me/",
+      "published": "2026-07-17T21:20:47.000Z"
+    },
+    {
+      "title": "Agility Robotics plants its flag in Tesla’s backyard",
+      "summary": "人型ロボット「Digit」を開発するAgility Roboticsが、テスラの本拠地近くに訓練施設をオープンしました。これにより、ロボットの活用がより身近になり、労働力不足の解消や危険な作業の代替が期待されます。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/",
+      "published": "2026-07-17T20:19:49.000Z"
+    },
+    {
+      "title": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
+      "summary": "AIに「こういう画像を作って」「こんな動画にして」と指示する時、もっと賢く、より細かく指示できるようになりました。NVIDIAの技術とHugging Faceのツール（AIの道具箱）を組み合わせることで、AIの学習を効率化し、みんなが使いやすいAI開発が進みます。",
+      "source": "Hugging Face",
+      "category": "product",
+      "url": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
+      "published": "2026-07-17T15:57:54.000Z"
+    },
+    {
+      "title": "A scorecard for the AI age",
+      "summary": "AIがどれだけ役に立っているかを測るための「AIスコアカード」が提案されました。これにより、AIを使うことでどれだけ効率が上がり、いくらコストがかかるかなどが分かりやすくなり、AIの活用が進むと期待されています。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
+      "published": "2026-07-17T10:00:00.000Z"
+    },
+    {
+      "title": "Intelligent Three Level Learning Architecture for Autonomous UAV Swarms in Search and Rescue",
+      "summary": "空を飛ぶドローン（UAV）たちが、災害現場で人を助けるために、より賢く動けるようになる新しい仕組みが提案されました。これは、ドローンが「反射」「技能」「判断」という3つのレベルで学習し、チームとして協力して、安全かつ効率的に救助活動を進めることを目指しています。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2607.14093",
+      "published": "2026-07-17T04:00:00.000Z"
+    },
     {
       "title": "HG-RAG: Hierarchy-Guided Retrieval-Augmented Generation for Structured Knowledge Graphs",
       "summary": "AIが文章を作る（LLM）とき、関連情報を探し出して（RAG）より良い答えを出す技術が進化しています。新しい「HG-RAG」は、情報が整理された「知識グラフ」から、親子関係などをたどってより的確な情報をAIに渡すことで、複雑な質問にも正確に答えられるようになりました。",
@@ -123,6 +179,14 @@
       "published": "2026-07-16T16:40:48.000Z"
     },
     {
+      "title": "NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
+      "summary": "NVIDIAが開発した新しいAI「Nemotron 3 Embed」が、文章の関連性を見つけるテストで一番になりました。これにより、AIがまるで人間のように自ら情報を探し出す能力がさらに進歩し、より賢く動けるようになるかもしれません。",
+      "source": "Hugging Face",
+      "category": "product",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
+      "published": "2026-07-16T16:01:21.000Z"
+    },
+    {
       "title": "Connect more of your apps to Search",
       "summary": "Google検索で、普段使っているアプリとAIが直接つながるようになりました。これにより、AIモード（文章を作るAIなど）から、自分の好きなサービスを安全に利用できるようになり、さらに便利になります。",
       "source": "Google AI Blog",
@@ -161,6 +225,30 @@
       "category": "business",
       "url": "https://techcrunch.com/2026/07/16/yes-you-can-now-order-doordash-from-the-command-line/",
       "published": "2026-07-16T15:38:55.000Z"
+    },
+    {
+      "title": "Why is OpenAI selling a ChatGPT basketball?",
+      "summary": "OpenAIが初めて「モノ」としてChatGPTのバスケットボールを販売。これは、AI（人工知能）が文章を作るだけでなく、現実世界での体験にも関わるようになったことを示す新しい試みです。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/07/16/why-is-openai-selling-a-chatgpt-basketball/",
+      "published": "2026-07-16T15:31:09.000Z"
+    },
+    {
+      "title": "Newer Models, Same Advantage",
+      "summary": "AIの新しいモデルが、以前からあるモデルと同じように、たくさんの人たちがAIを使いやすくする手助けをします。これにより、より多くの人がAIの恩恵を受けられるようになります。",
+      "source": "Hugging Face",
+      "category": "product",
+      "url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
+      "published": "2026-07-16T11:49:48.000Z"
+    },
+    {
+      "title": "OriginBlame: Record- and Token-Level Data Provenance for AI Training Datasets",
+      "summary": "AIが学習したデータの中から、特定の人のデータを正確に削除するのが難しいという問題を解決する新しい仕組み「OriginBlame」が開発されました。これにより、データ提供者の削除依頼に正確に対応でき、AIの学習データ管理がより安全になります。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2607.13037",
+      "published": "2026-07-16T04:00:00.000Z"
     },
     {
       "title": "SPINE: Bridging the Cyber-Physical Gap with Agentic AI",
@@ -243,12 +331,36 @@
       "published": "2026-07-16T04:00:00.000Z"
     },
     {
+      "title": "How Cars24 scales conversations and builds faster with OpenAI",
+      "summary": "中古車販売のCars24が、OpenAIのAI（人工知能）を使って、月100万分以上の顧客との会話をこなしています。これにより、問い合わせへの対応が速くなり、失われがちな顧客の取りこぼしを減らすことに成功しました。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/cars24",
+      "published": "2026-07-16T00:00:00.000Z"
+    },
+    {
+      "title": "Security incident disclosure — July 2026",
+      "summary": "Hugging Faceで、2026年7月にセキュリティに関する問題が起きました。どのような問題だったか、どう対処したかについての情報が公開されました。",
+      "source": "Hugging Face",
+      "category": "product",
+      "url": "https://huggingface.co/blog/security-incident-july-2026",
+      "published": "2026-07-16T00:00:00.000Z"
+    },
+    {
       "title": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
       "summary": "マイクロソフトが、自社開発のAIモデルを、競合他社よりも安くて効率が良いと営業担当者に教え、売り込もうとしています。これは、AI開発競争が激しくなり、価格や性能で優位に立とうとする動きです。",
       "source": "TechCrunch AI",
       "category": "business",
       "url": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
       "published": "2026-07-15T23:59:44.000Z"
+    },
+    {
+      "title": "Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents",
+      "summary": "企業がAI（人工知能）を導入する際、AI本体より、複数のAIを連携させて複雑な作業をこなす「オーケストレーション」の仕組みに課題があることが分かりました。実際には「エージェント」（AIアシスタント）の多くが、まだ簡単な質問に答えるだけのチャットボットにとどまっています。",
+      "source": "VentureBeat AI",
+      "category": "business",
+      "url": "https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents",
+      "published": "2026-07-15T22:24:17.000Z"
     },
     {
       "title": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
@@ -419,6 +531,14 @@
       "published": "2026-07-14T23:10:02.000Z"
     },
     {
+      "title": "OpenAI’s first hardware device is reportedly a screenless speaker that can move",
+      "summary": "OpenAIが「物理的な仲間」になる、画面のないスピーカー型AIデバイスを開発中。動く部品があり、まるで生きているかのように振る舞い、ChatGPTが実体化したような体験を目指している。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/",
+      "published": "2026-07-14T22:22:24.000Z"
+    },
+    {
       "title": "OpenAI pushes back on Apple trade secret lawsuit",
       "summary": "OpenAIは、Appleからの訴訟は根拠がないと反論しました。これは、AIの秘密情報が不正に使われたとAppleが主張していることへの応答で、AI開発における企業間の主張のぶつかり合いが注目されています。",
       "source": "TechCrunch AI",
@@ -483,11 +603,35 @@
       "published": "2026-07-14T04:00:00.000Z"
     },
     {
+      "title": "Knowledge Graphs Meet Graph Neural Networks: A Comprehensive Survey",
+      "summary": "AIが知識を賢く整理・活用するために、AI（GNN）が知識グラフ（KGs）と組み合わされる研究が進んでいます。これにより、AIが物事の関係性をより深く理解し、新しい発見や応用につながることが期待されています。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2607.09666",
+      "published": "2026-07-14T04:00:00.000Z"
+    },
+    {
+      "title": "Position: Every Ground Truth is a Human Construction, not an Objective Truth",
+      "summary": "AIが学習する「正解」（Ground Truth）は、実は人間が作ったものだという考え方です。AIの能力を正しく評価するには、この「正解」がどのように作られたかを知ることが大切。そうすれば、AIがどんな場面で役立つか、どんな限界があるかが分かりやすくなります。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2607.09668",
+      "published": "2026-07-14T04:00:00.000Z"
+    },
+    {
       "title": "AuditWeave: A Tamper-Evident, Auditor-Navigable Evidence Layer for AI-Assisted and Data-Transformation Workflows",
       "summary": "AIが重要な判断を助ける仕事（監査や金融など）で使われるとき、その判断の元になった情報や、判断までの過程が改ざんされていないかを後から確認できる新しい仕組み「AuditWeave」が作られました。\nこれは、AIの判断がどのように作られたかを記録し、その記録が安全に保たれていることを保証するものです。",
       "source": "arXiv (cs.LG)",
       "category": "research",
       "url": "https://arxiv.org/abs/2607.09682",
+      "published": "2026-07-14T04:00:00.000Z"
+    },
+    {
+      "title": "Ablation, Statistical Inference, and Validation for KV-Cache Compression",
+      "summary": "AIが文章を作る際、記憶（KVキャッシュ）を小さくする技術を比べました。特定のやり方だと、データが偏っていると上手くいかないことがわかりました。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2607.09683",
       "published": "2026-07-14T04:00:00.000Z"
     },
     {
@@ -497,6 +641,38 @@
       "category": "business",
       "url": "https://techcrunch.com/2026/07/13/already-rich-already-successful-why-the-last-wave-of-tech-winners-is-grinding-again/",
       "published": "2026-07-14T02:46:42.000Z"
+    },
+    {
+      "title": "Uber’s product chief on hotels, robotaxis, and why the company doesn’t want to be “everything for everyone”",
+      "summary": "Uberは、AIを使って乗客やドライバーが実感できるサービス改善を進めています。ホテル予約や自動運転タクシー（ロボタクシー）などの分野にもAIを活用し、すべてのサービスを網羅するのではなく、得意分野に集中する戦略です。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/",
+      "published": "2026-07-14T00:45:00.000Z"
+    },
+    {
+      "title": "Video-generation startup PixVerse raises $439M, valuation soars past $2B",
+      "summary": "動画を作るAI（人工知能）の会社、PixVerseが、なんと約600億円もの巨額の資金を集めました。これにより、世界中の人々にこのAI技術を広め、もっとたくさんの動画を作れるようになるでしょう。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/",
+      "published": "2026-07-14T00:00:00.000Z"
+    },
+    {
+      "title": "How data science teams use ChatGPT Work",
+      "summary": "ChatGPT Workを使うと、データ分析チームは日々の仕事から問題の原因分析や成果報告、目標達成度を示すメモなどを素早く作成できます。これにより、分析作業が効率化され、より本質的な分析に時間をかけられるようになります。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+      "published": "2026-07-14T00:00:00.000Z"
+    },
+    {
+      "title": "Hermes agent maker Nous Research in talks for new funding at $1.5B valuation",
+      "summary": "「Hermes」というAI（人工知能）を作る会社が、15億ドル（約2200億円）という高い評価で、7500万ドル（約110億円）以上の資金調達を進めている。これは、AI分野で注目されている同社が、さらなる成長を目指すための重要な一歩だ。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/",
+      "published": "2026-07-13T23:31:18.000Z"
     },
     {
       "title": "Long-Horizon-Terminal-Bench: Testing the Limits of Agents on Long-Horizon Terminal Tasks with Dense Reward-Based Grading",
@@ -625,134 +801,6 @@
       "category": "research",
       "url": "https://arxiv.org/abs/2607.06601",
       "published": "2026-07-09T04:00:00.000Z"
-    },
-    {
-      "title": "NEST: Tackling Dataset-Level Distribution Shifts via Regime-Oriented Mixture-of-Experts",
-      "summary": "AIが未来の予測をする際、データの「クセ」が変わると精度が落ちてしまう課題を解決する新しい方法「NEST」が開発されました。これは、過去のデータから「いつもの状態」と「特別な時」に分けて、それぞれに合ったAI（専門家）が予測を立てる仕組みです。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2607.06607",
-      "published": "2026-07-09T04:00:00.000Z"
-    },
-    {
-      "title": "Deep Reinforcement Learning for Reliability Based Bi-Objective Portfolio Optimization",
-      "summary": "AIがお金の増やし方（ポートフォリオ最適化）を、もっと上手にできるようになりました。これまで難しかった、損をするリスクや、急な市場の変化（市場の動き）にも強くなっています。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2607.06610",
-      "published": "2026-07-09T04:00:00.000Z"
-    },
-    {
-      "title": "Google Photos adds a new AI ‘Video Remix’ tool",
-      "summary": "Googleフォトに、AIを使った「ビデオに魔法をかける」新機能が登場しました。暗い動画を明るくしたり、背景を楽しいものに変えたり、アート風に加工したりと、動画をもっと魅力的にできるようになったのです。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/07/08/google-photos-adds-a-new-ai-video-remix-tool/",
-      "published": "2026-07-08T18:30:08.000Z"
-    },
-    {
-      "title": "Data for Agents",
-      "summary": "AIが、まるで人間のように自ら考え、行動する「エージェント」として進化しています。そのためには、AIが「何を」「どうすべきか」を理解するための、たくさんの「情報（データ）」が重要になってきているのです。",
-      "source": "Hugging Face",
-      "category": "product",
-      "url": "https://huggingface.co/blog/nvidia/open-data-for-agents",
-      "published": "2026-07-08T17:16:05.000Z"
-    },
-    {
-      "title": "Our approach to government and national security partnerships",
-      "summary": "AIの会社が、国の安全を守るために政府と協力する方法について説明しています。AIを安全に使うためのルールや、みんなが納得できるように説明すること、そして、みんなの安全を守ることが大切だと伝えています。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/government-national-security-partnerships",
-      "published": "2026-07-08T13:30:00.000Z"
-    },
-    {
-      "title": "Native-speed vLLM transformers modeling backend",
-      "summary": "AIが文章を作る速さが、もっと速くなる！新しい技術「vLLM」を使うと、AIがものすごいスピードで文章を考えられるようになります。これにより、AIとの会話がさらにスムーズになるかもしれません。",
-      "source": "Hugging Face",
-      "category": "product",
-      "url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
-      "published": "2026-07-08T00:00:00.000Z"
-    },
-    {
-      "title": "From Hugging Face to Amazon SageMaker Studio in one click",
-      "summary": "Hugging Faceというサービスで、AI（人工知能）のモデル（AIの能力）を、Amazon SageMaker Studio（AI開発のためのお手軽な場所）で簡単に使えるようになりました。これにより、AIの知識があまりなくても、すぐにAIの技術を試せるようになります。",
-      "source": "Hugging Face",
-      "category": "product",
-      "url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
-      "published": "2026-07-07T21:15:33.000Z"
-    },
-    {
-      "title": "The first American autonomous ground vehicles are fighting in Ukraine",
-      "summary": "アメリカ製の自動運転車両が、ウクライナでの戦闘に初めて投入されました。これにより、兵士が危険な任務に直接関わることなく、偵察や物資運搬などの役割を担えるようになり、戦場の安全性が高まる可能性があります。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine/",
-      "published": "2026-07-07T09:00:00.000Z"
-    },
-    {
-      "title": "Automated Data Readiness for Scientific AI",
-      "summary": "科学研究でAIを使うには、大量のデータをAIが理解できる形に整える必要があります。この手間を省くため、新しい「REDI」という仕組みが作られました。REDIは、データの取り込みからAIに使える状態にするまでを自動化し、研究で信頼できるデータを作れるようにします。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2607.02771",
-      "published": "2026-07-07T04:00:00.000Z"
-    },
-    {
-      "title": "QuantFlow: A Federated Mamba-Based Post-Transformer Foundation Model for Time-Series Forecasting",
-      "summary": "AIが未来の出来事を予測する（時系列予測）技術は、金融や交通など様々な分野で役立ちます。今回「QuantFlow」という新しいAIが登場し、データを一箇所に集めなくても、プライバシーを守りながら正確な予測ができるようになりました。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2607.02632",
-      "published": "2026-07-07T04:00:00.000Z"
-    },
-    {
-      "title": "US investors will soon get access to SK Hynix, another memory maker riding the AI boom",
-      "summary": "AI（人工知能）ブームで半導体メーカーSKハイニックスの業績が急成長。この勢いに乗り、米国で多額の新規株式公開（IPO）を行う見込み。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/",
-      "published": "2026-07-06T23:21:03.000Z"
-    },
-    {
-      "title": "You can now customize Siri’s pace and expressivity in the latest iOS 27 beta",
-      "summary": "Siriの声の速さや感情表現を、自分好みに調整できるようになりました。これは、AI（人工知能）の力でSiriをより自然で親しみやすいアシスタントにするための、Appleの大きな取り組みの一部です。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/",
-      "published": "2026-07-06T19:01:59.000Z"
-    },
-    {
-      "title": "PRX Part 4: Our Data Strategy",
-      "summary": "このAIは、たくさんの文章を読んで、それを元に新しい文章を作るのが得意なAI（LLM）です。このAIがさらに賢くなるために、どのようなデータ（文章や情報）をどのように集めて、どのように学習させていくかの計画が大切だと述べています。",
-      "source": "Hugging Face",
-      "category": "product",
-      "url": "https://huggingface.co/blog/Photoroom/prx-part4-data",
-      "published": "2026-07-06T15:30:55.000Z"
-    },
-    {
-      "title": "Amazon will stop accepting new customers for Mechanical Turk",
-      "summary": "Amazonの「Mechanical Turk」（たくさんの簡単な仕事をAIに手伝ってもらうサービス）が、新しい利用者の募集を停止することが決まりました。このサービスは、AIの学習に必要なデータ作りなどを支えてきましたが、今後は事業の形を変えていくことになりそうです。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
-      "published": "2026-07-05T17:43:36.000Z"
-    },
-    {
-      "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
-      "summary": "フランスのスタートアップ、Mistral AIは、誰でも最新AIを使えるようにすることを目指し、2023年の設立以来、多額の資金を集めています。特に、誰でも使える「オープンソース」のAIモデルを提供しているのが特徴です。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
-      "published": "2026-07-04T15:51:32.000Z"
-    },
-    {
-      "title": "New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.",
-      "summary": "ニューヨークで、学校と産業界のリーダーたちが集まり、AIを教室でどう使うかを話し合いました。これは、AIが学びをどう変えるか、そして将来にどう役立つかを考えるための大切な機会となりました。",
-      "source": "Google AI Blog",
-      "category": "research",
-      "url": "https://blog.google/products-and-platforms/products/education/nyc-ai-summit/",
-      "published": "2026-07-01T16:00:00.000Z"
     }
   ]
 }
