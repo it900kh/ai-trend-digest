@@ -1,7 +1,23 @@
 {
-  "updatedAt": "2026-07-18T05:56:44.665Z",
+  "updatedAt": "2026-07-19T07:20:38.773Z",
   "count": 100,
   "items": [
+    {
+      "title": "Kimi: Threat or menace?",
+      "summary": "中国のMoonshot AIがAIモデル「Kimi」の新版を発表し、一部で「AIによる万物の共有」のような状況への懸念が出ています。これは、AIが能力を広げ、社会に大きな変化をもたらす可能性を示唆しています。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
+      "published": "2026-07-18T18:51:07.000Z"
+    },
+    {
+      "title": "Neil Rimer thinks the AI money is coming back out",
+      "summary": "AIが生み出す莫大な利益は、シリコンバレーから世界へ、そして自発的か否かにかかわらず、再分配されると専門家は予測しています。これは、AI分野への投資が今後さらに活発になる兆しとも言えます。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
+      "published": "2026-07-18T04:47:25.000Z"
+    },
     {
       "title": "Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs",
       "summary": "高額なAI携帯電話「Vertu」は、ビジネスマン向けのAIエージェント機能を有料で提供。しかし、その性能は期待外れで、日常使いにはまだ課題が多いようです。",
@@ -579,6 +595,14 @@
       "published": "2026-07-14T04:00:00.000Z"
     },
     {
+      "title": "Format Sensitivity Index: Token-Controlled Prompt Wrapper Robustness and Schema Compliance in LLM Benchmarking",
+      "summary": "AI（人工知能）が文章を作る時の「指示の出し方」で、AIの成績が大きく変わることがわかりました。これは、AIの性能を正しく評価するために、指示の形式（フォーマット）による影響を調べる新しい方法（Format Sensitivity Index）を提案したものです。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2607.09665",
+      "published": "2026-07-14T04:00:00.000Z"
+    },
+    {
       "title": "Faithful, Not Corrective: Message-Format Effects in Multi-Hop Agent Relays Are Tier-Dependent",
       "summary": "AI同士が情報をやり取りする際、情報の伝え方（フォーマット）は重要か？という研究です。AIの能力が高い場合は伝え方を変えてもあまり精度は変わりませんが、能力が低い場合は情報の正確さが大きく変わることがわかりました。また、一度間違った情報が伝わると、AIはその間違いを訂正せず、そのまま次のAIに伝えてしまうことも明らかになりました。",
       "source": "arXiv (cs.AI)",
@@ -635,6 +659,14 @@
       "published": "2026-07-14T04:00:00.000Z"
     },
     {
+      "title": "SciML in the Wild: A Diagnostic Study of When Structural Priors Help and When They Hurt",
+      "summary": "AIの「構造的な先入観」（あらかじめAIに教え込む知識）が、経済予測ではむしろ邪魔になることがある、という研究結果が出ました。\n予測が難しい経済データでは、決まりきった知識（構造的な先入観）を持つAIより、自由な発想のAIの方が成績が良い場合があるのです。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2607.09684",
+      "published": "2026-07-14T04:00:00.000Z"
+    },
+    {
       "title": "Already rich, already successful, why the last wave of tech winners is grinding again",
       "summary": "AI（人工知能）の波に乗り、すでに成功しているIT企業が、さらなる巨額の利益を求めて再び開発競争に乗り出しています。AIの時代を逃すまいと、各社が懸命に技術開発に取り組んでいます。",
       "source": "TechCrunch AI",
@@ -667,12 +699,52 @@
       "published": "2026-07-14T00:00:00.000Z"
     },
     {
+      "title": "How sales teams use ChatGPT Work",
+      "summary": "ChatGPT Workを使えば、営業チームは実際の仕事のデータをもとに、顧客との商談準備や売上予測、顧客戦略の計画などをAIに手伝ってもらえます。これにより、より効率的に仕事を進められるようになります。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+      "published": "2026-07-14T00:00:00.000Z"
+    },
+    {
       "title": "Hermes agent maker Nous Research in talks for new funding at $1.5B valuation",
       "summary": "「Hermes」というAI（人工知能）を作る会社が、15億ドル（約2200億円）という高い評価で、7500万ドル（約110億円）以上の資金調達を進めている。これは、AI分野で注目されている同社が、さらなる成長を目指すための重要な一歩だ。",
       "source": "TechCrunch AI",
       "category": "business",
       "url": "https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/",
       "published": "2026-07-13T23:31:18.000Z"
+    },
+    {
+      "title": "Satya Nadella has issued a shocking warning to companies using AI",
+      "summary": "AIを作る巨大企業が、自社のAI（人工知能）を「トロイの木馬」のように使っているのではないか、という懸念がシリコンバレーで広がっています。これは、AIの未来にとって大きな問題になる可能性があります。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/",
+      "published": "2026-07-13T20:59:00.000Z"
+    },
+    {
+      "title": "Interval Certifications for Multilayered Perceptrons via Lattice Traversal",
+      "summary": "AIの安全性を高める研究で、AI（特に層がたくさんあるAI）が少し入力が変わっても間違った判断をしないか調べる新しい方法が見つかりました。これにより、AIが安全に動くかをより厳密に保証できるようになります。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2607.08773",
+      "published": "2026-07-13T04:00:00.000Z"
+    },
+    {
+      "title": "CogniConsole: Externalizing Inference-Time Control as a Formal Abstraction for Reliable LLM Interactions",
+      "summary": "AI（文章を作るAI）が、指示通りに正確に動くかどうかは、AI自体だけでなく、指示の出し方や状況の選び方といった「指示を出す部分」がとても大事だと分かりました。この部分を整理する新しい方法「CogniConsole」で、AIの失敗が減り、より信頼できるAIの使い方ができるようになります。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2607.08774",
+      "published": "2026-07-13T04:00:00.000Z"
+    },
+    {
+      "title": "GATS: Graph-Augmented Tree Search with Layered World Models for Efficient Agent Planning",
+      "summary": "AI（人工知能）が複雑な計画を立てる際、これまで使われていた方法では計算に時間がかかり、予測しにくい問題がありました。新しい「GATS」という技術は、AIが自分で学習した知識を使うことで、AI本体への指示（LLMによる推論）を減らし、より速く、確実に計画を立てられるようになります。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2607.08894",
+      "published": "2026-07-13T04:00:00.000Z"
     },
     {
       "title": "Long-Horizon-Terminal-Bench: Testing the Limits of Agents on Long-Horizon Terminal Tasks with Dense Reward-Based Grading",
@@ -699,11 +771,27 @@
       "published": "2026-07-13T04:00:00.000Z"
     },
     {
+      "title": "iLENS: Interpretable LLM-Guided Mixture-of-Experts for Neuroimaging Survival Analysis",
+      "summary": "アルツハイマー病になるかどうかを、脳の画像データなどから予測する新しいAI「iLENS」が開発されました。このAIは、文章を作るAI（LLM）の力を借りて、なぜそう予測したのかを説明してくれるので、病気の研究や患者さんのケアに役立つことが期待されます。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2607.08778",
+      "published": "2026-07-13T04:00:00.000Z"
+    },
+    {
       "title": "Signed Symmetric Quantization for Few-Bit Integers",
       "summary": "AIがより少ない情報（ビット数）で賢く動くための新しい方法が見つかりました。これは、AIが扱う数字の「符号」と「大きさ」を工夫することで、より正確に、そして速く計算できるようにします。",
       "source": "arXiv (cs.LG)",
       "category": "research",
       "url": "https://arxiv.org/abs/2607.08779",
+      "published": "2026-07-13T04:00:00.000Z"
+    },
+    {
+      "title": "Sticky Routing: Training MoE Models for Memory-Efficient Inference",
+      "summary": "AIが文章を作る際、毎回使う部品（専門家）をいちいち切り替えるのは時間がかかります。そこで、似たような文章が続くときは同じ部品を使い続けるようにAIに教える方法（StickyMoE）が開発されました。これにより、AIの動作が速くなり、性能の低下もわずかに抑えられます。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2607.08780",
       "published": "2026-07-13T04:00:00.000Z"
     },
     {
@@ -713,94 +801,6 @@
       "category": "research",
       "url": "https://arxiv.org/abs/2607.08781",
       "published": "2026-07-13T04:00:00.000Z"
-    },
-    {
-      "title": "Meta removes controversial AI feature on Instagram after backlash",
-      "summary": "インスタグラムで、AI（人工知能）が写真に写っている人物の職業などを自動で推測する機能が、利用者からの反発を受けて削除されました。この機能は、クリエイティブなツールとして意図されていましたが、多くの人には不快に感じられたため、提供が中止されました。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
-      "published": "2026-07-10T23:55:07.000Z"
-    },
-    {
-      "title": "Apple sues OpenAI over alleged trade secret theft",
-      "summary": "AppleがOpenAIを提訴しました。Appleは、元従業員がOpenAIで働きながら、Appleの機密情報（企業秘密）を不正に持ち出し、OpenAIのAI開発に利用したと主張しています。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
-      "published": "2026-07-10T21:00:29.000Z"
-    },
-    {
-      "title": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs",
-      "summary": "AIのチップ（コンピューターの頭脳）を作る韓国のSKハイニックスが、アメリカで史上最高額の約26.5億ドル（約4000億円）を調達しました。この成功を受けて、アメリカ政府はSKハイニックスとサムスンに、アメリカ国内に工場（ファブ）を建てるよう求めています。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
-      "published": "2026-07-10T17:17:12.000Z"
-    },
-    {
-      "title": "Hugging Face’s CEO on why companies are done renting their AI",
-      "summary": "AIを作るための「型」（モデル）をみんなで共有する仕組みが広まり、大手企業もこれを使うようになりました。これにより、企業はAIを借りるだけでなく、自分でAIを「作る」方向へと進んでいます。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/",
-      "published": "2026-07-10T14:00:00.000Z"
-    },
-    {
-      "title": "How Deutsche Telekom is rewiring telecommunications with AI",
-      "summary": "ドイツの通信会社がAI（人工知能）を導入し、電話応対の自動化、社員の仕事の効率化、通信網の管理、そして未来の電話サービスを変えようとしています。これにより、よりスムーズで賢い通信サービスが期待されます。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/deutsche-telekom",
-      "published": "2026-07-10T07:00:00.000Z"
-    },
-    {
-      "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
-      "summary": "Microsoft 365 Copilotが、より賢くなったAI「GPT-5.6」を使うようになり、WordやExcelなどで、速くて質の高い作業ができるようになりました。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
-      "published": "2026-07-09T13:00:00.000Z"
-    },
-    {
-      "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
-      "summary": "AI（人工知能）が、より少ない情報（トークン）から賢くなり、コストパフォーマンスも向上しました。これにより、難しい仕事もAIの助けを借りて、より効率的にこなせるようになります。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/gpt-5-6",
-      "published": "2026-07-09T10:00:00.000Z"
-    },
-    {
-      "title": "GPT-5.5 Bio Bug Bounty",
-      "summary": "OpenAIが、AI（人工知能）が生物学分野で役立つ秘密を発見するプログラムを始めました。AIに生物学のデータ（例：タンパク質の構造）を分析させ、新たな発見を促すことで、病気の治療法開発などに貢献することを目指します。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/bio-bug-bounty",
-      "published": "2026-07-09T10:00:00.000Z"
-    },
-    {
-      "title": "AgentLens: Production-Assessed Trajectory Reviews for Coding Agent Evaluation",
-      "summary": "AIにプログラムを作らせる時、ただ成功したか失敗したかだけでなく、どうやって作ったかの過程も大切です。AgentLensは、AIが指示通りに動いたか、間違いをどう直したかなど、その過程を詳しく評価する仕組みです。これにより、AIの改善点が見つかりやすくなります。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2607.06624",
-      "published": "2026-07-09T04:00:00.000Z"
-    },
-    {
-      "title": "LLM-powered reasoning in agent-based modeling",
-      "summary": "AI（文章を作るAI）が、人々の行動を予測して、大規模なシミュレーションができるようになりました。これにより、病気の広がりなどの影響を、よりリアルに、そして状況に合わせて予測できるようになり、政策決定に役立ちます。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2607.06757",
-      "published": "2026-07-09T04:00:00.000Z"
-    },
-    {
-      "title": "TriRoute: Unified Learned Routing for Joint Adaptive Attention, Experts, and KV-Cache Allocation",
-      "summary": "AIが文章を作る時、賢く処理を分ける新しい方法「TriRoute」が開発されました。これにより、文章の理解度を保ちながら、AIの計算にかかる時間を短くできます。これは、AIが文章のどの部分に注目するか、どの計算部分を使うか、そして情報をどれだけ詳しく覚えるかを同時に調整する画期的な技術です。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2607.06601",
-      "published": "2026-07-09T04:00:00.000Z"
     }
   ]
 }
