@@ -1,7 +1,135 @@
 {
-  "updatedAt": "2026-07-19T07:20:38.773Z",
+  "updatedAt": "2026-07-21T07:44:41.391Z",
   "count": 100,
   "items": [
+    {
+      "title": "Rater State Bias in RLHF Preference Data: An Audit Framework",
+      "summary": "AIに学習させるため、人間がAIの回答を評価する際、評価者の気分によって好みが変わってしまうことがある。この「気分のずれ」がAIの学習に影響し、意図しない偏りが生まれる可能性がある。これを調べるための新しい方法が提案された。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2607.16195",
+      "published": "2026-07-21T04:00:00.000Z"
+    },
+    {
+      "title": "Design and Validation of a Lightweight 1D CNN for Affective Touch Classification in Soft Plush Companions",
+      "summary": "ぬいぐるみなどの柔らかいおもちゃが人の触り方から感情を読み取る、新しいAI（人工知能）が開発されました。このAIは、たくさんの人の触り方データから学習し、感情を推測するのが得意です。\n\nこのAIは、おもちゃに組み込めるほど小さくて効率的です。人の感情を理解するおもちゃが、もっと身近になるかもしれません。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2607.16196",
+      "published": "2026-07-21T04:00:00.000Z"
+    },
+    {
+      "title": "Some Large Language Models Exhibit Consistent Risk Attitudes",
+      "summary": "AI（文章を作るAI）が、リスク（危険）があるとされる場面で、人と同じように一貫した考え方や行動をとることがわかった。これは、AIが現実世界で使われる上で、安全に判断できるかを調べるのに役立つ新しい発見だ。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2607.16197",
+      "published": "2026-07-21T04:00:00.000Z"
+    },
+    {
+      "title": "A Survey on GNN-based Link Prediction: Techniques, Applications, and Challenges",
+      "summary": "AIが、つながり（リンク）を予測する研究について、新しいまとめが出ました。AIの中でも「GNN（グラフ・ニューラル・ネットワーク）」という技術が、情報同士の隠れたつながりや、これからできるつながりを見つけるのに役立ちます。この記事では、GNNの仕組みや、どのように活用されているかを分かりやすく解説しています。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2607.16198",
+      "published": "2026-07-21T04:00:00.000Z"
+    },
+    {
+      "title": "Reinforcement Learning-Guided NSGA-II Enhanced with Gray Relational Coefficient for Multi-Objective Optimization: Application to NASDAQ Portfolio Optimization",
+      "summary": "AIが、株の「リスクを減らしつつリターンを増やす」という難しい両立を目指す技術を開発しました。これは、AIが自分で学習しながら、より良い組み合わせを見つけ出す仕組みで、実際にNASDAQの株で試したところ、より多くの「良い選択肢」を効率的に見つけられることが分かりました。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2607.16194",
+      "published": "2026-07-21T04:00:00.000Z"
+    },
+    {
+      "title": "DocOCR-Eval: A Correction-Based Framework for OCR Tool Selection Without Ground Truth",
+      "summary": "スキャンされた書類から文字を読み取るOCR（文字認識）ツールの性能を、手作業で正解を教えることなく自動で評価し、最適なツールを選ぶ方法が開発されました。これにより、書類の情報をAIで活用する際、どのツールが一番役立つかを簡単に見つけられるようになります。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2607.16203",
+      "published": "2026-07-21T04:00:00.000Z"
+    },
+    {
+      "title": "Fully-sensorized smart-eyewear platform for on-device Machine Learning",
+      "summary": "メガネ型コンピューターARGOは、メガネの上でAI（人工知能）が動くので、インターネットにつながらなくても、あなたの見たもの（障害物など）をすぐに認識できます。\nこの技術は、プライバシーを守りつつ、より安全で便利な未来の道具につながるかもしれません。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2607.16222",
+      "published": "2026-07-21T04:00:00.000Z"
+    },
+    {
+      "title": "LLM Unlearning for Cyber Defense: A Survey on Methods, Challenges, and Emerging Threats",
+      "summary": "AI（文章を作るAI）が、一度学習した機密情報などを忘れることができない問題が起きています。これに対処するため、AIから特定の情報を消す技術「アンラーニング（忘却）」が開発されています。この技術は、AIを安全に使い続けるために重要ですが、本当に情報が消えたのか確認するのが難しいという課題があります。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2607.16227",
+      "published": "2026-07-21T04:00:00.000Z"
+    },
+    {
+      "title": "Operator-Aware Mixed-Precision Tolerance Calibration for Tensor Kernels",
+      "summary": "AIが計算ミスをどれだけ許せるか、より正確に判断する方法が見つかりました。これにより、AIのプログラム（カーネル）のバグを、これまでより約1割多く見つけられるようになります。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2607.16228",
+      "published": "2026-07-21T04:00:00.000Z"
+    },
+    {
+      "title": "Anthropic’s landmark $1.5B copyright settlement is approved",
+      "summary": "AIが文章を作るために、著作権のある作品（本や記事など）を参考にするのはいいのか？という大きな問題が残る中、AI開発会社と作家たちの間で、著作権侵害の訴えが約200億円で和解しました。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
+      "published": "2026-07-21T00:12:24.000Z"
+    },
+    {
+      "title": "Trump’s latest AI czar has already resigned",
+      "summary": "トランプ氏が設けたAI分野の責任者（AI担当大臣のようなもの）が、就任してすぐに辞任しました。この役職は、以前にも別の人が辞めており、人材が定着しない状態になっています。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/",
+      "published": "2026-07-20T22:21:04.000Z"
+    },
+    {
+      "title": "Google is working on a new AI chip designed to make Gemini more efficient",
+      "summary": "Googleは、AI「Gemini」をもっと効率よく動かすための新しいコンピューターチップを開発中です。これにより、AIがもっと速く、賢く動けるようになることが期待されます。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
+      "published": "2026-07-20T21:21:15.000Z"
+    },
+    {
+      "title": "AI’s most important protocol is getting a little bit easier to use",
+      "summary": "AIの「会話の記憶」機能が使いやすくなりました。これまでのAIは、会話を続けるために、ひとつひとつのやり取りを覚えている必要がありましたが、新しい仕組みでは、ウェブサイトのように「今、このやり取りをしている」という情報さえあれば良くなり、AIとの対話がもっとスムーズになります。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/",
+      "published": "2026-07-20T20:50:40.000Z"
+    },
+    {
+      "title": "X relaunches a rebuilt Android app after year-long effort",
+      "summary": "X（旧Twitter）が、1年かけて作り直したAndroidアプリを世界中で公開しました。この新しいアプリは、より速く、より使いやすくなるように改良されており、ユーザー体験の向上を目指しています。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/07/20/x-relaunches-a-rebuilt-android-app-after-year-long-effort/",
+      "published": "2026-07-20T19:37:39.000Z"
+    },
+    {
+      "title": "Introducing Cosmos 3 Edge",
+      "summary": "Hugging Faceが開発した「Cosmos 3 Edge」は、スマホなどでも動く、新世代のAI（人工知能）モデルです。これにより、インターネットにつながっていなくても、AIの便利な機能が身近に使えるようになります。",
+      "source": "Hugging Face",
+      "category": "product",
+      "url": "https://huggingface.co/blog/nvidia/cosmos3edge",
+      "published": "2026-07-20T15:58:51.000Z"
+    },
+    {
+      "title": "Safety and alignment in an era of long-horizon models",
+      "summary": "長い時間、動き続けるAI（「ロングホライゾンモデル」）を開発・運用する中で、見えてきた新しい危険や失敗、そしてそれらに対処するための工夫を公開。安全にAIを使うための重要な教訓を伝えています。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/safety-alignment-long-horizon-models",
+      "published": "2026-07-20T10:00:00.000Z"
+    },
     {
       "title": "Kimi: Threat or menace?",
       "summary": "中国のMoonshot AIがAIモデル「Kimi」の新版を発表し、一部で「AIによる万物の共有」のような状況への懸念が出ています。これは、AIが能力を広げ、社会に大きな変化をもたらす可能性を示唆しています。",
@@ -673,134 +801,6 @@
       "category": "business",
       "url": "https://techcrunch.com/2026/07/13/already-rich-already-successful-why-the-last-wave-of-tech-winners-is-grinding-again/",
       "published": "2026-07-14T02:46:42.000Z"
-    },
-    {
-      "title": "Uber’s product chief on hotels, robotaxis, and why the company doesn’t want to be “everything for everyone”",
-      "summary": "Uberは、AIを使って乗客やドライバーが実感できるサービス改善を進めています。ホテル予約や自動運転タクシー（ロボタクシー）などの分野にもAIを活用し、すべてのサービスを網羅するのではなく、得意分野に集中する戦略です。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/",
-      "published": "2026-07-14T00:45:00.000Z"
-    },
-    {
-      "title": "Video-generation startup PixVerse raises $439M, valuation soars past $2B",
-      "summary": "動画を作るAI（人工知能）の会社、PixVerseが、なんと約600億円もの巨額の資金を集めました。これにより、世界中の人々にこのAI技術を広め、もっとたくさんの動画を作れるようになるでしょう。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/",
-      "published": "2026-07-14T00:00:00.000Z"
-    },
-    {
-      "title": "How data science teams use ChatGPT Work",
-      "summary": "ChatGPT Workを使うと、データ分析チームは日々の仕事から問題の原因分析や成果報告、目標達成度を示すメモなどを素早く作成できます。これにより、分析作業が効率化され、より本質的な分析に時間をかけられるようになります。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
-      "published": "2026-07-14T00:00:00.000Z"
-    },
-    {
-      "title": "How sales teams use ChatGPT Work",
-      "summary": "ChatGPT Workを使えば、営業チームは実際の仕事のデータをもとに、顧客との商談準備や売上予測、顧客戦略の計画などをAIに手伝ってもらえます。これにより、より効率的に仕事を進められるようになります。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
-      "published": "2026-07-14T00:00:00.000Z"
-    },
-    {
-      "title": "Hermes agent maker Nous Research in talks for new funding at $1.5B valuation",
-      "summary": "「Hermes」というAI（人工知能）を作る会社が、15億ドル（約2200億円）という高い評価で、7500万ドル（約110億円）以上の資金調達を進めている。これは、AI分野で注目されている同社が、さらなる成長を目指すための重要な一歩だ。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/",
-      "published": "2026-07-13T23:31:18.000Z"
-    },
-    {
-      "title": "Satya Nadella has issued a shocking warning to companies using AI",
-      "summary": "AIを作る巨大企業が、自社のAI（人工知能）を「トロイの木馬」のように使っているのではないか、という懸念がシリコンバレーで広がっています。これは、AIの未来にとって大きな問題になる可能性があります。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/",
-      "published": "2026-07-13T20:59:00.000Z"
-    },
-    {
-      "title": "Interval Certifications for Multilayered Perceptrons via Lattice Traversal",
-      "summary": "AIの安全性を高める研究で、AI（特に層がたくさんあるAI）が少し入力が変わっても間違った判断をしないか調べる新しい方法が見つかりました。これにより、AIが安全に動くかをより厳密に保証できるようになります。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2607.08773",
-      "published": "2026-07-13T04:00:00.000Z"
-    },
-    {
-      "title": "CogniConsole: Externalizing Inference-Time Control as a Formal Abstraction for Reliable LLM Interactions",
-      "summary": "AI（文章を作るAI）が、指示通りに正確に動くかどうかは、AI自体だけでなく、指示の出し方や状況の選び方といった「指示を出す部分」がとても大事だと分かりました。この部分を整理する新しい方法「CogniConsole」で、AIの失敗が減り、より信頼できるAIの使い方ができるようになります。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2607.08774",
-      "published": "2026-07-13T04:00:00.000Z"
-    },
-    {
-      "title": "GATS: Graph-Augmented Tree Search with Layered World Models for Efficient Agent Planning",
-      "summary": "AI（人工知能）が複雑な計画を立てる際、これまで使われていた方法では計算に時間がかかり、予測しにくい問題がありました。新しい「GATS」という技術は、AIが自分で学習した知識を使うことで、AI本体への指示（LLMによる推論）を減らし、より速く、確実に計画を立てられるようになります。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2607.08894",
-      "published": "2026-07-13T04:00:00.000Z"
-    },
-    {
-      "title": "Long-Horizon-Terminal-Bench: Testing the Limits of Agents on Long-Horizon Terminal Tasks with Dense Reward-Based Grading",
-      "summary": "AI（人工知能）が複雑な問題を解く能力を測るため、新しいテスト「Long-Horizon-Terminal-Bench」が開発されました。これは、AIが長期的な目標を達成する過程を細かく評価できるため、AIの真の力を知るのに役立ちます。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2607.08964",
-      "published": "2026-07-13T04:00:00.000Z"
-    },
-    {
-      "title": "A Formalization of the Mean-Field Derivation of the Vlasov Equation: AI-Assisted Lean Formalization as a Strategy Game",
-      "summary": "AIが数学の証明を助ける「ゲーム」で、難しい数式（Vlasov方程式）の証明を、AIが協力して自動で正確に証明できることがわかりました。これにより、数学の理論がコンピューターで検証可能になり、将来のAI開発に役立つ可能性があります。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2607.08986",
-      "published": "2026-07-13T04:00:00.000Z"
-    },
-    {
-      "title": "A Unified Approach to Interpreting Knowledge Distillation for Large Language Models via Interactions",
-      "summary": "AI（文章を作るAI）の「知識蒸留」（知識を移す技術）がなぜうまくいくのか、その秘密を解き明かす研究が登場。AIが文章を作る時に、どの言葉の組み合わせが重要かを少なく（疎に）することで、より賢くなる仕組みを発見しました。この発見を元に、AIの学習をさらに助ける新しい方法が提案されています。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2607.08776",
-      "published": "2026-07-13T04:00:00.000Z"
-    },
-    {
-      "title": "iLENS: Interpretable LLM-Guided Mixture-of-Experts for Neuroimaging Survival Analysis",
-      "summary": "アルツハイマー病になるかどうかを、脳の画像データなどから予測する新しいAI「iLENS」が開発されました。このAIは、文章を作るAI（LLM）の力を借りて、なぜそう予測したのかを説明してくれるので、病気の研究や患者さんのケアに役立つことが期待されます。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2607.08778",
-      "published": "2026-07-13T04:00:00.000Z"
-    },
-    {
-      "title": "Signed Symmetric Quantization for Few-Bit Integers",
-      "summary": "AIがより少ない情報（ビット数）で賢く動くための新しい方法が見つかりました。これは、AIが扱う数字の「符号」と「大きさ」を工夫することで、より正確に、そして速く計算できるようにします。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2607.08779",
-      "published": "2026-07-13T04:00:00.000Z"
-    },
-    {
-      "title": "Sticky Routing: Training MoE Models for Memory-Efficient Inference",
-      "summary": "AIが文章を作る際、毎回使う部品（専門家）をいちいち切り替えるのは時間がかかります。そこで、似たような文章が続くときは同じ部品を使い続けるようにAIに教える方法（StickyMoE）が開発されました。これにより、AIの動作が速くなり、性能の低下もわずかに抑えられます。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2607.08780",
-      "published": "2026-07-13T04:00:00.000Z"
-    },
-    {
-      "title": "Reward Transport: Property Control in Flow Matching via Noise-Space Alignment",
-      "summary": "AIが新しい薬の形を作る技術で、ノイズ（ランダムな情報）と分子（薬の材料）をうまく結びつける方法を見つけました。これにより、AIが作り出す分子の性質を、より正確にコントロールできるようになります。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2607.08781",
-      "published": "2026-07-13T04:00:00.000Z"
     }
   ]
 }
