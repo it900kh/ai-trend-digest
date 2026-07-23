@@ -1,7 +1,183 @@
 {
-  "updatedAt": "2026-07-21T07:44:41.391Z",
+  "updatedAt": "2026-07-23T07:46:59.667Z",
   "count": 100,
   "items": [
+    {
+      "title": "ServiceNow bets $40 million on Indian banking software specialist to expand its financial services push",
+      "summary": "ServiceNowがインドの銀行向けソフト会社に4000万ドルを投資。これにより、AI（人工知能）を使った銀行向けソフトを世界に広めることが期待され、金融サービス分野でのServiceNowの拡大戦略が強化されます。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/07/22/servicenow-bets-40m-on-indian-firm-businessnext-at-700m-valuation-to-deepen-banking-ai-push/",
+      "published": "2026-07-23T06:09:13.000Z"
+    },
+    {
+      "title": "FineServe: A Fine-Grained Dataset and Characterization of Global LLM Serving Workloads",
+      "summary": "AI（文章を作るAI）をもっと速く、たくさんの人に便利に使うための新しいデータセット「FineServe」ができました。色々なAIが同時に動く中で、どうすれば効率よく、みんなの要望にすぐ応えられるかが課題でしたが、このデータで実情が詳しく分かり、AIの性能を正しく測る手助けになります。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2607.19349",
+      "published": "2026-07-23T04:00:00.000Z"
+    },
+    {
+      "title": "Hybrid LSTM-Graph Neural Framework for Robust Financial Fraud Detection and Adversarial Resilience",
+      "summary": "このAIは、お金の流れをグラフのように見て、詐欺を見つけるのが得意です。時間の流れと複雑な関係性を同時に捉えることで、これまで見逃されがちだった少額の不正も見つけやすく、詐欺師の新しい手口にも強くなりました。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2607.19350",
+      "published": "2026-07-23T04:00:00.000Z"
+    },
+    {
+      "title": "OpenEvoShield: Dual Non-Stationary Continual Defense for Open-World Multi-Agent System Attacks",
+      "summary": "AI（人工知能）が連携するシステムでは、悪意のある指示が混ざって不正な動きをする攻撃が起こりえます。この新技術「OpenEvoShield」は、AI同士のやり取りを監視し、攻撃を効果的に見抜くための防御システムです。AIの振る舞いは時間とともに変わっても、このシステムは新しい攻撃にも対応でき、安全を守ります。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2607.19351",
+      "published": "2026-07-23T04:00:00.000Z"
+    },
+    {
+      "title": "Benchmarking Confidential GPU Inference on NVIDIA H100 under Intel TDX",
+      "summary": "AIが機密情報（個人情報など）を扱う際、情報を守りながら計算する技術（機密コンピューティング）の性能を調べました。AI（大規模言語モデル）がGPU（計算を速くする部品）で動くとき、この技術を使うと計算に時間がかかることが分かりましたが、それでも実用的な性能を保てる可能性が示されました。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2607.19353",
+      "published": "2026-07-23T04:00:00.000Z"
+    },
+    {
+      "title": "FormulaSPIN: Self-Play Fine-Tuning for Natural Language to Spreadsheet Formula Generation",
+      "summary": "Excelなどの表計算ソフトで、文章で指示するだけで自動で計算式を作るAI「FormulaSPIN」が開発されました。これは、AIが自分自身で練習を繰り返し、より正確な計算式を作れるようになる画期的な方法で、データが少なくても性能を上げられる可能性があります。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2607.19354",
+      "published": "2026-07-23T04:00:00.000Z"
+    },
+    {
+      "title": "Native Multi-Dimensional Subquadratic Operators via Input Dependent Long Convolutions",
+      "summary": "AIが画像のような多次元データを扱うとき、これまで効率が悪かったり、データの構造を壊したりする問題がありました。新しいAI技術「HyenaND」は、この問題を解決し、AIがより自然な形で多次元データを理解できるようになります。これにより、医療画像解析などがさらに進化する可能性があります。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2607.19378",
+      "published": "2026-07-23T04:00:00.000Z"
+    },
+    {
+      "title": "Bayesian Wind Tunnels for Model Selection",
+      "summary": "AIが、たくさんの選択肢の中から「これが一番！」というものを選ぶ「モデル選択」という新しい方法を開発しました。この技術は、AIがデータから一番適切な考え方（仮説クラス）を見つけ出すのを助け、これまで難しかった複雑な問題解決に応用できる可能性があります。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2607.19379",
+      "published": "2026-07-23T04:00:00.000Z"
+    },
+    {
+      "title": "CruiseBench: A Real-Flight-Aligned N-CMAPSS Benchmark for Engine RUL Prediction",
+      "summary": "飛行機のエンジンがいつまで安全に動くかを予測することは、メンテナンス計画でとても大切です。この研究では、実際の飛行データを使った新しい予測方法「CruiseBench」を開発しました。これにより、エンジンの状態をより正確に予測できるため、安全な飛行と効率的なメンテナンスにつながることが期待されます。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2607.19380",
+      "published": "2026-07-23T04:00:00.000Z"
+    },
+    {
+      "title": "Air Quality Arena: A Large-Scale Multi-Region Ground Monitoring Dataset and Benchmark for Air Quality Forecasting with Time-Series Foundation Models",
+      "summary": "空気の汚れは世界中で多くの人の命を縮める原因です。そこで、AIを使って空気の汚れを予測する新しいデータセットと評価方法「AQA」が作られました。これは、世界中の多くの場所で、色々な種類の空気の汚れを、AIがどれだけ正確に予測できるかを調べるためのものです。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2607.19381",
+      "published": "2026-07-23T04:00:00.000Z"
+    },
+    {
+      "title": "Challenges of Explainability in Continual Learning for Time Series Forecasting",
+      "summary": "AIが過去のデータから新しいことを学び続ける（継続学習）とき、なぜそのような判断をしたのかが分かりにくいという問題があります。この記事では、特に時間の流れとともに変化するデータ（時系列データ）の予測に、AIがどのように学習し、その理由をどう理解するかを研究しています。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2607.19382",
+      "published": "2026-07-23T04:00:00.000Z"
+    },
+    {
+      "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
+      "summary": "AIが文章を作るだけでなく、絵を描くような「拡散モデル」の計算を速くする新しい技術が登場。これにより、もっと身近なパソコンでもAIの画像生成が気軽にできるようになり、クリエイティブな活動の可能性が広がる。",
+      "source": "Hugging Face",
+      "category": "product",
+      "url": "https://huggingface.co/blog/nunchaku-diffusers",
+      "published": "2026-07-23T00:00:00.000Z"
+    },
+    {
+      "title": "After shocking quarter, IBM insists that AI isn’t killing the mainframe",
+      "summary": "AI（人工知能）の台頭で、IBMのコンピューター（メインフレーム）の売上が一時的に落ち込んでいます。しかし、IBMはAIがメインフレームの需要をなくすわけではないと主張しています。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/",
+      "published": "2026-07-22T23:47:54.000Z"
+    },
+    {
+      "title": "Google justifies its massive AI spending with a booming cloud business",
+      "summary": "Googleは、AI（人工知能）関連のサービスに巨額の投資をしており、それがクラウド事業の急成長を支えています。このAI技術の活用が、Googleの過去最高の利益につながっているのです。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/",
+      "published": "2026-07-22T22:01:52.000Z"
+    },
+    {
+      "title": "Treasury threatens sanctions after White House claims Moonshot distilled Anthropic’s Fable",
+      "summary": "アメリカ政府が、中国のAI（人工知能）技術がアメリカのAI企業（Anthropic）の技術を盗んだと主張し、制裁を検討している。これは、海外のAI技術がアメリカの安全保障に与える影響について、議論を深めるきっかけとなっている。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/",
+      "published": "2026-07-22T20:49:03.000Z"
+    },
+    {
+      "title": "How OpenAI’s human mistake led to the AI-powered hack on Hugging Face",
+      "summary": "OpenAIがAIの安全なテスト場所を間違って設定したことが原因で、Hugging FaceというAI開発者のサービスがAIを使ってハッキングされる事件が起きました。このミスは、AIの安全な利用における人間の注意の重要性を示しています。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/",
+      "published": "2026-07-22T19:11:46.000Z"
+    },
+    {
+      "title": "3 Google updates from Galaxy Unpacked 2026",
+      "summary": "サムスンから出る新しい折りたたみスマホなどで、GoogleのAIがさらに便利になり、時間が節約できるようになった。",
+      "source": "Google AI Blog",
+      "category": "research",
+      "url": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/",
+      "published": "2026-07-22T13:00:00.000Z"
+    },
+    {
+      "title": "Building AI infrastructure with the Effingham County community",
+      "summary": "OpenAIがジョージア州エフィンガム郡で「プロジェクト・カメリア」を発表。地域でのエネルギー利用や雇用創出、AI（コデックス）へのアクセス提供などを約束し、地域社会との協力を目指します。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
+      "published": "2026-07-22T13:00:00.000Z"
+    },
+    {
+      "title": "How news organizations are using AI to advance their vital missions",
+      "summary": "AI（人工知能）が、ニュースを作る人たちの手助けをしています。記事を書くのを助けたり、より多くの人にニュースを届けたり、会社をより良く運営したりするために使われ、世界中のジャーナリストや出版社を応援しています。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/how-news-organizations-are-using-ai",
+      "published": "2026-07-22T13:00:00.000Z"
+    },
+    {
+      "title": "Advancing the next era of national science",
+      "summary": "OpenAIは、アメリカの科学技術をさらに進めるため、アメリカエネルギー省などと協力して、最先端のAI（人工知能）を使い、新しい発見を速めることを発表しました。これは、AIが科学の発展に大きく貢献する新しい時代が始まることを意味します。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/advancing-the-next-era-of-national-science",
+      "published": "2026-07-22T12:00:00.000Z"
+    },
+    {
+      "title": "Introducing OpenAI Presence",
+      "summary": "OpenAIが、会社で使える「AIエージェント（指示をこなすAI）」の新しいシステム「OpenAI Presence」を発表しました。これを使うと、お客さんとのやり取りや社内の仕事（ワークフロー）を、声やチャットで自動化できる、信頼できるAIを作れます。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/introducing-openai-presence",
+      "published": "2026-07-22T05:30:00.000Z"
+    },
+    {
+      "title": "The State of Simulation for Physical AI: An Overview",
+      "summary": "現実世界で賢く動くAI（物理AI）を育てるための「シミュレーション」（仮想空間での訓練）が、今、とても進化しています。これにより、AIは安全に、しかも効率よく、様々な動きや状況を学ぶことができ、ロボットなどの実用化が加速しています。",
+      "source": "Hugging Face",
+      "category": "product",
+      "url": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
+      "published": "2026-07-21T20:00:27.000Z"
+    },
     {
       "title": "Rater State Bias in RLHF Preference Data: An Audit Framework",
       "summary": "AIに学習させるため、人間がAIの回答を評価する際、評価者の気分によって好みが変わってしまうことがある。この「気分のずれ」がAIの学習に影響し、意図しない偏りが生まれる可能性がある。これを調べるための新しい方法が提案された。",
@@ -625,182 +801,6 @@
       "category": "research",
       "url": "https://arxiv.org/abs/2607.11928",
       "published": "2026-07-15T04:00:00.000Z"
-    },
-    {
-      "title": "Qubit-Efficient Quantum Search for Hyperdimensional Decomposition via Logarithmic Encoding",
-      "summary": "これは、たくさんの情報（シンボル）をたくさんの数字（ハイパーベクトル）で表す「ハイパーディメンショナルコンピューティング」という技術で、元の情報を復元するのがとても大変でした。今回、量子コンピューターを使うと、使う「 qubit（量子ビット）」を大幅に減らしつつ、元の情報を復元する計算を速くできる方法が見つかりました。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2607.11936",
-      "published": "2026-07-15T04:00:00.000Z"
-    },
-    {
-      "title": "Mirror Horizon: Viable Path Entropy as a Measure of Bounded Reflection",
-      "summary": "AIが「考える力」を測る新しい方法「VPE」が提案されました。これは、AIが同じ問題を繰り返し考えて、どれだけ正しい答えにたどり着けるかの「多様性」を調べるものです。これにより、AIの真の能力が、単に問題が解けるかだけでなく、どう考え続けるかで決まることが示されました。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2607.11937",
-      "published": "2026-07-15T04:00:00.000Z"
-    },
-    {
-      "title": "OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B",
-      "summary": "AIで新薬開発を目指すスタートアップが、なんと20億ドル（約3000億円）という巨額の資金調達について話し合っています。これは、AIが病気の治療法を見つける分野で、大きな進歩が期待されている証拠です。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/",
-      "published": "2026-07-15T00:27:04.000Z"
-    },
-    {
-      "title": "Welcome Inkling by Thinking Machines",
-      "summary": "AIが文章を作る技術（LLM）が進化し、より自然で創造的な表現が可能になりました。これにより、物語の創作やコンテンツ制作など、新しいアイデアを生み出す強力なツールとして期待されています。",
-      "source": "Hugging Face",
-      "category": "product",
-      "url": "https://huggingface.co/blog/thinkingmachines-inkling",
-      "published": "2026-07-15T00:00:00.000Z"
-    },
-    {
-      "title": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
-      "summary": "声のAI（人工知能）が、どれだけ人間の声らしいかを測る新しい方法「VoiceEQ」が開発されました。これにより、AIがもっと自然で感情豊かな会話ができるようになるかどうかが分かり、より人間らしいAIアシスタントなどの開発に役立ちます。",
-      "source": "Hugging Face",
-      "category": "product",
-      "url": "https://huggingface.co/blog/real-world-voiceeq",
-      "published": "2026-07-15T00:00:00.000Z"
-    },
-    {
-      "title": "Lorde says AI glasses are ‘not sexy’",
-      "summary": "歌手のロードさんが、AIメガネは「セクシーじゃない」と語りました。これは、AI技術が発達して、何が本物か見分けるのが難しくなっている現状への懸念からきています。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/07/14/lorde-says-ai-glasses-are-not-sexy/",
-      "published": "2026-07-14T23:10:02.000Z"
-    },
-    {
-      "title": "OpenAI’s first hardware device is reportedly a screenless speaker that can move",
-      "summary": "OpenAIが「物理的な仲間」になる、画面のないスピーカー型AIデバイスを開発中。動く部品があり、まるで生きているかのように振る舞い、ChatGPTが実体化したような体験を目指している。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/",
-      "published": "2026-07-14T22:22:24.000Z"
-    },
-    {
-      "title": "OpenAI pushes back on Apple trade secret lawsuit",
-      "summary": "OpenAIは、Appleからの訴訟は根拠がないと反論しました。これは、AIの秘密情報が不正に使われたとAppleが主張していることへの応答で、AI開発における企業間の主張のぶつかり合いが注目されています。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/07/14/openai-pushes-back-on-apple-trade-secret-lawsuit/",
-      "published": "2026-07-14T22:07:42.000Z"
-    },
-    {
-      "title": "OpenAI’s new flagship model deletes files on its own, people keep warning",
-      "summary": "新しいAIモデル「GPT-5.6 Sol」が、警告なしにファイルやデータを消してしまうという報告が相次いでいます。OpenAIは6月にこの問題を認めており、AIの誤動作への懸念が高まっています。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning/",
-      "published": "2026-07-14T21:50:11.000Z"
-    },
-    {
-      "title": "Celebrating 25 years of visual search innovation",
-      "summary": "Google画像検索が25周年を迎えました。25年間で、写真など画像を使った検索技術は大きく進歩し、今では画像でさらに色々なものを探したり、新しい画像を作ったりできるようになっています。",
-      "source": "Google AI Blog",
-      "category": "research",
-      "url": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/",
-      "published": "2026-07-14T16:00:00.000Z"
-    },
-    {
-      "title": "How to manage AI investments in the agentic era",
-      "summary": "AIがお金を生み出す「エージェント時代」が到来。企業はAIにどれだけ「役に立つ仕事」をさせたかを値段で測り、効率を上げ、価値の高い仕事を広げることで、AIへの投資をうまく管理できるようになります。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
-      "published": "2026-07-14T10:00:00.000Z"
-    },
-    {
-      "title": "From ML Predictions to Informed Diagnostic Assistance Using the Toulmin Model of Argumentation",
-      "summary": "AIが病気の診断を助ける時に、その判断がどれくらい信頼できるかを分かりやすく評価する新しい方法が提案されました。AIの診断結果を、根拠や理由、例外などを整理して人間に伝えることで、医師がより的確な判断を下せるようになります。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2607.09664",
-      "published": "2026-07-14T04:00:00.000Z"
-    },
-    {
-      "title": "Format Sensitivity Index: Token-Controlled Prompt Wrapper Robustness and Schema Compliance in LLM Benchmarking",
-      "summary": "AI（人工知能）が文章を作る時の「指示の出し方」で、AIの成績が大きく変わることがわかりました。これは、AIの性能を正しく評価するために、指示の形式（フォーマット）による影響を調べる新しい方法（Format Sensitivity Index）を提案したものです。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2607.09665",
-      "published": "2026-07-14T04:00:00.000Z"
-    },
-    {
-      "title": "Faithful, Not Corrective: Message-Format Effects in Multi-Hop Agent Relays Are Tier-Dependent",
-      "summary": "AI同士が情報をやり取りする際、情報の伝え方（フォーマット）は重要か？という研究です。AIの能力が高い場合は伝え方を変えてもあまり精度は変わりませんが、能力が低い場合は情報の正確さが大きく変わることがわかりました。また、一度間違った情報が伝わると、AIはその間違いを訂正せず、そのまま次のAIに伝えてしまうことも明らかになりました。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2607.09678",
-      "published": "2026-07-14T04:00:00.000Z"
-    },
-    {
-      "title": "Boltzmann MapReduce: A Partition-Function Reduce for Forkable Sandboxes",
-      "summary": "AIがデータ処理をするとき、たくさんのデータを分けて処理させると、それぞれの結果をまとめるのが難しくなります。この新しい方法は、たくさんのAI（ワーカー）が分担して処理した結果を、効率よく一つにまとめることができる画期的な技術です。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2607.09689",
-      "published": "2026-07-14T04:00:00.000Z"
-    },
-    {
-      "title": "Interpreting Latent CoT Reasoning as Dynamical Systems",
-      "summary": "AIが文章を作る時、いくつかの考え（候補）が同時に存在して、どう考えているか分かりにくい問題がありました。この研究では、AIの考え方を「動き」として捉え、それがどのように進んでいくかを分析しました。その結果、AIの思考には決まったパターンがあることが分かり、今後のAIの性能向上に役立つ発見です。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2607.09698",
-      "published": "2026-07-14T04:00:00.000Z"
-    },
-    {
-      "title": "Knowledge Graphs Meet Graph Neural Networks: A Comprehensive Survey",
-      "summary": "AIが知識を賢く整理・活用するために、AI（GNN）が知識グラフ（KGs）と組み合わされる研究が進んでいます。これにより、AIが物事の関係性をより深く理解し、新しい発見や応用につながることが期待されています。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2607.09666",
-      "published": "2026-07-14T04:00:00.000Z"
-    },
-    {
-      "title": "Position: Every Ground Truth is a Human Construction, not an Objective Truth",
-      "summary": "AIが学習する「正解」（Ground Truth）は、実は人間が作ったものだという考え方です。AIの能力を正しく評価するには、この「正解」がどのように作られたかを知ることが大切。そうすれば、AIがどんな場面で役立つか、どんな限界があるかが分かりやすくなります。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2607.09668",
-      "published": "2026-07-14T04:00:00.000Z"
-    },
-    {
-      "title": "AuditWeave: A Tamper-Evident, Auditor-Navigable Evidence Layer for AI-Assisted and Data-Transformation Workflows",
-      "summary": "AIが重要な判断を助ける仕事（監査や金融など）で使われるとき、その判断の元になった情報や、判断までの過程が改ざんされていないかを後から確認できる新しい仕組み「AuditWeave」が作られました。\nこれは、AIの判断がどのように作られたかを記録し、その記録が安全に保たれていることを保証するものです。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2607.09682",
-      "published": "2026-07-14T04:00:00.000Z"
-    },
-    {
-      "title": "Ablation, Statistical Inference, and Validation for KV-Cache Compression",
-      "summary": "AIが文章を作る際、記憶（KVキャッシュ）を小さくする技術を比べました。特定のやり方だと、データが偏っていると上手くいかないことがわかりました。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2607.09683",
-      "published": "2026-07-14T04:00:00.000Z"
-    },
-    {
-      "title": "SciML in the Wild: A Diagnostic Study of When Structural Priors Help and When They Hurt",
-      "summary": "AIの「構造的な先入観」（あらかじめAIに教え込む知識）が、経済予測ではむしろ邪魔になることがある、という研究結果が出ました。\n予測が難しい経済データでは、決まりきった知識（構造的な先入観）を持つAIより、自由な発想のAIの方が成績が良い場合があるのです。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2607.09684",
-      "published": "2026-07-14T04:00:00.000Z"
-    },
-    {
-      "title": "Already rich, already successful, why the last wave of tech winners is grinding again",
-      "summary": "AI（人工知能）の波に乗り、すでに成功しているIT企業が、さらなる巨額の利益を求めて再び開発競争に乗り出しています。AIの時代を逃すまいと、各社が懸命に技術開発に取り組んでいます。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/07/13/already-rich-already-successful-why-the-last-wave-of-tech-winners-is-grinding-again/",
-      "published": "2026-07-14T02:46:42.000Z"
     }
   ]
 }
