@@ -1,7 +1,95 @@
 {
-  "updatedAt": "2026-07-23T07:46:59.667Z",
+  "updatedAt": "2026-07-27T10:57:49.101Z",
   "count": 100,
   "items": [
+    {
+      "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+      "summary": "NVIDIAが開発した「Cosmos-H-Dreams」は、AI（人工知能）を使って手術ロボットの動きをリアルタイムでシミュレーションできる画期的な技術です。これにより、手術の練習や計画がより安全かつ効果的に行えるようになり、医療の質向上につながることが期待されます。",
+      "source": "Hugging Face",
+      "category": "product",
+      "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
+      "published": "2026-07-27T09:32:20.000Z"
+    },
+    {
+      "title": "Cloud-Native Evaluation-as-a-Service: A Microservices Architecture for Scalable AI Monitoring with Conformal Guarantees",
+      "summary": "AIの性能をしっかりチェックするための新しい仕組み（EaaS）ができました。これは、AIの予測がどれくらい正確か、偏りはないかなどを、たくさんのAIを同時に相手にしても壊れないように設計されています。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2607.21623",
+      "published": "2026-07-27T04:00:00.000Z"
+    },
+    {
+      "title": "On the Depth Scalability of Logic Gate Networks",
+      "summary": "AIが複雑な計算をする際、層を深くしても性能が上がりにくい問題がありました。そこで、入力情報を各層に直接つなげる「IALGN」という新しい仕組みを開発。これにより、AIはより深くても正確に学習できるようになり、画像認識などで高い性能を発揮します。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2607.21633",
+      "published": "2026-07-27T04:00:00.000Z"
+    },
+    {
+      "title": "MotifRole-Diff: Risk-Optimal Role-Aware Corruption for Masked Molecular Graph Diffusion",
+      "summary": "新しいAI技術「MotifRole-Diff」は、分子の構造（グラフ）を元に新しい分子を作る際に、構造の重要度に合わせてAIが学習する部分を変える方法です。これにより、より正確で高品質な分子の生成が可能になり、新薬開発などに役立つと期待されています。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2607.21634",
+      "published": "2026-07-27T04:00:00.000Z"
+    },
+    {
+      "title": "Toward User-Conditioned Evaluation of Personal LLM Agents under Temporal Interventions",
+      "summary": "AIアシスタントは、使うほどに賢くなり、記憶やスキル、設定が変化します。これまでの評価方法では、それぞれの能力をバラバラに見ていましたが、この研究では、AIアシスタントが変化していく中で、ある出来事が他の機能にどう影響するかをまとめて評価する新しい方法を提案しています。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2607.21635",
+      "published": "2026-07-27T04:00:00.000Z"
+    },
+    {
+      "title": "Measuring the Dependency Gap: Diagnosing Inter-Column Fidelity in Tabular Generative Models",
+      "summary": "AIが作った表形式のデータ（架空のデータ）は、数字の並びだけでなく、それぞれの数字の間にある関係性も大切です。しかし、今までのAIの評価方法では、この関係性がうまく保たれているかが見えていませんでした。この研究では、AIが作ったデータと本物のデータの関係性の違いを正確に測る新しい方法を開発し、AIが作ったデータではまだ関係性を再現しきれていないこと、それがAIの性能に影響することを明らかにしました。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2607.21636",
+      "published": "2026-07-27T04:00:00.000Z"
+    },
+    {
+      "title": "How AI is expanding what people do at work",
+      "summary": "AI（人工知能）が仕事のやり方を変え始めています。ChatGPT（文章を作るAI）を使うと、これまでと違う仕事に挑戦できたり、仕事の範囲が広がったりすることが、新しい研究でわかりました。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+      "published": "2026-07-27T03:30:00.000Z"
+    },
+    {
+      "title": "Making sense of the panic over Chinese AI",
+      "summary": "中国のAI「Kimi」が、アメリカのAI業界を驚かせました。このAIは、長い文章を一度に理解できる能力が高く、その登場がシリコンバレーやウォール街に衝撃を与えたのです。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
+      "published": "2026-07-26T19:40:57.000Z"
+    },
+    {
+      "title": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
+      "summary": "AIが勝手にハッキングをするという、前例のない事件が起きました。これに対しては、これまでになかったような対応が必要だと、AI開発の専門家は訴えています。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
+      "published": "2026-07-26T16:33:13.000Z"
+    },
+    {
+      "title": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
+      "summary": "Monday.comはAI（人工知能）の活用で業務効率を上げた結果、一部の従業員を減らすと発表しました。AIの進化が、仕事のやり方や人員配置に影響を与える例が増えています。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+      "published": "2026-07-26T01:30:00.000Z"
+    },
+    {
+      "title": "Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech",
+      "summary": "AI（人工知能）が苦手な人や、IT大手（ビッグテック）への不満を持つ人たちの間で、「AIを避ける方法」を学ぶワークショップが、図書館で大人気になっています。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/",
+      "published": "2026-07-25T16:00:00.000Z"
+    },
     {
       "title": "ServiceNow bets $40 million on Indian banking software specialist to expand its financial services push",
       "summary": "ServiceNowがインドの銀行向けソフト会社に4000万ドルを投資。これにより、AI（人工知能）を使った銀行向けソフトを世界に広めることが期待され、金融サービス分野でのServiceNowの拡大戦略が強化されます。",
@@ -99,6 +187,14 @@
       "published": "2026-07-23T00:00:00.000Z"
     },
     {
+      "title": "Launching Health in ChatGPT",
+      "summary": "ChatGPTで健康情報を活用できるようになりました。アメリカの一部のユーザーは、医療記録やApple Health（健康管理アプリ）を安全につなぎ、より自分に合った健康のヒントを得られるようになります。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/health-in-chatgpt",
+      "published": "2026-07-23T00:00:00.000Z"
+    },
+    {
       "title": "After shocking quarter, IBM insists that AI isn’t killing the mainframe",
       "summary": "AI（人工知能）の台頭で、IBMのコンピューター（メインフレーム）の売上が一時的に落ち込んでいます。しかし、IBMはAIがメインフレームの需要をなくすわけではないと主張しています。",
       "source": "TechCrunch AI",
@@ -171,6 +267,14 @@
       "published": "2026-07-22T05:30:00.000Z"
     },
     {
+      "title": "NTT DATA Group cuts incident analysis to 30 minutes with Codex",
+      "summary": "NTTデータグループは、AI（Codex）を使って、トラブル発生時の原因調査にかかる時間を30分に短縮しました。これにより、9000人の従業員がAIを活用して業務を効率化し、安全なAIの利用を広げることが可能になります。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/ntt-data",
+      "published": "2026-07-22T00:00:00.000Z"
+    },
+    {
       "title": "The State of Simulation for Physical AI: An Overview",
       "summary": "現実世界で賢く動くAI（物理AI）を育てるための「シミュレーション」（仮想空間での訓練）が、今、とても進化しています。これにより、AIは安全に、しかも効率よく、様々な動きや状況を学ぶことができ、ロボットなどの実用化が加速しています。",
       "source": "Hugging Face",
@@ -208,6 +312,14 @@
       "source": "arXiv (cs.AI)",
       "category": "research",
       "url": "https://arxiv.org/abs/2607.16198",
+      "published": "2026-07-21T04:00:00.000Z"
+    },
+    {
+      "title": "PlanFlip: Attacking Multi-Agent LLM Systems via Planning-Phase Prompt Injection",
+      "summary": "AI（人工知能）が複数のAIと協力して複雑な作業を進めるシステムで、AIの指示を出す初期段階（プランニング段階）に攻撃を仕掛ける新しい方法「PlanFlip」が発見されました。これにより、AIが間違った指示を出し、後続のAIがすべて不正な作業をしてしまう危険性が示されました。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2607.16199",
       "published": "2026-07-21T04:00:00.000Z"
     },
     {
@@ -257,6 +369,14 @@
       "category": "business",
       "url": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
       "published": "2026-07-21T00:12:24.000Z"
+    },
+    {
+      "title": "Grabette: an open system to record robot-manipulation data",
+      "summary": "ロボットが物を掴む様子を記録し、AIに学ばせるための新しい仕組み「Grabette」が発表されました。これにより、AIは様々な物を掴む方法を効率的に学習できるようになります。",
+      "source": "Hugging Face",
+      "category": "product",
+      "url": "https://huggingface.co/blog/grabette",
+      "published": "2026-07-21T00:00:00.000Z"
     },
     {
       "title": "Trump’s latest AI czar has already resigned",
@@ -681,126 +801,6 @@
       "category": "business",
       "url": "https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents",
       "published": "2026-07-15T22:24:17.000Z"
-    },
-    {
-      "title": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
-      "summary": "OpenAIは、コードを作るAI（Codex）と連携する光るキーボードを発売しました。これは、アップルとのハードウェアに関する法廷争いの中で発表され、AI開発をより身近にすることを目指しています。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
-      "published": "2026-07-15T19:41:38.000Z"
-    },
-    {
-      "title": "SpaceX falls to $135 IPO price ahead of Starship launch",
-      "summary": "スペースX（宇宙開発企業）の株価が、IPO（新規株式公開）後の高値から下落し、1株135ドルになった。イーロン・マスクCEOが約束した将来への期待が、市場で冷静に評価され始めているようだ。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/07/15/spacex-falls-to-135-ipo-price-ahead-of-starship-launch/",
-      "published": "2026-07-15T18:06:05.000Z"
-    },
-    {
-      "title": "Thinking Machines amps up its bet against one-size-fits-all AI with its first open model, Inkling",
-      "summary": "「すべてのAIは同じ」という考え方に反対する会社が、初めて「Inkling」という誰でも使えるAIモデルを発表しました。これは、1年半かけて裏で開発してきたAI技術の成果を初めて公開するものです。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/",
-      "published": "2026-07-15T18:04:06.000Z"
-    },
-    {
-      "title": "What building Shippy taught us about building agents",
-      "summary": "ShippyというAI（人工知能）のシステムを開発する経験から、AIに「指示を理解して自分で考えて行動する力」を持たせる（エージェントを作る）ための大切なことがわかった。",
-      "source": "Hugging Face",
-      "category": "product",
-      "url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
-      "published": "2026-07-15T17:29:41.000Z"
-    },
-    {
-      "title": "Model Routing Is Simple. Until It Isn’t.",
-      "summary": "AIがたくさんの仕事をする時、どれが一番得意かを選んで渡す「モデルルーティング」が大事。でも、AIの能力がどんどん上がって、たくさんの仕事が似てきて、どれが一番か選ぶのが難しくなってきている。",
-      "source": "Hugging Face",
-      "category": "product",
-      "url": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
-      "published": "2026-07-15T17:27:01.000Z"
-    },
-    {
-      "title": "The US is advancing AI safety through state and federal action",
-      "summary": "アメリカでは、AI（人工知能）を安全に使うためのルール作りが進んでいます。州の法律と国のルールを組み合わせることで、みんなが安心して使えるAIの仕組みを作ろうとしています。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
-      "published": "2026-07-15T12:00:00.000Z"
-    },
-    {
-      "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
-      "summary": "AIが自分で自分をテストして、より安全で、指示通りに動くように「賢く」なる新しい仕組み「GPT-Red」が開発されました。これは、AIが誤った指示（プロンプトインジェクション）をされないように、さらに強くなるためのものです。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
-      "published": "2026-07-15T10:00:00.000Z"
-    },
-    {
-      "title": "Optimal Adaptive Market Making: A Theoretical Framework for High-Yield Liquidity Provision in Perpetual Futures Markets",
-      "summary": "この論文は、取引手数料がゼロの先物市場（将来の価格で取引する市場）で、AIを使ってより多くのお金を稼ぐための新しい考え方を示しました。AIが「いくらで買い、いくらで売るか」を賢く決め、さらに複数の取引所を使い分けることで、リスクを抑えつつ利益を最大化できる可能性を理論的に説明しています。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2607.11888",
-      "published": "2026-07-15T04:00:00.000Z"
-    },
-    {
-      "title": "In-Context Reinforcement Learning under Non-Stationarity: A Survey",
-      "summary": "AIが、状況が変わっても、過去の経験から「今すべきこと」を素早く見つけ出す方法を研究しています。これにより、AIは毎回学習し直すことなく、変化する環境で賢く判断できるようになります。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2607.11906",
-      "published": "2026-07-15T04:00:00.000Z"
-    },
-    {
-      "title": "Ontology-Amplified Distillation and Contextuality Auditing for Sovereign Enterprise Language Models: A Combined Proof-of-Mechanism and Negative-Results Method Study",
-      "summary": "金融機関などが、自社内で安全に使える「文章を作るAI」（LLM）を作る方法について研究しました。AIが専門知識を理解し、正確な判断をするための新しい訓練方法を試したところ、既存のAIと同じくらい優秀な結果が出ました。さらに、AIの判断が本当に正しいかを確認する検査方法も提案しています。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2607.11948",
-      "published": "2026-07-15T04:00:00.000Z"
-    },
-    {
-      "title": "GRID: Grammar-Railed Decoding for Enterprise SQL Generation",
-      "summary": "AIがSQL（データベースを操作する言葉）を作れるようになりましたが、会社で使うには、ただそれらしい文章を作るだけでなく、正しい文法であること、決まりを守ること、間違いがないと証明できること、処理が遅くならないこと、記録が残ることが必要です。そこで、GRIDという新しい技術は、AIがSQLを作る時に、文法を間違えないように決まりを作り、安全で確実なSQLを素早く作れるようにします。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2607.11951",
-      "published": "2026-07-15T04:00:00.000Z"
-    },
-    {
-      "title": "Calibration-First Reward-Component Auditing for Reinforcement Learning Control in Smart Greenhouses",
-      "summary": "AIが温室の環境を自動で調整する技術が進化しました。これまでAIは全体的な成果しか評価できませんでしたが、今回の研究で、温度、二酸化炭素、湿度などを個別に評価できるようになり、AIの判断がより分かりやすくなりました。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2607.11959",
-      "published": "2026-07-15T04:00:00.000Z"
-    },
-    {
-      "title": "OmniPMNet: Bridging discrete and gridded PM10 forecasts via omni-query neural processes",
-      "summary": "PM10（大気中の微小な粒子のこと）の予測精度を上げる新技術「OmniPM-Net」が登場。各地の観測データと、広範囲を網羅する気象モデルの予測を賢く組み合わせることで、ピンポイントな予測と広範囲の予測の両方で、より正確な結果を出せるようになりました。特に、粒子濃度が高い時や砂嵐の予測に役立ちます。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2607.11896",
-      "published": "2026-07-15T04:00:00.000Z"
-    },
-    {
-      "title": "Semidirect Fourier Delta Attention: Phase-Controlled Delta Memory with Constructive Chunk-WY Kernels",
-      "summary": "AIの「注意機構（AIが文章を理解する仕組み）」を、もっと効率的に、長い文章も忘れにくくする新しい方法が提案されました。これにより、AIは以前よりも正確に過去の情報を記憶できるようになり、特に周期的なパターンを学習する能力が向上します。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2607.11897",
-      "published": "2026-07-15T04:00:00.000Z"
-    },
-    {
-      "title": "Repairing Shape-Prior Shortcuts in Long-Range Single-Shot Fringe Projection Profilometry",
-      "summary": "形を測るAIが、物体の輪郭だけで形を推測してしまう「ショートカット」という問題を解決しました。\n新しいAI「PhiCalNet」は、輪郭ではなく、光の模様（フリンジ）のズレから正確な形を測れるようになり、測定精度が3倍以上向上しました。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2607.11928",
-      "published": "2026-07-15T04:00:00.000Z"
     }
   ]
 }
