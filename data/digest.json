@@ -1,7 +1,39 @@
 {
-  "updatedAt": "2026-08-03T10:59:08.625Z",
+  "updatedAt": "2026-08-03T23:01:15.889Z",
   "count": 100,
   "items": [
+    {
+      "title": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
+      "summary": "AWSは、AIでアプリ開発を効率化するSuperblocks（プログラミングを助けるAIツール）を、顧客のプライベートなクラウド環境（会社専用のインターネット空間）で使えるようにしました。これは、AIの能力（モデル）と、それを使ったアプリを切り離す動きであり、開発の可能性を広げます。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
+      "published": "2026-08-03T20:00:00.000Z"
+    },
+    {
+      "title": "Design Arena creators raise $7.9 million to bring taste to AI models",
+      "summary": "AIが作ったデザインの「センス」を良くするための技術開発に、790万ドル（約11億円）が集まりました。この技術は、世界中で530万人が使う「Design Arena」というサービスで、AIが作ったものを人間が評価するのに役立っています。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
+      "published": "2026-08-03T19:28:57.000Z"
+    },
+    {
+      "title": "Influencers draw backlash for attending OpenAI’s first luxury trip",
+      "summary": "OpenAIが初めてインフルエンサーを招いて開いた豪華旅行が、AIの使い方への懸念から批判を浴びています。AI開発企業がこのようなイベントを開くこと自体が、世間のAIへの複雑な感情を浮き彫りにしています。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/",
+      "published": "2026-08-03T19:09:56.000Z"
+    },
+    {
+      "title": "Apple finally fixed Siri. So why does it feel anticlimactic?",
+      "summary": "アップルが長年かけて改良したAI（人工知能）で、ついに「理想のSiri」が誕生しました。しかし、AIアシスタントが賢くなるのは今や当たり前になり、かつてのような驚きは薄れています。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/",
+      "published": "2026-08-03T18:43:43.000Z"
+    },
     {
       "title": "OpenClaw and Ollama in Agentic AI: Toward Fully Autonomous and Scalable AI Agent Systems",
       "summary": "AI（人工知能）が自分で考えて行動する「エージェントAI」を作るための新しい考え方が提案されました。これは、AIが記憶を持ち、計画を立て、ずっと行動し続けることができるようにする仕組みです。OpenClawとOllamaという技術を組み合わせることで、AIがより賢く、大規模に動けるようになることが期待されます。",
@@ -769,38 +801,6 @@
       "category": "research",
       "url": "https://arxiv.org/abs/2607.16227",
       "published": "2026-07-21T04:00:00.000Z"
-    },
-    {
-      "title": "Operator-Aware Mixed-Precision Tolerance Calibration for Tensor Kernels",
-      "summary": "AIが計算ミスをどれだけ許せるか、より正確に判断する方法が見つかりました。これにより、AIのプログラム（カーネル）のバグを、これまでより約1割多く見つけられるようになります。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2607.16228",
-      "published": "2026-07-21T04:00:00.000Z"
-    },
-    {
-      "title": "Anthropic’s landmark $1.5B copyright settlement is approved",
-      "summary": "AIが文章を作るために、著作権のある作品（本や記事など）を参考にするのはいいのか？という大きな問題が残る中、AI開発会社と作家たちの間で、著作権侵害の訴えが約200億円で和解しました。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
-      "published": "2026-07-21T00:12:24.000Z"
-    },
-    {
-      "title": "Grabette: an open system to record robot-manipulation data",
-      "summary": "ロボットが物を掴む様子を記録し、AIに学ばせるための新しい仕組み「Grabette」が発表されました。これにより、AIは様々な物を掴む方法を効率的に学習できるようになります。",
-      "source": "Hugging Face",
-      "category": "product",
-      "url": "https://huggingface.co/blog/grabette",
-      "published": "2026-07-21T00:00:00.000Z"
-    },
-    {
-      "title": "Trump’s latest AI czar has already resigned",
-      "summary": "トランプ氏が設けたAI分野の責任者（AI担当大臣のようなもの）が、就任してすぐに辞任しました。この役職は、以前にも別の人が辞めており、人材が定着しない状態になっています。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/",
-      "published": "2026-07-20T22:21:04.000Z"
     }
   ]
 }
