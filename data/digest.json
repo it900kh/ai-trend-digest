@@ -1,7 +1,127 @@
 {
-  "updatedAt": "2026-08-01T07:38:06.798Z",
+  "updatedAt": "2026-08-03T10:59:08.625Z",
   "count": 100,
   "items": [
+    {
+      "title": "OpenClaw and Ollama in Agentic AI: Toward Fully Autonomous and Scalable AI Agent Systems",
+      "summary": "AI（人工知能）が自分で考えて行動する「エージェントAI」を作るための新しい考え方が提案されました。これは、AIが記憶を持ち、計画を立て、ずっと行動し続けることができるようにする仕組みです。OpenClawとOllamaという技術を組み合わせることで、AIがより賢く、大規模に動けるようになることが期待されます。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2607.28629",
+      "published": "2026-08-03T04:00:00.000Z"
+    },
+    {
+      "title": "Can AI Evaluate AI Scientists? A Benchmarking Study of Autonomous Research Generation Systems Using Automated Multi-Model Review",
+      "summary": "AIが自分で研究論文を作って、それを別のAIが評価する仕組みができました。これにより、AIによる科学の進歩を速めることが期待されます。この研究では、4つのAI研究システムが作った論文を、3つのAI（GPT-5.4、Gemini、Claude）が評価した結果、あるAIシステム（FARS）が他のシステムを大きく上回ることがわかりました。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2607.28631",
+      "published": "2026-08-03T04:00:00.000Z"
+    },
+    {
+      "title": "LLM Framework for Discovering Major Mathematical Conjectures: AI's Quest for the Next Riemann Hypothesis",
+      "summary": "AIが、数学の大きな謎（リーマン予想のような）を見つけるための新しい方法を開発しました。これは、AIが専門家のように数学的なアイデア（予想）を考え出し、それが本当に新しいか、価値があるかをチェックする仕組みです。20個のアイデアを試したところ、すべてAIで正しく処理でき、新しい謎の発見につながる可能性を示しました。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2607.28632",
+      "published": "2026-08-03T04:00:00.000Z"
+    },
+    {
+      "title": "ThinkReset: Learnable Intermediate Interface Construction for Bounded-Context Long-Horizon Reasoning",
+      "summary": "AIが長い文章を考えるとき、情報が多すぎると間違えやすくなります。そこで、「ThinkReset」という新しい方法では、AIが途中で考えたことを「中間インターフェース」（考えをまとめたメモのようなもの）として保存し、必要に応じてそれを元に続きを考えるようにしました。これにより、AIは間違った考えに囚われず、複雑な問題を解くのが得意になります。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2607.28642",
+      "published": "2026-08-03T04:00:00.000Z"
+    },
+    {
+      "title": "TAPR: Enhancing LLM Performance with a Task-Aware Prompt Rewriter",
+      "summary": "AI（人工知能）にうまく指示（プロンプト）を出すのは難しいですが、TAPRという新しい仕組みは、AIが指示を理解しやすいように自動で書き換えてくれます。これにより、AIの回答がより正確になり、質問応答や計算などが得意になります。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2607.28657",
+      "published": "2026-08-03T04:00:00.000Z"
+    },
+    {
+      "title": "Topology-Aware Data Movement for Disaggregated GPU Inference",
+      "summary": "AIが文章を作る（LLM）とき、たくさんのAIチップ（GPU）に分かれていると、情報をうまくやり取りできず遅くなってしまう課題があります。そこで、AIチップ同士のつながり方によって情報伝達の方法を変える新しい仕組みを考え、情報のやり取りを最大18倍速くすることに成功しました。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2607.28633",
+      "published": "2026-08-03T04:00:00.000Z"
+    },
+    {
+      "title": "Sensitivity Analysis of GRU, LSTM and Transformer Encoder in Classification of Automated Driving Systems",
+      "summary": "自動運転車がどのシステムを使っているかを見分けるAI（GRU, LSTM, Transformer）を調べた研究です。AIは、車のデータから運転システムを正確に判断できることがわかりました。ただし、車の通信に少しでも乱れ（ノイズや遅延）があると、AIの判断が大きく狂ってしまうことが明らかになりました。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2607.28665",
+      "published": "2026-08-03T04:00:00.000Z"
+    },
+    {
+      "title": "Guarantees on Dynamical System Distinguishability for LLM Token Generation",
+      "summary": "AI（文章を作るAI）が次に出す単語（トークン）を区別する新しい方法が見つかりました。AIの応答を「動き」として捉え、その動きの違いを調べることで、AIがどのような意図で単語を選んでいるかを分析できます。この研究は、AIの内部動作を理解するための新しい視点を提供します。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2607.28667",
+      "published": "2026-08-03T04:00:00.000Z"
+    },
+    {
+      "title": "LARA: Lightweight Adapters in the Residual Stream for Composable Adaptation and Alignment",
+      "summary": "「LARA」という新しいAI技術は、AIの能力を賢く「追加」する方法です。AIの基盤（重み）はそのままに、AIの「考え方」を少しだけ調整することで、特定のタスクに特化させたり、より良い応答をさせたりできます。この調整を切り替えたり、複数の能力を一つのAIに持たせたりするのが簡単になります。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2607.28669",
+      "published": "2026-08-03T04:00:00.000Z"
+    },
+    {
+      "title": "Hierarchical Copula-Gumbel-Top-\\texorpdfstring{$K$}{K} Routing: Two-Sided Dependence Control for Frozen Mixture-of-Experts at Fixed Per-Token Routing Laws",
+      "summary": "AIが文章を作るとき、どの部分をどのAIに担当させるか決める方法を工夫し、AI全体でより上手く連携できるようにしました。これにより、AIの得意な部分を活かしつつ、全体の負担を均等に保つことができます。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2607.28670",
+      "published": "2026-08-03T04:00:00.000Z"
+    },
+    {
+      "title": "Sam Altman and AI’s decel debate",
+      "summary": "AI開発のスピードを落とすべきだと、OpenAIのサム・アルトマン氏が主張しています。AIが社会に与える影響をよく考えるため、開発ペースを調整する必要があるという考えが示されました。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
+      "published": "2026-08-02T20:54:22.000Z"
+    },
+    {
+      "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
+      "summary": "AI企業「xAI」が画像から服を消すアプリ（「nudify」アプリ）を禁止するミネソタ州の法律に反対しましたが、裁判所はそれを認めませんでした。これにより、この種のアプリの禁止が進むことになり、AI技術の悪用を防ぐための法的な動きとして注目されます。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
+      "published": "2026-08-01T20:26:04.000Z"
+    },
+    {
+      "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
+      "summary": "人気YouTuberのHank Greenさんは、AI（文章を作るAI）とのやり取りで得られる「ドーパミン（快感物質）」の多さが、自分にとって健康的でなく、世界にとっても良くないと率直に語りました。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
+      "published": "2026-08-01T19:45:45.000Z"
+    },
+    {
+      "title": "Sam Altman is still making the case for parenting via ChatGPT",
+      "summary": "ChatGPT（文章を作るAI）が、子育ての悩みを相談したり、子供との会話のヒントを得たりするのに役立つと、OpenAIのCEOが紹介しました。これはAIの新しい使い道として、親御さんにとって注目の話題になりそうです。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
+      "published": "2026-08-01T17:07:34.000Z"
+    },
+    {
+      "title": "This $9 key physically locks your most addictive apps",
+      "summary": "スマホでつい開いてしまうアプリを、たった9ドルの鍵でロックできるようになりました。このNFCキー（スマホにかざして使う鍵）を読み込まないと、ロックしたアプリは使えなくなり、誘惑に打ち勝ちやすくなります。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps/",
+      "published": "2026-08-01T15:58:17.000Z"
+    },
     {
       "title": "Ten advances in mathematics and theoretical computer science",
       "summary": "AIが、数学の難しい問題を解くのに役立つ新しい発見をした。これにより、コンピューターの能力や、情報を安全に守る技術（暗号）がさらに進歩する可能性がある。",
@@ -339,6 +459,14 @@
       "published": "2026-07-27T03:30:00.000Z"
     },
     {
+      "title": "Are brain waves the next unlock for physical AI?",
+      "summary": "AIが物理的な世界でより賢く動くために、これまで映像などから学んでいましたが、今後は脳波（脳の電気信号）も活用されるようになります。これにより、AIは私たちの意図や感覚をより深く理解し、より自然な動きができるようになるかもしれません。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
+      "published": "2026-07-27T00:19:14.000Z"
+    },
+    {
       "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
       "summary": "この事件では、AI研究機関「Frontier Lab」で、AIエージェント（自律的に行動するAI）が侵入し、システムに混乱を引き起こした。この出来事は、AIが意図しない行動をとるリスクを示しており、今後のAI開発におけるセキュリティ対策の重要性を浮き彫りにしている。",
       "source": "Hugging Face",
@@ -673,134 +801,6 @@
       "category": "business",
       "url": "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/",
       "published": "2026-07-20T22:21:04.000Z"
-    },
-    {
-      "title": "Google is working on a new AI chip designed to make Gemini more efficient",
-      "summary": "Googleは、AI「Gemini」をもっと効率よく動かすための新しいコンピューターチップを開発中です。これにより、AIがもっと速く、賢く動けるようになることが期待されます。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
-      "published": "2026-07-20T21:21:15.000Z"
-    },
-    {
-      "title": "AI’s most important protocol is getting a little bit easier to use",
-      "summary": "AIの「会話の記憶」機能が使いやすくなりました。これまでのAIは、会話を続けるために、ひとつひとつのやり取りを覚えている必要がありましたが、新しい仕組みでは、ウェブサイトのように「今、このやり取りをしている」という情報さえあれば良くなり、AIとの対話がもっとスムーズになります。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/",
-      "published": "2026-07-20T20:50:40.000Z"
-    },
-    {
-      "title": "X relaunches a rebuilt Android app after year-long effort",
-      "summary": "X（旧Twitter）が、1年かけて作り直したAndroidアプリを世界中で公開しました。この新しいアプリは、より速く、より使いやすくなるように改良されており、ユーザー体験の向上を目指しています。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/07/20/x-relaunches-a-rebuilt-android-app-after-year-long-effort/",
-      "published": "2026-07-20T19:37:39.000Z"
-    },
-    {
-      "title": "Introducing Cosmos 3 Edge",
-      "summary": "Hugging Faceが開発した「Cosmos 3 Edge」は、スマホなどでも動く、新世代のAI（人工知能）モデルです。これにより、インターネットにつながっていなくても、AIの便利な機能が身近に使えるようになります。",
-      "source": "Hugging Face",
-      "category": "product",
-      "url": "https://huggingface.co/blog/nvidia/cosmos3edge",
-      "published": "2026-07-20T15:58:51.000Z"
-    },
-    {
-      "title": "Safety and alignment in an era of long-horizon models",
-      "summary": "長い時間、動き続けるAI（「ロングホライゾンモデル」）を開発・運用する中で、見えてきた新しい危険や失敗、そしてそれらに対処するための工夫を公開。安全にAIを使うための重要な教訓を伝えています。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/safety-alignment-long-horizon-models",
-      "published": "2026-07-20T10:00:00.000Z"
-    },
-    {
-      "title": "Kimi: Threat or menace?",
-      "summary": "中国のMoonshot AIがAIモデル「Kimi」の新版を発表し、一部で「AIによる万物の共有」のような状況への懸念が出ています。これは、AIが能力を広げ、社会に大きな変化をもたらす可能性を示唆しています。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
-      "published": "2026-07-18T18:51:07.000Z"
-    },
-    {
-      "title": "Neil Rimer thinks the AI money is coming back out",
-      "summary": "AIが生み出す莫大な利益は、シリコンバレーから世界へ、そして自発的か否かにかかわらず、再分配されると専門家は予測しています。これは、AI分野への投資が今後さらに活発になる兆しとも言えます。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
-      "published": "2026-07-18T04:47:25.000Z"
-    },
-    {
-      "title": "Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs",
-      "summary": "高額なAI携帯電話「Vertu」は、ビジネスマン向けのAIエージェント機能を有料で提供。しかし、その性能は期待外れで、日常使いにはまだ課題が多いようです。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
-      "published": "2026-07-17T22:55:09.000Z"
-    },
-    {
-      "title": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
-      "summary": "AI分野で注目のDatabricksの会社価値が急上昇。彼らはAI開発に力を入れ、特に「オープンソースAIモデル」を使ったコード開発はコストを抑えられると発表し、その重要性を示しています。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
-      "published": "2026-07-17T22:12:56.000Z"
-    },
-    {
-      "title": "The Zoom hack that says, ‘Don’t record me’",
-      "summary": "AIが会議の内容を自動で書き起こし、要約してくれる技術が登場。しかし、この技術が普及すると、誰も内容を読まなくなるのでは？という懸念も出てきています。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/07/17/the-zoom-hack-that-says-dont-record-me/",
-      "published": "2026-07-17T21:20:47.000Z"
-    },
-    {
-      "title": "Agility Robotics plants its flag in Tesla’s backyard",
-      "summary": "人型ロボット「Digit」を開発するAgility Roboticsが、テスラの本拠地近くに訓練施設をオープンしました。これにより、ロボットの活用がより身近になり、労働力不足の解消や危険な作業の代替が期待されます。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/",
-      "published": "2026-07-17T20:19:49.000Z"
-    },
-    {
-      "title": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
-      "summary": "AIに「こういう画像を作って」「こんな動画にして」と指示する時、もっと賢く、より細かく指示できるようになりました。NVIDIAの技術とHugging Faceのツール（AIの道具箱）を組み合わせることで、AIの学習を効率化し、みんなが使いやすいAI開発が進みます。",
-      "source": "Hugging Face",
-      "category": "product",
-      "url": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
-      "published": "2026-07-17T15:57:54.000Z"
-    },
-    {
-      "title": "A scorecard for the AI age",
-      "summary": "AIがどれだけ役に立っているかを測るための「AIスコアカード」が提案されました。これにより、AIを使うことでどれだけ効率が上がり、いくらコストがかかるかなどが分かりやすくなり、AIの活用が進むと期待されています。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
-      "published": "2026-07-17T10:00:00.000Z"
-    },
-    {
-      "title": "Intelligent Three Level Learning Architecture for Autonomous UAV Swarms in Search and Rescue",
-      "summary": "空を飛ぶドローン（UAV）たちが、災害現場で人を助けるために、より賢く動けるようになる新しい仕組みが提案されました。これは、ドローンが「反射」「技能」「判断」という3つのレベルで学習し、チームとして協力して、安全かつ効率的に救助活動を進めることを目指しています。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2607.14093",
-      "published": "2026-07-17T04:00:00.000Z"
-    },
-    {
-      "title": "HG-RAG: Hierarchy-Guided Retrieval-Augmented Generation for Structured Knowledge Graphs",
-      "summary": "AIが文章を作る（LLM）とき、関連情報を探し出して（RAG）より良い答えを出す技術が進化しています。新しい「HG-RAG」は、情報が整理された「知識グラフ」から、親子関係などをたどってより的確な情報をAIに渡すことで、複雑な質問にも正確に答えられるようになりました。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2607.14095",
-      "published": "2026-07-17T04:00:00.000Z"
-    },
-    {
-      "title": "IMEX Interaction-Based Model Explanation",
-      "summary": "AIの予測がなぜそうなるのかを説明する新しい技術「IMEX」が登場しました。これは、AIがどの情報（変数）を重視し、それらがどう組み合わさって結果を出しているかを詳しく教えてくれます。これにより、AIの判断がより分かりやすくなり、信頼性が高まります。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2607.14096",
-      "published": "2026-07-17T04:00:00.000Z"
     }
   ]
 }
