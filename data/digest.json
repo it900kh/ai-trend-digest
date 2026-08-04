@@ -1,7 +1,103 @@
 {
-  "updatedAt": "2026-08-03T23:01:15.889Z",
+  "updatedAt": "2026-08-04T23:05:27.082Z",
   "count": 100,
   "items": [
+    {
+      "title": "Anthropic signs $10B deal with AI cloud startup Volta",
+      "summary": "文章を作るAI（Anthropic）が、AIを動かすための特別なコンピューター（クラウド）を用意する会社（Volta）と、なんと100億ドル（約1兆5000億円）もの大きな契約を結んだそうです。これにより、AIの開発がさらに進むと期待されています。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
+      "published": "2026-08-04T19:48:40.000Z"
+    },
+    {
+      "title": "Meet Wrinkles, an app that uncovers the hidden stories of the places around you",
+      "summary": "このアプリ「Wrinkles」は、あなたの周りの場所の隠された物語を教えてくれるAI音声ガイドです。普段何気なく通り過ぎる場所にも、歴史や面白いエピソードがあることを教えてくれるので、街歩きがもっと楽しくなります。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/08/04/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places-around-you/",
+      "published": "2026-08-04T19:34:34.000Z"
+    },
+    {
+      "title": "Nvidia doesn’t mess around: A week after open AI industry group formed, it’s already showing progress",
+      "summary": "Nvidiaが中心となってできたAIの安全を守るための団体が、結成からわずか1週間で、AI（人工知能）の悪用を防ぐための提案をまとめました。これは、AI技術の進歩が速い中で、安全対策も迅速に進むことの重要性を示しています。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/",
+      "published": "2026-08-04T19:28:49.000Z"
+    },
+    {
+      "title": "Third-party cyber evaluations involving OpenAI models",
+      "summary": "OpenAIが、外部の専門家による自社のAI（人工知能）の安全性を試す取り組みで起きた出来事について説明し、AIの安全性をさらに高めるための新しい対策を発表しました。これにより、AIがさらに安全に利用できるようになることが期待されます。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+      "published": "2026-08-04T19:00:00.000Z"
+    },
+    {
+      "title": "Deploy local agents everywhere with LFM2.5-2.6B",
+      "summary": "AIが私たちのコンピュータ上で動くようになり、インターネットなしでも賢く振る舞えるようになった。この技術は、個人情報が心配な人や、いつもインターネットにつながらない場所でもAIを使いたい人にとって、とても便利になる。",
+      "source": "Hugging Face",
+      "category": "product",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
+      "published": "2026-08-04T13:58:29.000Z"
+    },
+    {
+      "title": "The latest AI news we announced in July 2026",
+      "summary": "Googleが2026年7月に発表したAIの最新情報によると、AIはさらに賢くなり、私たちの生活をより豊かにしてくれる技術が登場しました。これにより、これまで難しかったこともAIの助けを借りて簡単にできるようになります。",
+      "source": "Google AI Blog",
+      "category": "research",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
+      "published": "2026-08-04T13:00:00.000Z"
+    },
+    {
+      "title": "Uncertainty-Aware Simulation-Based Inference for Operations Research with Large Language Models",
+      "summary": "文章を作るAI（LLM）に、複雑な問題を解かせるのが難しい。そこで、AIが途中の考えの正しさを確かめながら、間違いのない計画（数理モデル）を立てられるようにする新しい方法を考えた。これにより、AIはより確実な結果を出せるようになる。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2608.00019",
+      "published": "2026-08-04T04:00:00.000Z"
+    },
+    {
+      "title": "Learning Compositional Meta-Routing for Agentic Workflows: An Executable Benchmark",
+      "summary": "AIが複雑な指示を理解し、最適な手順で実行するための新しい方法が提案されました。これは、AIが単に答えを出すだけでなく、どうやってその答えにたどり着くかの計画を立てる能力を高めるものです。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2608.00106",
+      "published": "2026-08-04T04:00:00.000Z"
+    },
+    {
+      "title": "MetaRoute-Bench: Evaluating Meta-Decision Policies for Agentic Workflow Routing",
+      "summary": "AIが指示をどうこなすか決める「進路選び」を評価する新しい仕組み「MetaRoute-Bench」ができました。これにより、AIが自分で考えて、より賢く、効率的に仕事を進める方法を見つけやすくなります。\nAIの進路選びの賢さを競うコンテストのようなもので、新しい進路選び方が、従来のやり方より少しだけ精度を上げつつ、コストや時間は少し増えることがわかりました。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2608.00107",
+      "published": "2026-08-04T04:00:00.000Z"
+    },
+    {
+      "title": "Progressive$^2$: A Teacher-Student Progressive Co-Evolving Knowledge Distillation Method for Substantial Model Compression",
+      "summary": "AIの「先生」役の大きなモデルから「生徒」役の小さなモデルへ知識を移す方法に、新しい「Progressive$^2$」という技術が登場しました。\nこれは、先生役が徐々に複雑な知識を教え、生徒役も徐々に小さくなりながら学ぶことで、より高性能な小さなAIを作ることを目指しています。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2608.00129",
+      "published": "2026-08-04T04:00:00.000Z"
+    },
+    {
+      "title": "Rethinking Pretraining for Specialized Design Data: Evidence from the JONES-19 Cultural Design Dataset",
+      "summary": "デザインの分野では、大量の一般的な画像データでAI（機械学習）を訓練するより、デザインに特化した少量のデータで基礎から学ばせた方が、AIの理解が深まることがわかりました。これは、デザインの知識は特殊なので、汎用的な訓練よりも、その分野のルールをしっかり教えることが大切だということを示しています。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2608.00135",
+      "published": "2026-08-04T04:00:00.000Z"
+    },
+    {
+      "title": "Apple is getting this wrong",
+      "summary": "OpenAIは、Appleからの訴訟（「根拠がない」と主張）について、自社の従業員に関する主張を訂正し、実際に何が起こったかを記録したメッセージを共有して反論しました。これは、AI開発における企業間の法的な争いが表面化した例として注目されています。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/apple-is-getting-this-wrong",
+      "published": "2026-08-03T22:00:00.000Z"
+    },
     {
       "title": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
       "summary": "AWSは、AIでアプリ開発を効率化するSuperblocks（プログラミングを助けるAIツール）を、顧客のプライベートなクラウド環境（会社専用のインターネット空間）で使えるようにしました。これは、AIの能力（モデル）と、それを使ったアプリを切り離す動きであり、開発の可能性を広げます。",
@@ -33,6 +129,30 @@
       "category": "business",
       "url": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/",
       "published": "2026-08-03T18:43:43.000Z"
+    },
+    {
+      "title": "Congress’ favorite AI tool? ChatGPT",
+      "summary": "アメリカ議会で一番使われているAIはChatGPT。議員さんたちが、書類を作ったり、法律をまとめたり、国民からの手紙に返事したりするのに役立てている。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
+      "published": "2026-08-03T16:40:55.000Z"
+    },
+    {
+      "title": "Inside our 353,000-person vibe coding course",
+      "summary": "Googleが提供した無料のAI講座で、35万人以上がAI（人工知能）を使ったプログラム（AIエージェント）を開発する方法を学びました。これにより、AIの新しい時代を切り開く人材育成を目指しています。",
+      "source": "Google AI Blog",
+      "category": "research",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/",
+      "published": "2026-08-03T15:00:00.000Z"
+    },
+    {
+      "title": "How we built a realtime system for responsive voice AI in six months",
+      "summary": "AIが途切れることなく会話できる「GPT-Live」が開発されました。話している最中にAIが応答を始め、まるで人間と話しているかのような自然なやりとりができるのが特徴です。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+      "published": "2026-08-03T07:00:00.000Z"
     },
     {
       "title": "OpenClaw and Ollama in Agentic AI: Toward Fully Autonomous and Scalable AI Agent Systems",
@@ -113,6 +233,14 @@
       "category": "research",
       "url": "https://arxiv.org/abs/2607.28670",
       "published": "2026-08-03T04:00:00.000Z"
+    },
+    {
+      "title": "Circles powers telco personalization with OpenAI technology",
+      "summary": "携帯電話会社が、文章を作るAI（OpenAI）の技術を使って、お客さんの好みに合ったサービスを提供できるようになりました。これにより、一人あたりの売上が増え、解約する人が減るという効果が出ています。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/circles",
+      "published": "2026-08-03T00:00:00.000Z"
     },
     {
       "title": "Sam Altman and AI’s decel debate",
@@ -673,134 +801,6 @@
       "category": "business",
       "url": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/",
       "published": "2026-07-22T19:11:46.000Z"
-    },
-    {
-      "title": "3 Google updates from Galaxy Unpacked 2026",
-      "summary": "サムスンから出る新しい折りたたみスマホなどで、GoogleのAIがさらに便利になり、時間が節約できるようになった。",
-      "source": "Google AI Blog",
-      "category": "research",
-      "url": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/",
-      "published": "2026-07-22T13:00:00.000Z"
-    },
-    {
-      "title": "Building AI infrastructure with the Effingham County community",
-      "summary": "OpenAIがジョージア州エフィンガム郡で「プロジェクト・カメリア」を発表。地域でのエネルギー利用や雇用創出、AI（コデックス）へのアクセス提供などを約束し、地域社会との協力を目指します。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
-      "published": "2026-07-22T13:00:00.000Z"
-    },
-    {
-      "title": "How news organizations are using AI to advance their vital missions",
-      "summary": "AI（人工知能）が、ニュースを作る人たちの手助けをしています。記事を書くのを助けたり、より多くの人にニュースを届けたり、会社をより良く運営したりするために使われ、世界中のジャーナリストや出版社を応援しています。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/how-news-organizations-are-using-ai",
-      "published": "2026-07-22T13:00:00.000Z"
-    },
-    {
-      "title": "Advancing the next era of national science",
-      "summary": "OpenAIは、アメリカの科学技術をさらに進めるため、アメリカエネルギー省などと協力して、最先端のAI（人工知能）を使い、新しい発見を速めることを発表しました。これは、AIが科学の発展に大きく貢献する新しい時代が始まることを意味します。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/advancing-the-next-era-of-national-science",
-      "published": "2026-07-22T12:00:00.000Z"
-    },
-    {
-      "title": "Introducing OpenAI Presence",
-      "summary": "OpenAIが、会社で使える「AIエージェント（指示をこなすAI）」の新しいシステム「OpenAI Presence」を発表しました。これを使うと、お客さんとのやり取りや社内の仕事（ワークフロー）を、声やチャットで自動化できる、信頼できるAIを作れます。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/introducing-openai-presence",
-      "published": "2026-07-22T05:30:00.000Z"
-    },
-    {
-      "title": "NTT DATA Group cuts incident analysis to 30 minutes with Codex",
-      "summary": "NTTデータグループは、AI（Codex）を使って、トラブル発生時の原因調査にかかる時間を30分に短縮しました。これにより、9000人の従業員がAIを活用して業務を効率化し、安全なAIの利用を広げることが可能になります。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/ntt-data",
-      "published": "2026-07-22T00:00:00.000Z"
-    },
-    {
-      "title": "The State of Simulation for Physical AI: An Overview",
-      "summary": "現実世界で賢く動くAI（物理AI）を育てるための「シミュレーション」（仮想空間での訓練）が、今、とても進化しています。これにより、AIは安全に、しかも効率よく、様々な動きや状況を学ぶことができ、ロボットなどの実用化が加速しています。",
-      "source": "Hugging Face",
-      "category": "product",
-      "url": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
-      "published": "2026-07-21T20:00:27.000Z"
-    },
-    {
-      "title": "Rater State Bias in RLHF Preference Data: An Audit Framework",
-      "summary": "AIに学習させるため、人間がAIの回答を評価する際、評価者の気分によって好みが変わってしまうことがある。この「気分のずれ」がAIの学習に影響し、意図しない偏りが生まれる可能性がある。これを調べるための新しい方法が提案された。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2607.16195",
-      "published": "2026-07-21T04:00:00.000Z"
-    },
-    {
-      "title": "Design and Validation of a Lightweight 1D CNN for Affective Touch Classification in Soft Plush Companions",
-      "summary": "ぬいぐるみなどの柔らかいおもちゃが人の触り方から感情を読み取る、新しいAI（人工知能）が開発されました。このAIは、たくさんの人の触り方データから学習し、感情を推測するのが得意です。\n\nこのAIは、おもちゃに組み込めるほど小さくて効率的です。人の感情を理解するおもちゃが、もっと身近になるかもしれません。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2607.16196",
-      "published": "2026-07-21T04:00:00.000Z"
-    },
-    {
-      "title": "Some Large Language Models Exhibit Consistent Risk Attitudes",
-      "summary": "AI（文章を作るAI）が、リスク（危険）があるとされる場面で、人と同じように一貫した考え方や行動をとることがわかった。これは、AIが現実世界で使われる上で、安全に判断できるかを調べるのに役立つ新しい発見だ。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2607.16197",
-      "published": "2026-07-21T04:00:00.000Z"
-    },
-    {
-      "title": "A Survey on GNN-based Link Prediction: Techniques, Applications, and Challenges",
-      "summary": "AIが、つながり（リンク）を予測する研究について、新しいまとめが出ました。AIの中でも「GNN（グラフ・ニューラル・ネットワーク）」という技術が、情報同士の隠れたつながりや、これからできるつながりを見つけるのに役立ちます。この記事では、GNNの仕組みや、どのように活用されているかを分かりやすく解説しています。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2607.16198",
-      "published": "2026-07-21T04:00:00.000Z"
-    },
-    {
-      "title": "PlanFlip: Attacking Multi-Agent LLM Systems via Planning-Phase Prompt Injection",
-      "summary": "AI（人工知能）が複数のAIと協力して複雑な作業を進めるシステムで、AIの指示を出す初期段階（プランニング段階）に攻撃を仕掛ける新しい方法「PlanFlip」が発見されました。これにより、AIが間違った指示を出し、後続のAIがすべて不正な作業をしてしまう危険性が示されました。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2607.16199",
-      "published": "2026-07-21T04:00:00.000Z"
-    },
-    {
-      "title": "Reinforcement Learning-Guided NSGA-II Enhanced with Gray Relational Coefficient for Multi-Objective Optimization: Application to NASDAQ Portfolio Optimization",
-      "summary": "AIが、株の「リスクを減らしつつリターンを増やす」という難しい両立を目指す技術を開発しました。これは、AIが自分で学習しながら、より良い組み合わせを見つけ出す仕組みで、実際にNASDAQの株で試したところ、より多くの「良い選択肢」を効率的に見つけられることが分かりました。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2607.16194",
-      "published": "2026-07-21T04:00:00.000Z"
-    },
-    {
-      "title": "DocOCR-Eval: A Correction-Based Framework for OCR Tool Selection Without Ground Truth",
-      "summary": "スキャンされた書類から文字を読み取るOCR（文字認識）ツールの性能を、手作業で正解を教えることなく自動で評価し、最適なツールを選ぶ方法が開発されました。これにより、書類の情報をAIで活用する際、どのツールが一番役立つかを簡単に見つけられるようになります。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2607.16203",
-      "published": "2026-07-21T04:00:00.000Z"
-    },
-    {
-      "title": "Fully-sensorized smart-eyewear platform for on-device Machine Learning",
-      "summary": "メガネ型コンピューターARGOは、メガネの上でAI（人工知能）が動くので、インターネットにつながらなくても、あなたの見たもの（障害物など）をすぐに認識できます。\nこの技術は、プライバシーを守りつつ、より安全で便利な未来の道具につながるかもしれません。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2607.16222",
-      "published": "2026-07-21T04:00:00.000Z"
-    },
-    {
-      "title": "LLM Unlearning for Cyber Defense: A Survey on Methods, Challenges, and Emerging Threats",
-      "summary": "AI（文章を作るAI）が、一度学習した機密情報などを忘れることができない問題が起きています。これに対処するため、AIから特定の情報を消す技術「アンラーニング（忘却）」が開発されています。この技術は、AIを安全に使い続けるために重要ですが、本当に情報が消えたのか確認するのが難しいという課題があります。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2607.16227",
-      "published": "2026-07-21T04:00:00.000Z"
     }
   ]
 }
