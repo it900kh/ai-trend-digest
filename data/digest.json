@@ -1,7 +1,127 @@
 {
-  "updatedAt": "2026-08-04T23:05:27.082Z",
+  "updatedAt": "2026-08-05T23:00:21.437Z",
   "count": 100,
   "items": [
+    {
+      "title": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders",
+      "summary": "EC（ネット通販）で大人気のKlaviyoが、AI（人工知能）で起業家を助ける会社をまるごと買収しました。この買収で、起業家だったエリヤス・トーレスさんがKlaviyoの新しい役員として、AIを使ったサービス（AIエージェント）を率いることになります。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/",
+      "published": "2026-08-05T20:05:00.000Z"
+    },
+    {
+      "title": "Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
+      "summary": "GoogleのトップAI研究者たちが、科学の発見をAIで加速させるため、新しい会社を立ち上げます。これは、AIの力が科学の進歩を大きく変える可能性を示唆する、注目の動きです。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/",
+      "published": "2026-08-05T19:30:19.000Z"
+    },
+    {
+      "title": "Shopify says AI search is driving more traffic and sales, not replacing Google",
+      "summary": "Shopifyによると、AI検索はGoogle検索を奪うのではなく、むしろ増やす効果がある。AIを使った検索からお店へのアクセスや注文が、去年の同じ時期と比べて3倍になった。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google/",
+      "published": "2026-08-05T15:56:14.000Z"
+    },
+    {
+      "title": "ISEE: Interactive Semantic Enrichment for Database Fields",
+      "summary": "AIがデータベースの情報を理解するには、情報の意味がはっきりしていることが大切です。でも、実際には意味が分かりにくい情報が多く、AIの性能が落ちてしまうことがあります。このシステムは、AIが情報の意味をより深く理解できるよう、人間と協力して情報を補っていく新しい方法です。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2608.02604",
+      "published": "2026-08-05T04:00:00.000Z"
+    },
+    {
+      "title": "Self-Organising Digital Circuits",
+      "summary": "AIが、壊れた部分があっても自分で考えて、正しい働きをする回路を組み立てられるようになった。これは、生物の体が傷を治す仕組みにヒントを得ていて、AIが自分で学習して、新しい回路をデザインしたり、問題が起きてもすぐに別の方法で解決したりできるすごい技術だ。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2608.02606",
+      "published": "2026-08-05T04:00:00.000Z"
+    },
+    {
+      "title": "Beyond the Hivemind: Escaping LLM Homogeneity via Meta-Persona Anchoring and Sequential Temperature Scaling",
+      "summary": "AIがみんな同じような答えしか出さなくなる「AIの群集心理」という問題があります。これを解決するため、AIに「自分だけの個性」をまず決めさせ、それから多様な考え方を探る方法が提案されました。これにより、AIの回答のばらつきが大きくなり、より人間らしい、豊かな表現が可能になります。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2608.02618",
+      "published": "2026-08-05T04:00:00.000Z"
+    },
+    {
+      "title": "PULSE: An Executable Contract Language for Spatiotemporal Knowledge Graph Engineering",
+      "summary": "「PULSE」という新しいAI技術が登場しました。これは、時間と場所の情報（時空間知識グラフ）を扱うためのもので、AIが情報をどのように記録・管理するかを明確に決める「契約」を、AI自身の中に閉じ込めることができます。これにより、情報の正確性や安全性が高まります。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2608.02630",
+      "published": "2026-08-05T04:00:00.000Z"
+    },
+    {
+      "title": "HyperAgent: Planning and Acting over Tool-Schema Hypergraphs for Tool-Use LLM Agents",
+      "summary": "AIが「道具」を使って複雑な仕事をこなすとき、どうやって一番良い道具の組み合わせを見つけるか、という新しい方法「HyperAgent」が提案されました。\nこの方法は、道具とその使い方を分かりやすく整理して、AIが迷わず、効率的に仕事を進められるようにします。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2608.02650",
+      "published": "2026-08-05T04:00:00.000Z"
+    },
+    {
+      "title": "Deep Divide-and-Reduce in Symbolic Regression",
+      "summary": "この研究は、データから隠された規則性を見つけて数式で表すAI（シンボリック回帰）の新しい方法「DDRSR」を提案しています。これまでAIは複雑な数式をうまく扱えませんでしたが、DDRSRは数式の分解と簡略化をより賢く行い、複雑な問題も解ける可能性を高めます。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2608.02628",
+      "published": "2026-08-05T04:00:00.000Z"
+    },
+    {
+      "title": "Multimodal Auto-regressive Transformer Surrogate for Modeling Variable Operations and Quantifying Uncertainty in Geological Carbon Storage",
+      "summary": "地下に二酸化炭素を貯める技術の効率を上げるため、AIが新しい方法でシミュレーションできるようになりました。これにより、貯まり具合を予測し、どれくらい安全かを確かめることができるようになり、貯留層の管理がより正確にできるようになります。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2608.02629",
+      "published": "2026-08-05T04:00:00.000Z"
+    },
+    {
+      "title": "LLMs Can Annotate Attribution Graphs",
+      "summary": "AI（文章を作るAI）が、AIの「思考」の仕組みを調べる作業を助けてくれるようになりました。これにより、AIがどのように情報を処理しているかを見つけ出すのが早くなり、AIの理解が深まることが期待されます。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2608.02632",
+      "published": "2026-08-05T04:00:00.000Z"
+    },
+    {
+      "title": "GeoID-PINN: Identifiability-Aware Regional Epidemic Inference with Geographic Coupling",
+      "summary": "感染症が地域ごとにどう広がるか、その原因をAIがより正確に調べる新しい方法「GeoID-PINN」が開発されました。地域間の人の移動などを考慮することで、感染状況をより詳しく分析できるようになり、今後の感染症対策に役立ちます。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2608.02633",
+      "published": "2026-08-05T04:00:00.000Z"
+    },
+    {
+      "title": "Verifier-Guided Model Discovery for Physical Dynamical Systems with Pretrained Symbolic Transformers",
+      "summary": "AIが、複雑な物理現象の動きを予測する新しい方法を見つけました。これは、AIがたくさんのデータから「なぜそうなるのか」という法則を見つけるのを助ける仕組みです。これにより、科学や工学で役立つ、より信頼できるAI予測が可能になります。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2608.02662",
+      "published": "2026-08-05T04:00:00.000Z"
+    },
+    {
+      "title": "SpaceX has bought $329M worth of Tesla Megapacks so far this year",
+      "summary": "イーロン・マスク氏が経営するSpaceXが、今年に入ってからTesla（テスラ）の大型バッテリー「Megapacks」を3億2900万ドル（約500億円）分も購入した。これは、マスク氏の会社同士が強く連携していることを示している。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/",
+      "published": "2026-08-04T21:07:26.000Z"
+    },
+    {
+      "title": "Open-weight AI models are catching up to the frontier. The safety gap remains.",
+      "summary": "性能の高いAIが、誰でも使える形で急速に進化している。しかし、安全対策が追いついていないため、危険な使われ方をする心配が出てきている。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
+      "published": "2026-08-04T20:05:26.000Z"
+    },
     {
       "title": "Anthropic signs $10B deal with AI cloud startup Volta",
       "summary": "文章を作るAI（Anthropic）が、AIを動かすための特別なコンピューター（クラウド）を用意する会社（Volta）と、なんと100億ドル（約1兆5000億円）もの大きな契約を結んだそうです。これにより、AIの開発がさらに進むと期待されています。",
@@ -89,6 +209,14 @@
       "category": "research",
       "url": "https://arxiv.org/abs/2608.00135",
       "published": "2026-08-04T04:00:00.000Z"
+    },
+    {
+      "title": "New ways to learn and teach with ChatGPT Work and Codex",
+      "summary": "ChatGPT（文章を作るAI）やCodex（コードを作るAI）で、学校や大学の先生、学生が学びや教え方を深めたり、調べたり、ものづくりをしたりできる新しい機能が登場しました。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
+      "published": "2026-08-04T00:00:00.000Z"
     },
     {
       "title": "Apple is getting this wrong",
@@ -673,134 +801,6 @@
       "category": "business",
       "url": "https://techcrunch.com/2026/07/22/servicenow-bets-40m-on-indian-firm-businessnext-at-700m-valuation-to-deepen-banking-ai-push/",
       "published": "2026-07-23T06:09:13.000Z"
-    },
-    {
-      "title": "FineServe: A Fine-Grained Dataset and Characterization of Global LLM Serving Workloads",
-      "summary": "AI（文章を作るAI）をもっと速く、たくさんの人に便利に使うための新しいデータセット「FineServe」ができました。色々なAIが同時に動く中で、どうすれば効率よく、みんなの要望にすぐ応えられるかが課題でしたが、このデータで実情が詳しく分かり、AIの性能を正しく測る手助けになります。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2607.19349",
-      "published": "2026-07-23T04:00:00.000Z"
-    },
-    {
-      "title": "Hybrid LSTM-Graph Neural Framework for Robust Financial Fraud Detection and Adversarial Resilience",
-      "summary": "このAIは、お金の流れをグラフのように見て、詐欺を見つけるのが得意です。時間の流れと複雑な関係性を同時に捉えることで、これまで見逃されがちだった少額の不正も見つけやすく、詐欺師の新しい手口にも強くなりました。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2607.19350",
-      "published": "2026-07-23T04:00:00.000Z"
-    },
-    {
-      "title": "OpenEvoShield: Dual Non-Stationary Continual Defense for Open-World Multi-Agent System Attacks",
-      "summary": "AI（人工知能）が連携するシステムでは、悪意のある指示が混ざって不正な動きをする攻撃が起こりえます。この新技術「OpenEvoShield」は、AI同士のやり取りを監視し、攻撃を効果的に見抜くための防御システムです。AIの振る舞いは時間とともに変わっても、このシステムは新しい攻撃にも対応でき、安全を守ります。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2607.19351",
-      "published": "2026-07-23T04:00:00.000Z"
-    },
-    {
-      "title": "Benchmarking Confidential GPU Inference on NVIDIA H100 under Intel TDX",
-      "summary": "AIが機密情報（個人情報など）を扱う際、情報を守りながら計算する技術（機密コンピューティング）の性能を調べました。AI（大規模言語モデル）がGPU（計算を速くする部品）で動くとき、この技術を使うと計算に時間がかかることが分かりましたが、それでも実用的な性能を保てる可能性が示されました。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2607.19353",
-      "published": "2026-07-23T04:00:00.000Z"
-    },
-    {
-      "title": "FormulaSPIN: Self-Play Fine-Tuning for Natural Language to Spreadsheet Formula Generation",
-      "summary": "Excelなどの表計算ソフトで、文章で指示するだけで自動で計算式を作るAI「FormulaSPIN」が開発されました。これは、AIが自分自身で練習を繰り返し、より正確な計算式を作れるようになる画期的な方法で、データが少なくても性能を上げられる可能性があります。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2607.19354",
-      "published": "2026-07-23T04:00:00.000Z"
-    },
-    {
-      "title": "Native Multi-Dimensional Subquadratic Operators via Input Dependent Long Convolutions",
-      "summary": "AIが画像のような多次元データを扱うとき、これまで効率が悪かったり、データの構造を壊したりする問題がありました。新しいAI技術「HyenaND」は、この問題を解決し、AIがより自然な形で多次元データを理解できるようになります。これにより、医療画像解析などがさらに進化する可能性があります。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2607.19378",
-      "published": "2026-07-23T04:00:00.000Z"
-    },
-    {
-      "title": "Bayesian Wind Tunnels for Model Selection",
-      "summary": "AIが、たくさんの選択肢の中から「これが一番！」というものを選ぶ「モデル選択」という新しい方法を開発しました。この技術は、AIがデータから一番適切な考え方（仮説クラス）を見つけ出すのを助け、これまで難しかった複雑な問題解決に応用できる可能性があります。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2607.19379",
-      "published": "2026-07-23T04:00:00.000Z"
-    },
-    {
-      "title": "CruiseBench: A Real-Flight-Aligned N-CMAPSS Benchmark for Engine RUL Prediction",
-      "summary": "飛行機のエンジンがいつまで安全に動くかを予測することは、メンテナンス計画でとても大切です。この研究では、実際の飛行データを使った新しい予測方法「CruiseBench」を開発しました。これにより、エンジンの状態をより正確に予測できるため、安全な飛行と効率的なメンテナンスにつながることが期待されます。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2607.19380",
-      "published": "2026-07-23T04:00:00.000Z"
-    },
-    {
-      "title": "Air Quality Arena: A Large-Scale Multi-Region Ground Monitoring Dataset and Benchmark for Air Quality Forecasting with Time-Series Foundation Models",
-      "summary": "空気の汚れは世界中で多くの人の命を縮める原因です。そこで、AIを使って空気の汚れを予測する新しいデータセットと評価方法「AQA」が作られました。これは、世界中の多くの場所で、色々な種類の空気の汚れを、AIがどれだけ正確に予測できるかを調べるためのものです。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2607.19381",
-      "published": "2026-07-23T04:00:00.000Z"
-    },
-    {
-      "title": "Challenges of Explainability in Continual Learning for Time Series Forecasting",
-      "summary": "AIが過去のデータから新しいことを学び続ける（継続学習）とき、なぜそのような判断をしたのかが分かりにくいという問題があります。この記事では、特に時間の流れとともに変化するデータ（時系列データ）の予測に、AIがどのように学習し、その理由をどう理解するかを研究しています。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2607.19382",
-      "published": "2026-07-23T04:00:00.000Z"
-    },
-    {
-      "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
-      "summary": "AIが文章を作るだけでなく、絵を描くような「拡散モデル」の計算を速くする新しい技術が登場。これにより、もっと身近なパソコンでもAIの画像生成が気軽にできるようになり、クリエイティブな活動の可能性が広がる。",
-      "source": "Hugging Face",
-      "category": "product",
-      "url": "https://huggingface.co/blog/nunchaku-diffusers",
-      "published": "2026-07-23T00:00:00.000Z"
-    },
-    {
-      "title": "Launching Health in ChatGPT",
-      "summary": "ChatGPTで健康情報を活用できるようになりました。アメリカの一部のユーザーは、医療記録やApple Health（健康管理アプリ）を安全につなぎ、より自分に合った健康のヒントを得られるようになります。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/health-in-chatgpt",
-      "published": "2026-07-23T00:00:00.000Z"
-    },
-    {
-      "title": "After shocking quarter, IBM insists that AI isn’t killing the mainframe",
-      "summary": "AI（人工知能）の台頭で、IBMのコンピューター（メインフレーム）の売上が一時的に落ち込んでいます。しかし、IBMはAIがメインフレームの需要をなくすわけではないと主張しています。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/",
-      "published": "2026-07-22T23:47:54.000Z"
-    },
-    {
-      "title": "Google justifies its massive AI spending with a booming cloud business",
-      "summary": "Googleは、AI（人工知能）関連のサービスに巨額の投資をしており、それがクラウド事業の急成長を支えています。このAI技術の活用が、Googleの過去最高の利益につながっているのです。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/",
-      "published": "2026-07-22T22:01:52.000Z"
-    },
-    {
-      "title": "Treasury threatens sanctions after White House claims Moonshot distilled Anthropic’s Fable",
-      "summary": "アメリカ政府が、中国のAI（人工知能）技術がアメリカのAI企業（Anthropic）の技術を盗んだと主張し、制裁を検討している。これは、海外のAI技術がアメリカの安全保障に与える影響について、議論を深めるきっかけとなっている。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/",
-      "published": "2026-07-22T20:49:03.000Z"
-    },
-    {
-      "title": "How OpenAI’s human mistake led to the AI-powered hack on Hugging Face",
-      "summary": "OpenAIがAIの安全なテスト場所を間違って設定したことが原因で、Hugging FaceというAI開発者のサービスがAIを使ってハッキングされる事件が起きました。このミスは、AIの安全な利用における人間の注意の重要性を示しています。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/",
-      "published": "2026-07-22T19:11:46.000Z"
     }
   ]
 }
