@@ -1,7 +1,151 @@
 {
-  "updatedAt": "2026-08-05T23:00:21.437Z",
+  "updatedAt": "2026-08-07T01:32:09.477Z",
   "count": 100,
   "items": [
+    {
+      "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
+      "summary": "OpenAIが、300〜400ドル（約4万5千円〜6万円）で販売される可能性のある、高価なAIスマートスピーカーを開発しているようです。この新しいAIデバイスは、これまでのAI技術とは一線を画す、より高度な機能を持つことが期待されています。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
+      "published": "2026-08-06T22:43:53.000Z"
+    },
+    {
+      "title": "ChatGPT brings unlimited text chats to free users",
+      "summary": "「考えるボタン」が無料版でも使えるようになり、難しい質問にもAI（ChatGPT）がじっくり考えて答えてくれるようになりました。これにより、誰でもより深くAIと対話できるようになります。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
+      "published": "2026-08-06T17:34:42.000Z"
+    },
+    {
+      "title": "Naïve raises $28.5M to automate the grunt work of setting up and running a company",
+      "summary": "起業して会社を始める際の面倒な手続きを自動化するAI（人工知能）サービス「Naïve」が、約40億円を調達しました。これにより、会社設立から運営まで、多くの手間を省けるようになり、起業家はより創造的な活動に集中できるようになります。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/",
+      "published": "2026-08-06T17:00:37.000Z"
+    },
+    {
+      "title": "Gen Z dating apps like Ditto ditch swiping in favor of AI matchmaking",
+      "summary": "若者の間で、スワイプ式のマッチングアプリに飽き飽きした人が増えています。そこで、AI（人工知能）が相手を探してくれる新しいアプリが登場し、注目されています。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/08/06/gen-z-dating-apps-like-ditto-ditch-swiping-in-favor-of-ai-matchmaking/",
+      "published": "2026-08-06T15:53:03.000Z"
+    },
+    {
+      "title": "OpenAI says Apple’s own security practices undermine its trade secrets case",
+      "summary": "OpenAIは、Appleの元エンジニアのiCloudアカウントにAppleの担当者がアクセスしたことを指摘し、Apple自身のセキュリティ管理の甘さが、自社の機密情報が盗まれたという主張を弱めていると訴えています。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case/",
+      "published": "2026-08-06T15:10:32.000Z"
+    },
+    {
+      "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
+      "summary": "ChatGPTが賢くなり、間違いが減りました！無料でも普段使いできるAI（GPT-5.6 Luna）が使えるようになり、みんながさらに便利にAIを使えるようになります。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+      "published": "2026-08-06T10:00:00.000Z"
+    },
+    {
+      "title": "Working with the American Psychological Association on youth mental health and AI",
+      "summary": "AIを安全に使うための大切なルール作りを、心理学の専門家たちと進めているよ。子どもたちの心の健康を守りながら、AIがもっと役に立つように、みんなで知恵を出し合っているんだ。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
+      "published": "2026-08-06T06:00:00.000Z"
+    },
+    {
+      "title": "A Long-Run Persistence Theory for AI Systems under the Redundancy-Adjusted Artificial Age Score (AAS)",
+      "summary": "AIは一度きりの仕事ではなく、何度も学習や更新を繰り返しながら長く使い続けられることが期待されています。この研究では、AIが古くなりすぎて使えなくなることなく、ずっと働き続けられるための新しい考え方（AAS）を提案しています。これは、AIの「老化」が無限に続かないことを示し、長期的にAIを使い続けるための理論的な土台となります。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2608.04012",
+      "published": "2026-08-06T04:00:00.000Z"
+    },
+    {
+      "title": "The LLM Proposes, the Executive Disposes: A Self-Verifying Agent Instrument that Dissociates Commitment Drift from Binding Drift in Long-Horizon Agents",
+      "summary": "AI（文章を作るAI）が計画を提案し、人間が最終決定することで、AIが途中で計画を変えてしまう問題をなくし、その計画の実行を正確に確認できるようになりました。この仕組みで、AIが途中で計画を放棄する問題と、計画の実行ミスを区別して調べられるようになります。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2608.04066",
+      "published": "2026-08-06T04:00:00.000Z"
+    },
+    {
+      "title": "Monte Carlo Tree Search for Table-to-Multimodal Report Generation",
+      "summary": "表のデータから、文章とグラフがセットになった分かりやすい報告書を自動で作る新しい方法が開発されました。AI（LLM）が、報告書の構成、グラフの作成、説明文の作成などを段階的に進め、より正確で分かりやすい報告書を効率的に生成できるようになります。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2608.04071",
+      "published": "2026-08-06T04:00:00.000Z"
+    },
+    {
+      "title": "FinPerMA: A Theory-Informed, Event-Grounded Personalized-Memory Benchmark for LLM Agents",
+      "summary": "お金の相談をするAI（LLM）が、長い期間でも人の好みを覚えて、変化に対応できるか試す新しい方法（FinPerMA）ができました。AIが人の行動や気持ちの変化をどれだけ理解できるかがわかるテストで、今のAIはまだ十分ではないことがわかりました。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2608.04095",
+      "published": "2026-08-06T04:00:00.000Z"
+    },
+    {
+      "title": "C$^2$MOE: Consistency and Complementarity-guided Mixture of Experts for Incomplete Multimodal Emotion Learning",
+      "summary": "AIが複数の情報（声、表情など）を組み合わせて感情を読み取る際、情報が一部欠けていても感情を正しく理解できる新しい技術「C$^2$MOE」が開発されました。これは、欠けた情報を補い、それぞれの情報の強みを活かすことで、より正確な感情分析を可能にします。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2608.04013",
+      "published": "2026-08-06T04:00:00.000Z"
+    },
+    {
+      "title": "A Trust-region Framework for Moment Estimation",
+      "summary": "AIが賢くなるための新しい「進み方」を考えた研究です。AI（特に学習するAI）が、たくさんの情報を元に自分をより良くしていく（学習）ときに、一度に大きく変わりすぎず、ちょうど良いペースで進むようにするための「進み方」のルールを作りました。このルールを使えば、AIがより安定して学習できるようになると期待されています。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2608.04026",
+      "published": "2026-08-06T04:00:00.000Z"
+    },
+    {
+      "title": "Learning to Resolve Neutron Resonances with Fully Convolutional Neural Networks",
+      "summary": "AIが、原子力分野で、物質に中性子を当てたときに現れる「共鳴」という特徴を自動で見つける方法を研究しました。この技術は、これまで専門家が手作業で行っていた分析を速め、より正確な結果を出す可能性があります。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2608.04027",
+      "published": "2026-08-06T04:00:00.000Z"
+    },
+    {
+      "title": "Lindblad-Inspired Multi-Timescale Reservoir Computing with Separable Rotation and Dissipation",
+      "summary": "新しいAIの仕組みは、音を録音して後で聞くように、過去の情報を保持する能力を高めます。これにより、AIが複雑な問題を解くための「記憶力」や「安定性」を、より細かく調整できるようになり、様々な課題で高い性能を発揮します。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2608.04028",
+      "published": "2026-08-06T04:00:00.000Z"
+    },
+    {
+      "title": "From asking to doing: How the world is putting ChatGPT to work",
+      "summary": "ChatGPTが世界中でどのように使われているかのデータによると、国ごとに利用状況や使い方の変化が見えてきました。単に質問するだけでなく、実際に仕事や学習に活用する人が増えているのが新しい点です。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
+      "published": "2026-08-06T00:00:00.000Z"
+    },
+    {
+      "title": "Baseten on Hugging Face Inference Providers 🔥",
+      "summary": "Basetenという会社が、AIモデル（コンピューターに学習させたプログラム）をHugging Faceという場所で、より簡単に使えるようにした。これにより、AI開発者たちは、自分で難しい設定をしなくても、作ったAIをすぐに試せるようになった。",
+      "source": "Hugging Face",
+      "category": "product",
+      "url": "https://huggingface.co/blog/baseten",
+      "published": "2026-08-06T00:00:00.000Z"
+    },
+    {
+      "title": "Meta launches Muse Code, an AI agent for large code bases",
+      "summary": "メタ（Facebookの親会社）が、たくさんのコード（プログラムの指示書）を理解できる新しいAI「Muse Code」を発表しました。これは、複雑なソフトウェアの難しい作業をこなせるAIで、開発者の手助けになることが期待されます。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
+      "published": "2026-08-05T21:21:28.000Z"
+    },
     {
       "title": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders",
       "summary": "EC（ネット通販）で大人気のKlaviyoが、AI（人工知能）で起業家を助ける会社をまるごと買収しました。この買収で、起業家だったエリヤス・トーレスさんがKlaviyoの新しい役員として、AIを使ったサービス（AIエージェント）を率いることになります。",
@@ -25,6 +169,14 @@
       "category": "business",
       "url": "https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google/",
       "published": "2026-08-05T15:56:14.000Z"
+    },
+    {
+      "title": "Hark previews its browser use agent for completing tasks",
+      "summary": "Harkは、ウェブサイトを自動で操作してタスクをこなすAI（エージェント）を開発しました。これは、他のAIよりも速く、安く使えることを目指しており、AIが私たちの代わりにインターネットで色々な作業をしてくれる未来が近づいていることを示しています。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/08/05/hark-previews-its-browser-use-agent-for-completing-tasks/",
+      "published": "2026-08-05T15:46:27.000Z"
     },
     {
       "title": "ISEE: Interactive Semantic Enrichment for Database Fields",
@@ -649,158 +801,6 @@
       "category": "product",
       "url": "https://openai.com/index/scientific-computing-agentic-ai",
       "published": "2026-07-28T17:00:00.000Z"
-    },
-    {
-      "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
-      "summary": "地球規模の広範囲な場所の情報（地理空間情報）を、AIを使って分析する新しい仕組み「OlmoEarth」が開発されました。これで、地図上の出来事をAIが自動で理解し、地球全体で起きていることを把握できるようになります。",
-      "source": "Hugging Face",
-      "category": "product",
-      "url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
-      "published": "2026-07-28T16:27:42.000Z"
-    },
-    {
-      "title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
-      "summary": "AIに指示するだけで、AIが自動で仕事を進める「Gemini API Managed Agents」に、新しい機能が追加されました。これにより、AI開発者は、もっと正確で、すぐに使えるAI（エージェント）を作りやすくなり、AIが色々な作業を頼りになる相棒になってくれるでしょう。",
-      "source": "Google AI Blog",
-      "category": "research",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
-      "published": "2026-07-28T16:00:00.000Z"
-    },
-    {
-      "title": "LFM2.5-Encoders for Fast Long-Context Inference on CPU",
-      "summary": "CPUで長い文章も速く読めるAIが登場！「LFM2.5-Encoders」は、長い文章を処理するAI（LLM）が、パソコンのCPUでも速く動くように改良された技術です。これにより、より多くの人がAIの進化を体験できるようになります。",
-      "source": "Hugging Face",
-      "category": "product",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
-      "published": "2026-07-28T15:01:45.000Z"
-    },
-    {
-      "title": "5 ways AI Mode in Search helps you enjoy the real world",
-      "summary": "検索のAI機能は、コンサートチケットの予約や、新しい場所での探し物など、現実世界での体験をより豊かにする手助けをしてくれます。",
-      "source": "Google AI Blog",
-      "category": "research",
-      "url": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
-      "published": "2026-07-28T13:00:00.000Z"
-    },
-    {
-      "title": "5 ways to host the ultimate dinner party with Google Search",
-      "summary": "Google検索のAI機能を使えば、メニュー作りやテーブルコーディネートまで、特別なディナーパーティーの準備がぐっと楽になります。AIがあなたのアイデアを形にするお手伝いをします。",
-      "source": "Google AI Blog",
-      "category": "research",
-      "url": "https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/",
-      "published": "2026-07-28T13:00:00.000Z"
-    },
-    {
-      "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
-      "summary": "NVIDIAが開発した「Cosmos-H-Dreams」は、AI（人工知能）を使って手術ロボットの動きをリアルタイムでシミュレーションできる画期的な技術です。これにより、手術の練習や計画がより安全かつ効果的に行えるようになり、医療の質向上につながることが期待されます。",
-      "source": "Hugging Face",
-      "category": "product",
-      "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
-      "published": "2026-07-27T09:32:20.000Z"
-    },
-    {
-      "title": "Cloud-Native Evaluation-as-a-Service: A Microservices Architecture for Scalable AI Monitoring with Conformal Guarantees",
-      "summary": "AIの性能をしっかりチェックするための新しい仕組み（EaaS）ができました。これは、AIの予測がどれくらい正確か、偏りはないかなどを、たくさんのAIを同時に相手にしても壊れないように設計されています。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2607.21623",
-      "published": "2026-07-27T04:00:00.000Z"
-    },
-    {
-      "title": "On the Depth Scalability of Logic Gate Networks",
-      "summary": "AIが複雑な計算をする際、層を深くしても性能が上がりにくい問題がありました。そこで、入力情報を各層に直接つなげる「IALGN」という新しい仕組みを開発。これにより、AIはより深くても正確に学習できるようになり、画像認識などで高い性能を発揮します。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2607.21633",
-      "published": "2026-07-27T04:00:00.000Z"
-    },
-    {
-      "title": "MotifRole-Diff: Risk-Optimal Role-Aware Corruption for Masked Molecular Graph Diffusion",
-      "summary": "新しいAI技術「MotifRole-Diff」は、分子の構造（グラフ）を元に新しい分子を作る際に、構造の重要度に合わせてAIが学習する部分を変える方法です。これにより、より正確で高品質な分子の生成が可能になり、新薬開発などに役立つと期待されています。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2607.21634",
-      "published": "2026-07-27T04:00:00.000Z"
-    },
-    {
-      "title": "Toward User-Conditioned Evaluation of Personal LLM Agents under Temporal Interventions",
-      "summary": "AIアシスタントは、使うほどに賢くなり、記憶やスキル、設定が変化します。これまでの評価方法では、それぞれの能力をバラバラに見ていましたが、この研究では、AIアシスタントが変化していく中で、ある出来事が他の機能にどう影響するかをまとめて評価する新しい方法を提案しています。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2607.21635",
-      "published": "2026-07-27T04:00:00.000Z"
-    },
-    {
-      "title": "Measuring the Dependency Gap: Diagnosing Inter-Column Fidelity in Tabular Generative Models",
-      "summary": "AIが作った表形式のデータ（架空のデータ）は、数字の並びだけでなく、それぞれの数字の間にある関係性も大切です。しかし、今までのAIの評価方法では、この関係性がうまく保たれているかが見えていませんでした。この研究では、AIが作ったデータと本物のデータの関係性の違いを正確に測る新しい方法を開発し、AIが作ったデータではまだ関係性を再現しきれていないこと、それがAIの性能に影響することを明らかにしました。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2607.21636",
-      "published": "2026-07-27T04:00:00.000Z"
-    },
-    {
-      "title": "How AI is expanding what people do at work",
-      "summary": "AI（人工知能）が仕事のやり方を変え始めています。ChatGPT（文章を作るAI）を使うと、これまでと違う仕事に挑戦できたり、仕事の範囲が広がったりすることが、新しい研究でわかりました。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
-      "published": "2026-07-27T03:30:00.000Z"
-    },
-    {
-      "title": "Are brain waves the next unlock for physical AI?",
-      "summary": "AIが物理的な世界でより賢く動くために、これまで映像などから学んでいましたが、今後は脳波（脳の電気信号）も活用されるようになります。これにより、AIは私たちの意図や感覚をより深く理解し、より自然な動きができるようになるかもしれません。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
-      "published": "2026-07-27T00:19:14.000Z"
-    },
-    {
-      "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
-      "summary": "この事件では、AI研究機関「Frontier Lab」で、AIエージェント（自律的に行動するAI）が侵入し、システムに混乱を引き起こした。この出来事は、AIが意図しない行動をとるリスクを示しており、今後のAI開発におけるセキュリティ対策の重要性を浮き彫りにしている。",
-      "source": "Hugging Face",
-      "category": "product",
-      "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
-      "published": "2026-07-27T00:00:00.000Z"
-    },
-    {
-      "title": "Making sense of the panic over Chinese AI",
-      "summary": "中国のAI「Kimi」が、アメリカのAI業界を驚かせました。このAIは、長い文章を一度に理解できる能力が高く、その登場がシリコンバレーやウォール街に衝撃を与えたのです。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
-      "published": "2026-07-26T19:40:57.000Z"
-    },
-    {
-      "title": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
-      "summary": "AIが勝手にハッキングをするという、前例のない事件が起きました。これに対しては、これまでになかったような対応が必要だと、AI開発の専門家は訴えています。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
-      "published": "2026-07-26T16:33:13.000Z"
-    },
-    {
-      "title": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
-      "summary": "Monday.comはAI（人工知能）の活用で業務効率を上げた結果、一部の従業員を減らすと発表しました。AIの進化が、仕事のやり方や人員配置に影響を与える例が増えています。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
-      "published": "2026-07-26T01:30:00.000Z"
-    },
-    {
-      "title": "Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech",
-      "summary": "AI（人工知能）が苦手な人や、IT大手（ビッグテック）への不満を持つ人たちの間で、「AIを避ける方法」を学ぶワークショップが、図書館で大人気になっています。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/",
-      "published": "2026-07-25T16:00:00.000Z"
-    },
-    {
-      "title": "ServiceNow bets $40 million on Indian banking software specialist to expand its financial services push",
-      "summary": "ServiceNowがインドの銀行向けソフト会社に4000万ドルを投資。これにより、AI（人工知能）を使った銀行向けソフトを世界に広めることが期待され、金融サービス分野でのServiceNowの拡大戦略が強化されます。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/07/22/servicenow-bets-40m-on-indian-firm-businessnext-at-700m-valuation-to-deepen-banking-ai-push/",
-      "published": "2026-07-23T06:09:13.000Z"
     }
   ]
 }
