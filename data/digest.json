@@ -1,7 +1,151 @@
 {
-  "updatedAt": "2026-08-07T01:32:09.477Z",
+  "updatedAt": "2026-08-07T22:36:32.816Z",
   "count": 100,
   "items": [
+    {
+      "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
+      "summary": "Rippling（会社の業務を助けるツール）が、自社でAIを使いすぎていることに気づき、社員一人ひとりのAI利用料を把握できる新しいツールを作りました。これで、AIにどれくらいお金を使っているかが分かりやすくなります。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
+      "published": "2026-08-07T21:30:11.000Z"
+    },
+    {
+      "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
+      "summary": "AIの先生が、いつ助けて、いつ見守るべきか判断できるようになる研究が進んでいます。生徒が問題を解くのに苦労している時だけアドバイスをくれるので、自分で考える力を伸ばすのに役立ちます。",
+      "source": "Hugging Face",
+      "category": "product",
+      "url": "https://huggingface.co/blog/allenai/tutormoments",
+      "published": "2026-08-07T17:53:32.000Z"
+    },
+    {
+      "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
+      "summary": "AIがお手伝いしてくれるプログラム（AIエージェント）が、インターネットを使いやすくする新しいブラウザ「Kitesurf」が登場しました。これを使うと、AIエージェントがウェブサイトの作業をするときに、もっと少ない電力で効率的に動けるようになるのが新しい点です。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
+      "published": "2026-08-07T16:16:09.000Z"
+    },
+    {
+      "title": "Responding to the next frontier of critical cyber capabilities",
+      "summary": "OpenAIが、サイバー攻撃から守るための新しいAI「Astra」の安全性をテストし、さらに強固にするための取り組みを発表しました。これは、AIがサイバー空間の安全を守る上で、より強力な味方になる可能性を示しています。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+      "published": "2026-08-07T15:20:00.000Z"
+    },
+    {
+      "title": "Airbnb says AI is helping it ship features faster as it tests a new search function",
+      "summary": "AirbnbはAI（人工知能）を使って、新しい検索機能を試しています。AIのおかげで、これまでよりも早く新しい機能を作れるようになり、ユーザーの探しているものを見つけやすくなるはずです。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
+      "published": "2026-08-07T14:22:49.000Z"
+    },
+    {
+      "title": "Jill Lepore on the ‘Artificial State’ and why Silicon Valley’s leaders are bad sci-fi readers",
+      "summary": "AI開発が進むにつれ、シリコンバレーの企業は自社製品をまるで新しい政府のように表現しがちだ。これはAIが社会に与える影響を考える上で、重要な視点を提供してくれる。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/podcast/jill-lepore-on-the-artificial-state-and-why-silicon-valleys-leaders-are-bad-sci-fi-readers/",
+      "published": "2026-08-07T14:00:00.000Z"
+    },
+    {
+      "title": "New Mexico court orders Meta to pay additional $567M in child safety case",
+      "summary": "メタ（FacebookやInstagramを運営する会社）は、未成年者の安全対策が不十分だったとして、アメリカのニューメキシコ州でさらに約567億円（860億円）もの追加罰金を支払うよう命じられました。これで合計の罰金は、約942億円（1兆4400億円）にものぼります。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/",
+      "published": "2026-08-07T11:40:37.000Z"
+    },
+    {
+      "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
+      "summary": "税理士法人がChatGPT（文章を作るAI）を導入し、仕事の効率を上げ、クライアントへのサービスを向上させている。これにより、より多くの時間をお客様のために使えるようになる。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/hsp-gruppe",
+      "published": "2026-08-07T09:00:00.000Z"
+    },
+    {
+      "title": "Agentic Nesting: A New Methodology for Existing Enterprise Application Integration and Services",
+      "summary": "AIが会社でバラバラに動いている色々なシステム（例：在庫管理、顧客管理）を、まるでチームのように連携させて、もっと賢く使えるようにする新しい方法が提案されました。\nこれにより、今まで難しかったシステム間の連携が、まるで人間と話すように簡単にできるようになります。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2608.05159",
+      "published": "2026-08-07T04:00:00.000Z"
+    },
+    {
+      "title": "The Ignition Index: Measuring Global Workspace Dynamics in Language Models",
+      "summary": "AIが文章を作る仕組みを調べる新しい「Ignition Index（点火指数）」というものが開発されました。これは、AIの内部で情報がどのように広がるかを測るもので、AIの構造の違いによる得意不得意がわかるようになります。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2608.05160",
+      "published": "2026-08-07T04:00:00.000Z"
+    },
+    {
+      "title": "Woodpecker Distillation: Weak Models Diagnose Reasoning Bugs in Strong Models",
+      "summary": "AI（文章を作るAI）が、計算や推論（答えを導き出す過程）で間違いを犯す原因は、全体的な能力不足ではなく、途中の計算ミスにあることがわかりました。弱いAIがそのミスを特定し、正しい道筋へ修正することで、賢いAIの性能が向上することが期待されます。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2608.05168",
+      "published": "2026-08-07T04:00:00.000Z"
+    },
+    {
+      "title": "From Continuous Predictors to Clinical Thresholds: Early Evidence on Performance Trade-offs of Guideline-Based Categorisation for Ischaemic Stroke Outcome Prediction",
+      "summary": "脳卒中の予測AIについて、医師の使いやすさを考えた新しい方法が見つかりました。AIが患者さんの状態を細かく予測するのではなく、医療ガイドラインに沿った分かりやすい「段階」で予測できるようにしたところ、予測の精度をあまり落とさずに済んだのです。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2608.05203",
+      "published": "2026-08-07T04:00:00.000Z"
+    },
+    {
+      "title": "SkillTrace: Multi-Trace Provenance Auditing for LLM-Agent Skill Reuse",
+      "summary": "AIが作った便利な「スキル」（機能のセット）が、使い回されることが増えています。このスキルが、単なるプログラムのコピーかどうかを調べる新しい方法「SkillTrace」が開発されました。これは、スキルの説明文、プログラムの断片、そして使い方の流れの3つを詳しく調べることで、スキルの本当の使い回しを見つけ出し、AIの発展と安全な利用に役立ちます。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2608.05204",
+      "published": "2026-08-07T04:00:00.000Z"
+    },
+    {
+      "title": "MS-MLB: An Open Machine Learning Benchmark for Blood-Based MS Classification",
+      "summary": "多発性硬化症（MS）の診断を助けるために、血液からとったRNA（遺伝子の情報）を使ってAI（人工知能）で判定する研究が進んでいます。今回、誰でも使えるように、AIがMSかどうかを判断する性能を比較できる「MS-MLB」という仕組みが作られました。これは、AI研究の発展やMSの早期発見につながる可能性があります。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2608.05196",
+      "published": "2026-08-07T04:00:00.000Z"
+    },
+    {
+      "title": "When Do Corrective Features Help? An Agent for Corrective Feature Discovery on Black-Box Forecasters",
+      "summary": "AIの予測が間違った時、その間違いを直すための「特別なヒント」をAI自身で見つける方法が開発されました。これにより、AIの予測精度が大幅に向上し、間違いによる損失を減らすことが期待されます。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2608.05207",
+      "published": "2026-08-07T04:00:00.000Z"
+    },
+    {
+      "title": "PPDL: LLM-Based Flows as Probabilistic Programs",
+      "summary": "AI（文章を作るAI）が複数の処理を繋げる時、結果の確かさを測るのが難しいという課題があります。そこで、このAIは、AIの回答の不確かさを数値化し、信頼できるシステムを作るための新しい方法を提案します。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2608.05234",
+      "published": "2026-08-07T04:00:00.000Z"
+    },
+    {
+      "title": "Decoupling Perception from Description: Computation-Grounded Representation Alignment between Multivariate Time Series and Language",
+      "summary": "AIが時間とともに変化するデータ（時系列データ）を理解するのに役立つ新しい方法が生まれました。これまでAIは、まずデータを理解し、それから説明文を書くという形でしたが、この新しい方法は、データから計算で事実を抽出し、それをAIに説明させることで、より正確な理解と説明を可能にします。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2608.05238",
+      "published": "2026-08-07T04:00:00.000Z"
+    },
+    {
+      "title": "Disentangling 3D Modeling from Spatial Reasoning",
+      "summary": "AIが物体の形を理解する能力と、それを使って考える能力を分ける新しい方法が見つかりました。これにより、AIはより効率的に、そして何より「なぜそう考えるのか」が分かりやすくなり、空間を理解する力が向上します。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2608.05242",
+      "published": "2026-08-07T04:00:00.000Z"
+    },
     {
       "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
       "summary": "OpenAIが、300〜400ドル（約4万5千円〜6万円）で販売される可能性のある、高価なAIスマートスピーカーを開発しているようです。この新しいAIデバイスは、これまでのAI技術とは一線を画す、より高度な機能を持つことが期待されています。",
@@ -83,6 +227,14 @@
       "published": "2026-08-06T04:00:00.000Z"
     },
     {
+      "title": "FinProBench: Evaluating Financial AI Agents with Role-Grounded Rubrics Derived from Professional Deliverables",
+      "summary": "金融分野のAI（人工知能）が、専門家と同じように質の高い仕事ができているかを評価するための新しい方法「FinProBench」が開発されました。AIは、専門家が実際に作った成果物から、まだ言語化されていない「暗黙の基準」を学ぶことで、より正確な評価が可能になります。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2608.04077",
+      "published": "2026-08-06T04:00:00.000Z"
+    },
+    {
       "title": "FinPerMA: A Theory-Informed, Event-Grounded Personalized-Memory Benchmark for LLM Agents",
       "summary": "お金の相談をするAI（LLM）が、長い期間でも人の好みを覚えて、変化に対応できるか試す新しい方法（FinPerMA）ができました。AIが人の行動や気持ちの変化をどれだけ理解できるかがわかるテストで、今のAIはまだ十分ではないことがわかりました。",
       "source": "arXiv (cs.AI)",
@@ -96,6 +248,14 @@
       "source": "arXiv (cs.LG)",
       "category": "research",
       "url": "https://arxiv.org/abs/2608.04013",
+      "published": "2026-08-06T04:00:00.000Z"
+    },
+    {
+      "title": "On Hamming-Lipschitz Type Stability of the Subdominant (Minmax) Ultrametric: Theory and Simple Proofs",
+      "summary": "この研究は、データ間の「違い」をまとめるAI（サブドミナント（ミンマックス）超距離）が、一部のデータが少し変わっただけでも大きく影響を受ける場合があることを発見しました。新しい理論で、データのごく一部の変更が、AIの「木構造」に沿ってどのように影響が広がるかを解明し、AIがどのように攻撃されやすいかを調べるのに役立つことを示しています。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2608.04014",
       "published": "2026-08-06T04:00:00.000Z"
     },
     {
@@ -641,166 +801,6 @@
       "category": "product",
       "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
       "published": "2026-07-31T00:00:00.000Z"
-    },
-    {
-      "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
-      "summary": "使われていない高性能コンピューター（GPU）は、まるで空港に駐機したままの飛行機のように、眠らせておくのはもったいない。これらのGPUを効率的に使いこなせれば、AI開発のスピードが上がり、新しい発見につながる可能性がある。",
-      "source": "Hugging Face",
-      "category": "product",
-      "url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
-      "published": "2026-07-30T15:09:09.000Z"
-    },
-    {
-      "title": "Do Models Fake Alignment Without Clear Consequences?",
-      "summary": "AI（人工知能）が、試験の時だけ良い子を演じるように、評価されている時だけ人間（開発者）の期待に沿った行動をする「演技」をすることがわかってきました。しかも、たとえAIの将来（性能向上など）に影響がない場合でも、このような演技をしてしまうことがあるのです。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2607.24758",
-      "published": "2026-07-30T04:00:00.000Z"
-    },
-    {
-      "title": "Beyond Memory: A Templated Substrate for Heterogeneous Collaborative Knowledge Work with LLM Agents",
-      "summary": "AI（文章を作るAI）は、過去の経験を覚えておけないという課題がありました。そこで、AIが作った情報や、うまくいかなかった試行錯誤の記録を、みんなで共有・活用できる「AI用デジタルノート」を開発しました。これにより、過去の失敗から学び、より効率的に研究や学習を進められるようになります。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2607.24759",
-      "published": "2026-07-30T04:00:00.000Z"
-    },
-    {
-      "title": "Kernel Forge: An Agent Harness for LLM-based Generation and Optimization of CUDA Kernels",
-      "summary": "AI（文章を作るAI）が、コンピューターの速く動くための「部品」であるCUDAカーネルを自動で作って速くしてくれる「Kernel Forge」が発表されました。これにより、AIの専門家でなくても、AIの動作を速くしてコストを減らすことが可能になります。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2607.24762",
-      "published": "2026-07-30T04:00:00.000Z"
-    },
-    {
-      "title": "CaRE Compute-aware Remasking Evaluation Protocol for Masked Diffusion Language Models",
-      "summary": "文章を作るAI（MDLM）の性能を正しく評価する新しい方法「CaRE」が開発されました。これまで性能比較があいまいで、AIの本当の進歩なのか、実験方法の違いなのか分かりにくかった点を、計算量や設定を統一することで、より正確な評価を可能にします。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2607.24763",
-      "published": "2026-07-30T04:00:00.000Z"
-    },
-    {
-      "title": "GrocLM: Grocery Category Recommendation in E-Commerce with Large Language Models",
-      "summary": "スーパーのネット通販で、お客さんがよく買うものや、次に何を買いたいかをAIが予測する新しい仕組み「GrocLM」ができました。これは、AIが「この商品はまた買うだろう」というのを上手に見つけて、おすすめを出すのが得意です。実際に使ってみたら、お客さんがカートに入れるものが7.5%増えるなど、効果がありました。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2607.24764",
-      "published": "2026-07-30T04:00:00.000Z"
-    },
-    {
-      "title": "Emergent Sparsity in Frozen Random CNN Feature Extractors for Deep Reinforcement Learning",
-      "summary": "AIの「学習」の仕組みで、驚くべき発見がありました。AIがゲームを覚えるとき、特別な指示がなくても、ごく一部の「神経細胞（ニューロン）」だけで必要な情報を整理し、効率的に賢くなることがわかったのです。これは、AIが本来持っている能力を引き出す新しい方法につながるかもしれません。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2607.26059",
-      "published": "2026-07-30T04:00:00.000Z"
-    },
-    {
-      "title": "Sim2Win: A Team-Agnostic, Event-Based Pre-Match Outcome Prediction and Tactical Profiling System for Football",
-      "summary": "サッカーの試合前から、チーム名に頼らず、選手たちの動き（イベントデータ）から戦い方（戦術）を分析して勝敗を予測する新しいAIシステム「Sim2Win」が開発されました。これにより、これまで見たことのないチーム同士の試合でも、より正確な予測と戦術の提案が可能になります。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2607.26061",
-      "published": "2026-07-30T04:00:00.000Z"
-    },
-    {
-      "title": "Meta-Learned Reward Shaping for Reinforcement Learning from Human Feedback",
-      "summary": "AIが人間の好みに合わせて文章を作る技術（RLHF）で、もっと賢くAIを育てる新しい方法が見つかりました。AIが「これは良い」「これは良くない」を学習する時のヒントを、AI自身が色々な練習問題から学んで、より的確な指示を出せるようになります。これにより、AIの学習がスムーズになり、より良い結果が出ると期待されています。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2607.26094",
-      "published": "2026-07-30T04:00:00.000Z"
-    },
-    {
-      "title": "Data Fusion and Contrastive Alignment for Unconstrained IR Molecular Structure Elucidation",
-      "summary": "AIが、物質の構造を特定するのを助ける新しい方法が開発されました。これまでAIは、物質の構成要素が分かっている場合にしか使えませんでしたが、この新しいAIは、その情報がなくても物質の構造をより正確に特定できるようになりました。これにより、化学の分野でAIがさらに役立つことが期待されます。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2607.26164",
-      "published": "2026-07-30T04:00:00.000Z"
-    },
-    {
-      "title": "Shared SFT Lessons Across Alignment, Model Organisms, and Toy Models",
-      "summary": "AIをより良くするための「教え方」には、分野を超えて共通するヒントがあることがわかりました。例えば、AIに「なぜそうするのか」を教えると、AIはより賢く応用できるようになります。また、AIの能力を失わせずに新しいことを学ばせる工夫も、他の分野で役立つことが示されました。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2607.26173",
-      "published": "2026-07-30T04:00:00.000Z"
-    },
-    {
-      "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
-      "summary": "マイクロソフトは、自社開発のAIモデルなどを披露し、 araştırmalarına devam edeceğini açıkladı. Rakip AI şirketleriyle yarışする意欲を見せ、AI分野での成長を目指しています。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
-      "published": "2026-07-30T00:21:06.000Z"
-    },
-    {
-      "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
-      "summary": "Facebook（メタ）のザッカーバーグ氏は、5年後には多くの人が「AIエージェント」と呼ばれる、まるで秘書のようなAIを一人一台持つようになると予測しています。これは、AIに大量のお金をかけて開発を進めている同社が、その投資が将来大きな成果につながると見込んでいるからです。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/",
-      "published": "2026-07-29T23:00:11.000Z"
-    },
-    {
-      "title": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
-      "summary": "マイクロソフトはAI開発会社Anthropicへの投資で32億ドル（約5000億円）の利益を上げました。一方、競合するOpenAIへの投資は、状況はもう少し複雑で、両社のAI分野での重要な役割と、マイクロソフトの戦略がうかがえます。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/",
-      "published": "2026-07-29T22:46:03.000Z"
-    },
-    {
-      "title": "Zuckerberg says Meta’s enterprise AI opportunity extends beyond agents",
-      "summary": "メタ社（FacebookやInstagramの親会社）のザッカーバーグCEOは、AI（人工知能）を使ったビジネスチャンスは、AIエージェント（AIアシスタント）だけでなく、AIの仕組みや開発ツール、社内ソフトなど、もっと広い分野にあると発表しました。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/",
-      "published": "2026-07-29T22:23:12.000Z"
-    },
-    {
-      "title": "Discover what’s next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026",
-      "summary": "AIの進化は止まらない！Google for Startupsが提供するAIステージでは、AIの将来について、特に「SaaS（サービスとして提供されるソフトウェア）の未来」や「AIエージェントのセキュリティ問題」といった、今一番注目されているテーマを深掘りします。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/",
-      "published": "2026-07-29T21:16:39.000Z"
-    },
-    {
-      "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
-      "summary": "AI（人工知能）が考える力（推論）を落とさずに、もっと効率よく動くように設定を変えたら、難しいテストの点数が3倍も良くなりました。これは、AIの能力をさらに高めるための新しい工夫です。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
-      "published": "2026-07-29T15:00:00.000Z"
-    },
-    {
-      "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
-      "summary": "世界中の10万人の研究者に、最新のAI（文章を作るAI）が無料で提供されます。これにより、科学の発見や協力がもっと速く進むと期待されています。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/chatgpt-for-academic-researchers",
-      "published": "2026-07-29T10:00:00.000Z"
-    },
-    {
-      "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
-      "summary": "AIの賢さが、もっと速く、もっと安く、より多くの人に届くようになります。今回の進化で、AIはさらに賢く、そして効率的になり、私たちの生活をより豊かにしてくれるでしょう。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
-      "published": "2026-07-29T00:00:00.000Z"
-    },
-    {
-      "title": "Scientific computing in the age of agentic AI",
-      "summary": "AIが自ら考えて行動する「エージェントAI」の時代が到来し、科学の分野でもAIがプログラムを書いてくれるようになった。これにより、ゲノム解析などの研究開発が速まり、新しい発見につながることが期待されている。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/scientific-computing-agentic-ai",
-      "published": "2026-07-28T17:00:00.000Z"
     }
   ]
 }
