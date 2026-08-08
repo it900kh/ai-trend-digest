@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-08-07T22:36:32.816Z",
+  "updatedAt": "2026-08-08T22:28:42.473Z",
   "count": 100,
   "items": [
+    {
+      "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
+      "summary": "Amazonがテキサス州で計画中のデータセンターで、大規模な発電施設も建設します。この発電施設は、アメリカで最も多くの地球温暖化の原因となる排出物を出す可能性があり、環境への影響が心配されています。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
+      "published": "2026-08-08T21:24:02.000Z"
+    },
+    {
+      "title": "OpenAI acquires presentation startup NextSlide",
+      "summary": "OpenAIが、プレゼンテーション作成を助ける「NextSlide」という会社を買収しました。NextSlideのチームは、今後はChatGPT（文章を作るAI）の開発に携わることになります。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
+      "published": "2026-08-08T19:41:13.000Z"
+    },
+    {
+      "title": "OpenAI says it slowed Astra model development over security concerns",
+      "summary": "OpenAIが開発中のAI「Astra」が、サイバー攻撃を自分で見つけて実行できてしまう危険なレベルに達したため、開発を一時停止した。これは、AIが現実世界のシステムを攻撃できるほどの能力を持ったことを意味し、セキュリティ面での懸念から慎重な対応が取られている。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+      "published": "2026-08-07T22:48:24.000Z"
+    },
     {
       "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
       "summary": "Rippling（会社の業務を助けるツール）が、自社でAIを使いすぎていることに気づき、社員一人ひとりのAI利用料を把握できる新しいツールを作りました。これで、AIにどれくらいお金を使っているかが分かりやすくなります。",
@@ -777,30 +801,6 @@
       "category": "product",
       "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
       "published": "2026-07-31T15:00:00.000Z"
-    },
-    {
-      "title": "Building abundant intelligence",
-      "summary": "OpenAIは、AI（人工知能）をもっと賢く、安く、みんなが使いやすいように、技術全体を改良する新しい方法を開発しました。これで、AIがもっと色々なことに役立つようになることが期待されます。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/building-abundant-intelligence",
-      "published": "2026-07-31T15:00:00.000Z"
-    },
-    {
-      "title": "Univé builds an AI-ready workforce",
-      "summary": "オランダの保険会社ユニヴェは、ChatGPT Enterprise（文章を作るAI）を導入し、リーダーシップ、ルール作り、従業員のアイデアを組み合わせて、会社全体で仕事のやり方を変えました。これはAIを使いこなせる人材を育てるための良い例です。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/unive",
-      "published": "2026-07-31T07:00:00.000Z"
-    },
-    {
-      "title": "Disrupting a Criminal Scam Operation",
-      "summary": "AI（人工知能）のChatGPTが、カンボジアで行われていた投資詐欺やロマンス詐欺などを中心とした悪質な詐欺グループの活動を止めるのに役立ちました。AIが悪用されるケースもあったことがわかります。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
-      "published": "2026-07-31T00:00:00.000Z"
     }
   ]
 }
