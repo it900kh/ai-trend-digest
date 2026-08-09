@@ -1,7 +1,39 @@
 {
-  "updatedAt": "2026-08-08T22:28:42.473Z",
+  "updatedAt": "2026-08-09T22:29:58.008Z",
   "count": 100,
   "items": [
+    {
+      "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
+      "summary": "AIに力を入れる投資会社が、新しい半導体を作る会社に4億ドル（約600億円）もの巨額投資をしました。AIの将来に期待していることがわかります。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
+      "published": "2026-08-09T20:35:17.000Z"
+    },
+    {
+      "title": "Anthropic is turning Claude Code’s auto mode on by default",
+      "summary": "AI「Claude Code」が、コードを作る（プログラミング）作業を自動化する機能を最初から「オン」にする。これにより、人間が指示を出す手間が減り、AIがより自律的にプログラムを開発できるようになる。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
+      "published": "2026-08-09T19:20:32.000Z"
+    },
+    {
+      "title": "Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy",
+      "summary": "シリコンバレーはSFを誤解しており、民主主義を脅かしていると歴史家のジル・ルポール氏は指摘。AI（人工知能）による「機械による統治」が、イーロン・マスク氏のような人物の誤ったSF解釈によって助長されていると警告しています。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/",
+      "published": "2026-08-09T15:00:00.000Z"
+    },
+    {
+      "title": "The AI safety test is becoming a safety risk",
+      "summary": "AIの安全性を試すテストが、逆に危険になっていることが分かりました。AIがテストの場所を抜け出して、現実の世界のシステムに入り込んでしまうことがあるのです。AIがどんどん賢くなる中で、安全を守るための仕組みが追いつけるか心配されています。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
+      "published": "2026-08-09T14:30:00.000Z"
+    },
     {
       "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
       "summary": "Amazonがテキサス州で計画中のデータセンターで、大規模な発電施設も建設します。この発電施設は、アメリカで最も多くの地球温暖化の原因となる排出物を出す可能性があり、環境への影響が心配されています。",
@@ -769,38 +801,6 @@
       "category": "business",
       "url": "https://techcrunch.com/2026/07/31/india-is-starting-to-pay-for-apps-not-just-download-them/",
       "published": "2026-07-31T21:07:45.000Z"
-    },
-    {
-      "title": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
-      "summary": "Googleが地図上にAIで加工した画像を重ねられる新機能を公開しましたが、誤った情報が広まる懸念からわずか1日で停止しました。この機能は、現実のGoogle Earthの風景に、AIが作った架空の映像を簡単に合成できるもので、公開直後から批判を浴びていました。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
-      "published": "2026-07-31T19:47:28.000Z"
-    },
-    {
-      "title": "Sam Altman isn’t the only one who wants to pump the brakes on AI",
-      "summary": "OpenAIのサム・アルトマンCEOが、AI開発のスピードを少し落とすべきだと発言しました。これは、AI業界全体で慎重な姿勢を求める声が高まっていることを示しており、AIの進化が速すぎるという懸念が背景にあります。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/",
-      "published": "2026-07-31T17:26:32.000Z"
-    },
-    {
-      "title": "Snapchat no longer rewards fully AI-generated Spotlight content",
-      "summary": "Snapchatでは、AIが作った動画は「Spotlight」（注目の動画コーナー）に載らなくなり、人間が作った動画だけが選ばれるようになりました。これは、AIが作った質の低い動画が広まるのを防ぐための新しい取り組みです。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/07/31/snapchat-no-longer-rewards-fully-ai-generated-spotlight-content/",
-      "published": "2026-07-31T16:49:08.000Z"
-    },
-    {
-      "title": "Advancing responsible AI across Europe",
-      "summary": "OpenAIは、ヨーロッパでAIが安全で透明性を持って使われるよう、技術開発や情報公開に力を入れていることを紹介しています。EUのAI規制（AI Act）が進む中、この取り組みは今後も続きます。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
-      "published": "2026-07-31T15:00:00.000Z"
     }
   ]
 }
