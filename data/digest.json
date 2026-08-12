@@ -1,7 +1,183 @@
 {
-  "updatedAt": "2026-08-10T22:38:13.863Z",
+  "updatedAt": "2026-08-12T22:41:47.694Z",
   "count": 100,
   "items": [
+    {
+      "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them cheating at their jobs, classes",
+      "summary": "AIが作った文章に「透かし」（目に見えない印）を付けられるようになった。これにより、AIが書いた文章を自分のものだと偽って提出するのを防げるようになるが、一部の利用者は困惑している。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
+      "published": "2026-08-12T22:26:37.000Z"
+    },
+    {
+      "title": "Amazon will train on Twitch streamers’ content by default, unless they opt out",
+      "summary": "Twitch（ライブ配信サービス）では、配信者の動画がAmazon（通販サイト）のAI学習に使われるようになる。希望しない場合は自分で設定を変える必要がある。これは、AI（人工知能）をより賢くするためで、新しいサービス開発につながると期待されている。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
+      "published": "2026-08-12T20:10:40.000Z"
+    },
+    {
+      "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
+      "summary": "AIでプログラミングをする会社が、わずか数ヶ月で10億ドル（約1500億円）を集めたのに続き、さらに巨額の資金調達を検討しているようです。これは、AIの進化が速く、将来性への期待が大きいことを示しています。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
+      "published": "2026-08-12T18:19:12.000Z"
+    },
+    {
+      "title": "As AI safety concerns mount, three pioneers make the case for staying open",
+      "summary": "AIの安全性が心配される中、３人のAIの第一人者が、AI開発の「オープンさ」を保つことの重要性を訴えました。中国のAI進歩に対抗するため、アメリカがどう競争していくべきか、規制や誰でも使えるAI（オープンソース）について話し合われました。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
+      "published": "2026-08-12T17:51:00.000Z"
+    },
+    {
+      "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
+      "summary": "AI（人工知能）の会社Thrive Holdingsが、20億ドル（約3000億円）もの巨額の資金を集めることに成功しました。これは、AIを会社で使いやすくするための新しいサービスを作るためのもので、将来性が高く評価されている証拠です。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
+      "published": "2026-08-12T17:41:29.000Z"
+    },
+    {
+      "title": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
+      "summary": "OlmoEarth Studioから、AIが地球のデータ（衛星写真など）を理解しやすくするための「埋め込み」（データの特別な表現方法）を、自分で好きなように取り出せるようになりました。これにより、地球環境の変化をより詳しく分析できるようになります。",
+      "source": "Hugging Face",
+      "category": "product",
+      "url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
+      "published": "2026-08-12T16:14:36.000Z"
+    },
+    {
+      "title": "LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
+      "summary": "「LFM2.5-VL-3B」という新しいAIが登場し、スマホなどの身近な機械（エッジデバイス）でも、画像認識（物を見分ける能力）が速く、賢くできるようになりました。これにより、より便利で高度なAI機能が手軽に使えるようになると期待されています。",
+      "source": "Hugging Face",
+      "category": "product",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
+      "published": "2026-08-12T14:00:51.000Z"
+    },
+    {
+      "title": "From assistance to execution: How enterprises put AI to work",
+      "summary": "企業がAI（人工知能）を仕事に活用し始めており、特に「ChatGPT」などのAI（文章を作るAI）で、社員の作業を助けるだけでなく、具体的な指示を実行させるまでに進化しています。最先端の企業は、このAIの導入で他社より先行していることが分かりました。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
+      "published": "2026-08-12T06:00:00.000Z"
+    },
+    {
+      "title": "Closed-Loop LLM Co-Pilots for Digital Agriculture",
+      "summary": "畑のセンサーデータを使い、植物の成長をAI（文章を作るAI）が自動で管理する仕組みが開発されました。AIが植物の状態を判断し、光や温度などを調整することで、育成期間を短縮したり、電気代を節約したりできます。これにより、農作業の効率が大幅に向上し、AIが農場の「相棒」となる未来が期待されます。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2608.09949",
+      "published": "2026-08-12T04:00:00.000Z"
+    },
+    {
+      "title": "SPOTting the Future: Lookahead Explanations for Deep Reinforcement Learning",
+      "summary": "AI（人工知能）の賢い判断がなぜそうなるのか、実はまだよく分かっていません。そこで、AIがどう考えているかを「見える化」する新しい方法「SPOT」が開発されました。これにより、AIの判断の裏側が分かりやすくなり、より安全で信頼できるAIの開発に役立ちます。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2608.09967",
+      "published": "2026-08-12T04:00:00.000Z"
+    },
+    {
+      "title": "MIDAS: Mutual Information Disentanglement with Uncertainty-Aware Fusion for Incomplete Multimodal Sentiment Analysis",
+      "summary": "AIが色々な情報（画像や文章など）を組み合わせて、人の気持ち（感情）を読み取る研究で、情報が一部失われていても大丈夫な新しい方法「MIDAS」が発表されました。これは、失われた情報があっても、AIがそれぞれの情報の大切な部分をうまく見つけ出し、感情を正確に判断できるようにするものです。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2608.09986",
+      "published": "2026-08-12T04:00:00.000Z"
+    },
+    {
+      "title": "Towards Sustainable Artificial Intelligence: A Comprehensive Review and Comparative Analysis of Deep Learning Models' Carbon Footprint",
+      "summary": "AI（人工知能）の進化にはたくさんのエネルギーが必要で、地球温暖化の原因になることがわかってきました。この記事では、AIの「環境へのやさしさ」を高める方法を調べ、AIを作る過程で一番エネルギーを使うのは「学習」の段階だと明らかにし、性能と環境負荷のバランスが大切だと伝えています。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2608.09998",
+      "published": "2026-08-12T04:00:00.000Z"
+    },
+    {
+      "title": "ReCBM: Uncertainty-Gated Relational Reasoning for Concept Bottleneck Models",
+      "summary": "AIが理由を説明できる仕組み（Concept Bottleneck Models）に、より賢く判断できる新しい方法（ReCBM）が登場しました。AIが「あいまいな情報」をうまく使って、間違った情報が伝わるのを防ぎ、より正確な判断ができるようになります。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2608.10004",
+      "published": "2026-08-12T04:00:00.000Z"
+    },
+    {
+      "title": "Transformer Geometry Observatory TGO-IV: Developmental Topology Observatory",
+      "summary": "AI（人工知能）の「Transformer」という仕組みが、どうやって言葉や画像などを理解しているのか、その過程を詳しく調べる新しい方法が提案されました。Transformerの内部で、情報がどのように形を変えていくかを「幾何学」という分野の考え方で分析し、AIの賢さの秘密に迫るものです。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2608.09997",
+      "published": "2026-08-12T04:00:00.000Z"
+    },
+    {
+      "title": "Uncertainty-Aware Ensemble Deep Randomized Neural Networks for Classification",
+      "summary": "AIが物事を判断する際に、自信がない部分をより注意深く扱う方法が開発されました。これにより、AIが間違った情報（ノイズや外れ値）に惑わされにくくなり、より正確な判断ができるようになります。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2608.10007",
+      "published": "2026-08-12T04:00:00.000Z"
+    },
+    {
+      "title": "CurveFP: Rational-Radix Logarithmic Datatypes with Closed Products for Language Models",
+      "summary": "AIが文章を作る（LLM）にかかる費用を減らす新しい方法「CurveFP」が開発されました。これは、AIが計算しやすくなるように数字を工夫することで、精度を保ちながら処理速度を上げ、AIの性能を維持したまま、より少ないコンピューター資源で動くことを目指しています。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2608.10010",
+      "published": "2026-08-12T04:00:00.000Z"
+    },
+    {
+      "title": "Sheaf-Based Federated Representation Learning",
+      "summary": "AIが、バラバラな情報を持つたくさんのデバイス（スマホなど）から、お互いの秘密を守りながら、賢い「共通の理解」を学ぶ新しい方法が提案されました。これで、AIはもっと色々な状況で、より正確に賢くなれる可能性があります。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2608.10016",
+      "published": "2026-08-12T04:00:00.000Z"
+    },
+    {
+      "title": "DOCSCHISEL: Adaptive Tool Documentation Optimization Framework for LLM Agents",
+      "summary": "AI（人工知能）が複雑な仕事をするために外部ツールを使う時、そのツールの説明書がとても大事になります。でも、説明書の内容がAIの仕事のやり方や状況によって効果が違うことがわかりました。そこで、AIがうまくツールを使えるように、説明書をAI自身が学習して改善する新しい方法「DocsChisel」が開発されました。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2608.10037",
+      "published": "2026-08-12T04:00:00.000Z"
+    },
+    {
+      "title": "How RingCentral builds AI-native work from engineering to ops",
+      "summary": "RingCentralはChatGPT（文章を作るAI）とCodex（コードを理解するAI）を使って、AI製品を作るスピードを上げ、エンジニアと運用チームの情報を一つにまとめました。これにより、AI開発と管理がより効率的になったのです。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/ringcentral",
+      "published": "2026-08-12T00:00:00.000Z"
+    },
+    {
+      "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
+      "summary": "Googleが開発したAI「AMIE」が、お医者さんの診察をリアルタイムでサポートできるようになりました。これは、まるで本当の診察のように、AIが患者さんの様子を見ながら、お医者さんにアドバイスをしてくれる初めての試みです。",
+      "source": "Google AI Blog",
+      "category": "research",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
+      "published": "2026-08-11T17:00:00.000Z"
+    },
+    {
+      "title": "Testing ads in ChatGPT",
+      "summary": "ChatGPTで広告のテストが始まりました。これは、みんなが無料で使えるようにするためで、広告は分かりやすく表示され、質問への答えには影響せず、プライバシーも守られるので安心してください。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/testing-ads-in-chatgpt",
+      "published": "2026-08-11T10:00:00.000Z"
+    },
+    {
+      "title": "Daybreak models are now available on AWS",
+      "summary": "OpenAIの新しいAI「Daybreak」が、AWS（アマゾンのクラウドサービス）で使えるようになりました。これは、企業がサイバー攻撃から自分たちのコンピューターを守るのを助けるためのもので、AIがコンピューターの安全を守る手助けをしてくれます。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
+      "published": "2026-08-11T10:00:00.000Z"
+    },
     {
       "title": "Mark Zuckerberg’s AI manifesto is exactly why people don’t like AI",
       "summary": "ザッカーバーグ氏が、個人で使える「AIアシスタント」について熱く語る長文を発表。メタ社が開発中の、まるでスーパーヒーローのようなAIの可能性を熱弁したが、これがAIへの不信感を招くと指摘されている。",
@@ -160,6 +336,14 @@
       "source": "arXiv (cs.LG)",
       "category": "research",
       "url": "https://arxiv.org/abs/2608.06422",
+      "published": "2026-08-10T04:00:00.000Z"
+    },
+    {
+      "title": "Adversarial Causal Intervention Falsification",
+      "summary": "AIが作ったデータが、本当の因果関係（何が原因で何が結果か）を間違って理解している場合がある。この研究では、AIと、AIの嘘を見破るための実験を考えるゲームを提案。これにより、AIが因果関係を正しく理解しているか、より厳密に確かめる方法が見つかる。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2608.06427",
       "published": "2026-08-10T04:00:00.000Z"
     },
     {
@@ -617,190 +801,6 @@
       "category": "research",
       "url": "https://arxiv.org/abs/2608.02629",
       "published": "2026-08-05T04:00:00.000Z"
-    },
-    {
-      "title": "LLMs Can Annotate Attribution Graphs",
-      "summary": "AI（文章を作るAI）が、AIの「思考」の仕組みを調べる作業を助けてくれるようになりました。これにより、AIがどのように情報を処理しているかを見つけ出すのが早くなり、AIの理解が深まることが期待されます。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2608.02632",
-      "published": "2026-08-05T04:00:00.000Z"
-    },
-    {
-      "title": "GeoID-PINN: Identifiability-Aware Regional Epidemic Inference with Geographic Coupling",
-      "summary": "感染症が地域ごとにどう広がるか、その原因をAIがより正確に調べる新しい方法「GeoID-PINN」が開発されました。地域間の人の移動などを考慮することで、感染状況をより詳しく分析できるようになり、今後の感染症対策に役立ちます。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2608.02633",
-      "published": "2026-08-05T04:00:00.000Z"
-    },
-    {
-      "title": "Verifier-Guided Model Discovery for Physical Dynamical Systems with Pretrained Symbolic Transformers",
-      "summary": "AIが、複雑な物理現象の動きを予測する新しい方法を見つけました。これは、AIがたくさんのデータから「なぜそうなるのか」という法則を見つけるのを助ける仕組みです。これにより、科学や工学で役立つ、より信頼できるAI予測が可能になります。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2608.02662",
-      "published": "2026-08-05T04:00:00.000Z"
-    },
-    {
-      "title": "SpaceX has bought $329M worth of Tesla Megapacks so far this year",
-      "summary": "イーロン・マスク氏が経営するSpaceXが、今年に入ってからTesla（テスラ）の大型バッテリー「Megapacks」を3億2900万ドル（約500億円）分も購入した。これは、マスク氏の会社同士が強く連携していることを示している。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/",
-      "published": "2026-08-04T21:07:26.000Z"
-    },
-    {
-      "title": "Open-weight AI models are catching up to the frontier. The safety gap remains.",
-      "summary": "性能の高いAIが、誰でも使える形で急速に進化している。しかし、安全対策が追いついていないため、危険な使われ方をする心配が出てきている。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
-      "published": "2026-08-04T20:05:26.000Z"
-    },
-    {
-      "title": "Anthropic signs $10B deal with AI cloud startup Volta",
-      "summary": "文章を作るAI（Anthropic）が、AIを動かすための特別なコンピューター（クラウド）を用意する会社（Volta）と、なんと100億ドル（約1兆5000億円）もの大きな契約を結んだそうです。これにより、AIの開発がさらに進むと期待されています。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
-      "published": "2026-08-04T19:48:40.000Z"
-    },
-    {
-      "title": "Meet Wrinkles, an app that uncovers the hidden stories of the places around you",
-      "summary": "このアプリ「Wrinkles」は、あなたの周りの場所の隠された物語を教えてくれるAI音声ガイドです。普段何気なく通り過ぎる場所にも、歴史や面白いエピソードがあることを教えてくれるので、街歩きがもっと楽しくなります。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/08/04/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places-around-you/",
-      "published": "2026-08-04T19:34:34.000Z"
-    },
-    {
-      "title": "Nvidia doesn’t mess around: A week after open AI industry group formed, it’s already showing progress",
-      "summary": "Nvidiaが中心となってできたAIの安全を守るための団体が、結成からわずか1週間で、AI（人工知能）の悪用を防ぐための提案をまとめました。これは、AI技術の進歩が速い中で、安全対策も迅速に進むことの重要性を示しています。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/",
-      "published": "2026-08-04T19:28:49.000Z"
-    },
-    {
-      "title": "Third-party cyber evaluations involving OpenAI models",
-      "summary": "OpenAIが、外部の専門家による自社のAI（人工知能）の安全性を試す取り組みで起きた出来事について説明し、AIの安全性をさらに高めるための新しい対策を発表しました。これにより、AIがさらに安全に利用できるようになることが期待されます。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
-      "published": "2026-08-04T19:00:00.000Z"
-    },
-    {
-      "title": "Deploy local agents everywhere with LFM2.5-2.6B",
-      "summary": "AIが私たちのコンピュータ上で動くようになり、インターネットなしでも賢く振る舞えるようになった。この技術は、個人情報が心配な人や、いつもインターネットにつながらない場所でもAIを使いたい人にとって、とても便利になる。",
-      "source": "Hugging Face",
-      "category": "product",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
-      "published": "2026-08-04T13:58:29.000Z"
-    },
-    {
-      "title": "The latest AI news we announced in July 2026",
-      "summary": "Googleが2026年7月に発表したAIの最新情報によると、AIはさらに賢くなり、私たちの生活をより豊かにしてくれる技術が登場しました。これにより、これまで難しかったこともAIの助けを借りて簡単にできるようになります。",
-      "source": "Google AI Blog",
-      "category": "research",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
-      "published": "2026-08-04T13:00:00.000Z"
-    },
-    {
-      "title": "Uncertainty-Aware Simulation-Based Inference for Operations Research with Large Language Models",
-      "summary": "文章を作るAI（LLM）に、複雑な問題を解かせるのが難しい。そこで、AIが途中の考えの正しさを確かめながら、間違いのない計画（数理モデル）を立てられるようにする新しい方法を考えた。これにより、AIはより確実な結果を出せるようになる。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2608.00019",
-      "published": "2026-08-04T04:00:00.000Z"
-    },
-    {
-      "title": "Learning Compositional Meta-Routing for Agentic Workflows: An Executable Benchmark",
-      "summary": "AIが複雑な指示を理解し、最適な手順で実行するための新しい方法が提案されました。これは、AIが単に答えを出すだけでなく、どうやってその答えにたどり着くかの計画を立てる能力を高めるものです。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2608.00106",
-      "published": "2026-08-04T04:00:00.000Z"
-    },
-    {
-      "title": "MetaRoute-Bench: Evaluating Meta-Decision Policies for Agentic Workflow Routing",
-      "summary": "AIが指示をどうこなすか決める「進路選び」を評価する新しい仕組み「MetaRoute-Bench」ができました。これにより、AIが自分で考えて、より賢く、効率的に仕事を進める方法を見つけやすくなります。\nAIの進路選びの賢さを競うコンテストのようなもので、新しい進路選び方が、従来のやり方より少しだけ精度を上げつつ、コストや時間は少し増えることがわかりました。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2608.00107",
-      "published": "2026-08-04T04:00:00.000Z"
-    },
-    {
-      "title": "Progressive$^2$: A Teacher-Student Progressive Co-Evolving Knowledge Distillation Method for Substantial Model Compression",
-      "summary": "AIの「先生」役の大きなモデルから「生徒」役の小さなモデルへ知識を移す方法に、新しい「Progressive$^2$」という技術が登場しました。\nこれは、先生役が徐々に複雑な知識を教え、生徒役も徐々に小さくなりながら学ぶことで、より高性能な小さなAIを作ることを目指しています。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2608.00129",
-      "published": "2026-08-04T04:00:00.000Z"
-    },
-    {
-      "title": "Rethinking Pretraining for Specialized Design Data: Evidence from the JONES-19 Cultural Design Dataset",
-      "summary": "デザインの分野では、大量の一般的な画像データでAI（機械学習）を訓練するより、デザインに特化した少量のデータで基礎から学ばせた方が、AIの理解が深まることがわかりました。これは、デザインの知識は特殊なので、汎用的な訓練よりも、その分野のルールをしっかり教えることが大切だということを示しています。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2608.00135",
-      "published": "2026-08-04T04:00:00.000Z"
-    },
-    {
-      "title": "New ways to learn and teach with ChatGPT Work and Codex",
-      "summary": "ChatGPT（文章を作るAI）やCodex（コードを作るAI）で、学校や大学の先生、学生が学びや教え方を深めたり、調べたり、ものづくりをしたりできる新しい機能が登場しました。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
-      "published": "2026-08-04T00:00:00.000Z"
-    },
-    {
-      "title": "Apple is getting this wrong",
-      "summary": "OpenAIは、Appleからの訴訟（「根拠がない」と主張）について、自社の従業員に関する主張を訂正し、実際に何が起こったかを記録したメッセージを共有して反論しました。これは、AI開発における企業間の法的な争いが表面化した例として注目されています。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/apple-is-getting-this-wrong",
-      "published": "2026-08-03T22:00:00.000Z"
-    },
-    {
-      "title": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
-      "summary": "AWSは、AIでアプリ開発を効率化するSuperblocks（プログラミングを助けるAIツール）を、顧客のプライベートなクラウド環境（会社専用のインターネット空間）で使えるようにしました。これは、AIの能力（モデル）と、それを使ったアプリを切り離す動きであり、開発の可能性を広げます。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
-      "published": "2026-08-03T20:00:00.000Z"
-    },
-    {
-      "title": "Design Arena creators raise $7.9 million to bring taste to AI models",
-      "summary": "AIが作ったデザインの「センス」を良くするための技術開発に、790万ドル（約11億円）が集まりました。この技術は、世界中で530万人が使う「Design Arena」というサービスで、AIが作ったものを人間が評価するのに役立っています。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
-      "published": "2026-08-03T19:28:57.000Z"
-    },
-    {
-      "title": "Influencers draw backlash for attending OpenAI’s first luxury trip",
-      "summary": "OpenAIが初めてインフルエンサーを招いて開いた豪華旅行が、AIの使い方への懸念から批判を浴びています。AI開発企業がこのようなイベントを開くこと自体が、世間のAIへの複雑な感情を浮き彫りにしています。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/",
-      "published": "2026-08-03T19:09:56.000Z"
-    },
-    {
-      "title": "Apple finally fixed Siri. So why does it feel anticlimactic?",
-      "summary": "アップルが長年かけて改良したAI（人工知能）で、ついに「理想のSiri」が誕生しました。しかし、AIアシスタントが賢くなるのは今や当たり前になり、かつてのような驚きは薄れています。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/",
-      "published": "2026-08-03T18:43:43.000Z"
-    },
-    {
-      "title": "Congress’ favorite AI tool? ChatGPT",
-      "summary": "アメリカ議会で一番使われているAIはChatGPT。議員さんたちが、書類を作ったり、法律をまとめたり、国民からの手紙に返事したりするのに役立てている。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
-      "published": "2026-08-03T16:40:55.000Z"
     }
   ]
 }
