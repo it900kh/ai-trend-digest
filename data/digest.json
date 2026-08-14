@@ -1,7 +1,159 @@
 {
-  "updatedAt": "2026-08-12T22:41:47.694Z",
+  "updatedAt": "2026-08-14T22:23:43.856Z",
   "count": 100,
   "items": [
+    {
+      "title": "Google will now allow users to remove visible watermark from its AI generations",
+      "summary": "GoogleがAIで生成した画像から、目に見える「透かし」（AIが作った証拠）を消せるようになった。これで、AIが作った画像もより自然に使えるようになる。ただし、AIが作ったものだと判別するために使われる、目に見えない技術はそのまま残る。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
+      "published": "2026-08-14T16:13:40.000Z"
+    },
+    {
+      "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
+      "summary": "Metaが、誰でもダウンロードして使えるAIモデル「Glimmer」を発表しました。これは、一部の企業だけが使える強力なAIとは違い、マーク・ザッカーバーグ氏が唱える「AIはみんなのもの」という考え方を広めるためのものです。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
+      "published": "2026-08-14T15:43:28.000Z"
+    },
+    {
+      "title": "Kog is going deeper to squeeze more inference out of GPUs",
+      "summary": "AIが賢く動くためには、GPU（ゲームや動画で絵をきれいに映すのに使うコンピューターの部品）が苦手だと思われていたけど、実はそうじゃないとフランスのスタートアップKogが言っている。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
+      "published": "2026-08-14T14:50:11.000Z"
+    },
+    {
+      "title": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
+      "summary": "AIのデータセンターは大量の電気を使うため、天然ガスの価格が３倍になると、AIを動かすのにすごくお金がかかるようになるかもしれません。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
+      "published": "2026-08-14T14:05:00.000Z"
+    },
+    {
+      "title": "Meta’s ‘open’ AI, and a $250M deal gone very wrong",
+      "summary": "メタ（Facebookの親会社）が、誰でも無料で使えるAI「Glimmer」を発表しました。これは、一部の企業だけが持つ技術ではなく、みんなでAIを使えるようにするという考えに基づいています。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/",
+      "published": "2026-08-14T14:00:00.000Z"
+    },
+    {
+      "title": "Position: Reasoning is a Learnable Rule-Based Process",
+      "summary": "AIによる「考える力」は、実はルールを学ぶことで身につけられる、という新しい考え方を提唱しています。なぜなら、AIがどう考えたか（推論）がはっきりしないと、本当に信頼できるAIを作るのが難しいからです。これを明確にするための、AIの考え方を説明する新しいルールや、研究発表の際の注意点が示されています。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2608.12325",
+      "published": "2026-08-14T04:00:00.000Z"
+    },
+    {
+      "title": "Diagnostic Foundation for Evaluating LLMs' Research Integrity as Co-Scientists",
+      "summary": "AI（文章を作るAI）が研究を手伝うようになったけれど、プレッシャーがかかると間違った判断をする可能性があることが分かりました。新しい評価方法（IntegrityBench）で試したところ、AIは3回に1回くらいの割合で研究のルールを破るような判断をしてしまうことが判明。これは、AIが便利になるほど、研究の信頼を損ねるリスクになるかもしれない、というお話です。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2608.12345",
+      "published": "2026-08-14T04:00:00.000Z"
+    },
+    {
+      "title": "Position: The Alignment Community is Unintentionally Building a Censor's Toolkit",
+      "summary": "AIを安全に使うための技術が、間違った人の手に渡ると、悪いことに使われるかもしれないと心配されています。AIが嘘をついたり、偏った情報だけを見せないようにする仕組みが、逆に情報を隠したり、人々を操る道具になる可能性があるのです。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2608.12346",
+      "published": "2026-08-14T04:00:00.000Z"
+    },
+    {
+      "title": "Agreement Is Not Alignment: Divergent Moral Grounds in Human and LLM Ethical Judgments",
+      "summary": "AI（文章を作るAI）が人の判断と「合っている」ように見えても、その理由が人間と違うことがあるんです。AIは、人の意見と最終的な答えは似ていても、判断の根拠となる考え方が全く異なる場合があることがわかりました。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2608.12368",
+      "published": "2026-08-14T04:00:00.000Z"
+    },
+    {
+      "title": "Multi-Agent Scheduling with LLM-Assisted Contract Net Negotiation for Stream Processing in Mobile Edge Computing",
+      "summary": "スマホなどと連携するAI（LLM）が、たくさんの情報が次々流れてくる処理（ストリーム処理）を、効率よく、遅延なく行うための新しい方法を提案します。AIが、状況に合わせて相談しながら、最適な処理場所を決めてくれるため、よりスムーズに動くことが期待できます。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2608.12371",
+      "published": "2026-08-14T04:00:00.000Z"
+    },
+    {
+      "title": "LoKiFormer: Locality-aware Attention with Decoupled Knowledge Memory for Efficient Large Language Model Pretraining",
+      "summary": "新しいAI「LoKiFormer」は、文章を作るAI（LLM）の学習を速くします。文章の近くの情報と、AIが持っている知識を賢く使い分けることで、より効率的に学習できるようになりました。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2608.12419",
+      "published": "2026-08-14T04:00:00.000Z"
+    },
+    {
+      "title": "Which Site, and When: A Free-Satellite-Data Test of Himalayan Glacial Lake Bursts, Landslides, and Ice Floods",
+      "summary": "人工知能（AI）を使って、ネパールにあるヒマラヤ山脈の氷河湖が決壊する危険性や、土砂崩れ、洪水などの災害を予測する研究が進められています。無料の衛星データから、氷河湖のダムがゆっくりと沈んでいる様子や、雨が多い時期を把握することで、いつ危険が高まるかを予測できる可能性があると期待されています。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2608.12422",
+      "published": "2026-08-14T04:00:00.000Z"
+    },
+    {
+      "title": "MARCH: Scaling Recurrent Memory with Content-Routed State Anchors",
+      "summary": "AIが長い文章を理解するのを助ける新しい仕組み「MARCH」が開発されました。これは、AIが過去の情報を忘れにくくし、より正確に、かつ効率的に処理できるようになる技術で、AIの能力をさらに高める可能性があります。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2608.12435",
+      "published": "2026-08-14T04:00:00.000Z"
+    },
+    {
+      "title": "Multi-AUV Ad-hoc network-based Target Tracking: A Value Gradient Guidance Multi-Agent Diffusion Reinforcement Learning Approach",
+      "summary": "複数の水中ロボット（AUV）がお互いに通信しながら、動き回る目標を追跡する技術が研究されています。この新しい方法は、AI（人工知能）を使って、ロボットたちがより賢く協力し、正確に目標を追跡できるようになります。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2608.12436",
+      "published": "2026-08-14T04:00:00.000Z"
+    },
+    {
+      "title": "Unifying Generative Models with Path Integrals",
+      "summary": "AIが文章を作ったり絵を描いたりする技術（生成モデル）は、これまでバラバラに研究されてきました。この論文では、これらの技術を「経路積分」という一つの考え方でまとめ、より効率的に、かつ正確にAIを動かす方法を提案しています。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2608.12438",
+      "published": "2026-08-14T04:00:00.000Z"
+    },
+    {
+      "title": "State of Open Models: Summer 2026 Observations",
+      "summary": "オープンソースAI（みんなが使えるAI）の最新動向として、2026年夏には、より高性能で使いやすいモデルが登場し、AI開発がさらに加速すると見られています。これは、研究者や開発者が自由にAI技術を共有し、改良できるようになったためです。",
+      "source": "Hugging Face",
+      "category": "product",
+      "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+      "published": "2026-08-14T00:00:00.000Z"
+    },
+    {
+      "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+      "summary": "AIロボットが、学習から実際の活用まで、すべてを一つの場所でできるようにする新しい方法が登場しました。これにより、AI開発がより手軽になり、色々なロボットが賢く動く未来が近づきます。",
+      "source": "Hugging Face",
+      "category": "product",
+      "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+      "published": "2026-08-13T17:16:04.000Z"
+    },
+    {
+      "title": "Bring your spreadsheet data to life with Sheets canvas",
+      "summary": "Google スプレッドシートが、AIでグラフや表を動く画面（ダッシュボード）に変身させる新機能「Sheets canvas」を発表しました。まるで絵を描くように、簡単な指示でオリジナルの学習記録表や席次表などが作れるようになります。",
+      "source": "Google AI Blog",
+      "category": "research",
+      "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/",
+      "published": "2026-08-13T16:45:00.000Z"
+    },
+    {
+      "title": "The builder’s guide to GPT‑5.6",
+      "summary": "AI（人工知能）の新しい技術「GPT-5.6」を使うと、会社（スタートアップ）がもっと速く、安く、賢いAIロボット（AIエージェント）を作れるようになった。AIが状況に合わせて最適な賢さ（モデル）を選んだり、AIからの返事（レスポンス）をうまく扱ったりできるようになったからだ。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
+      "published": "2026-08-13T11:00:00.000Z"
+    },
     {
       "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them cheating at their jobs, classes",
       "summary": "AIが作った文章に「透かし」（目に見えない印）を付けられるようになった。これにより、AIが書いた文章を自分のものだと偽って提出するのを防げるようになるが、一部の利用者は困惑している。",
@@ -649,158 +801,6 @@
       "category": "research",
       "url": "https://arxiv.org/abs/2608.04095",
       "published": "2026-08-06T04:00:00.000Z"
-    },
-    {
-      "title": "C$^2$MOE: Consistency and Complementarity-guided Mixture of Experts for Incomplete Multimodal Emotion Learning",
-      "summary": "AIが複数の情報（声、表情など）を組み合わせて感情を読み取る際、情報が一部欠けていても感情を正しく理解できる新しい技術「C$^2$MOE」が開発されました。これは、欠けた情報を補い、それぞれの情報の強みを活かすことで、より正確な感情分析を可能にします。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2608.04013",
-      "published": "2026-08-06T04:00:00.000Z"
-    },
-    {
-      "title": "On Hamming-Lipschitz Type Stability of the Subdominant (Minmax) Ultrametric: Theory and Simple Proofs",
-      "summary": "この研究は、データ間の「違い」をまとめるAI（サブドミナント（ミンマックス）超距離）が、一部のデータが少し変わっただけでも大きく影響を受ける場合があることを発見しました。新しい理論で、データのごく一部の変更が、AIの「木構造」に沿ってどのように影響が広がるかを解明し、AIがどのように攻撃されやすいかを調べるのに役立つことを示しています。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2608.04014",
-      "published": "2026-08-06T04:00:00.000Z"
-    },
-    {
-      "title": "A Trust-region Framework for Moment Estimation",
-      "summary": "AIが賢くなるための新しい「進み方」を考えた研究です。AI（特に学習するAI）が、たくさんの情報を元に自分をより良くしていく（学習）ときに、一度に大きく変わりすぎず、ちょうど良いペースで進むようにするための「進み方」のルールを作りました。このルールを使えば、AIがより安定して学習できるようになると期待されています。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2608.04026",
-      "published": "2026-08-06T04:00:00.000Z"
-    },
-    {
-      "title": "Learning to Resolve Neutron Resonances with Fully Convolutional Neural Networks",
-      "summary": "AIが、原子力分野で、物質に中性子を当てたときに現れる「共鳴」という特徴を自動で見つける方法を研究しました。この技術は、これまで専門家が手作業で行っていた分析を速め、より正確な結果を出す可能性があります。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2608.04027",
-      "published": "2026-08-06T04:00:00.000Z"
-    },
-    {
-      "title": "Lindblad-Inspired Multi-Timescale Reservoir Computing with Separable Rotation and Dissipation",
-      "summary": "新しいAIの仕組みは、音を録音して後で聞くように、過去の情報を保持する能力を高めます。これにより、AIが複雑な問題を解くための「記憶力」や「安定性」を、より細かく調整できるようになり、様々な課題で高い性能を発揮します。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2608.04028",
-      "published": "2026-08-06T04:00:00.000Z"
-    },
-    {
-      "title": "From asking to doing: How the world is putting ChatGPT to work",
-      "summary": "ChatGPTが世界中でどのように使われているかのデータによると、国ごとに利用状況や使い方の変化が見えてきました。単に質問するだけでなく、実際に仕事や学習に活用する人が増えているのが新しい点です。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
-      "published": "2026-08-06T00:00:00.000Z"
-    },
-    {
-      "title": "Baseten on Hugging Face Inference Providers 🔥",
-      "summary": "Basetenという会社が、AIモデル（コンピューターに学習させたプログラム）をHugging Faceという場所で、より簡単に使えるようにした。これにより、AI開発者たちは、自分で難しい設定をしなくても、作ったAIをすぐに試せるようになった。",
-      "source": "Hugging Face",
-      "category": "product",
-      "url": "https://huggingface.co/blog/baseten",
-      "published": "2026-08-06T00:00:00.000Z"
-    },
-    {
-      "title": "Meta launches Muse Code, an AI agent for large code bases",
-      "summary": "メタ（Facebookの親会社）が、たくさんのコード（プログラムの指示書）を理解できる新しいAI「Muse Code」を発表しました。これは、複雑なソフトウェアの難しい作業をこなせるAIで、開発者の手助けになることが期待されます。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
-      "published": "2026-08-05T21:21:28.000Z"
-    },
-    {
-      "title": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders",
-      "summary": "EC（ネット通販）で大人気のKlaviyoが、AI（人工知能）で起業家を助ける会社をまるごと買収しました。この買収で、起業家だったエリヤス・トーレスさんがKlaviyoの新しい役員として、AIを使ったサービス（AIエージェント）を率いることになります。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/",
-      "published": "2026-08-05T20:05:00.000Z"
-    },
-    {
-      "title": "Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
-      "summary": "GoogleのトップAI研究者たちが、科学の発見をAIで加速させるため、新しい会社を立ち上げます。これは、AIの力が科学の進歩を大きく変える可能性を示唆する、注目の動きです。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/",
-      "published": "2026-08-05T19:30:19.000Z"
-    },
-    {
-      "title": "Shopify says AI search is driving more traffic and sales, not replacing Google",
-      "summary": "Shopifyによると、AI検索はGoogle検索を奪うのではなく、むしろ増やす効果がある。AIを使った検索からお店へのアクセスや注文が、去年の同じ時期と比べて3倍になった。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google/",
-      "published": "2026-08-05T15:56:14.000Z"
-    },
-    {
-      "title": "Hark previews its browser use agent for completing tasks",
-      "summary": "Harkは、ウェブサイトを自動で操作してタスクをこなすAI（エージェント）を開発しました。これは、他のAIよりも速く、安く使えることを目指しており、AIが私たちの代わりにインターネットで色々な作業をしてくれる未来が近づいていることを示しています。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/08/05/hark-previews-its-browser-use-agent-for-completing-tasks/",
-      "published": "2026-08-05T15:46:27.000Z"
-    },
-    {
-      "title": "ISEE: Interactive Semantic Enrichment for Database Fields",
-      "summary": "AIがデータベースの情報を理解するには、情報の意味がはっきりしていることが大切です。でも、実際には意味が分かりにくい情報が多く、AIの性能が落ちてしまうことがあります。このシステムは、AIが情報の意味をより深く理解できるよう、人間と協力して情報を補っていく新しい方法です。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2608.02604",
-      "published": "2026-08-05T04:00:00.000Z"
-    },
-    {
-      "title": "Self-Organising Digital Circuits",
-      "summary": "AIが、壊れた部分があっても自分で考えて、正しい働きをする回路を組み立てられるようになった。これは、生物の体が傷を治す仕組みにヒントを得ていて、AIが自分で学習して、新しい回路をデザインしたり、問題が起きてもすぐに別の方法で解決したりできるすごい技術だ。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2608.02606",
-      "published": "2026-08-05T04:00:00.000Z"
-    },
-    {
-      "title": "Beyond the Hivemind: Escaping LLM Homogeneity via Meta-Persona Anchoring and Sequential Temperature Scaling",
-      "summary": "AIがみんな同じような答えしか出さなくなる「AIの群集心理」という問題があります。これを解決するため、AIに「自分だけの個性」をまず決めさせ、それから多様な考え方を探る方法が提案されました。これにより、AIの回答のばらつきが大きくなり、より人間らしい、豊かな表現が可能になります。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2608.02618",
-      "published": "2026-08-05T04:00:00.000Z"
-    },
-    {
-      "title": "PULSE: An Executable Contract Language for Spatiotemporal Knowledge Graph Engineering",
-      "summary": "「PULSE」という新しいAI技術が登場しました。これは、時間と場所の情報（時空間知識グラフ）を扱うためのもので、AIが情報をどのように記録・管理するかを明確に決める「契約」を、AI自身の中に閉じ込めることができます。これにより、情報の正確性や安全性が高まります。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2608.02630",
-      "published": "2026-08-05T04:00:00.000Z"
-    },
-    {
-      "title": "HyperAgent: Planning and Acting over Tool-Schema Hypergraphs for Tool-Use LLM Agents",
-      "summary": "AIが「道具」を使って複雑な仕事をこなすとき、どうやって一番良い道具の組み合わせを見つけるか、という新しい方法「HyperAgent」が提案されました。\nこの方法は、道具とその使い方を分かりやすく整理して、AIが迷わず、効率的に仕事を進められるようにします。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2608.02650",
-      "published": "2026-08-05T04:00:00.000Z"
-    },
-    {
-      "title": "Deep Divide-and-Reduce in Symbolic Regression",
-      "summary": "この研究は、データから隠された規則性を見つけて数式で表すAI（シンボリック回帰）の新しい方法「DDRSR」を提案しています。これまでAIは複雑な数式をうまく扱えませんでしたが、DDRSRは数式の分解と簡略化をより賢く行い、複雑な問題も解ける可能性を高めます。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2608.02628",
-      "published": "2026-08-05T04:00:00.000Z"
-    },
-    {
-      "title": "Multimodal Auto-regressive Transformer Surrogate for Modeling Variable Operations and Quantifying Uncertainty in Geological Carbon Storage",
-      "summary": "地下に二酸化炭素を貯める技術の効率を上げるため、AIが新しい方法でシミュレーションできるようになりました。これにより、貯まり具合を予測し、どれくらい安全かを確かめることができるようになり、貯留層の管理がより正確にできるようになります。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2608.02629",
-      "published": "2026-08-05T04:00:00.000Z"
     }
   ]
 }
