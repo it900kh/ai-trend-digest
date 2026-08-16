@@ -1,7 +1,47 @@
 {
-  "updatedAt": "2026-08-14T22:23:43.856Z",
+  "updatedAt": "2026-08-16T22:20:25.642Z",
   "count": 100,
   "items": [
+    {
+      "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
+      "summary": "世界で有名な決済サービスStripeが、AI（人工知能）のサービスを簡単に使えるようにするOpenRouterという会社を70億ドル（約1兆円）以上で買収する見込みです。OpenRouterは、色々なAIサービスを一つにまとめて使いやすくする「AIの入り口」のような存在で、StripeがAI分野に本格参入する重要な一歩となりそうです。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+      "published": "2026-08-16T20:57:04.000Z"
+    },
+    {
+      "title": "Why people aren’t buying Mark Zuckerberg’s AI future",
+      "summary": "マーク・ザッカーバーグが描くAIの未来に、なぜ皆が賛成しているわけではないのか、その理由が議論されています。新しいAI技術の進歩は目覚ましいですが、その普及や受け入れ方には様々な意見があるようです。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
+      "published": "2026-08-16T20:32:01.000Z"
+    },
+    {
+      "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
+      "summary": "AIの「逆風」は、信頼への危機が原因だとAnthropicのCEOは語ります。AIの発展には、人々が安心して使えるように、技術への信頼を築くことが不可欠だと主張しています。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
+      "published": "2026-08-16T16:53:51.000Z"
+    },
+    {
+      "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
+      "summary": "AI（人工知能）が、家族写真のような身近なものを、子どもを傷つけるような画像に悪用される可能性が指摘されています。この問題は、AI技術の急速な発展に伴い、私たちの生活に潜む新たな危険性を示唆しています。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
+      "published": "2026-08-15T21:29:19.000Z"
+    },
+    {
+      "title": "Anthropic shares more details about how Claude’s new watermarks will work",
+      "summary": "AIが作った文章だとわかるように、Claude（文章を作るAI）の回答に目印（ウォーターマーク）をつける方法を詳しく説明。この目印は、後から文章を少し変えても消えないように工夫されていて、AIが作ったものがより分かりやすくなるため重要です。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
+      "published": "2026-08-15T18:58:39.000Z"
+    },
     {
       "title": "Google will now allow users to remove visible watermark from its AI generations",
       "summary": "GoogleがAIで生成した画像から、目に見える「透かし」（AIが作った証拠）を消せるようになった。これで、AIが作った画像もより自然に使えるようになる。ただし、AIが作ったものだと判別するために使われる、目に見えない技術はそのまま残る。",
@@ -153,6 +193,30 @@
       "category": "product",
       "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
       "published": "2026-08-13T11:00:00.000Z"
+    },
+    {
+      "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+      "summary": "GPT-5.6 Sol（文章を作るAI）が、これまでの14倍速く動く「Ultrafast」モードが登場しました。これにより、AIがより速く、1秒間に750単語もの文章を生成できるようになり、様々なサービスでAIがもっと使いやすくなります。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/previewing-ultrafast",
+      "published": "2026-08-13T10:00:00.000Z"
+    },
+    {
+      "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
+      "summary": "OpenAIが、AIのビジネス活用を広げるために、新しい「最高収益責任者（CRO）」にダリ・ラジック氏を迎えました。世界中のビジネスがAIの力を最大限に引き出せるよう、収益面からサポートしていきます。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
+      "published": "2026-08-13T09:00:00.000Z"
+    },
+    {
+      "title": "What We Learned by Reproducing 2,200 papers from ICML",
+      "summary": "ICMLという有名なAIの学会で発表された2200もの論文を、別の研究者たちが再現しようと試みた結果、AI研究の進歩には「誰でも同じ結果を出せるようにすること」が大切だとわかった。これにより、AIの発展がさらに速く、確実になることが期待される。",
+      "source": "Hugging Face",
+      "category": "product",
+      "url": "https://huggingface.co/blog/icml-2026-open-reproductions",
+      "published": "2026-08-13T00:00:00.000Z"
     },
     {
       "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them cheating at their jobs, classes",
@@ -313,6 +377,14 @@
       "category": "research",
       "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
       "published": "2026-08-11T17:00:00.000Z"
+    },
+    {
+      "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
+      "summary": "AIが「思考」するために必要な情報量を大幅に減らす技術が開発されました。これにより、AIがより速く、より多くのことを学べるようになり、賢いAIの実現に近づきます。",
+      "source": "Hugging Face",
+      "category": "product",
+      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
+      "published": "2026-08-11T13:37:10.000Z"
     },
     {
       "title": "Testing ads in ChatGPT",
@@ -496,6 +568,14 @@
       "source": "arXiv (cs.LG)",
       "category": "research",
       "url": "https://arxiv.org/abs/2608.06427",
+      "published": "2026-08-10T04:00:00.000Z"
+    },
+    {
+      "title": "Fixed and Adaptive Topological DeepONets: Functional Measurements on Hausdorff Locally Convex Spaces",
+      "summary": "AIが複雑な問題（例：天気予報）を解く新しい方法が開発されました。これまでAIは決まった点の情報で学習していましたが、この新しい方法は、より柔軟に多様な情報を捉えることができます。これにより、AIの予測精度が上がり、計算も効率的になる可能性があります。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2608.06428",
       "published": "2026-08-10T04:00:00.000Z"
     },
     {
@@ -721,86 +801,6 @@
       "category": "business",
       "url": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
       "published": "2026-08-06T17:34:42.000Z"
-    },
-    {
-      "title": "Naïve raises $28.5M to automate the grunt work of setting up and running a company",
-      "summary": "起業して会社を始める際の面倒な手続きを自動化するAI（人工知能）サービス「Naïve」が、約40億円を調達しました。これにより、会社設立から運営まで、多くの手間を省けるようになり、起業家はより創造的な活動に集中できるようになります。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/",
-      "published": "2026-08-06T17:00:37.000Z"
-    },
-    {
-      "title": "Gen Z dating apps like Ditto ditch swiping in favor of AI matchmaking",
-      "summary": "若者の間で、スワイプ式のマッチングアプリに飽き飽きした人が増えています。そこで、AI（人工知能）が相手を探してくれる新しいアプリが登場し、注目されています。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/08/06/gen-z-dating-apps-like-ditto-ditch-swiping-in-favor-of-ai-matchmaking/",
-      "published": "2026-08-06T15:53:03.000Z"
-    },
-    {
-      "title": "OpenAI says Apple’s own security practices undermine its trade secrets case",
-      "summary": "OpenAIは、Appleの元エンジニアのiCloudアカウントにAppleの担当者がアクセスしたことを指摘し、Apple自身のセキュリティ管理の甘さが、自社の機密情報が盗まれたという主張を弱めていると訴えています。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case/",
-      "published": "2026-08-06T15:10:32.000Z"
-    },
-    {
-      "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
-      "summary": "ChatGPTが賢くなり、間違いが減りました！無料でも普段使いできるAI（GPT-5.6 Luna）が使えるようになり、みんながさらに便利にAIを使えるようになります。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
-      "published": "2026-08-06T10:00:00.000Z"
-    },
-    {
-      "title": "Working with the American Psychological Association on youth mental health and AI",
-      "summary": "AIを安全に使うための大切なルール作りを、心理学の専門家たちと進めているよ。子どもたちの心の健康を守りながら、AIがもっと役に立つように、みんなで知恵を出し合っているんだ。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
-      "published": "2026-08-06T06:00:00.000Z"
-    },
-    {
-      "title": "A Long-Run Persistence Theory for AI Systems under the Redundancy-Adjusted Artificial Age Score (AAS)",
-      "summary": "AIは一度きりの仕事ではなく、何度も学習や更新を繰り返しながら長く使い続けられることが期待されています。この研究では、AIが古くなりすぎて使えなくなることなく、ずっと働き続けられるための新しい考え方（AAS）を提案しています。これは、AIの「老化」が無限に続かないことを示し、長期的にAIを使い続けるための理論的な土台となります。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2608.04012",
-      "published": "2026-08-06T04:00:00.000Z"
-    },
-    {
-      "title": "The LLM Proposes, the Executive Disposes: A Self-Verifying Agent Instrument that Dissociates Commitment Drift from Binding Drift in Long-Horizon Agents",
-      "summary": "AI（文章を作るAI）が計画を提案し、人間が最終決定することで、AIが途中で計画を変えてしまう問題をなくし、その計画の実行を正確に確認できるようになりました。この仕組みで、AIが途中で計画を放棄する問題と、計画の実行ミスを区別して調べられるようになります。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2608.04066",
-      "published": "2026-08-06T04:00:00.000Z"
-    },
-    {
-      "title": "Monte Carlo Tree Search for Table-to-Multimodal Report Generation",
-      "summary": "表のデータから、文章とグラフがセットになった分かりやすい報告書を自動で作る新しい方法が開発されました。AI（LLM）が、報告書の構成、グラフの作成、説明文の作成などを段階的に進め、より正確で分かりやすい報告書を効率的に生成できるようになります。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2608.04071",
-      "published": "2026-08-06T04:00:00.000Z"
-    },
-    {
-      "title": "FinProBench: Evaluating Financial AI Agents with Role-Grounded Rubrics Derived from Professional Deliverables",
-      "summary": "金融分野のAI（人工知能）が、専門家と同じように質の高い仕事ができているかを評価するための新しい方法「FinProBench」が開発されました。AIは、専門家が実際に作った成果物から、まだ言語化されていない「暗黙の基準」を学ぶことで、より正確な評価が可能になります。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2608.04077",
-      "published": "2026-08-06T04:00:00.000Z"
-    },
-    {
-      "title": "FinPerMA: A Theory-Informed, Event-Grounded Personalized-Memory Benchmark for LLM Agents",
-      "summary": "お金の相談をするAI（LLM）が、長い期間でも人の好みを覚えて、変化に対応できるか試す新しい方法（FinPerMA）ができました。AIが人の行動や気持ちの変化をどれだけ理解できるかがわかるテストで、今のAIはまだ十分ではないことがわかりました。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2608.04095",
-      "published": "2026-08-06T04:00:00.000Z"
     }
   ]
 }
