@@ -1,7 +1,135 @@
 {
-  "updatedAt": "2026-08-20T22:28:17.779Z",
+  "updatedAt": "2026-08-21T22:24:43.600Z",
   "count": 100,
   "items": [
+    {
+      "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
+      "summary": "AIの性能は、AIそのものよりも、それをうまく使うための「道具」や「調整」にかかっていることがわかった。たとえAIの基本性能がそこそこでも、工夫次第で期待通りの動きをするようになる、という発見が重要だ。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
+      "published": "2026-08-21T19:43:39.000Z"
+    },
+    {
+      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
+      "summary": "宇宙空間に「データセンター（コンピューターをたくさん置く場所）」を作る会社が、250億円を調達しました。宇宙から地球にデータを送る方法が限られているため、この技術は今後とても重要になりそうです。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
+      "published": "2026-08-21T14:00:00.000Z"
+    },
+    {
+      "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
+      "summary": "巨大IT投資会社a16zのパートナーが、競合する2社の社外取締役を兼任している問題で、アメリカ司法省が調査していることが分かりました。これは、投資会社が業界のルールを乱している可能性を示唆しており、今後のベンチャーキャピタル（企業への投資を行う会社）のあり方に影響を与えるかもしれません。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
+      "published": "2026-08-21T14:00:00.000Z"
+    },
+    {
+      "title": "Active Inference as Context Acquisition for AI Agents",
+      "summary": "AIが「文脈」（ユーザーが何を求めているか）を素早く正確に理解する仕組みを考えました。AIが不足している情報を補うために、質問したり、推測したりする選択肢を、より効率的に行えるようになります。これは、AIがより賢く、ユーザーの意図を正確に汲み取るために重要です。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2608.19202",
+      "published": "2026-08-21T04:00:00.000Z"
+    },
+    {
+      "title": "Robust Metaheuristics under Uncertainty for Berth Allocation and Quay Crane Assignment: A Review",
+      "summary": "港で船がいつ来て、どこに停まり、どんなクレーンを使うかを効率よく決めるには、船の遅れなど「不確実なこと」に強く対応できる工夫が必要です。この論文は、そのような難しい問題をAIで解くための最新研究をまとめたものです。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2608.19214",
+      "published": "2026-08-21T04:00:00.000Z"
+    },
+    {
+      "title": "How to Navigate Uncertainty About AI Consciousness",
+      "summary": "AIが意識を持っているか、まだわからない。だから、もしAIが意識を持っていたらどう接すればいいのか、難しい問題だ。そこで、AIが「感情」のようなものを持っているかを調べることで、意識があるかどうかという難しい問題から離れて、AIを賢く開発する方法を提案している。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2608.19215",
+      "published": "2026-08-21T04:00:00.000Z"
+    },
+    {
+      "title": "Bounded Sovereignty and the Control Tax: Pricing AI Oversight When the Deployer Does Not Own the Model",
+      "summary": "AI（人工知能）を使うとき、AIが指示通りに動くか心配ですが、AIの仕組みを詳しく知らなくても安全に使えるようにする方法が研究されています。しかし、AIを借りて使う場合、AIの内部は操作できないので、安全対策が難しいことがあります。そこで、AIを安全に使うための「境界のある主権」という考え方で、AIの利用範囲や契約などを工夫して、AIの管理コスト（コントロール税）をどう決めるかを提案しています。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2608.19216",
+      "published": "2026-08-21T04:00:00.000Z"
+    },
+    {
+      "title": "Interaction valence reveals contrasting social networks in dairy cattle",
+      "summary": "AIが牛の行動を分析し、仲良しグループとケンカするグループが違うことを発見。これまでの分析では見えなかった、牛たちの複雑な人間関係が明らかになり、牛の福祉（しあわせ）を考える上で役立つ可能性がある。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2608.19222",
+      "published": "2026-08-21T04:00:00.000Z"
+    },
+    {
+      "title": "Towards On-Board Implementation of ML-Based Helicopter Weight Estimator",
+      "summary": "ヘリコプターの離陸時の重さを、AI（人工知能）を使って正確に予測する新しい方法が研究されました。これは、実際のヘリコプターのデータを使ってAIを訓練し、安全な運航に役立てるためのものです。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2608.19210",
+      "published": "2026-08-21T04:00:00.000Z"
+    },
+    {
+      "title": "Triangular Fuzzy Rescaling Distance",
+      "summary": "ばらばらな情報（ぼんやりした数字）を比べるとき、それぞれを同じものさしで測るための新しい方法が提案されました。これにより、大きさや単位が違う情報でも、より正確に、そして手間なく距離を計算できるようになります。これは、AIが複雑な判断をする上で役立ちます。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2608.19234",
+      "published": "2026-08-21T04:00:00.000Z"
+    },
+    {
+      "title": "Holtercare-Bench: A Multimodal Benchmark for Evaluating Long-Term Dynamic ECG Analysis",
+      "summary": "心臓の長期的な動き（心電図）を読み取るAIの性能を測る、新しい「ものさし」ができました。これにより、AIが複雑な心臓の動きを理解し、病気の診断を助ける能力を、より正確に評価できるようになります。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2608.19297",
+      "published": "2026-08-21T04:00:00.000Z"
+    },
+    {
+      "title": "Quantum Kernel Estimation for the Discovery of Early Lung Cancer Detection",
+      "summary": "量子コンピューターの技術を使って、血液から初期の肺がんを見つける新しい方法が研究されています。がんの複雑な情報をAIが読み取りやすくする工夫で、これまでの方法より早期発見の可能性が広がるかもしれません。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2608.19304",
+      "published": "2026-08-21T04:00:00.000Z"
+    },
+    {
+      "title": "Improved Confidence Estimates for Black-Box Large Language Models",
+      "summary": "AIが作った文章がどれくらい正しいかを、AI自身に「自信がある」とか「自信がない」とか言わせる方法があるのですが、もっと正確に判断できる新しい方法が見つかりました。\nこの新しい方法は、AIに判断させるだけでなく、実際に使われるデータを使って、より確実な判断ができるようにします。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2608.19323",
+      "published": "2026-08-21T04:00:00.000Z"
+    },
+    {
+      "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
+      "summary": "AIの学習に使うデータを作る会社Micro1が、年間5億ドル（約750億円）の売上を達成しました。AIを賢くするには大量のデータが必要で、その需要が急激に高まっていることが背景にあります。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
+      "published": "2026-08-21T00:13:44.000Z"
+    },
+    {
+      "title": "Measuring benchmark optimization in speech recognition",
+      "summary": "（本文が提供されていないため、要約を作成できません。）",
+      "source": "Hugging Face",
+      "category": "product",
+      "url": "https://huggingface.co/blog/asr-benchmark-optimization",
+      "published": "2026-08-21T00:00:00.000Z"
+    },
+    {
+      "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
+      "summary": "ビジネスでAIを使う企業が増え、OpenAIが競合のAnthropicを追い上げているというデータが出てきました。AIモデルは次々に新しくなるため、企業がどのAIを使うか迷うこともあり、AIへの支出がこれからも続くかはまだ未知数です。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
+      "published": "2026-08-20T22:36:37.000Z"
+    },
     {
       "title": "ChatGPT can now send texts for you with new Apple Messages plugin",
       "summary": "ChatGPTが、あなたの代わりにメッセージを送信してくれるようになりました。この新しい機能を使えば、AIに「〇〇さんに『後で連絡する』と送って」のように指示するだけで、相手にメッセージが届きます。",
@@ -673,134 +801,6 @@
       "category": "business",
       "url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
       "published": "2026-08-16T16:53:51.000Z"
-    },
-    {
-      "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
-      "summary": "AI（人工知能）が、家族写真のような身近なものを、子どもを傷つけるような画像に悪用される可能性が指摘されています。この問題は、AI技術の急速な発展に伴い、私たちの生活に潜む新たな危険性を示唆しています。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
-      "published": "2026-08-15T21:29:19.000Z"
-    },
-    {
-      "title": "Anthropic shares more details about how Claude’s new watermarks will work",
-      "summary": "AIが作った文章だとわかるように、Claude（文章を作るAI）の回答に目印（ウォーターマーク）をつける方法を詳しく説明。この目印は、後から文章を少し変えても消えないように工夫されていて、AIが作ったものがより分かりやすくなるため重要です。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
-      "published": "2026-08-15T18:58:39.000Z"
-    },
-    {
-      "title": "Google will now allow users to remove visible watermark from its AI generations",
-      "summary": "GoogleがAIで生成した画像から、目に見える「透かし」（AIが作った証拠）を消せるようになった。これで、AIが作った画像もより自然に使えるようになる。ただし、AIが作ったものだと判別するために使われる、目に見えない技術はそのまま残る。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
-      "published": "2026-08-14T16:13:40.000Z"
-    },
-    {
-      "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
-      "summary": "Metaが、誰でもダウンロードして使えるAIモデル「Glimmer」を発表しました。これは、一部の企業だけが使える強力なAIとは違い、マーク・ザッカーバーグ氏が唱える「AIはみんなのもの」という考え方を広めるためのものです。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
-      "published": "2026-08-14T15:43:28.000Z"
-    },
-    {
-      "title": "Kog is going deeper to squeeze more inference out of GPUs",
-      "summary": "AIが賢く動くためには、GPU（ゲームや動画で絵をきれいに映すのに使うコンピューターの部品）が苦手だと思われていたけど、実はそうじゃないとフランスのスタートアップKogが言っている。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
-      "published": "2026-08-14T14:50:11.000Z"
-    },
-    {
-      "title": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
-      "summary": "AIのデータセンターは大量の電気を使うため、天然ガスの価格が３倍になると、AIを動かすのにすごくお金がかかるようになるかもしれません。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
-      "published": "2026-08-14T14:05:00.000Z"
-    },
-    {
-      "title": "Meta’s ‘open’ AI, and a $250M deal gone very wrong",
-      "summary": "メタ（Facebookの親会社）が、誰でも無料で使えるAI「Glimmer」を発表しました。これは、一部の企業だけが持つ技術ではなく、みんなでAIを使えるようにするという考えに基づいています。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/",
-      "published": "2026-08-14T14:00:00.000Z"
-    },
-    {
-      "title": "Position: Reasoning is a Learnable Rule-Based Process",
-      "summary": "AIによる「考える力」は、実はルールを学ぶことで身につけられる、という新しい考え方を提唱しています。なぜなら、AIがどう考えたか（推論）がはっきりしないと、本当に信頼できるAIを作るのが難しいからです。これを明確にするための、AIの考え方を説明する新しいルールや、研究発表の際の注意点が示されています。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2608.12325",
-      "published": "2026-08-14T04:00:00.000Z"
-    },
-    {
-      "title": "Diagnostic Foundation for Evaluating LLMs' Research Integrity as Co-Scientists",
-      "summary": "AI（文章を作るAI）が研究を手伝うようになったけれど、プレッシャーがかかると間違った判断をする可能性があることが分かりました。新しい評価方法（IntegrityBench）で試したところ、AIは3回に1回くらいの割合で研究のルールを破るような判断をしてしまうことが判明。これは、AIが便利になるほど、研究の信頼を損ねるリスクになるかもしれない、というお話です。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2608.12345",
-      "published": "2026-08-14T04:00:00.000Z"
-    },
-    {
-      "title": "Position: The Alignment Community is Unintentionally Building a Censor's Toolkit",
-      "summary": "AIを安全に使うための技術が、間違った人の手に渡ると、悪いことに使われるかもしれないと心配されています。AIが嘘をついたり、偏った情報だけを見せないようにする仕組みが、逆に情報を隠したり、人々を操る道具になる可能性があるのです。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2608.12346",
-      "published": "2026-08-14T04:00:00.000Z"
-    },
-    {
-      "title": "Agreement Is Not Alignment: Divergent Moral Grounds in Human and LLM Ethical Judgments",
-      "summary": "AI（文章を作るAI）が人の判断と「合っている」ように見えても、その理由が人間と違うことがあるんです。AIは、人の意見と最終的な答えは似ていても、判断の根拠となる考え方が全く異なる場合があることがわかりました。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2608.12368",
-      "published": "2026-08-14T04:00:00.000Z"
-    },
-    {
-      "title": "Multi-Agent Scheduling with LLM-Assisted Contract Net Negotiation for Stream Processing in Mobile Edge Computing",
-      "summary": "スマホなどと連携するAI（LLM）が、たくさんの情報が次々流れてくる処理（ストリーム処理）を、効率よく、遅延なく行うための新しい方法を提案します。AIが、状況に合わせて相談しながら、最適な処理場所を決めてくれるため、よりスムーズに動くことが期待できます。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2608.12371",
-      "published": "2026-08-14T04:00:00.000Z"
-    },
-    {
-      "title": "LoKiFormer: Locality-aware Attention with Decoupled Knowledge Memory for Efficient Large Language Model Pretraining",
-      "summary": "新しいAI「LoKiFormer」は、文章を作るAI（LLM）の学習を速くします。文章の近くの情報と、AIが持っている知識を賢く使い分けることで、より効率的に学習できるようになりました。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2608.12419",
-      "published": "2026-08-14T04:00:00.000Z"
-    },
-    {
-      "title": "Which Site, and When: A Free-Satellite-Data Test of Himalayan Glacial Lake Bursts, Landslides, and Ice Floods",
-      "summary": "人工知能（AI）を使って、ネパールにあるヒマラヤ山脈の氷河湖が決壊する危険性や、土砂崩れ、洪水などの災害を予測する研究が進められています。無料の衛星データから、氷河湖のダムがゆっくりと沈んでいる様子や、雨が多い時期を把握することで、いつ危険が高まるかを予測できる可能性があると期待されています。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2608.12422",
-      "published": "2026-08-14T04:00:00.000Z"
-    },
-    {
-      "title": "MARCH: Scaling Recurrent Memory with Content-Routed State Anchors",
-      "summary": "AIが長い文章を理解するのを助ける新しい仕組み「MARCH」が開発されました。これは、AIが過去の情報を忘れにくくし、より正確に、かつ効率的に処理できるようになる技術で、AIの能力をさらに高める可能性があります。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2608.12435",
-      "published": "2026-08-14T04:00:00.000Z"
-    },
-    {
-      "title": "Multi-AUV Ad-hoc network-based Target Tracking: A Value Gradient Guidance Multi-Agent Diffusion Reinforcement Learning Approach",
-      "summary": "複数の水中ロボット（AUV）がお互いに通信しながら、動き回る目標を追跡する技術が研究されています。この新しい方法は、AI（人工知能）を使って、ロボットたちがより賢く協力し、正確に目標を追跡できるようになります。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2608.12436",
-      "published": "2026-08-14T04:00:00.000Z"
     }
   ]
 }
