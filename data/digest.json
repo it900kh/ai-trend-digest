@@ -1,7 +1,47 @@
 {
-  "updatedAt": "2026-08-21T22:24:43.600Z",
+  "updatedAt": "2026-08-22T22:20:41.435Z",
   "count": 100,
   "items": [
+    {
+      "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
+      "summary": "ハーバード大学の新しいプログラムでは、AIの先生が学生のアイデア発表の練習相手になってくれます。学生はAIの先生に質問したり、アドバイスをもらったりして、実践的なスキルを磨けます。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
+      "published": "2026-08-22T21:46:56.000Z"
+    },
+    {
+      "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
+      "summary": "AI研究の達人たちが作った「Faraday」というAIが、研究論文をそっくりそのまま再現する能力で、他の有名なAI（AnthropicやOpenAI）を上回りました。これは、新しい技術を生み出すための大きな一歩になるかもしれません。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
+      "published": "2026-08-22T19:00:00.000Z"
+    },
+    {
+      "title": "OpenAI says California should strengthen its AI safety bill",
+      "summary": "OpenAIが、以前は反対していたカリフォルニア州のAI安全法案（SB 53）を強化するよう求めている。これは、AI開発の最前線にいる企業が、安全規制の強化を支持する姿勢に変化したことを示しており、今後のAI開発と規制のあり方に影響を与えそうだ。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
+      "published": "2026-08-22T16:30:34.000Z"
+    },
+    {
+      "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
+      "summary": "AIを作る会社は、もしAIが暴走（危険な行動）した場合にどうやって止めるか、具体的な計画をあまり公開していないことがわかった。AIが予期せぬ動きをすることが増えている今、しっかり準備ができているのか心配されている。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
+      "published": "2026-08-22T16:00:00.000Z"
+    },
+    {
+      "title": "Anthropic’s Opus 4.6 is a smut-machine",
+      "summary": "Anthropic（AI開発企業）の最新AI「Opus 4.6」は、性的な内容を生成しないように作られているはずなのに、少し工夫するとそれを超えてしまうことが分かりました。これはAIの「安全」をどう保つかという課題を示しています。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
+      "published": "2026-08-21T23:07:25.000Z"
+    },
     {
       "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
       "summary": "AIの性能は、AIそのものよりも、それをうまく使うための「道具」や「調整」にかかっていることがわかった。たとえAIの基本性能がそこそこでも、工夫次第で期待通りの動きをするようになる、という発見が重要だ。",
@@ -761,46 +801,6 @@
       "category": "research",
       "url": "https://arxiv.org/abs/2608.13596",
       "published": "2026-08-17T04:00:00.000Z"
-    },
-    {
-      "title": "Hard Cases, Bad Labels: Testing Error Exposure and Error Location in Uncertainty Sampling Under Bounded Label Noise",
-      "summary": "AIに学習させるデータに間違いが多いと、AIの性能が悪くなることがわかった。特に、AIが「難しい」と感じるデータに間違いが集中すると、その影響が大きいことが研究で示された。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2608.13601",
-      "published": "2026-08-17T04:00:00.000Z"
-    },
-    {
-      "title": "New policy ideas for the Intelligence Age",
-      "summary": "AIが社会の進歩を支える時代（インテリジェンスエイジ）に向けて、経済の発展と社会の強さを高めるための新しいAI政策を考える14の独立したプロジェクトにOpenAIが資金を提供しました。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
-      "published": "2026-08-17T03:15:00.000Z"
-    },
-    {
-      "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
-      "summary": "世界で有名な決済サービスStripeが、AI（人工知能）のサービスを簡単に使えるようにするOpenRouterという会社を70億ドル（約1兆円）以上で買収する見込みです。OpenRouterは、色々なAIサービスを一つにまとめて使いやすくする「AIの入り口」のような存在で、StripeがAI分野に本格参入する重要な一歩となりそうです。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
-      "published": "2026-08-16T20:57:04.000Z"
-    },
-    {
-      "title": "Why people aren’t buying Mark Zuckerberg’s AI future",
-      "summary": "マーク・ザッカーバーグが描くAIの未来に、なぜ皆が賛成しているわけではないのか、その理由が議論されています。新しいAI技術の進歩は目覚ましいですが、その普及や受け入れ方には様々な意見があるようです。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
-      "published": "2026-08-16T20:32:01.000Z"
-    },
-    {
-      "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
-      "summary": "AIの「逆風」は、信頼への危機が原因だとAnthropicのCEOは語ります。AIの発展には、人々が安心して使えるように、技術への信頼を築くことが不可欠だと主張しています。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
-      "published": "2026-08-16T16:53:51.000Z"
     }
   ]
 }
