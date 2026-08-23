@@ -1,7 +1,39 @@
 {
-  "updatedAt": "2026-08-22T22:20:41.435Z",
+  "updatedAt": "2026-08-23T22:20:55.578Z",
   "count": 100,
   "items": [
+    {
+      "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
+      "summary": "「Ox Alpha」という謎のAIが、ネットで大きな話題になっています。このAIが誰によって作られたのか、まだはっきりしていませんが、その性能に多くの人が注目しています。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
+      "published": "2026-08-23T20:01:36.000Z"
+    },
+    {
+      "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
+      "summary": "AIの力で、毎日の予定管理がもっと便利に！この新しいカレンダーは、食事の献立まで考えてくれる優れもの。しかも、特別な登録や料金なしで使えるから、誰でも気軽にAIの便利さを体験できます。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
+      "published": "2026-08-23T19:14:08.000Z"
+    },
+    {
+      "title": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
+      "summary": "地域住民の安全を守るための監視カメラサービス（Flock Safety）が、プライバシー侵害への懸念から批判を受けています。CEOは、住民の安心とプライバシー保護の両立を目指す「妥協点」を見つける必要があると訴えています。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/",
+      "published": "2026-08-23T15:30:00.000Z"
+    },
+    {
+      "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
+      "summary": "AIが著作権のある本を学習に使うのは、作者の知らないところで進んでいて、AIが作者の仕事を脅かす可能性があるため、違法な気がします。しかし、これは複雑な問題です。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
+      "published": "2026-08-23T15:00:00.000Z"
+    },
     {
       "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
       "summary": "ハーバード大学の新しいプログラムでは、AIの先生が学生のアイデア発表の練習相手になってくれます。学生はAIの先生に質問したり、アドバイスをもらったりして、実践的なスキルを磨けます。",
@@ -768,38 +800,6 @@
       "source": "arXiv (cs.AI)",
       "category": "research",
       "url": "https://arxiv.org/abs/2608.13574",
-      "published": "2026-08-17T04:00:00.000Z"
-    },
-    {
-      "title": "L-FNO: Lorentzian Fourier Neural Operator for Stochastic Event Dynamics",
-      "summary": "AIが予測しにくい、めったに起こらない「イベント」の発生をより正確に捉える新しい技術「L-FNO」が開発されました。この技術は、過去の出来事から次のイベント発生を予測する能力を高め、病気の流行予測などに応用が期待できます。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2608.13562",
-      "published": "2026-08-17T04:00:00.000Z"
-    },
-    {
-      "title": "Don't Claim Benchmark-Oriented Optimization Improves General Coding Capability -- Diverse Evaluation Is Required",
-      "summary": "AIがコードを書く能力を評価する際、特定のテスト（ベンチマーク）で良い成績を収めたからといって、どんなコードでも上手に書けるとは限りません。\nAIの進歩には、より広い範囲で、色々な種類のテストをして、真の能力を見極めることが大切です。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2608.13566",
-      "published": "2026-08-17T04:00:00.000Z"
-    },
-    {
-      "title": "Robust XGBoosting for Regression",
-      "summary": "予測に強く、色々な場面で使われる「XGBoost」というAI（予測計算のしくみ）が、外れ値（他のデータと大きく違う値）に弱いことがわかりました。そこで、このAIが外れ値に強くなる新しい方法（MM-XGBoost）を開発。これにより、予測の正確さを保ちつつ、より信頼性の高い予測ができるようになります。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2608.13590",
-      "published": "2026-08-17T04:00:00.000Z"
-    },
-    {
-      "title": "Training-Free Knowledge Transfer Across Model Scales through Activation-Guided Pruning",
-      "summary": "AIが持っている賢さを、大きさの違うAI同士で分け合う新しい方法が見つかりました。大きいAIの「賢い部分」だけを選んで、小さいAIに「ちょっとだけ」混ぜることで、小さいAIが賢くなるんです。これでもっと色々なAIが活躍できるようになります。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2608.13596",
       "published": "2026-08-17T04:00:00.000Z"
     }
   ]
