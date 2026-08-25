@@ -1,7 +1,167 @@
 {
-  "updatedAt": "2026-08-23T22:20:55.578Z",
+  "updatedAt": "2026-08-25T22:28:03.983Z",
   "count": 100,
   "items": [
+    {
+      "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
+      "summary": "絵を描いてくれるAI「Stable Diffusion」を作っている会社が、新たに7600万ドル（約100億円）を集めました。これで合計2億3200万ドル（約310億円）が集まったことになります。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/",
+      "published": "2026-08-25T19:03:47.000Z"
+    },
+    {
+      "title": "Claude Cowork finally remembers what you told the app in chat",
+      "summary": "AI「クロード」が、以前話した内容を覚えてくれるようになりました。これで、毎回同じ説明をしなくても、プロジェクトや好みを理解してくれるので、よりスムーズにやり取りできるようになります。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
+      "published": "2026-08-25T17:50:33.000Z"
+    },
+    {
+      "title": "5 ways to upgrade your home decor with Google Search",
+      "summary": "Google検索の機能を使えば、部屋を飾るアイデア探しや家具選び、自分で作る（DIY）プロジェクトの計画が簡単にできます。あなたのお家をもっと素敵にするヒントが、検索するだけで見つかるのが新しい点です。",
+      "source": "Google AI Blog",
+      "category": "research",
+      "url": "https://blog.google/products-and-platforms/products/search/home-decor-tips/",
+      "published": "2026-08-25T16:00:00.000Z"
+    },
+    {
+      "title": "Granite 4.2 LLMs: How They're Built",
+      "summary": "最新のAIモデル「Granite 4.2」は、文章作成が得意なAI（LLM）です。より自然で正確な文章を作るために、大量のデータで賢く学習させる方法が工夫されています。",
+      "source": "Hugging Face",
+      "category": "product",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
+      "published": "2026-08-25T15:14:14.000Z"
+    },
+    {
+      "title": "Gamma acquires Accel-backed design startup Lica",
+      "summary": "デザイン作成AIのLicaが、AIを使ったプレゼン資料作成サービスを提供するGammaに買収されました。Licaの創業者はGammaの新チームで、AIによるデザイン作成のさらなる進化を目指します。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/08/25/gamma-acquires-accel-backed-design-startup-lica/",
+      "published": "2026-08-25T15:00:00.000Z"
+    },
+    {
+      "title": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
+      "summary": "OpenAIが開発した「Jalapeño」という新しいAIチップは、AIが文章を生成する速さ（推論）を、より多くの人（大規模）に、より効率良く届けるためのものです。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
+      "published": "2026-08-25T14:22:04.000Z"
+    },
+    {
+      "title": "Accel-backed Keenable is indexing the web for AI agents",
+      "summary": "AI（人工知能）がインターネットを検索して情報を集めるための「索引」を作る会社が、2600万ドル（約40億円）の資金を集めて本格的に活動を開始しました。AIが効率的に情報を探せるようになる、新しい取り組みです。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/",
+      "published": "2026-08-25T13:00:00.000Z"
+    },
+    {
+      "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
+      "summary": "AIの賢さを保ったまま、すごく小さくできる技術が登場。これを使えば、AIを動かすのに必要なコンピューターの力やメモリーが少なくて済むようになり、スマホなどでもより高性能なAIが使いやすくなります。",
+      "source": "Hugging Face",
+      "category": "product",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
+      "published": "2026-08-25T11:39:24.000Z"
+    },
+    {
+      "title": "The full stack behind abundant intelligence",
+      "summary": "AIがより賢く、多くの人が使えるようになるには、高性能なコンピューター（チップ）、大量の計算能力、賢いAIモデル、そして使いやすい製品がすべて進化する必要がある。これらが組み合わさることで、AIはより便利になり、コストも下がっている。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
+      "published": "2026-08-25T07:05:00.000Z"
+    },
+    {
+      "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+      "summary": "OpenAIが開発した「Jalapeño」というAIチップは、AIの計算を速く、そして省エネで行える画期的なものです。これにより、最新のAIモデルをよりスムーズに、より速く動かすことが可能になります。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/jalapeno-first-results",
+      "published": "2026-08-25T07:00:00.000Z"
+    },
+    {
+      "title": "AIREP: A Protocol for Per-Decision Evidence in AI Runtime Governance",
+      "summary": "AIが何かを判断するたびに、その理由を記録する新しい仕組み（AIREP）が提案されました。これにより、AIが特定の出力を許可したか拒否したかなどが、後から誰でも確認できるようになります。これはAIの透明性を高め、信頼性を向上させるために重要です。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2608.21363",
+      "published": "2026-08-25T04:00:00.000Z"
+    },
+    {
+      "title": "Reviewing Model Collapse and Countermeasures",
+      "summary": "AIが自分で作ったデータで学習すると、性能が落ちてしまう「モデル崩壊」という問題が起きています。この記事は、その原因や、この問題を解決するための最新の研究をまとめたものです。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2608.21366",
+      "published": "2026-08-25T04:00:00.000Z"
+    },
+    {
+      "title": "AI Learning and Conceptual Transfer in the Game of Hidden Rules",
+      "summary": "AIがゲームで隠されたルールをどうやって見つけるか、その研究結果です。AIは試行錯誤（トライアンドエラー）からルールを学び、それを新しい状況でも応用（転移学習）できるかどうかがわかります。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2608.21372",
+      "published": "2026-08-25T04:00:00.000Z"
+    },
+    {
+      "title": "LitReview Arena: Evaluating Literature Review Agents with Battle-Style Peer Review Platform",
+      "summary": "AIが作った学術論文のまとめ（文献レビュー）の質を、専門家が直接評価する新しい仕組み「LitReview Arena」ができました。AIはまだ人間の専門家ほどのまとめは作れず、特に研究の提案のような難しい部分は苦手なことがわかりました。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2608.21374",
+      "published": "2026-08-25T04:00:00.000Z"
+    },
+    {
+      "title": "Bankruptcy Prediction via Hybrid Resampling and Stacking Ensemble Techniques with Explainable Artificial Intelligence (XAI)-Driven Analysis",
+      "summary": "AIを使って、会社が倒産しそうかをより正確に予測する新しい方法が開発されました。特に、倒産しそうな少数の会社を見つけるのが得意で、なぜそう判断したのかもAIが説明してくれるので、将来のお金のピンチに早く気づくための安心材料になります。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2608.20343",
+      "published": "2026-08-25T04:00:00.000Z"
+    },
+    {
+      "title": "From Thermal Preference Prediction to Adaptive Thermal Intervention: A Reinforcement Learning Approach Using Physiological and Environmental Sensing",
+      "summary": "AIが、あなたの体の状態や周りの温度を読み取って、一番快適な温度に自動で調節してくれる技術が開発されました。これにより、一人ひとりに合った快適な環境を作り出し、省エネにもつながります。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2608.20423",
+      "published": "2026-08-25T04:00:00.000Z"
+    },
+    {
+      "title": "BF1: A Causal Dyadic Sparse-Attention Retrofit for Efficient Long-Context Transformers",
+      "summary": "AIが長い文章を処理する時、計算に時間がかかるという課題がありました。新しい「BF1」という技術は、文章の一部だけを効率的に見ていくことで、この処理速度を大幅に速くします。これにより、AIがより長く複雑な文章を理解し、応答できるようになることが期待されます。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2608.20427",
+      "published": "2026-08-25T04:00:00.000Z"
+    },
+    {
+      "title": "Approximate Homomorphisms and Convergent Representations in Transducers",
+      "summary": "AIの「見えない部分」（AIが情報を覚える仕組み）が、少し変わったくらいでは壊れないことを証明しました。これにより、AIが学習した内容をしっかり覚えられる理由のヒントになるかもしれません。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2608.20428",
+      "published": "2026-08-25T04:00:00.000Z"
+    },
+    {
+      "title": "Disrupting a new covert influence campaign from Russia",
+      "summary": "ロシアがAIを使って偽のシンクタンクを作り、ロシアを褒め西側を批判するような情報発信をしていたことを、OpenAIが発見しアカウントを停止しました。これはAIが悪用される新しい手口として警戒が必要です。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
+      "published": "2026-08-25T00:00:00.000Z"
+    },
+    {
+      "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
+      "summary": "Gradio（グラディオ）という、AIのプログラムを簡単に試せる道具（ウェブアプリ）を使うと、AIを動かすための手順（ワークフロー）を組み立てて、すぐにみんなで使えるようにするのが楽になります。",
+      "source": "Hugging Face",
+      "category": "product",
+      "url": "https://huggingface.co/blog/gradio-workflow-guide",
+      "published": "2026-08-25T00:00:00.000Z"
+    },
     {
       "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
       "summary": "「Ox Alpha」という謎のAIが、ネットで大きな話題になっています。このAIが誰によって作られたのか、まだはっきりしていませんが、その性能に多くの人が注目しています。",
@@ -192,6 +352,14 @@
       "source": "Hugging Face",
       "category": "product",
       "url": "https://huggingface.co/blog/asr-benchmark-optimization",
+      "published": "2026-08-21T00:00:00.000Z"
+    },
+    {
+      "title": "How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code",
+      "summary": "「Papers with Code」という、AIの研究論文とコードを探せるサイトが、Hugging Faceという会社（AIの道具屋さん）の「Inference Endpoints」（AIに仕事をさせる場所）、「Jobs」（AIのお手伝い）、「Buckets」（データ置き場）というサービスのおかげで、より便利になりました。これにより、AIに関する最新の研究やコードを、みんなが探しやすくなることが期待されます。",
+      "source": "Hugging Face",
+      "category": "product",
+      "url": "https://huggingface.co/blog/pwc-search",
       "published": "2026-08-21T00:00:00.000Z"
     },
     {
@@ -633,174 +801,6 @@
       "category": "research",
       "url": "https://arxiv.org/abs/2608.14559",
       "published": "2026-08-18T04:00:00.000Z"
-    },
-    {
-      "title": "Global AI Regulations for FAIR and Ethics in High-Risk Use Cases: A Comparative Review",
-      "summary": "AI（人工知能）の安全な利用について、世界中でルール作りが進んでいます。特に、医療や金融など、人々の生活に大きく関わる分野では、AIの「公平性」や「倫理」を守るための具体的な規制が求められています。しかし、国によってルールの違いがあり、AIを開発・利用する側は混乱しやすい状況です。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2608.14562",
-      "published": "2026-08-18T04:00:00.000Z"
-    },
-    {
-      "title": "Learning Discrete Riemannian Metrics for Physical Fields with Cochain-Frame Equivarianc",
-      "summary": "物理現象をAIでシミュレーションする新しい方法が発表されました。この方法は、物事のつながり（トポロジー）と形（ジオメトリ）を分けて考えることで、より正確な計算を可能にします。これにより、流体や電磁気など、様々な分野でのAIシミュレーションの精度が向上することが期待されます。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2608.14556",
-      "published": "2026-08-18T04:00:00.000Z"
-    },
-    {
-      "title": "Forward Pass Domain Adaptation (Without Cross-Layer Backpropagation)",
-      "summary": "AI（文章を作るAI）の性能を、より速く、少ないメモリで高める新しい方法が見つかりました。これは、AIの学習で通常必要な複雑な計算を減らすことで実現されており、AIの応用範囲を広げる可能性を秘めています。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2608.14563",
-      "published": "2026-08-18T04:00:00.000Z"
-    },
-    {
-      "title": "Coarse-to-Fine Multi-Resolution Diffusion Models for Trajectory Generation in Urban Systems",
-      "summary": "都市での人の動きを理解するのは、交通整理や感染症対策などに役立ちますが、プライバシーの問題で詳しいデータは少ないのが現状です。そこで、この研究では、地図全体と細かい経路の両方を段階的に作るAI（MR-Traj）を開発しました。これにより、より現実に近い人の動きを再現し、都市計画などに役立てることができます。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2608.14570",
-      "published": "2026-08-18T04:00:00.000Z"
-    },
-    {
-      "title": "Geometry Is Not Robustness: A Trajectory-Level Study of PGD Evaluation",
-      "summary": "AIが「敵」の攻撃にどれだけ強いか調べる方法について、AIの振る舞いを途中で追跡することが大切だと分かりました。しかし、途中の経過だけではAIの本当の強さは測れないことが、実験から明らかになりました。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2608.14594",
-      "published": "2026-08-18T04:00:00.000Z"
-    },
-    {
-      "title": "DumpsterCluster: From Dumpster Diving to Serving LLaMA-70B on $60 GPUs",
-      "summary": "古い高性能コンピューター部品（GPU）を再利用して、AI（人工知能）の処理能力を安く実現する方法が研究されました。これにより、AIを動かすためのコストを大幅に減らせる可能性があります。しかし、電気代が安い地域で、かつ再生可能エネルギーなどクリーンな電力を使う場合に限って、環境にも優しく、AIを広めるための現実的な方法になることがわかりました。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2608.14614",
-      "published": "2026-08-18T04:00:00.000Z"
-    },
-    {
-      "title": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
-      "summary": "このAIは、文章の意味をより深く理解するために、単語だけでなく文章全体の情報をまとめて捉えます。これにより、似たような意味の文章をより正確に見つけ出すことができるようになります。",
-      "source": "Hugging Face",
-      "category": "product",
-      "url": "https://huggingface.co/blog/multi-vector-encoder",
-      "published": "2026-08-18T00:00:00.000Z"
-    },
-    {
-      "title": "AI automation startup Relay shuts down, staff joins Google’s Chrome team",
-      "summary": "AIを使った仕事の自動化を目指すスタートアップ「Relay」が閉鎖し、そのチームがGoogleのChrome開発チームに加わりました。これにより、Chromeブラウザ上でAIを活用して、より簡単に仕事を進められるようになるかもしれません。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
-      "published": "2026-08-17T21:27:05.000Z"
-    },
-    {
-      "title": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
-      "summary": "AIが賢くなるには、たくさんの情報を順番に処理するのが得意な仕組み（Transformer）が使われています。この記事では、この仕組みの「順番」を変えるだけで、AIの処理効率が約3割もアップする新しい方法が見つかったことが紹介されています。",
-      "source": "Hugging Face",
-      "category": "product",
-      "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
-      "published": "2026-08-17T19:46:21.000Z"
-    },
-    {
-      "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
-      "summary": "アマゾンが、AI（文章を作るAI）を賢くするために、絶版になった貴重な本をデータとして使っていることが分かりました。インターネット上にある情報だけではAIの学習に限界があるため、貴重な本が使われているのです。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
-      "published": "2026-08-17T16:38:44.000Z"
-    },
-    {
-      "title": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
-      "summary": "AIチップを作っていたGroqが、新しいクラウドサービス（ネオクラウド）に力を入れるため、巨額の資金調達に成功しました。これにより、高性能なAI（人工知能）をもっと多くの人が使えるようになり、AIの活用がさらに広がる可能性があります。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
-      "published": "2026-08-17T16:15:12.000Z"
-    },
-    {
-      "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
-      "summary": "NvidiaがOpenAIのAI（人工知能）開発を支えるデータセンターに、自社の強力なAIチップを優先的に供給するために、ソフトバンク系の会社に1.5億ドル（約230億円）を出資しました。これにより、OpenAIのAI開発がさらに加速すると期待されています。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
-      "published": "2026-08-17T15:16:24.000Z"
-    },
-    {
-      "title": "Wispr raises $280M at $2B valuation as it looks beyond dictation",
-      "summary": "AI（人工知能）の会社Wisprが、2億8000万ドル（約400億円）もの巨額の資金を集めました。これまで「話したことを文字にする」のが得意でしたが、今後は会議の内容をまとめるなど、もっと色々な場面で役立つAI（人工知能）を目指します。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/",
-      "published": "2026-08-17T13:10:05.000Z"
-    },
-    {
-      "title": "Get closer to the game with Gemini and Pixel",
-      "summary": "Googleは、AI（人工知能）とスマホの技術を使って、サッカーファンの試合観戦をより特別なものにするために、5つの世界的なサッカークラブと協力しています。これにより、ファンはこれまで以上に試合に近づくことができます。",
-      "source": "Google AI Blog",
-      "category": "research",
-      "url": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
-      "published": "2026-08-17T08:00:00.000Z"
-    },
-    {
-      "title": "The Defender’s Window",
-      "summary": "AIは、攻撃者と守る側の両方でサイバーセキュリティを大きく変えています。OpenAIはAIを使って防御を強化しており、セキュリティチームも今すぐできる対策があります。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/the-defenders-window",
-      "published": "2026-08-17T05:30:00.000Z"
-    },
-    {
-      "title": "OpenAI joins PORTS-Pike project",
-      "summary": "AI開発企業OpenAIが、地域社会への投資を広げる「PORTS-Pikeプロジェクト」に参加しました。これにより、オハイオ州南部で数千人の雇用が生まれる見込みです。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/openai-joins-ports-pike-project",
-      "published": "2026-08-17T05:00:00.000Z"
-    },
-    {
-      "title": "Inducing Reward-Free Judging Rubrics that Reduce Over-Crediting in Agent Evaluation",
-      "summary": "AIにAIの性能を評価させる時、AIが「できた！」と勘違いしやすい問題を解決する新しい方法が見つかりました。これまでのAI評価は、AIがうまく話せているか（流暢さ）を重視しすぎて、実際には失敗しているのに成功だと判断してしまうことがありました。新しい方法は、AIの「本当の」成功例をいくつか見せて、AIが判断する基準（評価ルーブリック）を自動で作ることで、より正確な評価ができるようになります。これにより、AIが本当はできていないのに「できた！」と間違えることが半分以下になり、AI開発の信頼性が高まります。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2608.13564",
-      "published": "2026-08-17T04:00:00.000Z"
-    },
-    {
-      "title": "Depth-Aware Sensitivity Analysis of Mixture-of-Experts Models via Magnitude-Based Expert Masking",
-      "summary": "AIが文章を作る仕組み（MoEモデル）で、どの部分が大事か調べる新しい方法が見つかりました。\nAIの能力を保ちつつ、賢くAIを小さくするには、AIの「後の方」の仕組みを調整するのが効果的だと分かりました。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2608.13565",
-      "published": "2026-08-17T04:00:00.000Z"
-    },
-    {
-      "title": "Modular Cognitive Architecture Emerges in Large Language Models",
-      "summary": "AI（文章を作るAI）が、人間の脳のように「得意なこと」ごとに分かれた仕組みを持っていることがわかりました。これは、AIが賢くなるための基本的な仕組みかもしれません。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2608.13567",
-      "published": "2026-08-17T04:00:00.000Z"
-    },
-    {
-      "title": "A Year in LLM Serving: Workload Evolution, Caching and Load-Balancing",
-      "summary": "AI（文章を作るAI）の利用が広がり、そのシステムを効率よく動かすには、実際の利用状況を知ることが大切です。この研究では、1年間のAI利用データを分析し、AIがどのように使われ、時間の経過とともにどう変化するかを明らかにしました。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2608.13573",
-      "published": "2026-08-17T04:00:00.000Z"
-    },
-    {
-      "title": "Agentao: A Governed Local-First Runtime for Tool-Using LLM Agents",
-      "summary": "AIがお仕事で使う道具を安全に管理する新しい仕組み「Agentao」が開発されました。AIが勝手に危険なことをしないよう、使う道具やできることを細かく決め、後から履歴を確認できるようになります。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2608.13574",
-      "published": "2026-08-17T04:00:00.000Z"
     }
   ]
 }
