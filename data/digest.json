@@ -1,7 +1,159 @@
 {
-  "updatedAt": "2026-08-25T22:28:03.983Z",
+  "updatedAt": "2026-08-27T02:59:33.359Z",
   "count": 100,
   "items": [
+    {
+      "title": "Viral AI startup Instinct has raised $350 million at a $2.5 billion valuation",
+      "summary": "文章を作るAI（LLM）を開発する新しい会社が、わずか1年で巨額の資金を集めました。注目を集める一方で、個人情報の扱いに不安の声も上がっています。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/",
+      "published": "2026-08-27T00:24:57.000Z"
+    },
+    {
+      "title": "Amazon just tripled its order of Nvidia chips over ‘surging demand’",
+      "summary": "アマゾンが、AI（人工知能）の需要の急増に対応するため、高性能なエヌビディア製チップの追加注文を3倍にした。これにより、AIサービスがより快適に利用できるようになり、今後のAI技術の発展に貢献すると期待されている。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/",
+      "published": "2026-08-26T23:47:18.000Z"
+    },
+    {
+      "title": "Anthropic continues compute-gobbling streak in $45B deal with Nscale",
+      "summary": "AIの文章を作る会社（Anthropic）が、AIを動かすためのコンピューター（インフラ）を借りるために、とても大きな金額（450億ドル）を払う契約をしました。これは、AI開発に大量のコンピューターが必要とされていることを示しています。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/",
+      "published": "2026-08-26T21:37:39.000Z"
+    },
+    {
+      "title": "Google’s Gemini has a branding problem, and so does the rest of AI",
+      "summary": "Googleの新しいAI「Gemini」は、名前が分かりにくいという課題があり、これは他のAIサービスにも言えることです。AIを使うときに、利用者が複雑な仕組みを理解する必要がないように、もっと身近で使いやすい名前や説明が求められています。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/",
+      "published": "2026-08-26T19:37:34.000Z"
+    },
+    {
+      "title": "How do we explain OpenAI’s executive exodus?",
+      "summary": "OpenAIでトップクラスの社員が次々と辞める理由について、記事は「グレッグ・ブロックマン氏こそが、ずっと正しいリーダーだったのでは？」という視点から解説しています。組織の混乱と、その背景にあるリーダーシップの問題に焦点を当てているようです。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/08/26/how-do-we-explain-openais-executive-exodus/",
+      "published": "2026-08-26T19:34:04.000Z"
+    },
+    {
+      "title": "Orchestration is the new challenge for CX in the age of AI agents",
+      "summary": "AIがいろいろな場面で使われ始めたけれど、会社の中ではバラバラに導入されていて、お客様とのやり取りがスムーズにいかない。AI同士や人とAIがうまく連携（オーケストレーション）できるように、お客様の情報を会社全体で共有する仕組みが大切になっている。",
+      "source": "VentureBeat AI",
+      "category": "business",
+      "url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
+      "published": "2026-08-26T14:30:00.000Z"
+    },
+    {
+      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+      "summary": "ChatGPT for Teachers（先生向けのAI）がアメリカの55の教育地区に広がり、10万人以上の先生や職員が安全にAIを使えるようになります。これにより、教育現場でのAI活用がさらに進むことが期待されています。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+      "published": "2026-08-26T10:00:00.000Z"
+    },
+    {
+      "title": "Learning never stops: How AI makes learning continuous",
+      "summary": "AI（人工知能）のChatGPTが、学校の授業時間外でも生徒の学びをサポートできるようになり、継続的な学習を助けていることがわかりました。これは、AIが「いつでもどこでも」学びを支える新しい形を示しています。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/learning-never-stops",
+      "published": "2026-08-26T10:00:00.000Z"
+    },
+    {
+      "title": "RENDER: Controlling Reader-Facing Evidence in LLM Memory Evaluation",
+      "summary": "AIが会話の履歴をどう「見せるか」で、答えの精度が大きく変わることがわかりました。AIが過去のやり取りをまとめたものや、そのままの文章で提示された場合とでは、AIの回答能力に差が出るのです。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2608.23568",
+      "published": "2026-08-26T04:00:00.000Z"
+    },
+    {
+      "title": "ESQ-Bench: A Multi-Tier Enterprise Oracle Benchmark for Evaluating NL2SQL Dialect Generalization and Silent Semantic Divergence",
+      "summary": "AIが質問からデータベースの命令（SQL）を作る技術は進んでいますが、会社の実際のデータベースではうまく動かないことがあります。そこで、会社のデータベースを想定した新しいテスト（ESQ-Bench）を作り、AIの性能をより正確に測れるようにしました。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2608.23569",
+      "published": "2026-08-26T04:00:00.000Z"
+    },
+    {
+      "title": "LLM Agents Perform Controlled Experiments Using Simulation Models",
+      "summary": "AI（文章を作るAI）が、薬を作る工場などの設計で、どうすれば一番うまくいくか、コンピューターのシミュレーションを使って「実験」できるようになりました。これにより、AIはただ文章を作るだけでなく、実際の物事をどう改善できるか、具体的なアドバイスができるようになったのです。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2608.23622",
+      "published": "2026-08-26T04:00:00.000Z"
+    },
+    {
+      "title": "A survey detection channel overrides the pixels in an astronomical foundation model, and biases tomographic mean redshifts",
+      "summary": "宇宙のAI（画像認識AI）が、本来あるべき画像情報ではなく、画像がどこで検出されたかという情報（検出チャネル）に影響され、観測結果（星の明るさや距離など）を誤って判断してしまうことがわかりました。これは、AIの学習データに不備があると、AIも間違った学習をしてしまうという新しい発見です。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2608.23626",
+      "published": "2026-08-26T04:00:00.000Z"
+    },
+    {
+      "title": "TRACE: Transition-Aware Residual Control for Multi-Objective Materials Discovery",
+      "summary": "AIが新しい素材を見つけるとき、一番いいものを見つけるだけでなく、どうやって改善すればいいかも大事。このAI「TRACE」は、素材を少しずつ変える「編集」を記録して、どういう編集が効果的かを学習。これにより、たくさんの素材候補を効率よく見つけ出すことができるようになった。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2608.23631",
+      "published": "2026-08-26T04:00:00.000Z"
+    },
+    {
+      "title": "Equivariant Cellular Sheaves for Molecular Electronic Structure: Bridging Sheaf Cohomology and E(3)-Equivariant Hamiltonian Learning",
+      "summary": "分子の性質を調べるAIが、新しい「細胞層（Sheaf）」という数学の考え方を取り入れました。これにより、原子の集まりからできる「分子」の電子的な性質（ハミルトニアン）を、より正確に予測できるようになりました。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2608.23571",
+      "published": "2026-08-26T04:00:00.000Z"
+    },
+    {
+      "title": "Data Predictability Shapes Weibull Weight-Scale Growth in Transformer Training",
+      "summary": "AIモデルの学習が進むと、重み（AIの知識のようなもの）の大きさが決まった形（ワイブル分布）になり、その成長が学習データの特徴（単語のつながりやすさ）と関係していることがわかりました。これは、学習前にデータの性質を知るだけで、AIがどれくらい賢くなるかを予測できる可能性があることを示しています。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2608.23573",
+      "published": "2026-08-26T04:00:00.000Z"
+    },
+    {
+      "title": "From Causal Plausibility to Causal Reliability: Evaluating LLMs as Calibrated Direct Causal-Edge Classifiers",
+      "summary": "AI（文章を作るAI）は、物事の原因と結果の関係を調べるのに役立つが、その判断や自信をどこまで信じられるかが問題だ。調べた結果、AIは原因と結果の関係を多く見つけすぎる傾向があり、自信満々でも間違っていることがある。特に、直接的な関係かそうでないかの判断が苦手で、信頼できるのはAI同士や質問の仕方を色々変えた時の「一致」だとわかった。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2608.23660",
+      "published": "2026-08-26T04:00:00.000Z"
+    },
+    {
+      "title": "Renormalization Group Flow Matching for Scalable Local Generative Modeling",
+      "summary": "このAI技術は、大きな絵を壊さずに細かい部分を効率的に描く方法を生み出しました。これまでのAIは、全体像を捉えるのが得意でも時間がかかりすぎるか、速いけど細かい部分まで表現できないかのどちらかでした。新しい技術は、AIが様々な細かさのレベルでデータを作り出すのを助け、速さと正確さを両立させます。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2608.23696",
+      "published": "2026-08-26T04:00:00.000Z"
+    },
+    {
+      "title": "Response Renormalization for Critical Deep Equilibrium Models",
+      "summary": "AIの学習をより安定させる新しい方法が見つかりました。この方法は、AIが学習中に「不安定になりやすい」部分をうまく抑え、より正確で信頼できる結果を出せるようにします。これにより、複雑な問題を解くAIの開発が進むと期待されます。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2608.23725",
+      "published": "2026-08-26T04:00:00.000Z"
+    },
+    {
+      "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
+      "summary": "文章を賢く理解するAI（埋め込みモデル）を、より得意な分野に特化させる新しい方法が見つかりました。これにより、AIは特定の話題について、より正確で関連性の高い情報を見つけ出せるようになります。",
+      "source": "Hugging Face",
+      "category": "product",
+      "url": "https://huggingface.co/blog/train-multi-vector-encoder",
+      "published": "2026-08-26T00:00:00.000Z"
+    },
     {
       "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
       "summary": "絵を描いてくれるAI「Stable Diffusion」を作っている会社が、新たに7600万ドル（約100億円）を集めました。これで合計2億3200万ドル（約310億円）が集まったことになります。",
@@ -83,6 +235,14 @@
       "published": "2026-08-25T07:00:00.000Z"
     },
     {
+      "title": "KVBoost: Chunk-Level Key-Value Cache Reuse with Deviation-Guided Recomputation for Efficient Large Language Model Inference",
+      "summary": "AIが文章を作る速さを速くする「KVBoost」という新しい技術が登場しました。\nこれは、AIが前回覚えた情報を無駄なく使い回すことで、特に長い文章の始まり部分でAIが答えるまでの時間を約4.5倍も短縮できるのが特徴です。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2608.21362",
+      "published": "2026-08-25T04:00:00.000Z"
+    },
+    {
       "title": "AIREP: A Protocol for Per-Decision Evidence in AI Runtime Governance",
       "summary": "AIが何かを判断するたびに、その理由を記録する新しい仕組み（AIREP）が提案されました。これにより、AIが特定の出力を許可したか拒否したかなどが、後から誰でも確認できるようになります。これはAIの透明性を高め、信頼性を向上させるために重要です。",
       "source": "arXiv (cs.AI)",
@@ -123,6 +283,14 @@
       "published": "2026-08-25T04:00:00.000Z"
     },
     {
+      "title": "Machine Learning and ARIMA Model Averaging for Adaptive Public Health Forecasting: Comparative Evaluation and an Ontario COVID-19 Case Study",
+      "summary": "AIが感染症の流行を予測する際、急な変化にも対応しつつ、一時的な傾向に惑わされない新しい方法が開発されました。 Ontario州のCOVID-19のデータで試した結果、この新しいAI（MLAMA）は、他のAIや従来の予測方法よりも、より正確に予測できることがわかりました。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2608.20406",
+      "published": "2026-08-25T04:00:00.000Z"
+    },
+    {
       "title": "From Thermal Preference Prediction to Adaptive Thermal Intervention: A Reinforcement Learning Approach Using Physiological and Environmental Sensing",
       "summary": "AIが、あなたの体の状態や周りの温度を読み取って、一番快適な温度に自動で調節してくれる技術が開発されました。これにより、一人ひとりに合った快適な環境を作り出し、省エネにもつながります。",
       "source": "arXiv (cs.LG)",
@@ -155,12 +323,28 @@
       "published": "2026-08-25T00:00:00.000Z"
     },
     {
+      "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
+      "summary": "ChatGPTの仕事用（Work）やCodexというAIで、管理者が使える便利な機能（Admin plugin）が紹介されました。これで、みんながAIをどう使っているか調べたり、メンバーの出入りを管理したり、AIの利用制限などを調整できるようになります。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/introducing-admin-plugin",
+      "published": "2026-08-25T00:00:00.000Z"
+    },
+    {
       "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
       "summary": "Gradio（グラディオ）という、AIのプログラムを簡単に試せる道具（ウェブアプリ）を使うと、AIを動かすための手順（ワークフロー）を組み立てて、すぐにみんなで使えるようにするのが楽になります。",
       "source": "Hugging Face",
       "category": "product",
       "url": "https://huggingface.co/blog/gradio-workflow-guide",
       "published": "2026-08-25T00:00:00.000Z"
+    },
+    {
+      "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
+      "summary": "OpenAIが、開発者向けにGPT-5.6をKiro（開発ツールの名前）で使えるようにしました。これにより、ソフトウェアを作る過程（計画、開発、レビュー、テスト）が、より安く、より速くできるようになります。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/gpt-5-6-in-kiro",
+      "published": "2026-08-24T12:00:00.000Z"
     },
     {
       "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
@@ -617,190 +801,6 @@
       "category": "research",
       "url": "https://arxiv.org/abs/2608.16956",
       "published": "2026-08-19T04:00:00.000Z"
-    },
-    {
-      "title": "FedPref: Federated Preference Learning for Structured Radiology Report Extraction",
-      "summary": "病気の場所や所見が書かれたレントゲン報告書から、コンピューターが理解できる形に情報を抜き出す新しい方法「FedPref」が開発されました。病院同士で報告書を共有せず、AIの学習結果だけを交換することで、データが少ない病院でも精度が上がるのが特徴です。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2608.16971",
-      "published": "2026-08-19T04:00:00.000Z"
-    },
-    {
-      "title": "The Problem Is the Problem: Towards Scalable Mathematical Discovery",
-      "summary": "AIが数学の発見に役立つ時代に。これまでAIに解かせる問題選びや結果の確認は人間が中心だったが、これらが時間ばかりかかるようになった。そこで、人間が「研究したい方向性」を示すだけで、AIが関連文献から有望な問題を自動で見つけてくれる新しい仕組みができた。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2608.16977",
-      "published": "2026-08-19T04:00:00.000Z"
-    },
-    {
-      "title": "Proactive Road Safety Intervention in Australia: Predicting Risky Driving Hotspots from Connected Vehicle Data",
-      "summary": "オーストラリアで、車に積まれたセンサー（コネクテッドビークルデータ）を使って、事故が起きそうな場所を事前に見つける研究が行われました。急ブレーキなどの危険な運転を検知し、事故の前に危険な場所を予測することで、より安全な道路作りを目指すものです。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2608.16913",
-      "published": "2026-08-19T04:00:00.000Z"
-    },
-    {
-      "title": "Detecting and Discriminating Operator Misspecification in Hybrid PDE-Parameter Learning: a Reference-Free Instrument, with Discrimination Bounded In Sample",
-      "summary": "AIが複雑な科学計算（偏微分方程式）を学ぶ際に、間違った方法で学んでいないかを見分ける新しい道具が開発されました。これにより、AIの学習がうまくいかない原因が「間違い」なのか、それとも「解けない問題」なのかを区別できるようになります。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2608.16925",
-      "published": "2026-08-19T04:00:00.000Z"
-    },
-    {
-      "title": "Data-DPO: Direct Preference Optimization for Target Model Data Selection in LLM Post-Training",
-      "summary": "AI（人工知能）が学習するデータを賢く選ぶ新技術「Data-DPO」が登場しました。AIがより効率的に賢くなるために、どんなデータが効果的かをAI自身に判断させることで、学習コストを抑えつつ、高い性能を維持できるのが特徴です。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2608.16926",
-      "published": "2026-08-19T04:00:00.000Z"
-    },
-    {
-      "title": "Hierarchical Data Selection via Manifold Coverage and Sparse Feature Coverage in LLM Post-training",
-      "summary": "AIに学習させるためのデータが増えすぎると、全部使うのは大変なので、大事なデータだけ選ぶのが重要です。この新しい方法（MASS）は、まず似ているデータをまとめて、その中からさらに質の高いデータを選ぶことで、少ないデータでもAIの性能を上げたり、学習にかかる時間を減らしたりできます。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2608.16927",
-      "published": "2026-08-19T04:00:00.000Z"
-    },
-    {
-      "title": "Benchmarking Classical and Transformer-Based Models for Document Sensitivity Classification",
-      "summary": "AIで書類の機密性を判断する際、データに「カンニング」のヒントが紛れ込み、AIが本当の内容を学ばずに高得点を出してしまう問題がありました。この研究では、そのヒントをなくした新しいデータセットと評価方法でAIを試し、BERTなどのAIが性能を高めたことを示しました。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2608.16928",
-      "published": "2026-08-19T04:00:00.000Z"
-    },
-    {
-      "title": "Cursor capitalizes on Github frustration, launches rival hosting platform",
-      "summary": "Cursorが、開発者に人気のGitHubに代わる新しいコード管理サービス（ソースコードをまとめて保存・共有する場所）を始めました。CursorはAIを使ったコード編集ソフトで有名ですが、今回のサービスで開発者の不満（GitHubの使いにくさなど）を解消し、より便利な環境を提供しようとしています。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
-      "published": "2026-08-18T22:14:25.000Z"
-    },
-    {
-      "title": "ChatGPT Ads expands across Europe",
-      "summary": "OpenAIは、AI（人工知能）が広告を出すサービス「ChatGPT Ads」をヨーロッパ31カ国に広げました。これにより、商品やサービスを探している人たちに、AIが広告を届けることができます。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
-      "published": "2026-08-18T22:00:00.000Z"
-    },
-    {
-      "title": "Strengthening democratic oversight in national security",
-      "summary": "AI（人工知能）が国の安全に関わる分野で使われる際、民主的なチェック（国民の意思を反映した管理）を強めるための取り組みがOpenAIから始まりました。政府機関がAIを適切に使いこなせるよう、情報や訓練を提供します。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
-      "published": "2026-08-18T19:00:00.000Z"
-    },
-    {
-      "title": "How Much Memory Does Your Agent Actually Need?",
-      "summary": "AIが仕事をする上で「記憶力」がどれくらい必要か、という研究がされています。AIが一度に覚えられる情報量（コンテキストウィンドウ）を増やすと、より複雑な指示を理解できるようになるからです。",
-      "source": "Hugging Face",
-      "category": "product",
-      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
-      "published": "2026-08-18T18:09:38.000Z"
-    },
-    {
-      "title": "OpenAI institutes new safeguards after Hugging Face breach",
-      "summary": "OpenAIは、AIモデル（人工知能で動くプログラム）を開発・訓練する過程で、より厳密な安全対策を導入しました。これにより、AIが意図しない動作をしたり、悪用されたりするリスクを減らし、安全で信頼できるAIの開発を目指しています。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
-      "published": "2026-08-18T18:00:00.000Z"
-    },
-    {
-      "title": "Etched’s valuation doubles to $21B in a month",
-      "summary": "AI（人工知能）のシステムを作る会社「Etched」が、わずか1ヶ月で会社の価値を約2兆円に倍増させました。これは、AIのシステムを導入した「Jane Street」という会社がその性能に大変満足したためです。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
-      "published": "2026-08-18T17:21:58.000Z"
-    },
-    {
-      "title": "Why Apple’s camera-equipped AirPods may not be the ‘pervert pods’ consumers fear",
-      "summary": "アップルが開発中のカメラ付きAirPodsは、プライバシーへの懸念を和らげるため、写真や動画の録画機能を制限する可能性がある。これにより、不審な目的での使用（「変態ポッド」と呼ばれるような）を防ぎ、より安全に利用できることを目指している。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/",
-      "published": "2026-08-18T16:19:10.000Z"
-    },
-    {
-      "title": "Warp’s new system is an out-of-the-box software factory for AI development",
-      "summary": "Warpは、AI（人工知能）を作るための「AIソフトウェア工場」を簡単に作れる新しいシステム「Warp Factories」を発表しました。これにより、AI開発のスピードアップが期待されます。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development/",
-      "published": "2026-08-18T14:00:00.000Z"
-    },
-    {
-      "title": "Partnering with CodeAI to prepare the first AI generation",
-      "summary": "OpenAIとCodeAIは協力して、生徒たちがAIを理解し、AIについて深く考え、責任を持ってAIを使ったり作ったりする力を身につけられるように支援します。これは、AIを賢く使いこなせる未来の世代を育むための重要な取り組みです。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/partnering-with-codeai",
-      "published": "2026-08-18T11:00:00.000Z"
-    },
-    {
-      "title": "Pacing model development in an era of cyber-critical capabilities",
-      "summary": "OpenAIは、最新のAI（人工知能）が安全に開発されるよう、監視や安全対策を強化しています。これにより、AIの進化のスピードを適切にコントロールし、問題なく社会に役立つように進めています。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
-      "published": "2026-08-18T11:00:00.000Z"
-    },
-    {
-      "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
-      "summary": "ChatGPTが13歳以上の若者向けに登場。学習を助け、AIを安全に使うための機能や保護が強化され、保護者も安心できます。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/chatgpt-for-teens",
-      "published": "2026-08-18T11:00:00.000Z"
-    },
-    {
-      "title": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
-      "summary": "仕事管理ツールのAsanaが、AI（Codex）を使って、普通なら5年かかる古いプログラムのチェック作業をわずか2週間で終えた。AIのおかげで、開発コストも大幅に抑えられた。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/asana",
-      "published": "2026-08-18T07:00:00.000Z"
-    },
-    {
-      "title": "FLOPs vs Real Work: The Importance of Replication in AI Efficiency Assessment",
-      "summary": "AIの計算量を調べるのに、FLOPs（計算回数）という数字だけでは実際の時間の目安にならないことがわかりました。最新のAIだと、計算回数が同じでも、仕組みの違いで時間が全然違ったり、予測が難しかったりするからです。\n\nこの研究では、以前の計算方法（α-FLOPs）が新しいコンピューターでも通用するか試しました。結果、古い計算方法では最新のコンピューターでの時間のズレを正確に捉えられないことが判明。研究の再現性を高めるための、より詳しい情報提供の重要性も指摘されています。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2608.14550",
-      "published": "2026-08-18T04:00:00.000Z"
-    },
-    {
-      "title": "Large Language Models Show Metacognitive Sensitivity in Medical Reasoning",
-      "summary": "AI（文章を作るAI）が、病気の診断をするときに、どれくらい確信を持っているかが、証拠の強さに合わせて変わることがわかりました。これにより、AIの診断の信頼性を、もっと正確に判断できるようになります。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2608.14552",
-      "published": "2026-08-18T04:00:00.000Z"
-    },
-    {
-      "title": "The Unwritten Benchmark: A New Challenge for Multimodal Machine Learning in Abstract Perceptual Reasoning",
-      "summary": "AIの「見て聞く」能力はすごいけど、目に見えないものを推測するのは苦手。新しいテストでは、音と手の動きだけで書かれた文字をAIに当てさせるが、人間は8割正解するのに、最新AIは1割もいかない。複数の情報を組み合わせると、かえって成績が落ちることもあり、AIの賢さにはまだ課題があることがわかった。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2608.14558",
-      "published": "2026-08-18T04:00:00.000Z"
-    },
-    {
-      "title": "When to Communicate: Belief Distributions and KL Divergence for Principled Gating in Multi-Agent RL",
-      "summary": "AIがお互いにいつ話すか決める新しい方法が提案されました。AIがお互いの考え（「信念」）のズレが大きくなった時だけ情報を交換することで、より賢く協力できるようになります。これにより、AIのチームの成績が上がり、無駄な通信を減らせることがわかりました。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2608.14559",
-      "published": "2026-08-18T04:00:00.000Z"
     }
   ]
 }
