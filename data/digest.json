@@ -1,7 +1,159 @@
 {
-  "updatedAt": "2026-08-27T02:59:33.359Z",
+  "updatedAt": "2026-08-28T05:59:58.201Z",
   "count": 100,
   "items": [
+    {
+      "title": "EduRiskX: A Neuro-Symbolic Framework with F-Logic Reasoning for Early Academic Risk Prediction",
+      "summary": "オンライン授業で、成績が落ちそうな生徒を早く見つける新しいAI（EduRiskX）が開発されました。これは、生徒の学習履歴と教育学の知識を組み合わせて、なぜその生徒が心配なのかを分かりやすく説明できるのが特徴です。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2608.26107",
+      "published": "2026-08-28T04:00:00.000Z"
+    },
+    {
+      "title": "Standalone LLM and a Pre-specified Agentic Pipeline for Explaining ICU Mortality Predictions: a Feasibility Study on the eICU Demo Dataset",
+      "summary": "AIが集中治療室（ICU）で患者さんが亡くなる可能性を予測する研究で、AIが予測理由を説明する新しい方法を試しました。AIが予測するだけでなく、より安全で分かりやすく理由を説明できるようになるかが注目点です。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2608.26109",
+      "published": "2026-08-28T04:00:00.000Z"
+    },
+    {
+      "title": "Large Models for Battery Prognostics and Health Management: A Review and Future Roadmap",
+      "summary": "AI（人工知能）が、電気自動車やスマホなど、電池の寿命を予測して安全に長く使えるようにする技術（BPHM）を大きく進化させます。これまでの方法では難しかった、たくさんのデータがなくても、色々な電池に共通して使える、わかりやすいAIを作る道が開けます。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2608.26111",
+      "published": "2026-08-28T04:00:00.000Z"
+    },
+    {
+      "title": "PICasso: An AI-Enabled Design Framework for Autonomous Optimization of Silicon Photonic Devices",
+      "summary": "AIが「光チップ」という、光を使って情報をやり取りする小さな回路の設計を自動で手伝ってくれる「PICasso」が開発されました。これにより、複雑な設計も速く、より性能の良いものが作れるようになり、光技術の進化が期待されます。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2608.26113",
+      "published": "2026-08-28T04:00:00.000Z"
+    },
+    {
+      "title": "CIFQA: A Deterministic Tool-Grounded Multi-Agent LLM Framework for Financial Query Answering",
+      "summary": "お金に関する複雑な質問に答えるために、AIが正確に計算できるようになる新しい仕組み「CIFQA」が開発されました。これは、AIが文章を理解する部分と、計算を正確に行う部分を分けることで、間違いを減らし、高い精度で答えを出せるようにしたものです。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2608.26114",
+      "published": "2026-08-28T04:00:00.000Z"
+    },
+    {
+      "title": "SLM-Conditioned Hierarchical Relation Routing for Labeled Property Graph Learning",
+      "summary": "AIが「つながり」のある情報（グラフ）から、より賢く学ぶ新しい方法が提案されました。AIが文脈を理解し、どの情報が大切かを選び取ることで、より正確な分析が可能になります。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2608.26132",
+      "published": "2026-08-28T04:00:00.000Z"
+    },
+    {
+      "title": "NeuronFuzz: Safety Neuron Guided Fuzzing for LLM Safety Evaluation",
+      "summary": "AI（文章を作るAI）の安全性を調べる新しい方法「NeuronFuzz」が開発されました。これは、AIの内部の「安全センサー」の反応を見て、悪意のある指示（ jailbreak）にどれだけ強いかを効率的にテストする技術です。これにより、AIが危険な指示に負けないか、より速く、正確に調べられるようになります。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2608.26222",
+      "published": "2026-08-28T04:00:00.000Z"
+    },
+    {
+      "title": "Pruning Binarized Neural Networks: A Dedicated Framework and Globally Weighted Algorithms",
+      "summary": "AIのモデルを小さく軽くする技術「枝刈り」と「二値化」（数字を0か1のどちらかにする）を組み合わせる新しい方法が開発されました。これにより、スマホなどの小さな機械でも高度なAIが動かしやすくなり、性能を保ったままモデルを大幅に小さくできる可能性があります。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2608.26233",
+      "published": "2026-08-28T04:00:00.000Z"
+    },
+    {
+      "title": "Muon with Finite Newton-Schulz: The Smoothing Benefit in Nonsmooth Nonconvex Optimization",
+      "summary": "AIの学習を速くする「Muon」という技術に、新しい改良が加わりました。この改良により、AIが複雑な問題でもうまく学習できるようになり、これまで難しかった学習も可能になりました。これは、AIがより賢くなるための重要な進歩です。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2608.26288",
+      "published": "2026-08-28T04:00:00.000Z"
+    },
+    {
+      "title": "Algebraic Multigrid Acceleration for Efficient Label Spreading",
+      "summary": "AIがたくさんのデータから学習するには、一つ一つに「これは猫」「これは犬」といったラベル（目印）を付ける必要があります。しかし、これには時間とお金がかかります。そこで、少数のラベル付きデータから、ラベルが付いていないたくさんのデータに情報を広げる「ラベル伝播」という技術があります。今回、このラベル伝播を、もっと速く、たくさんのデータに使えるようにする新しい方法が開発されました。これにより、少ない手掛かりからでも、AIが正確にデータを分類できるようになります。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2608.26309",
+      "published": "2026-08-28T04:00:00.000Z"
+    },
+    {
+      "title": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google",
+      "summary": "OpenAIに入る予定だった、AI開発会社「Thinking Machines」の共同創業者であるバレット・ゾフ氏が、Googleに移籍した。彼はAI技術の発展において重要な人物であり、その動向は注目される。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/",
+      "published": "2026-08-27T19:52:52.000Z"
+    },
+    {
+      "title": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
+      "summary": "AIを作る大企業や新しい会社が「悪意のあるAI」から世界を守るための新しい方法を提言しました。これは、AIが悪用される危険が高まっている今の時代に、みんなで協力して対策を考えることが大切だというメッセージです。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/",
+      "published": "2026-08-27T17:43:24.000Z"
+    },
+    {
+      "title": "3 new ways to plan and book travel in Search",
+      "summary": "Google検索でAIが旅行計画をお手伝い！ホテル予約や航空券の価格変動チェック、さらにマイルやポイントの確認まで、AIモードでまとめてできるようになりました。",
+      "source": "Google AI Blog",
+      "category": "research",
+      "url": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/",
+      "published": "2026-08-27T16:00:00.000Z"
+    },
+    {
+      "title": "Google’s AI Mode can now track flight prices, help book hotels, and more",
+      "summary": "GoogleのAIが、飛行機の価格を調べたり、ホテルを予約したりする旅行の計画を手伝ってくれるようになりました。これは、単に情報を探すだけでなく、旅行の予約までAIができるようになるという、新しい機能です。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/",
+      "published": "2026-08-27T16:00:00.000Z"
+    },
+    {
+      "title": "Hugging Face is selling a cute $399 open source duck robot, Microduck",
+      "summary": "Hugging Faceが、399ドルの可愛いロボット「Microduck」を発売しました。これは「教えられるオープンソースロボット」で、AI（人工知能）の「強化学習」（試行錯誤して賢くなる方法）で新しい動きを学ばせることができます。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/08/27/hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck/",
+      "published": "2026-08-27T14:56:52.000Z"
+    },
+    {
+      "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
+      "summary": "AI（人工知能）を企業で使うとき、一番怖いのはAI同士が連携するときの「複雑さ」です。たくさんのAIが互いに連絡を取り合ったり、古いシステムにつながったりするので、誰にも全体像がわからなくなり、問題が起きても原因特定が難しくなります。",
+      "source": "VentureBeat AI",
+      "category": "business",
+      "url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
+      "published": "2026-08-27T14:01:00.000Z"
+    },
+    {
+      "title": "When agents act on their own, governance has to live in the data layer",
+      "summary": "AIが自分で考え、行動する「自律型AI」が増えると、AIが「やってはいけないこと」をしないように、データにルールを組み込むことが重要になります。AIは状況に応じて判断できないため、その場で実行できる「賢いルール」をデータに持たせることで、安全にAIを活用できるようになります。",
+      "source": "VentureBeat AI",
+      "category": "business",
+      "url": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer",
+      "published": "2026-08-27T12:01:00.000Z"
+    },
+    {
+      "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
+      "summary": "AI（ChatGPT）と考える練習を組み合わせた結果、学生たちの発表がより良くなり、考え方も広がるという研究結果が出ました。これは、AIを上手に使うことで、大学の課題でさらに良い成績が取れる可能性を示しています。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
+      "published": "2026-08-27T09:00:00.000Z"
+    },
+    {
+      "title": "Expanding OpenAI’s presence in Brazil",
+      "summary": "OpenAIがブラジルでの活動を本格化させ、AI（人工知能）をより多くの人が使えるよう、開発者や企業、地域社会との連携を深めています。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/expanding-our-presence-in-brazil",
+      "published": "2026-08-27T03:00:00.000Z"
+    },
     {
       "title": "Viral AI startup Instinct has raised $350 million at a $2.5 billion valuation",
       "summary": "文章を作るAI（LLM）を開発する新しい会社が、わずか1年で巨額の資金を集めました。注目を集める一方で、個人情報の扱いに不安の声も上がっています。",
@@ -145,6 +297,22 @@
       "category": "research",
       "url": "https://arxiv.org/abs/2608.23725",
       "published": "2026-08-26T04:00:00.000Z"
+    },
+    {
+      "title": "The Hugging Face incident and the road ahead",
+      "summary": "OpenAIは、ハギングフェイス（AIの技術やモデルを共有するプラットフォーム）で起きたセキュリティ問題について、原因と今後の対策を説明しました。AIモデルの安全性を高め、不正利用を防ぐための取り組みを強化するということです。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
+      "published": "2026-08-26T00:00:00.000Z"
+    },
+    {
+      "title": "How loveholidays is making everyone a builder with Codex",
+      "summary": "旅行会社loveholidaysが、AI（Codex）を使って、エンジニアじゃない人もプログラムを書けるようにした話。これで、アイデアが早く形になり、新しいサービスが作りやすくなったんだ。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/loveholidays",
+      "published": "2026-08-26T00:00:00.000Z"
     },
     {
       "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
@@ -633,174 +801,6 @@
       "category": "research",
       "url": "https://arxiv.org/abs/2608.18080",
       "published": "2026-08-20T04:00:00.000Z"
-    },
-    {
-      "title": "Position: Behavioral Systems Require Behavioral Tests",
-      "summary": "AIが現実世界で賢く動くには、結果だけでなく「どう考え、どう行動したか」をしっかり調べるテストが必要です。これからは、AIの行動を科学的に分析し、その能力を正確に理解していくための新しい研究が進められます。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2608.18081",
-      "published": "2026-08-20T04:00:00.000Z"
-    },
-    {
-      "title": "Position: Current Model Cards Are Insufficient for Downstream Governance of Open-Weight Foundation Models",
-      "summary": "AIの「モデルカード」（AIの性能や注意点をまとめた説明書）だけでは、誰でも自由に使えるAI（オープンモデル）の安全な使い方を管理するには不十分だと指摘しています。安全なAI利用のためには、モデルカードに加えて、利用ルール（AUP）やライセンス（許諾条件）も組み合わせた、より分かりやすい情報提供が必要だと提案しています。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2608.18086",
-      "published": "2026-08-20T04:00:00.000Z"
-    },
-    {
-      "title": "Entropy-Constrained Adaptive Stochastic Quantization",
-      "summary": "AIがデータを小さくする工夫で、通信や記憶のムダを減らそうとしています。今回の新しい方法は、データを小さくするだけでなく、さらに圧縮しやすくすることで、AIの効率をさらに高めます。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2608.18147",
-      "published": "2026-08-20T04:00:00.000Z"
-    },
-    {
-      "title": "Towards Reversible Forgetting: Managing Obsolete Knowledge in Continual Enterprise AI Agents",
-      "summary": "AIはどんどん新しいことを学んでいきますが、古くなった知識が邪魔になることがあります。そこで、AIが古い知識を「一時停止」して、また必要になったら「復活」させられる新しい仕組みを提案。これにより、AIは変化する状況でも、間違った判断をせずに、より賢く動けるようになります。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2608.18177",
-      "published": "2026-08-20T04:00:00.000Z"
-    },
-    {
-      "title": "Accelerating Visual On-Policy Distillation with Batched Speculative Jacobi Rollouts",
-      "summary": "AIが画像を見ながら文章を作る練習（ビジュアル学習）をもっと速くする技術が開発されました。これまでの方法では、一文字ずつ文章を作るため時間がかかりましたが、新しい方法は一度にたくさんの文字を生成できるので、学習時間が大幅に短縮されます。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2608.18183",
-      "published": "2026-08-20T04:00:00.000Z"
-    },
-    {
-      "title": "H$^2$EDL: Hyper Evidential Deep Learning for Hierarchical Classification",
-      "summary": "AIが物事を分類する際、全体像は分かっても細かい部分は迷ってしまうことがあります。この新しいAI「H$^2$EDL」は、分類の階層構造（木のような関係）を理解し、迷いをうまく表現できるため、より正確な判断ができるようになります。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2608.18185",
-      "published": "2026-08-20T04:00:00.000Z"
-    },
-    {
-      "title": "What Can Artificial Intelligence Learn from Medicine? Generative Analogies and Reliable Machine Learning Systems",
-      "summary": "AI（人工知能）が医療から学ぶことで、より信頼できるAIシステムが作れるかもしれない。医療の翻訳（治療法を開発すること）とAI開発には似た点があり、医療の知識や進め方をAI開発に応用することで、AIがもっと正確に、安心して使えるようになるという。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2608.18186",
-      "published": "2026-08-20T04:00:00.000Z"
-    },
-    {
-      "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
-      "summary": "Stampliという会社が、AI（ChatGPT Work）のおかげで、商品の発売準備にかかる時間を68%も短縮しました。限られた時間と人員の中で、AIを活用して数週間かかる作業を数日で終わらせたのです。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/stampli",
-      "published": "2026-08-20T00:00:00.000Z"
-    },
-    {
-      "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
-      "summary": "AIを作る会社同士が、企業が使うAIで個人情報が漏れないように、どんな対策をするかで競い合っています。どちらも、使う人のプライバシーを守ることに力を入れているのが新しい点です。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
-      "published": "2026-08-19T22:10:46.000Z"
-    },
-    {
-      "title": "Cognition CEO denies report that SpaceX tried to acquire the startup",
-      "summary": "スペースXがAI（人工知能）の会社「コグニション」を買収しようとしていたという報道について、コグニションのCEOは否定しました。スペースXは、他のAI企業に追いつこうと、すでに「カーソル」というAI会社を買収しています。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
-      "published": "2026-08-19T21:51:23.000Z"
-    },
-    {
-      "title": "AI was supposed to win people over by now — it hasn’t",
-      "summary": "AIが身近になるにつれて、人々はAIへの警戒心を強めています。シリコンバレーは、AIが広く使われても、必ずしも受け入れられるわけではないことを学んでいます。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/",
-      "published": "2026-08-19T19:11:40.000Z"
-    },
-    {
-      "title": "5 new ways to level up your learning with Search",
-      "summary": "Google検索の新しい使い方で、勉強がもっと効率的になる方法が紹介されています。授業やテスト勉強に役立つ検索機能を使えば、学習の質を上げることができます。",
-      "source": "Google AI Blog",
-      "category": "research",
-      "url": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
-      "published": "2026-08-19T19:00:00.000Z"
-    },
-    {
-      "title": "Offering Zero Data Retention for frontier models",
-      "summary": "OpenAIは、一部のAPI利用者が過去のやり取りを保存しない（Zero Data Retention）設定を選べるようにすることを改めて発表しました。これは、AIの安全性を高めつつ、皆さんのプライバシーを守るための新しい取り組みです。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
-      "published": "2026-08-19T19:00:00.000Z"
-    },
-    {
-      "title": "Google packs Search and Gemini with new AI study tools",
-      "summary": "Googleは、学習や研究に役立つAI（人工知能）機能を検索や「Gemini」（文章を作るAI）に搭載しました。これは、学生が学習で頼りにするAIアシスタントを目指し、競合他社との競争に挑むGoogleの最新の取り組みです。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/",
-      "published": "2026-08-19T19:00:00.000Z"
-    },
-    {
-      "title": "Researchers say OpenAI revoked their access to limited cyber program",
-      "summary": "OpenAIが、サイバー攻撃の弱点を見つけるための特別なプログラムへのアクセスを、研究者から取り消しました。これは、信頼できる人たちにAI（文章を作るAI）を使ってもらい、セキュリティの穴を見つけてもらうためのものですが、なぜかアクセスが取り消されたようです。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/",
-      "published": "2026-08-19T18:46:14.000Z"
-    },
-    {
-      "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
-      "summary": "IT系ニュースサイトのVentureBeatが、AI分野の専門家ロブ・ストレーチャイ氏を初のリードアナリストに迎えました。企業でAIを導入する担当者（技術の責任者たち）に役立つ、より専門的な調査・分析を深めるためです。",
-      "source": "VentureBeat AI",
-      "category": "business",
-      "url": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
-      "published": "2026-08-19T14:18:12.000Z"
-    },
-    {
-      "title": "LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
-      "summary": "文章を作るAI（LLM）を、より小さくて動かしやすい形にする新しい技術が発表されました。これにより、スマホなどでも賢いAIが使いやすくなり、AIの進化を身近に感じられるようになります。",
-      "source": "Hugging Face",
-      "category": "product",
-      "url": "https://huggingface.co/blog/LiquidAI/qad",
-      "published": "2026-08-19T13:48:49.000Z"
-    },
-    {
-      "title": "Replit expands access to software creation with GPT-5.6 Luna",
-      "summary": "AI（人工知能）の力で、誰でもアイデアを形にできるようになりました。特に「Replit」というサービスでは、文章を作るAI「GPT-5.6 Luna」が無料でも使えるようになり、お金を気にせずプログラムが作れるようになったのです。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/replit",
-      "published": "2026-08-19T07:00:00.000Z"
-    },
-    {
-      "title": "GxP-Agent: Process-DAG Topology for Reliable Clinical Trial Programming with LLM Agents",
-      "summary": "新しく開発された「GxP-Agent」というAIは、新薬開発の試験で必要な、複雑なデータ処理を正確に行えます。\nこのAIは、作業の順番を「見える化」し、失敗してもやり直す仕組みで、これまでAIが苦手としていた分野での信頼性を大幅に向上させました。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2608.16890",
-      "published": "2026-08-19T04:00:00.000Z"
-    },
-    {
-      "title": "Runtime Governance for Agentic AI: Action-Boundary Control with Trusted Provenance and Fail-Closed Execution",
-      "summary": "AI（人工知能）が、ファイル操作やメール送信など、現実世界に影響を与える行動をとる際の安全性を高める新しい仕組み「Aegis」が開発されました。これにより、AIの指示が安全かどうかを、AI自身が動く前にAIとは別の信頼できるシステムが判断し、危険な行動を防ぎます。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2608.16891",
-      "published": "2026-08-19T04:00:00.000Z"
-    },
-    {
-      "title": "The Price of Thinking: Reasoning Effort as a Model-Specific API Contract",
-      "summary": "AIに高度な思考をさせるには追加費用がかかることがわかりました。AIの「思考力」に料金が設定されることで、より正確なAI利用が可能になるかもしれません。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2608.16956",
-      "published": "2026-08-19T04:00:00.000Z"
     }
   ]
 }
