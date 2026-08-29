@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-08-29T03:32:09.148Z",
+  "updatedAt": "2026-08-29T23:54:31.480Z",
   "count": 100,
   "items": [
+    {
+      "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
+      "summary": "ソニー・ミュージックとワーナー・ミュージックが、AI開発会社Anthropicを訴えました。Anthropicが、著作権で守られている音楽を無断で利用し、AI（人工知能）に学習させた（AIの知識として取り込ませた）ことが、音楽業界の知的財産（創作物）を盗む行為にあたると主張しています。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
+      "published": "2026-08-29T18:41:59.000Z"
+    },
+    {
+      "title": "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
+      "summary": "AIで医療を変えるには、みんなでデータを共有することが大切だと、元大企業の責任者だった人が語っています。\nこれまでの医療は「発見」が中心でしたが、これからはAIを使って「ものづくり」のように病気を治せる時代になると期待されています。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
+      "published": "2026-08-29T17:36:47.000Z"
+    },
+    {
+      "title": "Nvidia’s AI advantage is moving beyond the GPU",
+      "summary": "NVIDIAのAI（人工知能）技術が、高性能なGPU（画像処理装置）だけでなく、データセンター全体の効率を高める方向へと進化しています。新しいシステムでは、処理能力を増やすだけでなく、AIの「交通整理」を賢く行うことで、よりスムーズに、無駄なくAIが動くようになっています。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
+      "published": "2026-08-29T13:00:00.000Z"
+    },
     {
       "title": "Neocloud Lambda secures $1B in debt to buy more chips",
       "summary": "AIがどんどん賢くなるには、高性能なコンピューターの部品（チップ）が大量に必要です。その部品を買うため、ある会社がお金を借りました。これは、AIがすごい時代だからこそ、部品代もとても高くなっていることを示しています。",
@@ -777,30 +801,6 @@
       "category": "product",
       "url": "https://huggingface.co/blog/asr-benchmark-optimization",
       "published": "2026-08-21T00:00:00.000Z"
-    },
-    {
-      "title": "How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code",
-      "summary": "「Papers with Code」という、AIの研究論文とコードを探せるサイトが、Hugging Faceという会社（AIの道具屋さん）の「Inference Endpoints」（AIに仕事をさせる場所）、「Jobs」（AIのお手伝い）、「Buckets」（データ置き場）というサービスのおかげで、より便利になりました。これにより、AIに関する最新の研究やコードを、みんなが探しやすくなることが期待されます。",
-      "source": "Hugging Face",
-      "category": "product",
-      "url": "https://huggingface.co/blog/pwc-search",
-      "published": "2026-08-21T00:00:00.000Z"
-    },
-    {
-      "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
-      "summary": "ビジネスでAIを使う企業が増え、OpenAIが競合のAnthropicを追い上げているというデータが出てきました。AIモデルは次々に新しくなるため、企業がどのAIを使うか迷うこともあり、AIへの支出がこれからも続くかはまだ未知数です。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
-      "published": "2026-08-20T22:36:37.000Z"
-    },
-    {
-      "title": "ChatGPT can now send texts for you with new Apple Messages plugin",
-      "summary": "ChatGPTが、あなたの代わりにメッセージを送信してくれるようになりました。この新しい機能を使えば、AIに「〇〇さんに『後で連絡する』と送って」のように指示するだけで、相手にメッセージが届きます。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
-      "published": "2026-08-20T22:09:51.000Z"
     }
   ]
 }
