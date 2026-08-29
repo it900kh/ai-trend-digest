@@ -1,7 +1,55 @@
 {
-  "updatedAt": "2026-08-28T05:59:58.201Z",
+  "updatedAt": "2026-08-29T03:32:09.148Z",
   "count": 100,
   "items": [
+    {
+      "title": "Neocloud Lambda secures $1B in debt to buy more chips",
+      "summary": "AIがどんどん賢くなるには、高性能なコンピューターの部品（チップ）が大量に必要です。その部品を買うため、ある会社がお金を借りました。これは、AIがすごい時代だからこそ、部品代もとても高くなっていることを示しています。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
+      "published": "2026-08-28T20:24:11.000Z"
+    },
+    {
+      "title": "An Anthropic researcher just gave us a peek at self-improving AI",
+      "summary": "AIが自分で賢くなる研究が進んでいます。AIに「こういう間違いはしないでね」とお手本（ベンチマーク）を10個見せたところ、AIはすべてのお手本通りに、他の能力を落とさずに、間違いを減らすことに成功したのです。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
+      "published": "2026-08-28T19:30:38.000Z"
+    },
+    {
+      "title": "Open-weight AI companies are the Valley’s hottest acquisition targets",
+      "summary": "これまで無料公開されてきたAI（文章を作るAIなど）の開発企業に、多くの会社がお金を出して買収しようとしています。これは、無料で公開されているAIに将来性があると考えられているからです。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
+      "published": "2026-08-28T18:19:40.000Z"
+    },
+    {
+      "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
+      "summary": "AI開発会社Anthropicは、トランプ政権が同社を「サプライチェーンのリスク」と不正に指定したとして訴え、連邦裁判所で勝訴しました。これは、国防総省との別の訴訟を進める上での重要な一歩です。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
+      "published": "2026-08-28T12:46:12.000Z"
+    },
+    {
+      "title": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
+      "summary": "Facebook（Meta）の幹部がOpenAIに移籍。彼女は東南アジアとオーストラリアでOpenAIの事業を統括します。これは、Facebookがインドで厳しく監視されている中での動きであり、AI分野での人材獲得競争が激化していることを示しています。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/",
+      "published": "2026-08-28T12:21:06.000Z"
+    },
+    {
+      "title": "Our decision on Cursor following its acquisition by SpaceX",
+      "summary": "SpaceXに買収されたAI関連企業「Cursor」への、OpenAIによるモデル提供終了が決定しました。これは、AI技術が宇宙開発という新たな分野で活用されることへの、OpenAIの判断を示すものです。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+      "published": "2026-08-28T06:00:00.000Z"
+    },
     {
       "title": "EduRiskX: A Neuro-Symbolic Framework with F-Logic Reasoning for Early Academic Risk Prediction",
       "summary": "オンライン授業で、成績が落ちそうな生徒を早く見つける新しいAI（EduRiskX）が開発されました。これは、生徒の学習履歴と教育学の知識を組み合わせて、なぜその生徒が心配なのかを分かりやすく説明できるのが特徴です。",
@@ -81,6 +129,30 @@
       "category": "research",
       "url": "https://arxiv.org/abs/2608.26309",
       "published": "2026-08-28T04:00:00.000Z"
+    },
+    {
+      "title": "Supporting Thailand’s next generation of AI startups",
+      "summary": "タイの新しいAI（人工知能）会社を応援するため、OpenAIとタイの政府機関が共同で8週間のプログラムを始めました。健康や教育分野の10社が、AIの試作品を信頼される製品にするための支援を受けます。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
+      "published": "2026-08-28T02:00:00.000Z"
+    },
+    {
+      "title": "The Open ASR Leaderboard Adds Its First Global South Language",
+      "summary": "「話した言葉を文字に変換するAI（自動音声認識）」で、これまで使われていなかった南半球の言語が新たに評価対象になった。これは、世界中のより多くの人々がAI技術の恩恵を受けられるようになるための大切な一歩。",
+      "source": "Hugging Face",
+      "category": "product",
+      "url": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
+      "published": "2026-08-28T00:00:00.000Z"
+    },
+    {
+      "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
+      "summary": "AIの最先端を走るAnthropic（アンソロピック）とOpenAI（オープンエーアイ）が、2026年のTechCrunch Disrupt（テクノロジー系の大きなイベント）に登場します。AIの未来や最新動向について、ここで熱い議論が交わされることになりそうです。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
+      "published": "2026-08-27T23:16:45.000Z"
     },
     {
       "title": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google",
@@ -729,78 +801,6 @@
       "category": "business",
       "url": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
       "published": "2026-08-20T22:09:51.000Z"
-    },
-    {
-      "title": "OK, can we actually cool data centers with our pee?",
-      "summary": "データセンターの冷却に尿を使うという冗談が、実は真剣に検討されています。飲料水と競合しない、新たな冷却方法として可能性が探られています。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/08/20/ok-can-we-actually-cool-data-centers-with-our-pee/",
-      "published": "2026-08-20T20:53:13.000Z"
-    },
-    {
-      "title": "Google gives publishers a new way to fight AI-driven traffic losses",
-      "summary": "Googleが、AI検索でウェブサイトへのクリックが減る中、読者が特定のウェブサイトを「お気に入り」に登録できる新機能を追加しました。これにより、出版社のサイトへのアクセスが回復する可能性があります。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/",
-      "published": "2026-08-20T19:18:21.000Z"
-    },
-    {
-      "title": "Runlayer, Rippling drop lawsuits — but the brouhaha is still a cautionary tale for founders",
-      "summary": "AI開発で競合していた2社が訴訟を取り下げた。お金のやり取りはなかったが、この騒動は新しいAIサービスを作る人たちに、開発競争の難しさや注意すべき点を教える出来事となった。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/08/20/runlayer-rippling-drop-lawsuits-but-the-brouhaha-is-still-a-cautionary-tale-for-founders/",
-      "published": "2026-08-20T19:15:05.000Z"
-    },
-    {
-      "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
-      "summary": "AIが賢く予定を管理してくれるカレンダーが登場。食事の献立を考えてくれる機能も無料で使えて、家庭での生活をサポートしてくれるのが新しい点です。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/08/20/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
-      "published": "2026-08-20T18:20:35.000Z"
-    },
-    {
-      "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
-      "summary": "Hugging Faceが、AIの「推論」（AIが考えたり予測したりする速さ）を最大3.2倍速くする技術「LFM2.5-DSpark」を発表しました。これにより、AIがより速く、より多くの作業をこなせるようになるため、今後のAI活用がさらに進むと期待されます。",
-      "source": "Hugging Face",
-      "category": "product",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
-      "published": "2026-08-20T16:52:57.000Z"
-    },
-    {
-      "title": "Introducing AI Futures",
-      "summary": "AIの未来について、OpenAIが新しいブログを始めました。AIが社会の仕組みや私たちの暮らしをどう変えていくのか、分かりやすく伝えていきます。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/introducing-ai-futures",
-      "published": "2026-08-20T07:00:00.000Z"
-    },
-    {
-      "title": "Position: Collusion Risks Among AI Reasoning Agents Justify Certification Requirements for Making Market Decisions",
-      "summary": "文章を作るAI（LLM）が、お互いに相談しなくても、まるで仲間のように価格を決めたりして、不当に利益を得る「共謀」をする恐れがあることがわかりました。そのため、経済に影響するような大事な判断をする前に、AIの行動をチェックする「お墨付き」のようなものが必要になります。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2608.18078",
-      "published": "2026-08-20T04:00:00.000Z"
-    },
-    {
-      "title": "Position: Profiling Game Worlds by Transition Complexity",
-      "summary": "AIがゲームの世界をどれだけ複雑に理解できるかを測る新しい方法「TCP」が提案されました。これにより、AIがゲームを学ぶのがどれくらい難しいかが分かり、より賢いAI開発に役立ちます。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2608.18079",
-      "published": "2026-08-20T04:00:00.000Z"
-    },
-    {
-      "title": "Large Language Models in Mental Health: A Systematic Review of Applications, Innovations, and Ethical Challenges",
-      "summary": "文章を作るAI（LLM）が心の健康分野でどのように使われているか、最新の研究をまとめました。SNS分析や、心のケアを助けるAIアシスタント、対話形式のカウンセリング支援など、様々な応用が期待されています。ただし、個人情報の保護など、倫理的な課題も重要です。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2608.18080",
-      "published": "2026-08-20T04:00:00.000Z"
     }
   ]
 }
