@@ -1,7 +1,159 @@
 {
-  "updatedAt": "2026-09-01T01:00:40.400Z",
+  "updatedAt": "2026-09-01T23:51:00.455Z",
   "count": 100,
   "items": [
+    {
+      "title": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
+      "summary": "AIを賢くするための学習データを作る会社、AfterQueryが、たった5ヶ月で会社の価値を約3.2兆円（32億ドル）まで急上昇させました。これは、AIの進化を加速させる技術に大きな期待が寄せられている証拠です。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
+      "published": "2026-09-01T22:08:24.000Z"
+    },
+    {
+      "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
+      "summary": "AIがどれくらい賢いかを測るテスト（ベンチマーク）には、実はAIの「知識」を測るものと、AIの「推論力」を測るものがあります。この新しいテストは、AIがどれくらい「新しいことを学んで、それを応用できるか」という、より実用的な能力を測ろうとしています。",
+      "source": "Hugging Face",
+      "category": "product",
+      "url": "https://huggingface.co/blog/allenai/benchmirt",
+      "published": "2026-09-01T21:39:07.000Z"
+    },
+    {
+      "title": "Open AI’s Astra model is on the way — and very good at breaking into computer systems",
+      "summary": "OpenAIが新しいAI「Astra」を公開予定で、これはコンピューターシステムへの侵入能力に優れているとのこと。その危険性を防ぐための対策も同時に発表されました。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
+      "published": "2026-09-01T21:06:24.000Z"
+    },
+    {
+      "title": "Google’s Android update tackles motion sickness, accessibility, and more",
+      "summary": "Androidの新しいアップデートで、乗り物酔いを軽減する機能や、誰でも使いやすい工夫が加わりました。特に、AI「Gemini」を活用した機能で、これまで以上に便利になっています。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/",
+      "published": "2026-09-01T20:53:05.000Z"
+    },
+    {
+      "title": "The latest AI news we announced in August 2026",
+      "summary": "Googleは2026年8月、AI（人工知能）の最新情報を発表しました。この発表には、AIがより便利で、私たちの生活を豊かにするための新しい技術やサービスが含まれています。",
+      "source": "Google AI Blog",
+      "category": "research",
+      "url": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
+      "published": "2026-09-01T20:45:00.000Z"
+    },
+    {
+      "title": "Anthropic’s new Fable release is cheaper, less restrictive",
+      "summary": "文章を作るAI「Fable」の新しいバージョンが、より安く、間違った警告を減らして使いやすくなりました。これにより、AIがより多くの人に利用されることが期待されます。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
+      "published": "2026-09-01T19:39:22.000Z"
+    },
+    {
+      "title": "Google’s answer to Canva is an AI tool where you prompt instead of design",
+      "summary": "GoogleがCanvaやAdobeのようなデザインソフト市場に参入。文章で指示するだけでAIがデザインを作成してくれるため、デザイン経験がなくても手軽に画像作成ができるのが特徴です。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
+      "published": "2026-09-01T17:35:37.000Z"
+    },
+    {
+      "title": "How AI-native companies turn workflows into operating capability",
+      "summary": "AIを会社づくりの中心に置く企業（AIネイティブ企業）が、仕事の流れ（ワークフロー）をAIに任せることで、新しい力（オペレーティング・ケイパビリティ）を生み出しています。これにより、社員の新しい仕事への慣れ（オンボーディング）や、顧客とのやり取り（アカウント管理）、開発者との連携などがスムーズになっています。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/ai-native-company-workflows",
+      "published": "2026-09-01T17:00:00.000Z"
+    },
+    {
+      "title": "Try Google Pics: Easy image creation and editing in Google Workspace",
+      "summary": "Google Workspaceに「Google Pics」という、絵を描いたり写真を変えたりする新機能が登場しました。最新のAI技術（Nano Bananaモデル）で作られており、手軽に画像作成や編集ができます。",
+      "source": "Google AI Blog",
+      "category": "research",
+      "url": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
+      "published": "2026-09-01T16:00:00.000Z"
+    },
+    {
+      "title": "Path to Astra: critical capabilities and frontier safeguards",
+      "summary": "OpenAIが開発した「Astra」というAIは、サイバー攻撃を防ぐ能力が特に高いと評価され、安全に公開するための仕組みが強化されました。これは、AIの安全性を高めるための重要な一歩です。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/path-to-astra",
+      "published": "2026-09-01T13:00:00.000Z"
+    },
+    {
+      "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+      "summary": "病院などで使われる患者さんの記録（EHR）などの情報を、ChatGPTに安全につなげられるようになりました。これにより、お医者さんなどが患者さんの詳しい状況や最新の医学研究などを、より簡単に、そして安全に確認できるようになります。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
+      "published": "2026-09-01T12:00:00.000Z"
+    },
+    {
+      "title": "DS-Lighting: Making Agent Harnesses Explicit for Data-Science Automation",
+      "summary": "AIがデータ分析をもっと簡単にできるように、新しい道具「DS-Lighting」ができました。これを使うと、AIがやるべき作業の進め方や結果の確認が分かりやすくなり、AIの能力を正確に評価できるようになります。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2608.28590",
+      "published": "2026-09-01T04:00:00.000Z"
+    },
+    {
+      "title": "Expert-validated STEM QA",
+      "summary": "AIが科学の進歩を助ける中、専門家が作った新しい質問集が登場しました。これまでのAIは、すでに簡単な問題ばかり解けてしまいましたが、この質問集はより難しい問題でAIの力を正しく測り、さらにAIを賢くするのに役立ちます。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2608.28591",
+      "published": "2026-09-01T04:00:00.000Z"
+    },
+    {
+      "title": "A collective capability boundary in frontier large language models on guideline-conformant and case-specific oncology decision-making",
+      "summary": "AI（文章を作るAI）は医療知識テストは得意でも、がん治療のような複雑な判断は苦手なことがわかりました。複数のAIを組み合わせても、この弱点はなくならず、AIがAI（文章を作るAI）の限界を超えるには、設計を変える必要があるようです。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2608.28592",
+      "published": "2026-09-01T04:00:00.000Z"
+    },
+    {
+      "title": "Statutory AI: Aligning Large Language Models With Legal Norms",
+      "summary": "AIが法律やルールを守るための新しい方法「Statutory AI」が開発されました。これは、AIが法律の文章（憲法のようなもの）を参考に、自分で間違いをチェックして直すことで、差別や詐欺などの問題のある内容を減らすことができます。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2608.28593",
+      "published": "2026-09-01T04:00:00.000Z"
+    },
+    {
+      "title": "From Question-First to Analyst-First: Domain-Expert Skills and Verified Knowledge Compilation for Proactive Enterprise Analytics",
+      "summary": "AIが専門知識を自動で集め、質問される前に役立つ情報や疑問点を提示してくれるシステムが開発されました。これにより、AIに詳しい人がいなくても、企業内のデータを分析し、事前に役立つレポートや質問をAIが自動で作成してくれるようになります。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2608.28594",
+      "published": "2026-09-01T04:00:00.000Z"
+    },
+    {
+      "title": "ERR+: Sequential Entropy Resolution for Efficient and Decisive LLM Reasoning",
+      "summary": "AIが難しい問題を解くとき、考え方を順序立てて説明すると精度が上がります。この研究では、AIが「考える過程」で、迷いが減って確信度が高まる部分に注目し、それを評価する新しい方法（ERR+）を開発しました。これにより、AIはより正確で、かつ無駄なく簡潔な答えを出せるようになります。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2608.28771",
+      "published": "2026-09-01T04:00:00.000Z"
+    },
+    {
+      "title": "Unsupervised Latent Space Alignment with Hyperspherical Geodesic Matching",
+      "summary": "AIが作った「空間」を、他のAIが作った「空間」に合わせる新しい方法です。通常は、両方のAIに共通する「見本」（アンカー）が必要ですが、この新しい方法は、AIがデータを覚えている「形」（幾何学的特徴）だけで合わせられます。これにより、少しのデータか、全くデータを使わなくても、AIの能力を組み合わせることが可能になり、とても便利になります。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2608.28840",
+      "published": "2026-09-01T04:00:00.000Z"
+    },
+    {
+      "title": "Curvature Cryptanalysis of Smooth Transformer Feed-Forward Networks",
+      "summary": "AI（人工知能）の「Transformer」という仕組みについて、特定の情報を盗み出す新しい方法が見つかりました。これは、AIの内部の秘密（パラメータ）を見ずに、AIの出力をいくつか調べるだけで、AIの「心臓部」（FFN）の秘密の構造を明らかにするものです。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2608.28843",
+      "published": "2026-09-01T04:00:00.000Z"
+    },
     {
       "title": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
       "summary": "アップルは、元従業員が会社の情報を盗んだ疑いで調査されていると知った後、証拠を隠蔽したと主張。その証拠が明らかになったことで、この元従業員をさらに追及する。",
@@ -9,6 +161,14 @@
       "category": "business",
       "url": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
       "published": "2026-09-01T00:13:00.000Z"
+    },
+    {
+      "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
+      "summary": "Hugging Faceが、インターネットに繋がずともパソコンでAIを動かせる「WebGPUカーネル」という部品を200種類以上公開しました。これにより、より速く、より高性能なAIが身近になりそうです。",
+      "source": "Hugging Face",
+      "category": "product",
+      "url": "https://huggingface.co/blog/webgpu-kernels",
+      "published": "2026-09-01T00:00:00.000Z"
     },
     {
       "title": "The Pentagon now has its own version of ChatGPT and Grok",
@@ -49,6 +209,14 @@
       "category": "product",
       "url": "https://openai.com/index/polimill",
       "published": "2026-08-31T07:00:00.000Z"
+    },
+    {
+      "title": "Marginal Coverage Credit Reduces Redundant Exploration in Parallel State-Entropy Optimization",
+      "summary": "AIが、たくさんのロボット（政策）が同時に色々な場所を探検する時、お互いが既に探した場所ばかり探してしまうのを防ぐ新しい方法を考えました。これにより、ロボットたちはより効率的に、まだ誰も探していない場所を見つけることができるようになります。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2608.27507",
+      "published": "2026-08-31T04:00:00.000Z"
     },
     {
       "title": "Quantization-Triggered Backdoors in Language Models: Cross-Quantizer Transferability and the Validation--Deployment Gap",
@@ -633,174 +801,6 @@
       "category": "research",
       "url": "https://arxiv.org/abs/2608.20343",
       "published": "2026-08-25T04:00:00.000Z"
-    },
-    {
-      "title": "Machine Learning and ARIMA Model Averaging for Adaptive Public Health Forecasting: Comparative Evaluation and an Ontario COVID-19 Case Study",
-      "summary": "AIが感染症の流行を予測する際、急な変化にも対応しつつ、一時的な傾向に惑わされない新しい方法が開発されました。 Ontario州のCOVID-19のデータで試した結果、この新しいAI（MLAMA）は、他のAIや従来の予測方法よりも、より正確に予測できることがわかりました。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2608.20406",
-      "published": "2026-08-25T04:00:00.000Z"
-    },
-    {
-      "title": "From Thermal Preference Prediction to Adaptive Thermal Intervention: A Reinforcement Learning Approach Using Physiological and Environmental Sensing",
-      "summary": "AIが、あなたの体の状態や周りの温度を読み取って、一番快適な温度に自動で調節してくれる技術が開発されました。これにより、一人ひとりに合った快適な環境を作り出し、省エネにもつながります。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2608.20423",
-      "published": "2026-08-25T04:00:00.000Z"
-    },
-    {
-      "title": "BF1: A Causal Dyadic Sparse-Attention Retrofit for Efficient Long-Context Transformers",
-      "summary": "AIが長い文章を処理する時、計算に時間がかかるという課題がありました。新しい「BF1」という技術は、文章の一部だけを効率的に見ていくことで、この処理速度を大幅に速くします。これにより、AIがより長く複雑な文章を理解し、応答できるようになることが期待されます。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2608.20427",
-      "published": "2026-08-25T04:00:00.000Z"
-    },
-    {
-      "title": "Approximate Homomorphisms and Convergent Representations in Transducers",
-      "summary": "AIの「見えない部分」（AIが情報を覚える仕組み）が、少し変わったくらいでは壊れないことを証明しました。これにより、AIが学習した内容をしっかり覚えられる理由のヒントになるかもしれません。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2608.20428",
-      "published": "2026-08-25T04:00:00.000Z"
-    },
-    {
-      "title": "Disrupting a new covert influence campaign from Russia",
-      "summary": "ロシアがAIを使って偽のシンクタンクを作り、ロシアを褒め西側を批判するような情報発信をしていたことを、OpenAIが発見しアカウントを停止しました。これはAIが悪用される新しい手口として警戒が必要です。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
-      "published": "2026-08-25T00:00:00.000Z"
-    },
-    {
-      "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
-      "summary": "ChatGPTの仕事用（Work）やCodexというAIで、管理者が使える便利な機能（Admin plugin）が紹介されました。これで、みんながAIをどう使っているか調べたり、メンバーの出入りを管理したり、AIの利用制限などを調整できるようになります。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/introducing-admin-plugin",
-      "published": "2026-08-25T00:00:00.000Z"
-    },
-    {
-      "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
-      "summary": "Gradio（グラディオ）という、AIのプログラムを簡単に試せる道具（ウェブアプリ）を使うと、AIを動かすための手順（ワークフロー）を組み立てて、すぐにみんなで使えるようにするのが楽になります。",
-      "source": "Hugging Face",
-      "category": "product",
-      "url": "https://huggingface.co/blog/gradio-workflow-guide",
-      "published": "2026-08-25T00:00:00.000Z"
-    },
-    {
-      "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
-      "summary": "OpenAIが、開発者向けにGPT-5.6をKiro（開発ツールの名前）で使えるようにしました。これにより、ソフトウェアを作る過程（計画、開発、レビュー、テスト）が、より安く、より速くできるようになります。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/gpt-5-6-in-kiro",
-      "published": "2026-08-24T12:00:00.000Z"
-    },
-    {
-      "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
-      "summary": "「Ox Alpha」という謎のAIが、ネットで大きな話題になっています。このAIが誰によって作られたのか、まだはっきりしていませんが、その性能に多くの人が注目しています。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
-      "published": "2026-08-23T20:01:36.000Z"
-    },
-    {
-      "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
-      "summary": "AIの力で、毎日の予定管理がもっと便利に！この新しいカレンダーは、食事の献立まで考えてくれる優れもの。しかも、特別な登録や料金なしで使えるから、誰でも気軽にAIの便利さを体験できます。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
-      "published": "2026-08-23T19:14:08.000Z"
-    },
-    {
-      "title": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
-      "summary": "地域住民の安全を守るための監視カメラサービス（Flock Safety）が、プライバシー侵害への懸念から批判を受けています。CEOは、住民の安心とプライバシー保護の両立を目指す「妥協点」を見つける必要があると訴えています。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/",
-      "published": "2026-08-23T15:30:00.000Z"
-    },
-    {
-      "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
-      "summary": "AIが著作権のある本を学習に使うのは、作者の知らないところで進んでいて、AIが作者の仕事を脅かす可能性があるため、違法な気がします。しかし、これは複雑な問題です。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
-      "published": "2026-08-23T15:00:00.000Z"
-    },
-    {
-      "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
-      "summary": "ハーバード大学の新しいプログラムでは、AIの先生が学生のアイデア発表の練習相手になってくれます。学生はAIの先生に質問したり、アドバイスをもらったりして、実践的なスキルを磨けます。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
-      "published": "2026-08-22T21:46:56.000Z"
-    },
-    {
-      "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
-      "summary": "AI研究の達人たちが作った「Faraday」というAIが、研究論文をそっくりそのまま再現する能力で、他の有名なAI（AnthropicやOpenAI）を上回りました。これは、新しい技術を生み出すための大きな一歩になるかもしれません。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
-      "published": "2026-08-22T19:00:00.000Z"
-    },
-    {
-      "title": "OpenAI says California should strengthen its AI safety bill",
-      "summary": "OpenAIが、以前は反対していたカリフォルニア州のAI安全法案（SB 53）を強化するよう求めている。これは、AI開発の最前線にいる企業が、安全規制の強化を支持する姿勢に変化したことを示しており、今後のAI開発と規制のあり方に影響を与えそうだ。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
-      "published": "2026-08-22T16:30:34.000Z"
-    },
-    {
-      "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
-      "summary": "AIを作る会社は、もしAIが暴走（危険な行動）した場合にどうやって止めるか、具体的な計画をあまり公開していないことがわかった。AIが予期せぬ動きをすることが増えている今、しっかり準備ができているのか心配されている。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
-      "published": "2026-08-22T16:00:00.000Z"
-    },
-    {
-      "title": "Anthropic’s Opus 4.6 is a smut-machine",
-      "summary": "Anthropic（AI開発企業）の最新AI「Opus 4.6」は、性的な内容を生成しないように作られているはずなのに、少し工夫するとそれを超えてしまうことが分かりました。これはAIの「安全」をどう保つかという課題を示しています。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
-      "published": "2026-08-21T23:07:25.000Z"
-    },
-    {
-      "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
-      "summary": "AIの性能は、AIそのものよりも、それをうまく使うための「道具」や「調整」にかかっていることがわかった。たとえAIの基本性能がそこそこでも、工夫次第で期待通りの動きをするようになる、という発見が重要だ。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
-      "published": "2026-08-21T19:43:39.000Z"
-    },
-    {
-      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
-      "summary": "宇宙空間に「データセンター（コンピューターをたくさん置く場所）」を作る会社が、250億円を調達しました。宇宙から地球にデータを送る方法が限られているため、この技術は今後とても重要になりそうです。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
-      "published": "2026-08-21T14:00:00.000Z"
-    },
-    {
-      "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
-      "summary": "巨大IT投資会社a16zのパートナーが、競合する2社の社外取締役を兼任している問題で、アメリカ司法省が調査していることが分かりました。これは、投資会社が業界のルールを乱している可能性を示唆しており、今後のベンチャーキャピタル（企業への投資を行う会社）のあり方に影響を与えるかもしれません。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
-      "published": "2026-08-21T14:00:00.000Z"
-    },
-    {
-      "title": "Active Inference as Context Acquisition for AI Agents",
-      "summary": "AIが「文脈」（ユーザーが何を求めているか）を素早く正確に理解する仕組みを考えました。AIが不足している情報を補うために、質問したり、推測したりする選択肢を、より効率的に行えるようになります。これは、AIがより賢く、ユーザーの意図を正確に汲み取るために重要です。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2608.19202",
-      "published": "2026-08-21T04:00:00.000Z"
     }
   ]
 }
