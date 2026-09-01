@@ -1,7 +1,95 @@
 {
-  "updatedAt": "2026-08-29T23:54:31.480Z",
+  "updatedAt": "2026-09-01T01:00:40.400Z",
   "count": 100,
   "items": [
+    {
+      "title": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
+      "summary": "アップルは、元従業員が会社の情報を盗んだ疑いで調査されていると知った後、証拠を隠蔽したと主張。その証拠が明らかになったことで、この元従業員をさらに追及する。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
+      "published": "2026-09-01T00:13:00.000Z"
+    },
+    {
+      "title": "The Pentagon now has its own version of ChatGPT and Grok",
+      "summary": "アメリカ国防総省が、ChatGPT（文章を作るAI）やGrok（質問に答えるAI）のようなAIツールを導入しました。これにより、国防総省内のAI活用がさらに進み、情報収集や分析のスピードアップが期待されます。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
+      "published": "2026-08-31T20:13:45.000Z"
+    },
+    {
+      "title": "Instagram puts new limits on undisclosed AI profiles",
+      "summary": "インスタグラムは、AI（人工知能）で作られたインフルエンサー（広告塔）が、本物だと偽って活動することへの不満が高まっているため、AIプロフィール（AIが作ったアカウント）の表示範囲を制限し始めました。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/",
+      "published": "2026-08-31T19:16:59.000Z"
+    },
+    {
+      "title": "Harvard Law dropout raises $6M for Blue Voice to build a ‘Harvey for police officers’",
+      "summary": "警察官のために、弁護士のような質問に答えてくれるAI（Blue Voice）が開発されました。このAIは、ネットにはない、各警察署独自のルールや法律を学んでいるため、より正確な情報を提供できます。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/",
+      "published": "2026-08-31T18:35:11.000Z"
+    },
+    {
+      "title": "Clipto uses AI to search terabytes of video and is now valued at $250M",
+      "summary": "AIを使って大量の動画の中から探したいものを見つけ出すサービスが、2億5000万ドル（約375億円）の価値があると評価されました。このサービスは、わずか3年で黒字化し、さらなる成長のために資金調達を成功させています。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/",
+      "published": "2026-08-31T16:00:00.000Z"
+    },
+    {
+      "title": "Polimill builds Japan's next-generation public AI infrastructure",
+      "summary": "日本の自治体がAI（人工知能）を使って、行政の書類や情報を探しやすく、使いやすくする仕組みが作られました。これは、AI（文章を作るAI）やプログラミングを助けるAIを活用し、開発を早めるものです。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/polimill",
+      "published": "2026-08-31T07:00:00.000Z"
+    },
+    {
+      "title": "Quantization-Triggered Backdoors in Language Models: Cross-Quantizer Transferability and the Validation--Deployment Gap",
+      "summary": "AI（人工知能）が文章を作る際に、小さくするために「量子化」という処理をすると、隠された悪意ある指示が発動する恐れがあることがわかりました。\n\nこの隠し機能は、AIの性能をチェックした時には見つからず、実際の使用時（量子化後）に初めて現れるため、安全だと信じて使っていたAIが意図しない動きをする危険性があります。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2608.27512",
+      "published": "2026-08-31T04:00:00.000Z"
+    },
+    {
+      "title": "DAMP: Decay-Aware Mixed-Precision Recurrent-State Quantization",
+      "summary": "AIが長い文章を理解・生成する際、過去の情報（KVキャッシュ）をたくさん保存すると、もっとたくさんのメモリが必要になります。この新しい技術（DAMP）は、その保存方法を工夫して、メモリ使用量を減らし、AIの処理速度を速くします。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2608.27513",
+      "published": "2026-08-31T04:00:00.000Z"
+    },
+    {
+      "title": "A Deeper Analysis of Block-Sparse Featurizers",
+      "summary": "AIが画像の特徴を捉える新しい方法（ブロック疎特徴量器）が提案されました。これは、AIが色々な特徴を学習する際に、それぞれがバラバラになりすぎる（特徴の分裂）のを防ぎ、より賢く特徴を組み合わせられるようにした点が新しいです。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2608.27515",
+      "published": "2026-08-31T04:00:00.000Z"
+    },
+    {
+      "title": "When Muon Meets Task Interference: A Spectral Perspective on Continual Learning and Model Merging",
+      "summary": "AIが複数の仕事を学習する際、前の仕事の内容を忘れてしまう「忘却」や、仕事ごとにAIの能力をうまく分けるのが難しい「干渉」という問題がありました。\nこの研究では、この二つの問題が実は同じ「タスク干渉」という現象であることを発見。新しいMuonというAIの「学習方法（オプティマイザー）」が、この干渉を抑えることで、AIの性能を向上させることを発見しました。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2608.27518",
+      "published": "2026-08-31T04:00:00.000Z"
+    },
+    {
+      "title": "A milestone in expanding access to AI",
+      "summary": "ChatGPTの広告収入が年10億ドル（約1500億円）を突破し、世界中で利用が拡大。これにより、AI（人工知能）をより多くの人が、無料または手頃な価格で使えるようになることが期待されます。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
+      "published": "2026-08-31T04:00:00.000Z"
+    },
     {
       "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
       "summary": "ソニー・ミュージックとワーナー・ミュージックが、AI開発会社Anthropicを訴えました。Anthropicが、著作権で守られている音楽を無断で利用し、AI（人工知能）に学習させた（AIの知識として取り込ませた）ことが、音楽業界の知的財産（創作物）を盗む行為にあたると主張しています。",
@@ -713,94 +801,6 @@
       "category": "research",
       "url": "https://arxiv.org/abs/2608.19202",
       "published": "2026-08-21T04:00:00.000Z"
-    },
-    {
-      "title": "Robust Metaheuristics under Uncertainty for Berth Allocation and Quay Crane Assignment: A Review",
-      "summary": "港で船がいつ来て、どこに停まり、どんなクレーンを使うかを効率よく決めるには、船の遅れなど「不確実なこと」に強く対応できる工夫が必要です。この論文は、そのような難しい問題をAIで解くための最新研究をまとめたものです。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2608.19214",
-      "published": "2026-08-21T04:00:00.000Z"
-    },
-    {
-      "title": "How to Navigate Uncertainty About AI Consciousness",
-      "summary": "AIが意識を持っているか、まだわからない。だから、もしAIが意識を持っていたらどう接すればいいのか、難しい問題だ。そこで、AIが「感情」のようなものを持っているかを調べることで、意識があるかどうかという難しい問題から離れて、AIを賢く開発する方法を提案している。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2608.19215",
-      "published": "2026-08-21T04:00:00.000Z"
-    },
-    {
-      "title": "Bounded Sovereignty and the Control Tax: Pricing AI Oversight When the Deployer Does Not Own the Model",
-      "summary": "AI（人工知能）を使うとき、AIが指示通りに動くか心配ですが、AIの仕組みを詳しく知らなくても安全に使えるようにする方法が研究されています。しかし、AIを借りて使う場合、AIの内部は操作できないので、安全対策が難しいことがあります。そこで、AIを安全に使うための「境界のある主権」という考え方で、AIの利用範囲や契約などを工夫して、AIの管理コスト（コントロール税）をどう決めるかを提案しています。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2608.19216",
-      "published": "2026-08-21T04:00:00.000Z"
-    },
-    {
-      "title": "Interaction valence reveals contrasting social networks in dairy cattle",
-      "summary": "AIが牛の行動を分析し、仲良しグループとケンカするグループが違うことを発見。これまでの分析では見えなかった、牛たちの複雑な人間関係が明らかになり、牛の福祉（しあわせ）を考える上で役立つ可能性がある。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2608.19222",
-      "published": "2026-08-21T04:00:00.000Z"
-    },
-    {
-      "title": "Towards On-Board Implementation of ML-Based Helicopter Weight Estimator",
-      "summary": "ヘリコプターの離陸時の重さを、AI（人工知能）を使って正確に予測する新しい方法が研究されました。これは、実際のヘリコプターのデータを使ってAIを訓練し、安全な運航に役立てるためのものです。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2608.19210",
-      "published": "2026-08-21T04:00:00.000Z"
-    },
-    {
-      "title": "Triangular Fuzzy Rescaling Distance",
-      "summary": "ばらばらな情報（ぼんやりした数字）を比べるとき、それぞれを同じものさしで測るための新しい方法が提案されました。これにより、大きさや単位が違う情報でも、より正確に、そして手間なく距離を計算できるようになります。これは、AIが複雑な判断をする上で役立ちます。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2608.19234",
-      "published": "2026-08-21T04:00:00.000Z"
-    },
-    {
-      "title": "Holtercare-Bench: A Multimodal Benchmark for Evaluating Long-Term Dynamic ECG Analysis",
-      "summary": "心臓の長期的な動き（心電図）を読み取るAIの性能を測る、新しい「ものさし」ができました。これにより、AIが複雑な心臓の動きを理解し、病気の診断を助ける能力を、より正確に評価できるようになります。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2608.19297",
-      "published": "2026-08-21T04:00:00.000Z"
-    },
-    {
-      "title": "Quantum Kernel Estimation for the Discovery of Early Lung Cancer Detection",
-      "summary": "量子コンピューターの技術を使って、血液から初期の肺がんを見つける新しい方法が研究されています。がんの複雑な情報をAIが読み取りやすくする工夫で、これまでの方法より早期発見の可能性が広がるかもしれません。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2608.19304",
-      "published": "2026-08-21T04:00:00.000Z"
-    },
-    {
-      "title": "Improved Confidence Estimates for Black-Box Large Language Models",
-      "summary": "AIが作った文章がどれくらい正しいかを、AI自身に「自信がある」とか「自信がない」とか言わせる方法があるのですが、もっと正確に判断できる新しい方法が見つかりました。\nこの新しい方法は、AIに判断させるだけでなく、実際に使われるデータを使って、より確実な判断ができるようにします。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2608.19323",
-      "published": "2026-08-21T04:00:00.000Z"
-    },
-    {
-      "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
-      "summary": "AIの学習に使うデータを作る会社Micro1が、年間5億ドル（約750億円）の売上を達成しました。AIを賢くするには大量のデータが必要で、その需要が急激に高まっていることが背景にあります。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
-      "published": "2026-08-21T00:13:44.000Z"
-    },
-    {
-      "title": "Measuring benchmark optimization in speech recognition",
-      "summary": "（本文が提供されていないため、要約を作成できません。）",
-      "source": "Hugging Face",
-      "category": "product",
-      "url": "https://huggingface.co/blog/asr-benchmark-optimization",
-      "published": "2026-08-21T00:00:00.000Z"
     }
   ]
 }
