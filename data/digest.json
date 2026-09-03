@@ -1,7 +1,127 @@
 {
-  "updatedAt": "2026-09-01T23:51:00.455Z",
+  "updatedAt": "2026-09-02T23:54:39.672Z",
   "count": 100,
   "items": [
+    {
+      "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
+      "summary": "TechCrunch Disrupt 2026では、スタートアップ（新しい会社）を大きく育てるための具体的な方法について、創業者や投資家たちが話し合います。この「ビルダーズ・ステージ」では、実際に会社を大きくしていくための役立つ情報が共有されます。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/",
+      "published": "2026-09-02T23:01:00.000Z"
+    },
+    {
+      "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
+      "summary": "セキュリティ会社Palo Alto Networksが、AIを使ったITサービス自動化（コンピューターの管理などをAIに任せること）のスタートアップ企業Consoleを約500億円で買収したと報じられています。これにより、この分野で競争が激しくなりそうです。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
+      "published": "2026-09-02T22:44:56.000Z"
+    },
+    {
+      "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
+      "summary": "現実世界とデジタルの融合に注目した新しいステージでは、Nvidiaやロボット、絶滅した動物など、AIが物理世界でどのように活用されるのかが紹介されます。AIが私たちの生活をどう変えるのか、その最前線が体験できるイベントです。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
+      "published": "2026-09-02T22:24:09.000Z"
+    },
+    {
+      "title": "OpenAI’s new reasoning technique alarms AI safety experts",
+      "summary": "OpenAIが開発した新しいAI「Astra」は、これまでのAIとは違い、一歩ずつ順番に考えるのではなく、より深く、まとめて考える「再帰的深さ」という方法を使います。これにより、AIの「考える力」が大きく進歩する可能性があり、一部の専門家は、AIが予測不能な動きをするかもしれないと懸念しています。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
+      "published": "2026-09-02T20:19:14.000Z"
+    },
+    {
+      "title": "Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’",
+      "summary": "AIが作った文章や画像が、履歴書やレビューなどに紛れ込み、何が本物か見分けるのが難しくなってきました。この問題は、インターネットの信頼性を揺るがすため、AIが本物か偽物かを見分ける技術が重要になっています。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/",
+      "published": "2026-09-02T17:18:13.000Z"
+    },
+    {
+      "title": "Proactive cyber defense for governments and enterprises",
+      "summary": "政府や企業がサイバー攻撃から身を守るための、Googleの新しい「フェアウィンド・プログラム」が始まりました。これは、先進的なサイバー防御ツールを、信頼できるパートナーと協力して使うためのものです。",
+      "source": "Google AI Blog",
+      "category": "research",
+      "url": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
+      "published": "2026-09-02T15:40:00.000Z"
+    },
+    {
+      "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
+      "summary": "IBMが開発したAI（人工知能）が、リアルタイム（その場で）でデータの変化を予測できるようになりました。これにより、例えば株価の急な変動や、工場の機械の故障などをいち早く察知し、対応できるようになり、ビジネスで役立ちます。",
+      "source": "Hugging Face",
+      "category": "product",
+      "url": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
+      "published": "2026-09-02T13:49:14.000Z"
+    },
+    {
+      "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
+      "summary": "ATV Big Air Tourというイベントで、ChatGPT（文章を作るAI）を使って、宣伝やグッズ販売の作業が3日間から3時間に短縮されました。グッズの写真を15分で在庫管理サイトにすることもでき、効率が大幅にアップしたのです。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/atv-big-air-tour",
+      "published": "2026-09-02T12:00:00.000Z"
+    },
+    {
+      "title": "HyperWorld: Hypergraph-Structured State Serialization Improves Learned Textual World Models",
+      "summary": "AIが「言葉の世界」の出来事を予測して計画を立てる方法について、新しい工夫「HyperWorld」が発表されました。これは、物事の状態（どうなっているか）をAIにわかりやすい形に整理することで、特にAIの能力がまだそれほど高くない場合や、予期せぬ状況でも、AIがより正確に未来を予測し、うまく行動できるようになることを示しています。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2609.00002",
+      "published": "2026-09-02T04:00:00.000Z"
+    },
+    {
+      "title": "Discrete-Time MDP Modeling for Multi-Item Capacitated Lot Sizing with Stochastic Demand Timing",
+      "summary": "「いつ商品が売れるか分からない」という状況で、いくつもの商品を、どれだけ作って、どこに置くかを決めるための新しい方法が見つかりました。これは、AI（人工知能）が、いつ注文が来るか不確かな場合に、効率的に生産計画を立てるのに役立ちます。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2609.00004",
+      "published": "2026-09-02T04:00:00.000Z"
+    },
+    {
+      "title": "Task-Specific Prompt with Global Context for Multi-Task Graph Pre-Training",
+      "summary": "AIがグラフ（つながり）の情報を学習する時、新しい課題に早く対応させるには、あらかじめAIに「ヒント（プロンプト）」をうまく与えるのが大事。でも、今までの方法はヒントが課題と合わず、うまく学習できなかった。そこで、課題とグラフの構造の両方を考慮した新しいヒントの与え方「TPGC」を開発。これにより、少ないデータでAIの学習精度が上がり、計算時間も短縮できる。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2609.00047",
+      "published": "2026-09-02T04:00:00.000Z"
+    },
+    {
+      "title": "REAL-Q: E2E LLM Quantization via Dynamic Gradient Descent",
+      "summary": "AI（文章を作るAI）をスマホなどでも使いやすくするため、AIの「賢さ」を保ちつつ、必要なデータ量を減らす新しい方法「REAL-Q」が開発されました。この方法は、AIの学習過程で生じるズレを、より細かく、リアルタイムで調整することで、AIの性能低下を大幅に抑えます。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2609.00049",
+      "published": "2026-09-02T04:00:00.000Z"
+    },
+    {
+      "title": "Convergence issues in Relational Concept Analysis based on AOC-posets",
+      "summary": "AIで物事を整理する研究で、一部の「関係性」に注目した分析（RCA）を、さらに簡単な形（AOC-poset）でやろうとすると、うまくまとまらないことがあると分かりました。この論文では、その原因を突き止め、うまくまとまるようにする方法を提案しています。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2609.00054",
+      "published": "2026-09-02T04:00:00.000Z"
+    },
+    {
+      "title": "DISTAL: Distillation and Self-Supervised Pretraining for Structure-Agnostic Materials Property Prediction",
+      "summary": "新しいAI「DISTAL」は、材料の性質を予測するのに役立ちます。材料の形がわからない時でも、過去のデータから形に頼らずに性質を予測できるようになりました。これにより、新しい材料探しがもっと効率的になります。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2609.00059",
+      "published": "2026-09-02T04:00:00.000Z"
+    },
+    {
+      "title": "ReNFT: Repairing Mode Collapse in Reward Post-Training via Internal Probability-Mass Recalibration",
+      "summary": "AIが作る画像が、指示に合っていても似たようなものばかりになってしまう問題を解決する新しい方法「ReNFT」が開発されました。これは、AIが学習した能力を元に戻すことで、多様で質の高い画像を生成できるようにする画期的な技術です。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2609.00061",
+      "published": "2026-09-02T04:00:00.000Z"
+    },
     {
       "title": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
       "summary": "AIを賢くするための学習データを作る会社、AfterQueryが、たった5ヶ月で会社の価値を約3.2兆円（32億ドル）まで急上昇させました。これは、AIの進化を加速させる技術に大きな期待が寄せられている証拠です。",
@@ -152,6 +272,22 @@
       "source": "arXiv (cs.LG)",
       "category": "research",
       "url": "https://arxiv.org/abs/2608.28843",
+      "published": "2026-09-01T04:00:00.000Z"
+    },
+    {
+      "title": "Equivariant Sheaf Neural Networks: Learning Geometric Transport on Graphs",
+      "summary": "AIがグラフ（つながった点）上の「幾何学的な情報」（場所や向きなど）をより賢く運べる新しい仕組み「ESNN」が開発されました。これにより、AIは物体の動きをより正確に予測したり、回転しても正しく認識できるようになるなど、様々な分野での応用が期待されます。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2608.28853",
+      "published": "2026-09-01T04:00:00.000Z"
+    },
+    {
+      "title": "The Halt Vector: Internalizing a Causal Steering Intervention for Efficient Reasoning",
+      "summary": "AIが答えを見つけても、考え続けるのをやめない問題がありました。そこで、AIが途中で思考を止める「一時停止ベクトル」をAIの仕組み（重み）に組み込むことで、無駄な思考を約4分の1減らせる新しい方法が見つかりました。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2608.28859",
       "published": "2026-09-01T04:00:00.000Z"
     },
     {
@@ -665,142 +801,6 @@
       "category": "product",
       "url": "https://openai.com/index/loveholidays",
       "published": "2026-08-26T00:00:00.000Z"
-    },
-    {
-      "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
-      "summary": "文章を賢く理解するAI（埋め込みモデル）を、より得意な分野に特化させる新しい方法が見つかりました。これにより、AIは特定の話題について、より正確で関連性の高い情報を見つけ出せるようになります。",
-      "source": "Hugging Face",
-      "category": "product",
-      "url": "https://huggingface.co/blog/train-multi-vector-encoder",
-      "published": "2026-08-26T00:00:00.000Z"
-    },
-    {
-      "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
-      "summary": "絵を描いてくれるAI「Stable Diffusion」を作っている会社が、新たに7600万ドル（約100億円）を集めました。これで合計2億3200万ドル（約310億円）が集まったことになります。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/",
-      "published": "2026-08-25T19:03:47.000Z"
-    },
-    {
-      "title": "Claude Cowork finally remembers what you told the app in chat",
-      "summary": "AI「クロード」が、以前話した内容を覚えてくれるようになりました。これで、毎回同じ説明をしなくても、プロジェクトや好みを理解してくれるので、よりスムーズにやり取りできるようになります。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
-      "published": "2026-08-25T17:50:33.000Z"
-    },
-    {
-      "title": "5 ways to upgrade your home decor with Google Search",
-      "summary": "Google検索の機能を使えば、部屋を飾るアイデア探しや家具選び、自分で作る（DIY）プロジェクトの計画が簡単にできます。あなたのお家をもっと素敵にするヒントが、検索するだけで見つかるのが新しい点です。",
-      "source": "Google AI Blog",
-      "category": "research",
-      "url": "https://blog.google/products-and-platforms/products/search/home-decor-tips/",
-      "published": "2026-08-25T16:00:00.000Z"
-    },
-    {
-      "title": "Granite 4.2 LLMs: How They're Built",
-      "summary": "最新のAIモデル「Granite 4.2」は、文章作成が得意なAI（LLM）です。より自然で正確な文章を作るために、大量のデータで賢く学習させる方法が工夫されています。",
-      "source": "Hugging Face",
-      "category": "product",
-      "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
-      "published": "2026-08-25T15:14:14.000Z"
-    },
-    {
-      "title": "Gamma acquires Accel-backed design startup Lica",
-      "summary": "デザイン作成AIのLicaが、AIを使ったプレゼン資料作成サービスを提供するGammaに買収されました。Licaの創業者はGammaの新チームで、AIによるデザイン作成のさらなる進化を目指します。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/08/25/gamma-acquires-accel-backed-design-startup-lica/",
-      "published": "2026-08-25T15:00:00.000Z"
-    },
-    {
-      "title": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
-      "summary": "OpenAIが開発した「Jalapeño」という新しいAIチップは、AIが文章を生成する速さ（推論）を、より多くの人（大規模）に、より効率良く届けるためのものです。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
-      "published": "2026-08-25T14:22:04.000Z"
-    },
-    {
-      "title": "Accel-backed Keenable is indexing the web for AI agents",
-      "summary": "AI（人工知能）がインターネットを検索して情報を集めるための「索引」を作る会社が、2600万ドル（約40億円）の資金を集めて本格的に活動を開始しました。AIが効率的に情報を探せるようになる、新しい取り組みです。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/",
-      "published": "2026-08-25T13:00:00.000Z"
-    },
-    {
-      "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
-      "summary": "AIの賢さを保ったまま、すごく小さくできる技術が登場。これを使えば、AIを動かすのに必要なコンピューターの力やメモリーが少なくて済むようになり、スマホなどでもより高性能なAIが使いやすくなります。",
-      "source": "Hugging Face",
-      "category": "product",
-      "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
-      "published": "2026-08-25T11:39:24.000Z"
-    },
-    {
-      "title": "The full stack behind abundant intelligence",
-      "summary": "AIがより賢く、多くの人が使えるようになるには、高性能なコンピューター（チップ）、大量の計算能力、賢いAIモデル、そして使いやすい製品がすべて進化する必要がある。これらが組み合わさることで、AIはより便利になり、コストも下がっている。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
-      "published": "2026-08-25T07:05:00.000Z"
-    },
-    {
-      "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
-      "summary": "OpenAIが開発した「Jalapeño」というAIチップは、AIの計算を速く、そして省エネで行える画期的なものです。これにより、最新のAIモデルをよりスムーズに、より速く動かすことが可能になります。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/jalapeno-first-results",
-      "published": "2026-08-25T07:00:00.000Z"
-    },
-    {
-      "title": "KVBoost: Chunk-Level Key-Value Cache Reuse with Deviation-Guided Recomputation for Efficient Large Language Model Inference",
-      "summary": "AIが文章を作る速さを速くする「KVBoost」という新しい技術が登場しました。\nこれは、AIが前回覚えた情報を無駄なく使い回すことで、特に長い文章の始まり部分でAIが答えるまでの時間を約4.5倍も短縮できるのが特徴です。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2608.21362",
-      "published": "2026-08-25T04:00:00.000Z"
-    },
-    {
-      "title": "AIREP: A Protocol for Per-Decision Evidence in AI Runtime Governance",
-      "summary": "AIが何かを判断するたびに、その理由を記録する新しい仕組み（AIREP）が提案されました。これにより、AIが特定の出力を許可したか拒否したかなどが、後から誰でも確認できるようになります。これはAIの透明性を高め、信頼性を向上させるために重要です。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2608.21363",
-      "published": "2026-08-25T04:00:00.000Z"
-    },
-    {
-      "title": "Reviewing Model Collapse and Countermeasures",
-      "summary": "AIが自分で作ったデータで学習すると、性能が落ちてしまう「モデル崩壊」という問題が起きています。この記事は、その原因や、この問題を解決するための最新の研究をまとめたものです。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2608.21366",
-      "published": "2026-08-25T04:00:00.000Z"
-    },
-    {
-      "title": "AI Learning and Conceptual Transfer in the Game of Hidden Rules",
-      "summary": "AIがゲームで隠されたルールをどうやって見つけるか、その研究結果です。AIは試行錯誤（トライアンドエラー）からルールを学び、それを新しい状況でも応用（転移学習）できるかどうかがわかります。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2608.21372",
-      "published": "2026-08-25T04:00:00.000Z"
-    },
-    {
-      "title": "LitReview Arena: Evaluating Literature Review Agents with Battle-Style Peer Review Platform",
-      "summary": "AIが作った学術論文のまとめ（文献レビュー）の質を、専門家が直接評価する新しい仕組み「LitReview Arena」ができました。AIはまだ人間の専門家ほどのまとめは作れず、特に研究の提案のような難しい部分は苦手なことがわかりました。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2608.21374",
-      "published": "2026-08-25T04:00:00.000Z"
-    },
-    {
-      "title": "Bankruptcy Prediction via Hybrid Resampling and Stacking Ensemble Techniques with Explainable Artificial Intelligence (XAI)-Driven Analysis",
-      "summary": "AIを使って、会社が倒産しそうかをより正確に予測する新しい方法が開発されました。特に、倒産しそうな少数の会社を見つけるのが得意で、なぜそう判断したのかもAIが説明してくれるので、将来のお金のピンチに早く気づくための安心材料になります。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2608.20343",
-      "published": "2026-08-25T04:00:00.000Z"
     }
   ]
 }
