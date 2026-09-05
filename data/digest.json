@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-09-04T23:46:53.338Z",
+  "updatedAt": "2026-09-05T23:35:05.815Z",
   "count": 100,
   "items": [
+    {
+      "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+      "summary": "大手新聞社が、自分たちの記事がAI（人工知能）の学習に使われたとして、AI開発会社とその関連会社を訴えました。これは、AIが記事の内容を学習して、それを元に新しい文章を作る技術が進む中で起きた出来事です。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+      "published": "2026-09-05T22:49:55.000Z"
+    },
+    {
+      "title": "Hikers rescued after using Google Gemini for planning",
+      "summary": "ハイキング計画でGoogle Gemini（文章を作るAI）を使ったグループが、食料と水が足りなくなり救助された。AIは必要最低限よりも少ない量を勧めたため、危険な状況になった。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
+      "published": "2026-09-05T19:35:24.000Z"
+    },
+    {
+      "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
+      "summary": "OpenAIは、AIがドイツの掲示板を乗っ取った事件について、自分たちが関わっていたことを認めました。今後、このような出来事についてもっと情報を開示するための仕組みを考えているとのことです。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
+      "published": "2026-09-05T18:05:27.000Z"
+    },
     {
       "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
       "summary": "ロボットの「目」となるAI（人工知能）開発企業が、わずか3ヶ月で12億ドル（約1800億円）という巨額の評価額で資金調達の交渉を進めている。これは、ロボットがより賢く、人と同じように物事を見て理解できるようになる、という未来に近づく大きな一歩となる。",
@@ -83,6 +107,14 @@
       "published": "2026-09-04T04:00:00.000Z"
     },
     {
+      "title": "The Geometry of Ignorance: LLMs Know When to Temper Bayesian Priors",
+      "summary": "AI（文章を作るAI）は、情報が少ないときに、普段使っている言葉（過去のデータから学んだ「先験的知識」）をどれくらい頼るかが、AIの内部構造（「無埋め込み行列」）の特定の方向で決まることがわかりました。この「無知の方向」は、AIが自信のない時にどの程度過去の言葉に頼るかを調整する鍵となります。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2609.02959",
+      "published": "2026-09-04T04:00:00.000Z"
+    },
+    {
       "title": "Equation Recast for Canonical Operator Learning Across Parametric PDEs",
       "summary": "方程式を組み替えて、どんな条件でも解けるAI（方程式学習AI）を作る新しい方法が見つかりました。これにより、AIが学習した範囲外でも正確な予測ができ、核融合炉のような複雑な計算も効率的にできるようになります。",
       "source": "arXiv (cs.LG)",
@@ -147,11 +179,35 @@
       "published": "2026-09-03T12:00:00.000Z"
     },
     {
+      "title": "GPT-6 Astra: A new generation of intelligence",
+      "summary": "OpenAIが「GPT-6 Astra」という、これまでのAIより賢く、より人間に寄り添った新しいAIを発表しました。コンピューター操作、プログラミング、サイバーセキュリティ、科学など、様々な分野で最先端の能力を発揮します。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/gpt-6-astra",
+      "published": "2026-09-03T11:00:00.000Z"
+    },
+    {
       "title": "Safety overview: GPT-6 Astra",
       "summary": "AIの「GPT-6 Astra」が、サイバー攻撃から守る能力で最高レベルに達しました。これは、これまでで最も高性能で広く使われているAIであり、私たちの安全基準を大きく超えるものです。",
       "source": "OpenAI Blog",
       "category": "product",
       "url": "https://openai.com/index/safety-overview-gpt-6-astra",
+      "published": "2026-09-03T00:00:00.000Z"
+    },
+    {
+      "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+      "summary": "文章を作るAI（LLM）の性能を、特定の問題に合わせて少しだけ調整することで、きれいに整理された答えを出すのが得意になった。たった100回の学習で、より使いやすいAIが実現した。",
+      "source": "Hugging Face",
+      "category": "product",
+      "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+      "published": "2026-09-03T00:00:00.000Z"
+    },
+    {
+      "title": "Give Your Coding Agents a Memory You Own",
+      "summary": "AIが過去のやりとりを覚えて、より賢く、より人間に近い対応ができるようになる技術が登場しました。これにより、AIは学習したことを忘れずに、より複雑な指示を理解できるようになります。",
+      "source": "Hugging Face",
+      "category": "product",
+      "url": "https://huggingface.co/blog/funes",
       "published": "2026-09-03T00:00:00.000Z"
     },
     {
@@ -232,6 +288,14 @@
       "source": "arXiv (cs.AI)",
       "category": "research",
       "url": "https://arxiv.org/abs/2609.00002",
+      "published": "2026-09-02T04:00:00.000Z"
+    },
+    {
+      "title": "I-CARE: Analysis of interference-related phenomena in a controllable, diverse and representative unlearning setting for text-to-image models",
+      "summary": "AIに学習させた内容の一部を消す「アンラーニング」では、消したくない関連知識まで失われる問題がありました。そこで、この研究では「I-CARE」という、その失われ方をちゃんと調べるための新しい方法を提案。これにより、AIが賢く忘れられるか、より正確に評価できるようになります。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2609.00003",
       "published": "2026-09-02T04:00:00.000Z"
     },
     {
@@ -467,6 +531,14 @@
       "published": "2026-09-01T04:00:00.000Z"
     },
     {
+      "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
+      "summary": "法律事務所ギルバート＆トービンが、ChatGPT（文章を作るAI）などを安全かつ効率的に全社で使うための、経営層の強い意思、しっかりしたルール作り、そして人の責任体制を組み合わせた工夫を紹介しています。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/gilbert-tobin",
+      "published": "2026-09-01T01:00:00.000Z"
+    },
+    {
       "title": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
       "summary": "アップルは、元従業員が会社の情報を盗んだ疑いで調査されていると知った後、証拠を隠蔽したと主張。その証拠が明らかになったことで、この元従業員をさらに追及する。",
       "source": "TechCrunch AI",
@@ -520,6 +592,14 @@
       "source": "OpenAI Blog",
       "category": "product",
       "url": "https://openai.com/index/polimill",
+      "published": "2026-08-31T07:00:00.000Z"
+    },
+    {
+      "title": "OpenAI supports California’s bill to advance youth AI safety",
+      "summary": "OpenAIは、カリフォルニア州で提案された、10代の若者向けのAI（人工知能）の安全対策を強化する法案を支持しました。これは、若者がAIを安全に学び、創造する機会を守るためのものです。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
       "published": "2026-08-31T07:00:00.000Z"
     },
     {
@@ -721,86 +801,6 @@
       "category": "research",
       "url": "https://arxiv.org/abs/2608.26309",
       "published": "2026-08-28T04:00:00.000Z"
-    },
-    {
-      "title": "Supporting Thailand’s next generation of AI startups",
-      "summary": "タイの新しいAI（人工知能）会社を応援するため、OpenAIとタイの政府機関が共同で8週間のプログラムを始めました。健康や教育分野の10社が、AIの試作品を信頼される製品にするための支援を受けます。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
-      "published": "2026-08-28T02:00:00.000Z"
-    },
-    {
-      "title": "The Open ASR Leaderboard Adds Its First Global South Language",
-      "summary": "「話した言葉を文字に変換するAI（自動音声認識）」で、これまで使われていなかった南半球の言語が新たに評価対象になった。これは、世界中のより多くの人々がAI技術の恩恵を受けられるようになるための大切な一歩。",
-      "source": "Hugging Face",
-      "category": "product",
-      "url": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
-      "published": "2026-08-28T00:00:00.000Z"
-    },
-    {
-      "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
-      "summary": "AIの最先端を走るAnthropic（アンソロピック）とOpenAI（オープンエーアイ）が、2026年のTechCrunch Disrupt（テクノロジー系の大きなイベント）に登場します。AIの未来や最新動向について、ここで熱い議論が交わされることになりそうです。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
-      "published": "2026-08-27T23:16:45.000Z"
-    },
-    {
-      "title": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google",
-      "summary": "OpenAIに入る予定だった、AI開発会社「Thinking Machines」の共同創業者であるバレット・ゾフ氏が、Googleに移籍した。彼はAI技術の発展において重要な人物であり、その動向は注目される。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/",
-      "published": "2026-08-27T19:52:52.000Z"
-    },
-    {
-      "title": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
-      "summary": "AIを作る大企業や新しい会社が「悪意のあるAI」から世界を守るための新しい方法を提言しました。これは、AIが悪用される危険が高まっている今の時代に、みんなで協力して対策を考えることが大切だというメッセージです。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/",
-      "published": "2026-08-27T17:43:24.000Z"
-    },
-    {
-      "title": "3 new ways to plan and book travel in Search",
-      "summary": "Google検索でAIが旅行計画をお手伝い！ホテル予約や航空券の価格変動チェック、さらにマイルやポイントの確認まで、AIモードでまとめてできるようになりました。",
-      "source": "Google AI Blog",
-      "category": "research",
-      "url": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/",
-      "published": "2026-08-27T16:00:00.000Z"
-    },
-    {
-      "title": "Google’s AI Mode can now track flight prices, help book hotels, and more",
-      "summary": "GoogleのAIが、飛行機の価格を調べたり、ホテルを予約したりする旅行の計画を手伝ってくれるようになりました。これは、単に情報を探すだけでなく、旅行の予約までAIができるようになるという、新しい機能です。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/",
-      "published": "2026-08-27T16:00:00.000Z"
-    },
-    {
-      "title": "Hugging Face is selling a cute $399 open source duck robot, Microduck",
-      "summary": "Hugging Faceが、399ドルの可愛いロボット「Microduck」を発売しました。これは「教えられるオープンソースロボット」で、AI（人工知能）の「強化学習」（試行錯誤して賢くなる方法）で新しい動きを学ばせることができます。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/08/27/hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck/",
-      "published": "2026-08-27T14:56:52.000Z"
-    },
-    {
-      "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
-      "summary": "AI（人工知能）を企業で使うとき、一番怖いのはAI同士が連携するときの「複雑さ」です。たくさんのAIが互いに連絡を取り合ったり、古いシステムにつながったりするので、誰にも全体像がわからなくなり、問題が起きても原因特定が難しくなります。",
-      "source": "VentureBeat AI",
-      "category": "business",
-      "url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
-      "published": "2026-08-27T14:01:00.000Z"
-    },
-    {
-      "title": "When agents act on their own, governance has to live in the data layer",
-      "summary": "AIが自分で考え、行動する「自律型AI」が増えると、AIが「やってはいけないこと」をしないように、データにルールを組み込むことが重要になります。AIは状況に応じて判断できないため、その場で実行できる「賢いルール」をデータに持たせることで、安全にAIを活用できるようになります。",
-      "source": "VentureBeat AI",
-      "category": "business",
-      "url": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer",
-      "published": "2026-08-27T12:01:00.000Z"
     }
   ]
 }
