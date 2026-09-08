@@ -1,7 +1,87 @@
 {
-  "updatedAt": "2026-09-06T23:30:47.190Z",
+  "updatedAt": "2026-09-08T00:01:21.511Z",
   "count": 100,
   "items": [
+    {
+      "title": "Opaque recurrence, and other AI terms that you should probably know",
+      "summary": "AIの進化で新しい言葉がたくさん出てきました。この記事は、知っておくと便利なAI関連の用語を、分かりやすく解説してくれるものです。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "published": "2026-09-07T19:24:00.000Z"
+    },
+    {
+      "title": "EXAONE Forecast for Finance",
+      "summary": "株や仮想通貨などの将来の値段を予測する新しいAI「EXAONE Finance」が開発されました。これは、たくさんのデータで学習させたAIで、特に金融分野の予測に強く、これまで難しかった情報が欠けているデータでもうまく対応できるのが特徴です。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2609.04239",
+      "published": "2026-09-07T04:00:00.000Z"
+    },
+    {
+      "title": "From Matching Models to Recruiting Agents: A Systematized Narrative Review of AI Recruitment Systems, Evaluation, and Governance",
+      "summary": "AIが採用活動で、候補者の一覧表示から、面接でのやり取りや選考の支援・実行まで、より複雑な段階を自動化するよう進化していることがわかった。この進歩は、候補者と仕事の相性をより深く見極め、AIがより賢く判断できるようになる点で重要だ。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2609.04286",
+      "published": "2026-09-07T04:00:00.000Z"
+    },
+    {
+      "title": "Harbor Adapters and Harbor-Index: Infrastructure and a Curated Meta-Dataset for Large-Scale Agentic Evaluation",
+      "summary": "AIが様々な課題をこなす能力を測るのが難しくなってきました。そこで、80以上の課題をまとめてAIの性能を簡単かつ正確に比べられる仕組み「Harbor Adapters」と、特に難しい課題を集めた「Harbor-Index」が開発されました。これにより、AIの得意・不得意がより分かりやすくなり、これからのAI開発に役立ちます。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2609.04298",
+      "published": "2026-09-07T04:00:00.000Z"
+    },
+    {
+      "title": "Data-Optimized Contingency Screening: A Machine Learning Approach to Power System Security",
+      "summary": "電気を安定して供給するために、AIが停電などのトラブルを早い段階で見分ける方法を研究しました。AIがトラブルの深刻さを「安全」「注意」「危険」の３つに分類することで、大規模な停電を防ぐための迅速な判断が可能になります。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2609.04300",
+      "published": "2026-09-07T04:00:00.000Z"
+    },
+    {
+      "title": "Iris: Climbing to the Search Frontier",
+      "summary": "文章を作るAI（LLM）が、ウェブ検索をより上手に行うための新しい方法「Iris」が開発されました。これは、AIが情報を探し出す「探索」という分野で、これまでにない高い性能を示し、今後のAIの発展に貢献すると期待されています。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2609.04304",
+      "published": "2026-09-07T04:00:00.000Z"
+    },
+    {
+      "title": "Spectral-Target Physical Latent Structuring for JEPA-Style World Models",
+      "summary": "AIが未来の出来事を予測する「世界モデル」で、物体の動きなどの物理的な性質をうまく学習できず、計画がうまくいかない問題が見つかりました。これを解決するため、AIの学習中に物理の知識を少し教え込む方法を開発。これにより、特に動きの激しい場面でAIの予測精度が大幅に向上しました。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2609.04264",
+      "published": "2026-09-07T04:00:00.000Z"
+    },
+    {
+      "title": "ProToMEx: Rapid, Interpretable Explanations via Structured Representations",
+      "summary": "AIの判断理由を分かりやすく説明する新しい方法「ProToMEx」が登場しました。これは、AIがなぜそう判断したのかを、単純な「この情報が重要」というだけでなく、複数の理由を組み合わせた「トピック」（話題のようなもの）で理解できるようにするものです。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2609.04265",
+      "published": "2026-09-07T04:00:00.000Z"
+    },
+    {
+      "title": "A Data Fusion Framework for Grounding Aerospace Surrogate Model via Experimental Wind-Tunnel Observations",
+      "summary": "飛行機の設計に使うAI（計算流体力学データで学習）が、実際の風洞実験の結果とズレる問題を解決しました。実験データでAIを少し修正することで、より正確な予測ができるようになり、設計の効率化につながります。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2609.04267",
+      "published": "2026-09-07T04:00:00.000Z"
+    },
+    {
+      "title": "Supporting independent journalism in Ukraine",
+      "summary": "ウクライナの独立した報道を守るため、OpenAIは現地の報道機関と協力して、AI（人工知能）を使った新しい取り組みを始めました。これにより、報道機関は新しい技術を取り入れ、困難な状況でも力強く、信頼できるニュースを伝え続けられるようになります。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
+      "published": "2026-09-07T00:00:00.000Z"
+    },
     {
       "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
       "summary": "作家たちが、出版社や代理人がAI企業Anthropicとの和解金で、不当に多くの分け前を主張していると反発しています。",
@@ -721,86 +801,6 @@
       "category": "business",
       "url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
       "published": "2026-08-28T19:30:38.000Z"
-    },
-    {
-      "title": "Open-weight AI companies are the Valley’s hottest acquisition targets",
-      "summary": "これまで無料公開されてきたAI（文章を作るAIなど）の開発企業に、多くの会社がお金を出して買収しようとしています。これは、無料で公開されているAIに将来性があると考えられているからです。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
-      "published": "2026-08-28T18:19:40.000Z"
-    },
-    {
-      "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
-      "summary": "AI開発会社Anthropicは、トランプ政権が同社を「サプライチェーンのリスク」と不正に指定したとして訴え、連邦裁判所で勝訴しました。これは、国防総省との別の訴訟を進める上での重要な一歩です。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
-      "published": "2026-08-28T12:46:12.000Z"
-    },
-    {
-      "title": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
-      "summary": "Facebook（Meta）の幹部がOpenAIに移籍。彼女は東南アジアとオーストラリアでOpenAIの事業を統括します。これは、Facebookがインドで厳しく監視されている中での動きであり、AI分野での人材獲得競争が激化していることを示しています。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/",
-      "published": "2026-08-28T12:21:06.000Z"
-    },
-    {
-      "title": "Our decision on Cursor following its acquisition by SpaceX",
-      "summary": "SpaceXに買収されたAI関連企業「Cursor」への、OpenAIによるモデル提供終了が決定しました。これは、AI技術が宇宙開発という新たな分野で活用されることへの、OpenAIの判断を示すものです。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
-      "published": "2026-08-28T06:00:00.000Z"
-    },
-    {
-      "title": "EduRiskX: A Neuro-Symbolic Framework with F-Logic Reasoning for Early Academic Risk Prediction",
-      "summary": "オンライン授業で、成績が落ちそうな生徒を早く見つける新しいAI（EduRiskX）が開発されました。これは、生徒の学習履歴と教育学の知識を組み合わせて、なぜその生徒が心配なのかを分かりやすく説明できるのが特徴です。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2608.26107",
-      "published": "2026-08-28T04:00:00.000Z"
-    },
-    {
-      "title": "Standalone LLM and a Pre-specified Agentic Pipeline for Explaining ICU Mortality Predictions: a Feasibility Study on the eICU Demo Dataset",
-      "summary": "AIが集中治療室（ICU）で患者さんが亡くなる可能性を予測する研究で、AIが予測理由を説明する新しい方法を試しました。AIが予測するだけでなく、より安全で分かりやすく理由を説明できるようになるかが注目点です。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2608.26109",
-      "published": "2026-08-28T04:00:00.000Z"
-    },
-    {
-      "title": "Large Models for Battery Prognostics and Health Management: A Review and Future Roadmap",
-      "summary": "AI（人工知能）が、電気自動車やスマホなど、電池の寿命を予測して安全に長く使えるようにする技術（BPHM）を大きく進化させます。これまでの方法では難しかった、たくさんのデータがなくても、色々な電池に共通して使える、わかりやすいAIを作る道が開けます。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2608.26111",
-      "published": "2026-08-28T04:00:00.000Z"
-    },
-    {
-      "title": "PICasso: An AI-Enabled Design Framework for Autonomous Optimization of Silicon Photonic Devices",
-      "summary": "AIが「光チップ」という、光を使って情報をやり取りする小さな回路の設計を自動で手伝ってくれる「PICasso」が開発されました。これにより、複雑な設計も速く、より性能の良いものが作れるようになり、光技術の進化が期待されます。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2608.26113",
-      "published": "2026-08-28T04:00:00.000Z"
-    },
-    {
-      "title": "CIFQA: A Deterministic Tool-Grounded Multi-Agent LLM Framework for Financial Query Answering",
-      "summary": "お金に関する複雑な質問に答えるために、AIが正確に計算できるようになる新しい仕組み「CIFQA」が開発されました。これは、AIが文章を理解する部分と、計算を正確に行う部分を分けることで、間違いを減らし、高い精度で答えを出せるようにしたものです。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2608.26114",
-      "published": "2026-08-28T04:00:00.000Z"
-    },
-    {
-      "title": "SLM-Conditioned Hierarchical Relation Routing for Labeled Property Graph Learning",
-      "summary": "AIが「つながり」のある情報（グラフ）から、より賢く学ぶ新しい方法が提案されました。AIが文脈を理解し、どの情報が大切かを選び取ることで、より正確な分析が可能になります。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2608.26132",
-      "published": "2026-08-28T04:00:00.000Z"
     }
   ]
 }
