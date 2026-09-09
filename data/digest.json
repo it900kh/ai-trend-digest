@@ -1,7 +1,95 @@
 {
-  "updatedAt": "2026-09-08T00:01:21.511Z",
+  "updatedAt": "2026-09-08T23:52:43.444Z",
   "count": 100,
   "items": [
+    {
+      "title": "Hackers are stealing Claude tokens from subscribers",
+      "summary": "AIサービス「Claude」の利用者を狙ったハッカーによる不正利用が報告されています。利用していないのに「トークン」（AIが処理する情報量のこと）が減るという被害が出ており、開発元のAnthropic社が注意を呼びかけています。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
+      "published": "2026-09-08T21:10:27.000Z"
+    },
+    {
+      "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
+      "summary": "AIがコードを書く分野で、新しい会社「Cognition」がすごい評価額（480億ドル）を得ました。これは、この分野ではまだ勝者が一人に決まるわけではないと、投資家が考えている証拠です。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
+      "published": "2026-09-08T21:04:06.000Z"
+    },
+    {
+      "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
+      "summary": "Metaが新しいAIアシスタント「Muse」を発表しました。これは、メールやカレンダー、健康情報などにアクセスして、あなたの生活をサポートするものです。しかし、個人情報をどこまでAIに渡せるか、人々の信頼が試されることになりそうです。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
+      "published": "2026-09-08T19:00:00.000Z"
+    },
+    {
+      "title": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
+      "summary": "AI開発企業OpenAIが、数学の難問（ナビエ・ストークス方程式の解）を解くために、不正な手段を使ったとニューヨーク大学の数学者が指摘。この問題の解決には1億円の賞金がかかっており、AIの能力を試す上で重要な意味を持つ。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/",
+      "published": "2026-09-08T17:32:15.000Z"
+    },
+    {
+      "title": "How GPT-5.6 Sol helps run quantum computing experiments",
+      "summary": "量子コンピューター（すごい計算ができるコンピューター）の実験を、AI（指示を理解して動くコンピューター）が自動で進めてくれるようになった。研究者はAIに指示を出すだけで、実験の実行から結果の分析、調整まで任せられる。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/codex-quantum-computing-experiments",
+      "published": "2026-09-08T17:00:00.000Z"
+    },
+    {
+      "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
+      "summary": "Google Cloudは、AI（人工知能）の利用を企業に広げるため、アクセンチュアと提携しました。専門家を企業に直接派遣することで、AIの導入をスムーズにし、課題を解決することを目指します。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
+      "published": "2026-09-08T16:20:31.000Z"
+    },
+    {
+      "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+      "summary": "AIが特定の話題について、すべてを拒否するのではなく、危険な部分だけを避ける賢い方法が研究されています。これにより、AIがより安全に、かつ役立つ情報を提供できるようになることが期待されます。",
+      "source": "Hugging Face",
+      "category": "product",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+      "published": "2026-09-08T14:23:07.000Z"
+    },
+    {
+      "title": "The Work Now Within Reach",
+      "summary": "さらに賢く安くなったAI（人工知能）で、個人や会社ができる仕事の範囲が広がり、経済的な成長も期待できるようになります。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/the-work-now-within-reach",
+      "published": "2026-09-08T13:00:00.000Z"
+    },
+    {
+      "title": "Introducing ChatGPT Images 2.5",
+      "summary": "AIがあなたのアイデアや下書き、参考写真から、もっとあなたのイメージに合った、洗練された画像を作成できるようになりました。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
+      "published": "2026-09-08T11:30:00.000Z"
+    },
+    {
+      "title": "On the Navier–Stokes Millennium Prize Problem",
+      "summary": "AIが、科学の大きな謎「ナビエ・ストークス方程式の解」を解いたと発表されました。これは、水の流れなどを説明する難しい方程式で、解ければ新しい発見につながるかもしれません。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/navier-stokes-solution",
+      "published": "2026-09-08T10:00:00.000Z"
+    },
+    {
+      "title": "Funding grants for new research into AI and teen development",
+      "summary": "OpenAIが、AI（人工知能）が若者の成長や安心・安全にどう影響するかを調べる研究に、500万ドル（約7億円）の支援を始めました。この新しい取り組みは、AIと若者の関わりを深く理解するために重要です。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/teen-development-research-grants",
+      "published": "2026-09-08T09:00:00.000Z"
+    },
     {
       "title": "Opaque recurrence, and other AI terms that you should probably know",
       "summary": "AIの進化で新しい言葉がたくさん出てきました。この記事は、知っておくと便利なAI関連の用語を、分かりやすく解説してくれるものです。",
@@ -72,6 +160,22 @@
       "source": "arXiv (cs.LG)",
       "category": "research",
       "url": "https://arxiv.org/abs/2609.04267",
+      "published": "2026-09-07T04:00:00.000Z"
+    },
+    {
+      "title": "Quantum-Assisted Memory-Efficient Training for Parameter-Intensive Wi-Fi-Based Human Activity Recognition",
+      "summary": "Wi-Fiの電波で人の動きを読み取る技術は、私たちの生活を便利にするのに役立ちます。しかし、これまでのAI（人工知能）は、学習や判断にたくさんのコンピューターの力と記憶容量を必要としていました。そこで、量子コンピューターの力を借りて、AIが学習する際に必要な記憶容量を劇的に減らす新しい方法が開発されました。これにより、スマホのような小さな機械でも、高精度に人の動きを読み取れるようになるかもしれません。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2609.04271",
+      "published": "2026-09-07T04:00:00.000Z"
+    },
+    {
+      "title": "Evaluating Large Language Models for Forced Outage Risk Prediction: Benefits and Comparison to Machine Learning",
+      "summary": "AI（文章を作るAI）が、悪天候で電気が止まる（強制停止）リスクを予測できるか調べました。新しいAIの仲間（LLM）は、訓練データなしでも、気象予報を元にリスクを判断するのに役立ちました。AI（LLM）は、人間のように理由を説明したり、色々な地域に適用しやすいという利点もあります。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2609.04272",
       "published": "2026-09-07T04:00:00.000Z"
     },
     {
@@ -697,110 +801,6 @@
       "category": "business",
       "url": "https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/",
       "published": "2026-08-31T16:00:00.000Z"
-    },
-    {
-      "title": "Polimill builds Japan's next-generation public AI infrastructure",
-      "summary": "日本の自治体がAI（人工知能）を使って、行政の書類や情報を探しやすく、使いやすくする仕組みが作られました。これは、AI（文章を作るAI）やプログラミングを助けるAIを活用し、開発を早めるものです。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/polimill",
-      "published": "2026-08-31T07:00:00.000Z"
-    },
-    {
-      "title": "OpenAI supports California’s bill to advance youth AI safety",
-      "summary": "OpenAIは、カリフォルニア州で提案された、10代の若者向けのAI（人工知能）の安全対策を強化する法案を支持しました。これは、若者がAIを安全に学び、創造する機会を守るためのものです。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
-      "published": "2026-08-31T07:00:00.000Z"
-    },
-    {
-      "title": "Marginal Coverage Credit Reduces Redundant Exploration in Parallel State-Entropy Optimization",
-      "summary": "AIが、たくさんのロボット（政策）が同時に色々な場所を探検する時、お互いが既に探した場所ばかり探してしまうのを防ぐ新しい方法を考えました。これにより、ロボットたちはより効率的に、まだ誰も探していない場所を見つけることができるようになります。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2608.27507",
-      "published": "2026-08-31T04:00:00.000Z"
-    },
-    {
-      "title": "Quantization-Triggered Backdoors in Language Models: Cross-Quantizer Transferability and the Validation--Deployment Gap",
-      "summary": "AI（人工知能）が文章を作る際に、小さくするために「量子化」という処理をすると、隠された悪意ある指示が発動する恐れがあることがわかりました。\n\nこの隠し機能は、AIの性能をチェックした時には見つからず、実際の使用時（量子化後）に初めて現れるため、安全だと信じて使っていたAIが意図しない動きをする危険性があります。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2608.27512",
-      "published": "2026-08-31T04:00:00.000Z"
-    },
-    {
-      "title": "DAMP: Decay-Aware Mixed-Precision Recurrent-State Quantization",
-      "summary": "AIが長い文章を理解・生成する際、過去の情報（KVキャッシュ）をたくさん保存すると、もっとたくさんのメモリが必要になります。この新しい技術（DAMP）は、その保存方法を工夫して、メモリ使用量を減らし、AIの処理速度を速くします。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2608.27513",
-      "published": "2026-08-31T04:00:00.000Z"
-    },
-    {
-      "title": "A Deeper Analysis of Block-Sparse Featurizers",
-      "summary": "AIが画像の特徴を捉える新しい方法（ブロック疎特徴量器）が提案されました。これは、AIが色々な特徴を学習する際に、それぞれがバラバラになりすぎる（特徴の分裂）のを防ぎ、より賢く特徴を組み合わせられるようにした点が新しいです。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2608.27515",
-      "published": "2026-08-31T04:00:00.000Z"
-    },
-    {
-      "title": "When Muon Meets Task Interference: A Spectral Perspective on Continual Learning and Model Merging",
-      "summary": "AIが複数の仕事を学習する際、前の仕事の内容を忘れてしまう「忘却」や、仕事ごとにAIの能力をうまく分けるのが難しい「干渉」という問題がありました。\nこの研究では、この二つの問題が実は同じ「タスク干渉」という現象であることを発見。新しいMuonというAIの「学習方法（オプティマイザー）」が、この干渉を抑えることで、AIの性能を向上させることを発見しました。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2608.27518",
-      "published": "2026-08-31T04:00:00.000Z"
-    },
-    {
-      "title": "A milestone in expanding access to AI",
-      "summary": "ChatGPTの広告収入が年10億ドル（約1500億円）を突破し、世界中で利用が拡大。これにより、AI（人工知能）をより多くの人が、無料または手頃な価格で使えるようになることが期待されます。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
-      "published": "2026-08-31T04:00:00.000Z"
-    },
-    {
-      "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
-      "summary": "ソニー・ミュージックとワーナー・ミュージックが、AI開発会社Anthropicを訴えました。Anthropicが、著作権で守られている音楽を無断で利用し、AI（人工知能）に学習させた（AIの知識として取り込ませた）ことが、音楽業界の知的財産（創作物）を盗む行為にあたると主張しています。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
-      "published": "2026-08-29T18:41:59.000Z"
-    },
-    {
-      "title": "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
-      "summary": "AIで医療を変えるには、みんなでデータを共有することが大切だと、元大企業の責任者だった人が語っています。\nこれまでの医療は「発見」が中心でしたが、これからはAIを使って「ものづくり」のように病気を治せる時代になると期待されています。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
-      "published": "2026-08-29T17:36:47.000Z"
-    },
-    {
-      "title": "Nvidia’s AI advantage is moving beyond the GPU",
-      "summary": "NVIDIAのAI（人工知能）技術が、高性能なGPU（画像処理装置）だけでなく、データセンター全体の効率を高める方向へと進化しています。新しいシステムでは、処理能力を増やすだけでなく、AIの「交通整理」を賢く行うことで、よりスムーズに、無駄なくAIが動くようになっています。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
-      "published": "2026-08-29T13:00:00.000Z"
-    },
-    {
-      "title": "Neocloud Lambda secures $1B in debt to buy more chips",
-      "summary": "AIがどんどん賢くなるには、高性能なコンピューターの部品（チップ）が大量に必要です。その部品を買うため、ある会社がお金を借りました。これは、AIがすごい時代だからこそ、部品代もとても高くなっていることを示しています。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
-      "published": "2026-08-28T20:24:11.000Z"
-    },
-    {
-      "title": "An Anthropic researcher just gave us a peek at self-improving AI",
-      "summary": "AIが自分で賢くなる研究が進んでいます。AIに「こういう間違いはしないでね」とお手本（ベンチマーク）を10個見せたところ、AIはすべてのお手本通りに、他の能力を落とさずに、間違いを減らすことに成功したのです。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
-      "published": "2026-08-28T19:30:38.000Z"
     }
   ]
 }
