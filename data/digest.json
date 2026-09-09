@@ -1,7 +1,95 @@
 {
-  "updatedAt": "2026-09-08T23:52:43.444Z",
+  "updatedAt": "2026-09-09T23:51:27.107Z",
   "count": 100,
   "items": [
+    {
+      "title": "OpenAI adds a prominent AI doomer to its board of directors",
+      "summary": "AIの安全性を高める研究者であるポール・クリスティアーノ氏が、AIを作る会社OpenAIの理事に加わりました。これは、AIが危険にならないように、開発の段階から安全性をしっかり考えようという姿勢の表れです。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
+      "published": "2026-09-09T22:25:22.000Z"
+    },
+    {
+      "title": "Massachusetts hits data centers with new clean power rules",
+      "summary": "マサチューセッツ州で、コンピューターが大量のデータを処理する場所（データセンター）を作る際に、きれいな電力（再生可能エネルギーなど）を使うことを義務付ける新しいルールができました。これは、データセンターの電力消費を減らし、環境への影響を抑えるための取り組みです。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/",
+      "published": "2026-09-09T21:43:34.000Z"
+    },
+    {
+      "title": "Apple Watch’s new AI features are normalizing the idea that technology is always listening",
+      "summary": "新しいApple WatchのAI機能は、音声を聞き取って文字にしたり会話を要約したりできるため、「常に聞かれている」という感覚が普通になるかもしれません。プライバシーや、いつ聞かれているか分からない状況でどう振る舞うか、という点が議論になっています。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/",
+      "published": "2026-09-09T20:24:48.000Z"
+    },
+    {
+      "title": "Everything Apple announced at its fall iPhone event, from the foldable iPhone Duo to an always-listening Apple Watch",
+      "summary": "アップルが初の折りたたみスマホ「iPhone Duo」を発表しました。画面を広げるとタブレットのように使えるこの新製品は、スマホの可能性を広げる画期的な登場です。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch/",
+      "published": "2026-09-09T20:03:43.000Z"
+    },
+    {
+      "title": "The hinge for Apple’s new foldable phone was built with AI",
+      "summary": "アップルは、開発中の折りたたみスマホにAI（人工知能）と3Dプリンターを活用しました。AIは、スマホを折りたたむ際のヒンジ（蝶番）部分の設計に役立ち、耐久性を高めたとのことです。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/09/09/the-hinge-for-apples-new-foldable-phone-was-built-with-ai/",
+      "published": "2026-09-09T19:21:48.000Z"
+    },
+    {
+      "title": "Paul Christiano joins OpenAI Foundation Board",
+      "summary": "AIを安全に作るための専門家、ポール・クリスティアーノさんがOpenAIの理事会に加わりました。AIが人々にとって安全で役立つものになるよう、そのためのルール作りや安全対策を進める役割を担います。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
+      "published": "2026-09-09T17:00:00.000Z"
+    },
+    {
+      "title": "Get ready for the game with new football features in Search",
+      "summary": "Google検索で、サッカーの試合情報がもっと便利になります。試合のリアルタイム情報や詳しい成績が見られるほか、あなたのファンタジーフットボール（架空のチームを作って楽しむゲーム）のチーム編成に役立つアドバイスももらえます。",
+      "source": "Google AI Blog",
+      "category": "research",
+      "url": "https://blog.google/products-and-platforms/products/search/football-features-google-search/",
+      "published": "2026-09-09T16:00:00.000Z"
+    },
+    {
+      "title": "Recreating a 70-year love story frame by frame",
+      "summary": "AI（人工知能）の力で、70年前の記録が残っていない恋人たちの物語を映像で再現しました。Google DeepMindと映画制作者が協力し、AIを使って失われた過去を蘇らせる短編映画「Love, Rendered」が作られたのです。",
+      "source": "Google AI Blog",
+      "category": "research",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/",
+      "published": "2026-09-09T16:00:00.000Z"
+    },
+    {
+      "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
+      "summary": "IBMが、過去のデータから未来の株価や気温などを予測する「時系列AI（過去のデータから未来を予測するAI）」の新しいモデル「Granite Time Series PatchTST-FM-r2」を発表しました。このAIは、ビジネスで使いやすいように、ライセンス（利用許可）も整備されています。",
+      "source": "Hugging Face",
+      "category": "product",
+      "url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
+      "published": "2026-09-09T15:36:24.000Z"
+    },
+    {
+      "title": "The AI policy window is open. We need to act.",
+      "summary": "AIの能力が強くなるほど、安全性をしっかり確認し、みんなで守るルールを作り、それをずっと続けるための話し合い（政策決定）を、今こそ急いで行うべきだと専門家は訴えています。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/ai-policy-window",
+      "published": "2026-09-09T13:00:00.000Z"
+    },
+    {
+      "title": "GPT-6 Astra: The next generation in intelligence for work",
+      "summary": "OpenAIが新しいAI「GPT-6 Astra」を発表しました。これは、仕事で役立つように作られており、物事を深く考えたり、パソコンを使いこなしたり、文章やデザインの良し悪しを判断する能力がさらに進んでいます。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/gpt-6-astra-next-generation-work",
+      "published": "2026-09-09T11:00:00.000Z"
+    },
     {
       "title": "Hackers are stealing Claude tokens from subscribers",
       "summary": "AIサービス「Claude」の利用者を狙ったハッカーによる不正利用が報告されています。利用していないのに「トークン」（AIが処理する情報量のこと）が減るという被害が出ており、開発元のAnthropic社が注意を呼びかけています。",
@@ -713,94 +801,6 @@
       "category": "research",
       "url": "https://arxiv.org/abs/2608.28771",
       "published": "2026-09-01T04:00:00.000Z"
-    },
-    {
-      "title": "Unsupervised Latent Space Alignment with Hyperspherical Geodesic Matching",
-      "summary": "AIが作った「空間」を、他のAIが作った「空間」に合わせる新しい方法です。通常は、両方のAIに共通する「見本」（アンカー）が必要ですが、この新しい方法は、AIがデータを覚えている「形」（幾何学的特徴）だけで合わせられます。これにより、少しのデータか、全くデータを使わなくても、AIの能力を組み合わせることが可能になり、とても便利になります。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2608.28840",
-      "published": "2026-09-01T04:00:00.000Z"
-    },
-    {
-      "title": "Curvature Cryptanalysis of Smooth Transformer Feed-Forward Networks",
-      "summary": "AI（人工知能）の「Transformer」という仕組みについて、特定の情報を盗み出す新しい方法が見つかりました。これは、AIの内部の秘密（パラメータ）を見ずに、AIの出力をいくつか調べるだけで、AIの「心臓部」（FFN）の秘密の構造を明らかにするものです。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2608.28843",
-      "published": "2026-09-01T04:00:00.000Z"
-    },
-    {
-      "title": "Equivariant Sheaf Neural Networks: Learning Geometric Transport on Graphs",
-      "summary": "AIがグラフ（つながった点）上の「幾何学的な情報」（場所や向きなど）をより賢く運べる新しい仕組み「ESNN」が開発されました。これにより、AIは物体の動きをより正確に予測したり、回転しても正しく認識できるようになるなど、様々な分野での応用が期待されます。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2608.28853",
-      "published": "2026-09-01T04:00:00.000Z"
-    },
-    {
-      "title": "The Halt Vector: Internalizing a Causal Steering Intervention for Efficient Reasoning",
-      "summary": "AIが答えを見つけても、考え続けるのをやめない問題がありました。そこで、AIが途中で思考を止める「一時停止ベクトル」をAIの仕組み（重み）に組み込むことで、無駄な思考を約4分の1減らせる新しい方法が見つかりました。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2608.28859",
-      "published": "2026-09-01T04:00:00.000Z"
-    },
-    {
-      "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
-      "summary": "法律事務所ギルバート＆トービンが、ChatGPT（文章を作るAI）などを安全かつ効率的に全社で使うための、経営層の強い意思、しっかりしたルール作り、そして人の責任体制を組み合わせた工夫を紹介しています。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/gilbert-tobin",
-      "published": "2026-09-01T01:00:00.000Z"
-    },
-    {
-      "title": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
-      "summary": "アップルは、元従業員が会社の情報を盗んだ疑いで調査されていると知った後、証拠を隠蔽したと主張。その証拠が明らかになったことで、この元従業員をさらに追及する。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
-      "published": "2026-09-01T00:13:00.000Z"
-    },
-    {
-      "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
-      "summary": "Hugging Faceが、インターネットに繋がずともパソコンでAIを動かせる「WebGPUカーネル」という部品を200種類以上公開しました。これにより、より速く、より高性能なAIが身近になりそうです。",
-      "source": "Hugging Face",
-      "category": "product",
-      "url": "https://huggingface.co/blog/webgpu-kernels",
-      "published": "2026-09-01T00:00:00.000Z"
-    },
-    {
-      "title": "The Pentagon now has its own version of ChatGPT and Grok",
-      "summary": "アメリカ国防総省が、ChatGPT（文章を作るAI）やGrok（質問に答えるAI）のようなAIツールを導入しました。これにより、国防総省内のAI活用がさらに進み、情報収集や分析のスピードアップが期待されます。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
-      "published": "2026-08-31T20:13:45.000Z"
-    },
-    {
-      "title": "Instagram puts new limits on undisclosed AI profiles",
-      "summary": "インスタグラムは、AI（人工知能）で作られたインフルエンサー（広告塔）が、本物だと偽って活動することへの不満が高まっているため、AIプロフィール（AIが作ったアカウント）の表示範囲を制限し始めました。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/",
-      "published": "2026-08-31T19:16:59.000Z"
-    },
-    {
-      "title": "Harvard Law dropout raises $6M for Blue Voice to build a ‘Harvey for police officers’",
-      "summary": "警察官のために、弁護士のような質問に答えてくれるAI（Blue Voice）が開発されました。このAIは、ネットにはない、各警察署独自のルールや法律を学んでいるため、より正確な情報を提供できます。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/",
-      "published": "2026-08-31T18:35:11.000Z"
-    },
-    {
-      "title": "Clipto uses AI to search terabytes of video and is now valued at $250M",
-      "summary": "AIを使って大量の動画の中から探したいものを見つけ出すサービスが、2億5000万ドル（約375億円）の価値があると評価されました。このサービスは、わずか3年で黒字化し、さらなる成長のために資金調達を成功させています。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/",
-      "published": "2026-08-31T16:00:00.000Z"
     }
   ]
 }
