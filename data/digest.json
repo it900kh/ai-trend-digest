@@ -1,7 +1,55 @@
 {
-  "updatedAt": "2026-09-11T23:55:34.117Z",
+  "updatedAt": "2026-09-12T23:46:54.297Z",
   "count": 100,
   "items": [
+    {
+      "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+      "summary": "Perplexityは、文章作成やソフトウェアの変更、システム監視に「Astra」というAIを使っています。以前よりAIに頼る頻度が減り、効率が上がりました。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+      "published": "2026-09-14T00:00:00.000Z"
+    },
+    {
+      "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+      "summary": "OpenAIのCEOは、2026年までのIPO（株式公開）は「賢明ではない」と語りました。会社はすでにIPOの準備を水面下で進めていますが、すぐには実現しない見込みです。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+      "published": "2026-09-12T20:19:16.000Z"
+    },
+    {
+      "title": "Anthropic CEO outlines plan to slow AI development",
+      "summary": "AI開発のスピードを抑えるべきだと、AnthropicのCEOが語りました。これは、AIが急速に進化する中で、安全性を最優先にするための重要な考え方です。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+      "published": "2026-09-12T19:34:44.000Z"
+    },
+    {
+      "title": "A Multi-Stage Rule-Chaining Framework for Compositional and Interpretable Cognitive Reasoning",
+      "summary": "AIが、少ない例から「こうなるはずだ」とルールを学ぶ力を高める研究です。幾何学や色、物の分析、そしてブロックを組み合わせる方法などを段階的に使い、AIが物事を理解し、問題を解く過程を分かりやすくしました。これにより、AIの「考える」仕組みが、より人間に近くなり、透明性も増します。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2609.10654",
+      "published": "2026-09-12T04:00:00.000Z"
+    },
+    {
+      "title": "Understanding LoRA Rank Trade-offs in Diffusion Model Fine-Tuning",
+      "summary": "AIで画像を作る（拡散モデル）とき、賢く調整する方法（LoRA）の「ランク」という設定が、画像のきれいさと計算にかかる時間やパワーのバランスを決めることがわかりました。実験の結果、ランクを大きくしすぎても、あまり性能が上がらないことが示され、中くらいのランクが一番効率的だということが明らかになりました。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2609.10656",
+      "published": "2026-09-12T04:00:00.000Z"
+    },
+    {
+      "title": "Quantifying the Memorization-to-Generalization Transition: Scaling Laws and Phase Structure in Grokking",
+      "summary": "AIが単に覚えるだけでなく、応用できるようになる「グロッキング」という現象について、いつ起こるのかを調べました。データが複雑なほど、AIが応用できるようになるのが早まることがわかり、AIの性能を予測したり、コントロールしたりするのに役立つ発見です。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2609.10657",
+      "published": "2026-09-12T04:00:00.000Z"
+    },
     {
       "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
       "summary": "AIロボットを賢く育てるための「訓練データ」を集める会社が、巨額の資金調達に成功しました。これは、AIロボット開発の競争が激しくなっている証拠です。",
@@ -41,6 +89,14 @@
       "category": "business",
       "url": "https://techcrunch.com/2026/09/11/final-final-final-call-for-techcrunch-disrupt-2026-side-events/",
       "published": "2026-09-11T20:30:17.000Z"
+    },
+    {
+      "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
+      "summary": "AIのDevinが、新しいGPT-6 AstraというAI（文章を作るAI）を使って、自分で作ったプログラムがちゃんと動くかテストできるようになりました。これにより、エンジニアはコードをレビューする時間を減らし、より早く製品を世に出せるようになります。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/cognition-devin-testing-with-astra",
+      "published": "2026-09-11T16:00:00.000Z"
     },
     {
       "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
@@ -745,62 +801,6 @@
       "category": "product",
       "url": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
       "published": "2026-09-02T13:49:14.000Z"
-    },
-    {
-      "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
-      "summary": "ATV Big Air Tourというイベントで、ChatGPT（文章を作るAI）を使って、宣伝やグッズ販売の作業が3日間から3時間に短縮されました。グッズの写真を15分で在庫管理サイトにすることもでき、効率が大幅にアップしたのです。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/atv-big-air-tour",
-      "published": "2026-09-02T12:00:00.000Z"
-    },
-    {
-      "title": "HyperWorld: Hypergraph-Structured State Serialization Improves Learned Textual World Models",
-      "summary": "AIが「言葉の世界」の出来事を予測して計画を立てる方法について、新しい工夫「HyperWorld」が発表されました。これは、物事の状態（どうなっているか）をAIにわかりやすい形に整理することで、特にAIの能力がまだそれほど高くない場合や、予期せぬ状況でも、AIがより正確に未来を予測し、うまく行動できるようになることを示しています。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2609.00002",
-      "published": "2026-09-02T04:00:00.000Z"
-    },
-    {
-      "title": "I-CARE: Analysis of interference-related phenomena in a controllable, diverse and representative unlearning setting for text-to-image models",
-      "summary": "AIに学習させた内容の一部を消す「アンラーニング」では、消したくない関連知識まで失われる問題がありました。そこで、この研究では「I-CARE」という、その失われ方をちゃんと調べるための新しい方法を提案。これにより、AIが賢く忘れられるか、より正確に評価できるようになります。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2609.00003",
-      "published": "2026-09-02T04:00:00.000Z"
-    },
-    {
-      "title": "Discrete-Time MDP Modeling for Multi-Item Capacitated Lot Sizing with Stochastic Demand Timing",
-      "summary": "「いつ商品が売れるか分からない」という状況で、いくつもの商品を、どれだけ作って、どこに置くかを決めるための新しい方法が見つかりました。これは、AI（人工知能）が、いつ注文が来るか不確かな場合に、効率的に生産計画を立てるのに役立ちます。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2609.00004",
-      "published": "2026-09-02T04:00:00.000Z"
-    },
-    {
-      "title": "Incremental Risk Assessment of Progressive Elder Financial Scams via Instruction-Tuned Small Language Models",
-      "summary": "高齢者を狙う詐欺は、メールや電話などで段階的に進行します。そこで、AIが会話を追うごとに詐欺の危険度を更新する新しい仕組みが開発されました。これにより、スマホなどでも安全に詐欺を見抜けるようになることが期待されます。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2609.00005",
-      "published": "2026-09-02T04:00:00.000Z"
-    },
-    {
-      "title": "Long-Horizon State Tracking in LLMs: Executing MD5 through a Deep Sequence of Dependent Tool Calls",
-      "summary": "AI（文章を作るAI）が、たくさんの手順を踏む複雑な計算を正確にこなせるかを調べる実験が行われました。AIは、前の手順の結果を覚えて、次の手順に活かす能力が試され、計算ミスを減らす工夫もされました。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2609.00012",
-      "published": "2026-09-02T04:00:00.000Z"
-    },
-    {
-      "title": "Task-Specific Prompt with Global Context for Multi-Task Graph Pre-Training",
-      "summary": "AIがグラフ（つながり）の情報を学習する時、新しい課題に早く対応させるには、あらかじめAIに「ヒント（プロンプト）」をうまく与えるのが大事。でも、今までの方法はヒントが課題と合わず、うまく学習できなかった。そこで、課題とグラフの構造の両方を考慮した新しいヒントの与え方「TPGC」を開発。これにより、少ないデータでAIの学習精度が上がり、計算時間も短縮できる。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2609.00047",
-      "published": "2026-09-02T04:00:00.000Z"
     }
   ]
 }
