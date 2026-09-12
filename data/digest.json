@@ -1,7 +1,175 @@
 {
-  "updatedAt": "2026-09-09T23:51:27.107Z",
+  "updatedAt": "2026-09-11T23:55:34.117Z",
   "count": 100,
   "items": [
+    {
+      "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
+      "summary": "AIロボットを賢く育てるための「訓練データ」を集める会社が、巨額の資金調達に成功しました。これは、AIロボット開発の競争が激しくなっている証拠です。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+      "published": "2026-09-11T22:58:17.000Z"
+    },
+    {
+      "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
+      "summary": "アメリカのAI開発会社Y Combinatorのトップが、アメリカのAI研究室に、中国製AIに対抗できる強力な「オープンウェイトAI」（誰でも自由に使えるAIモデル）を増やすよう呼びかけています。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+      "published": "2026-09-11T20:59:47.000Z"
+    },
+    {
+      "title": "OpenAI’s feud with mathematicians is only escalating",
+      "summary": "AI開発企業が、数学者たちの研究成果を無断で利用し、その貢献を正当に評価していないと、多くの数学者が抗議しています。これは、AIの進化と学術研究のあり方について、新たな課題を投げかけています。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
+      "published": "2026-09-11T20:57:36.000Z"
+    },
+    {
+      "title": "One week left to book your exhibit table at TechCrunch Disrupt 2026",
+      "summary": "TechCrunch Disrupt 2026の展示テーブルの申し込み締切が1週間後に迫っています。展示できる場所は限られており、9月18日までに定員に達する可能性があります。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/",
+      "published": "2026-09-11T20:33:18.000Z"
+    },
+    {
+      "title": "Final, final, final call for TechCrunch Disrupt 2026 Side Events",
+      "summary": "「TechCrunch Disrupt 2026」という大きなイベントで、公式にサイドイベントを開くための最後の申し込み締め切りが、本日（9月11日）の深夜11時59分（太平洋時間）までとなりました。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/09/11/final-final-final-call-for-techcrunch-disrupt-2026-side-events/",
+      "published": "2026-09-11T20:30:17.000Z"
+    },
+    {
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+      "summary": "ChatGPTが10億人もの人に使われるようになり、OpenAIはインターネット上のデータを保存する仕組み（ストレージプラットフォーム）を、世界中で使えるように大きく拡張しました。これにより、毎秒2200万件もの質問に素早く答えられるようになったのです。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+      "published": "2026-09-11T10:00:00.000Z"
+    },
+    {
+      "title": "OpenDiscoveryTrace: Process Traces for Evaluating AI Scientist Workflows",
+      "summary": "AIが科学研究をする様子を記録した新しいデータセット「OpenDiscoveryTrace」が公開されました。これにより、AIがどのように考え、間違いから学ぶかを詳しく調べられるようになり、AIの信頼性向上に役立ちます。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2609.09203",
+      "published": "2026-09-11T04:00:00.000Z"
+    },
+    {
+      "title": "Adaptive Entangled Game Modules in Artificial General Intelligence",
+      "summary": "AIが人のように賢くなるには、バラバラに動くのではなく、互いに関係し合いながら学ぶ仕組みが必要だ。この新しい仕組みは、株式市場の取引データから、人の行動の8割以上を説明できることがわかった。これは、従来のAIよりも人の考え方に近い、より効率的なAI開発につながるかもしれない。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2609.09226",
+      "published": "2026-09-11T04:00:00.000Z"
+    },
+    {
+      "title": "Subagents vs Agent Skills: Executing Reusable Knowledge for Long-Horizon Agentic Tasks",
+      "summary": "AIが難しい問題を解くには、あらかじめ用意された「スキル」を使う方法があります。しかし、問題が長くなると、AIが情報に迷いやすくなります。そこで、AIが「サブエージェント」という小さなAIに仕事を任せる新しい方法を試したところ、よりうまく問題を解けることがわかりました。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2609.09233",
+      "published": "2026-09-11T04:00:00.000Z"
+    },
+    {
+      "title": "Gradland: On Phenomenal Experience, Differentiated Across Many Dimensions",
+      "summary": "AIが「感じる」とはどういうことか？物理的な変化の「傾き」（どう変わるか）が、AIの体験の質を決めるという考え方を、AIの世界で検証しました。これにより、体験の長さや鮮明さの違いなどを説明できる可能性が出てきました。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2609.09306",
+      "published": "2026-09-11T04:00:00.000Z"
+    },
+    {
+      "title": "An Autonomous GeoAI Agent for Arctic Eco-Navigation",
+      "summary": "北極海での船の航海が、AIの助けでより安全で環境に優しくなります。新しいAIシステムは、航海時間だけでなく、海の生き物や地域社会への影響も考慮して、最適なルートを提案してくれるため、北極海での航海がもっと安心できるようになります。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2609.09374",
+      "published": "2026-09-11T04:00:00.000Z"
+    },
+    {
+      "title": "M3-Former: Multimodal Transformer with Mixture-of-Experts for Long-Term Vessel Trajectory Prediction",
+      "summary": "船の進む道のりを長く正確に予測する新しいAI「M3-Former」が開発されました。このAIは、AI（大規模言語モデル）を使って船の目的や特徴を理解し、進路の計画と細かい動きの両方を捉えることで、より確かな予測を可能にします。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2609.10559",
+      "published": "2026-09-11T04:00:00.000Z"
+    },
+    {
+      "title": "Halo: Improving forecast accuracy through heteroscedastic estimation",
+      "summary": "AIが将来の予測精度を上げる新しい方法「Halo」が開発されました。これは、AIが予測の確からしさ（ばらつき）も同時に学習することで、より正確な予測ができるというものです。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2609.10589",
+      "published": "2026-09-11T04:00:00.000Z"
+    },
+    {
+      "title": "Zero-shot rib design: merging training-free generative prior with topology optimization",
+      "summary": "AIが、指示された言葉（「葉脈のような」など）を元に、軽くて丈夫な部品を設計できるようになりました。これは、AIが持つ「知識」と、物理法則を計算する「最適化」を組み合わせた新しい方法で、設計の効率を大きく高められる可能性があります。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2609.10643",
+      "published": "2026-09-11T04:00:00.000Z"
+    },
+    {
+      "title": "Byzantine-Robust Federated Fire Detection with a Rotating Coordinator",
+      "summary": "火事を見つけるAIを、みんなで協力して賢くする新しい方法が開発されました。\n写真のプライバシーを守りつつ、AIの弱点（変なデータや、一か所だけに頼る危なさ）をなくし、より安全で確実な火事検知システムが実現します。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2609.10647",
+      "published": "2026-09-11T04:00:00.000Z"
+    },
+    {
+      "title": "Artificial Intelligence Algorithms for the Detection of Pathologies Related to Lung Cancer through Image Analysis using Convolutional Neural Networks and Data Augmentation: a systematic mapping of the literature",
+      "summary": "AI（人工知能）は、レントゲン写真などの画像から肺がんの兆候を見つけるのに役立ちます。特に、画像認識が得意なAI（畳み込みニューラルネットワーク）と、少ないデータでも学習を効率化する技術（データ拡張）を組み合わせることで、医師の診断を助け、病気の早期発見につながることが期待されています。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2609.10652",
+      "published": "2026-09-11T04:00:00.000Z"
+    },
+    {
+      "title": "3 ways to prep for your next big race with Search",
+      "summary": "レースの準備をGoogle検索で楽に！参加登録のリマインダーや、自分に合った練習メニューの提案など、AIがあなたの目標達成をサポートします。",
+      "source": "Google AI Blog",
+      "category": "research",
+      "url": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/",
+      "published": "2026-09-10T16:00:00.000Z"
+    },
+    {
+      "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+      "summary": "この研究では、AI（コデックスとChatGPT）を使って、病気に効く新しい薬の種（抗菌分子）を探しています。昔の生物や今の生物の遺伝子（ゲノム）を調べることで、薬が効きにくい感染症と戦うための候補を見つけ出そうとしています。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
+      "published": "2026-09-10T16:00:00.000Z"
+    },
+    {
+      "title": "Now everyone can put data to work",
+      "summary": "ChatGPTに「データ担当者」が登場！ 会社のデータをAIに読み込ませて、質問するだけで、隠された情報を見つけ出したり、グラフを作ったりできるようになったよ。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/put-data-to-work",
+      "published": "2026-09-10T15:00:00.000Z"
+    },
+    {
+      "title": "Introducing ChatGPT for Financial Services",
+      "summary": "金融業界でChatGPTが使えるようになり、株価や企業情報など、専門的なデータと組み合わせて、調査や分析、お客さん向けの資料作りがしやすくなります。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/introducing-chatgpt-financial-services",
+      "published": "2026-09-10T07:00:00.000Z"
+    },
+    {
+      "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
+      "summary": "政府機関や地方自治体などが、AI（人工知能）を使いやすくなる取り組みが始まりました。AIの利用料が安くなったり、サイバー攻撃（コンピューターへの不正な攻撃）から守るサポートが強化されたりします。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/expanding-ai-access-us-government",
+      "published": "2026-09-10T07:00:00.000Z"
+    },
     {
       "title": "OpenAI adds a prominent AI doomer to its board of directors",
       "summary": "AIの安全性を高める研究者であるポール・クリスティアーノ氏が、AIを作る会社OpenAIの理事に加わりました。これは、AIが危険にならないように、開発の段階から安全性をしっかり考えようという姿勢の表れです。",
@@ -633,174 +801,6 @@
       "category": "research",
       "url": "https://arxiv.org/abs/2609.00047",
       "published": "2026-09-02T04:00:00.000Z"
-    },
-    {
-      "title": "REAL-Q: E2E LLM Quantization via Dynamic Gradient Descent",
-      "summary": "AI（文章を作るAI）をスマホなどでも使いやすくするため、AIの「賢さ」を保ちつつ、必要なデータ量を減らす新しい方法「REAL-Q」が開発されました。この方法は、AIの学習過程で生じるズレを、より細かく、リアルタイムで調整することで、AIの性能低下を大幅に抑えます。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2609.00049",
-      "published": "2026-09-02T04:00:00.000Z"
-    },
-    {
-      "title": "Convergence issues in Relational Concept Analysis based on AOC-posets",
-      "summary": "AIで物事を整理する研究で、一部の「関係性」に注目した分析（RCA）を、さらに簡単な形（AOC-poset）でやろうとすると、うまくまとまらないことがあると分かりました。この論文では、その原因を突き止め、うまくまとまるようにする方法を提案しています。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2609.00054",
-      "published": "2026-09-02T04:00:00.000Z"
-    },
-    {
-      "title": "DISTAL: Distillation and Self-Supervised Pretraining for Structure-Agnostic Materials Property Prediction",
-      "summary": "新しいAI「DISTAL」は、材料の性質を予測するのに役立ちます。材料の形がわからない時でも、過去のデータから形に頼らずに性質を予測できるようになりました。これにより、新しい材料探しがもっと効率的になります。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2609.00059",
-      "published": "2026-09-02T04:00:00.000Z"
-    },
-    {
-      "title": "ReNFT: Repairing Mode Collapse in Reward Post-Training via Internal Probability-Mass Recalibration",
-      "summary": "AIが作る画像が、指示に合っていても似たようなものばかりになってしまう問題を解決する新しい方法「ReNFT」が開発されました。これは、AIが学習した能力を元に戻すことで、多様で質の高い画像を生成できるようにする画期的な技術です。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2609.00061",
-      "published": "2026-09-02T04:00:00.000Z"
-    },
-    {
-      "title": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
-      "summary": "AIを賢くするための学習データを作る会社、AfterQueryが、たった5ヶ月で会社の価値を約3.2兆円（32億ドル）まで急上昇させました。これは、AIの進化を加速させる技術に大きな期待が寄せられている証拠です。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
-      "published": "2026-09-01T22:08:24.000Z"
-    },
-    {
-      "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
-      "summary": "AIがどれくらい賢いかを測るテスト（ベンチマーク）には、実はAIの「知識」を測るものと、AIの「推論力」を測るものがあります。この新しいテストは、AIがどれくらい「新しいことを学んで、それを応用できるか」という、より実用的な能力を測ろうとしています。",
-      "source": "Hugging Face",
-      "category": "product",
-      "url": "https://huggingface.co/blog/allenai/benchmirt",
-      "published": "2026-09-01T21:39:07.000Z"
-    },
-    {
-      "title": "Open AI’s Astra model is on the way — and very good at breaking into computer systems",
-      "summary": "OpenAIが新しいAI「Astra」を公開予定で、これはコンピューターシステムへの侵入能力に優れているとのこと。その危険性を防ぐための対策も同時に発表されました。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
-      "published": "2026-09-01T21:06:24.000Z"
-    },
-    {
-      "title": "Google’s Android update tackles motion sickness, accessibility, and more",
-      "summary": "Androidの新しいアップデートで、乗り物酔いを軽減する機能や、誰でも使いやすい工夫が加わりました。特に、AI「Gemini」を活用した機能で、これまで以上に便利になっています。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/",
-      "published": "2026-09-01T20:53:05.000Z"
-    },
-    {
-      "title": "The latest AI news we announced in August 2026",
-      "summary": "Googleは2026年8月、AI（人工知能）の最新情報を発表しました。この発表には、AIがより便利で、私たちの生活を豊かにするための新しい技術やサービスが含まれています。",
-      "source": "Google AI Blog",
-      "category": "research",
-      "url": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
-      "published": "2026-09-01T20:45:00.000Z"
-    },
-    {
-      "title": "Anthropic’s new Fable release is cheaper, less restrictive",
-      "summary": "文章を作るAI「Fable」の新しいバージョンが、より安く、間違った警告を減らして使いやすくなりました。これにより、AIがより多くの人に利用されることが期待されます。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
-      "published": "2026-09-01T19:39:22.000Z"
-    },
-    {
-      "title": "Google’s answer to Canva is an AI tool where you prompt instead of design",
-      "summary": "GoogleがCanvaやAdobeのようなデザインソフト市場に参入。文章で指示するだけでAIがデザインを作成してくれるため、デザイン経験がなくても手軽に画像作成ができるのが特徴です。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
-      "published": "2026-09-01T17:35:37.000Z"
-    },
-    {
-      "title": "How AI-native companies turn workflows into operating capability",
-      "summary": "AIを会社づくりの中心に置く企業（AIネイティブ企業）が、仕事の流れ（ワークフロー）をAIに任せることで、新しい力（オペレーティング・ケイパビリティ）を生み出しています。これにより、社員の新しい仕事への慣れ（オンボーディング）や、顧客とのやり取り（アカウント管理）、開発者との連携などがスムーズになっています。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/ai-native-company-workflows",
-      "published": "2026-09-01T17:00:00.000Z"
-    },
-    {
-      "title": "Try Google Pics: Easy image creation and editing in Google Workspace",
-      "summary": "Google Workspaceに「Google Pics」という、絵を描いたり写真を変えたりする新機能が登場しました。最新のAI技術（Nano Bananaモデル）で作られており、手軽に画像作成や編集ができます。",
-      "source": "Google AI Blog",
-      "category": "research",
-      "url": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
-      "published": "2026-09-01T16:00:00.000Z"
-    },
-    {
-      "title": "Path to Astra: critical capabilities and frontier safeguards",
-      "summary": "OpenAIが開発した「Astra」というAIは、サイバー攻撃を防ぐ能力が特に高いと評価され、安全に公開するための仕組みが強化されました。これは、AIの安全性を高めるための重要な一歩です。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/path-to-astra",
-      "published": "2026-09-01T13:00:00.000Z"
-    },
-    {
-      "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
-      "summary": "病院などで使われる患者さんの記録（EHR）などの情報を、ChatGPTに安全につなげられるようになりました。これにより、お医者さんなどが患者さんの詳しい状況や最新の医学研究などを、より簡単に、そして安全に確認できるようになります。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
-      "published": "2026-09-01T12:00:00.000Z"
-    },
-    {
-      "title": "DS-Lighting: Making Agent Harnesses Explicit for Data-Science Automation",
-      "summary": "AIがデータ分析をもっと簡単にできるように、新しい道具「DS-Lighting」ができました。これを使うと、AIがやるべき作業の進め方や結果の確認が分かりやすくなり、AIの能力を正確に評価できるようになります。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2608.28590",
-      "published": "2026-09-01T04:00:00.000Z"
-    },
-    {
-      "title": "Expert-validated STEM QA",
-      "summary": "AIが科学の進歩を助ける中、専門家が作った新しい質問集が登場しました。これまでのAIは、すでに簡単な問題ばかり解けてしまいましたが、この質問集はより難しい問題でAIの力を正しく測り、さらにAIを賢くするのに役立ちます。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2608.28591",
-      "published": "2026-09-01T04:00:00.000Z"
-    },
-    {
-      "title": "A collective capability boundary in frontier large language models on guideline-conformant and case-specific oncology decision-making",
-      "summary": "AI（文章を作るAI）は医療知識テストは得意でも、がん治療のような複雑な判断は苦手なことがわかりました。複数のAIを組み合わせても、この弱点はなくならず、AIがAI（文章を作るAI）の限界を超えるには、設計を変える必要があるようです。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2608.28592",
-      "published": "2026-09-01T04:00:00.000Z"
-    },
-    {
-      "title": "Statutory AI: Aligning Large Language Models With Legal Norms",
-      "summary": "AIが法律やルールを守るための新しい方法「Statutory AI」が開発されました。これは、AIが法律の文章（憲法のようなもの）を参考に、自分で間違いをチェックして直すことで、差別や詐欺などの問題のある内容を減らすことができます。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2608.28593",
-      "published": "2026-09-01T04:00:00.000Z"
-    },
-    {
-      "title": "From Question-First to Analyst-First: Domain-Expert Skills and Verified Knowledge Compilation for Proactive Enterprise Analytics",
-      "summary": "AIが専門知識を自動で集め、質問される前に役立つ情報や疑問点を提示してくれるシステムが開発されました。これにより、AIに詳しい人がいなくても、企業内のデータを分析し、事前に役立つレポートや質問をAIが自動で作成してくれるようになります。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2608.28594",
-      "published": "2026-09-01T04:00:00.000Z"
-    },
-    {
-      "title": "ERR+: Sequential Entropy Resolution for Efficient and Decisive LLM Reasoning",
-      "summary": "AIが難しい問題を解くとき、考え方を順序立てて説明すると精度が上がります。この研究では、AIが「考える過程」で、迷いが減って確信度が高まる部分に注目し、それを評価する新しい方法（ERR+）を開発しました。これにより、AIはより正確で、かつ無駄なく簡潔な答えを出せるようになります。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2608.28771",
-      "published": "2026-09-01T04:00:00.000Z"
     }
   ]
 }
