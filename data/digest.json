@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T23:46:54.297Z",
+  "updatedAt": "2026-09-13T23:54:36.779Z",
   "count": 100,
   "items": [
     {
@@ -9,6 +9,22 @@
       "category": "product",
       "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
       "published": "2026-09-14T00:00:00.000Z"
+    },
+    {
+      "title": "What’s behind the AI industry’s latest warnings of doom?",
+      "summary": "AIが人類を滅ぼすかもしれない、という懸念がAI業界で話題になっています。この議論は、AIが私たちの生活や社会にどのような影響を与えるかを深く考えるきっかけとなっています。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
+      "published": "2026-09-13T19:40:15.000Z"
+    },
+    {
+      "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
+      "summary": "オバマ前大統領は、AI（人工知能）が経済や安全に与える影響について、民主党が具体的な対策を「中心的な課題」として明確な計画を持つべきだと訴えました。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
+      "published": "2026-09-13T16:30:00.000Z"
     },
     {
       "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
@@ -25,6 +41,22 @@
       "category": "business",
       "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
       "published": "2026-09-12T19:34:44.000Z"
+    },
+    {
+      "title": "Probabilistic Focal Search: Accelerating Bounded-Suboptimal Search via Lower-Bound Advancement",
+      "summary": "AIが最適な答えをすぐに探せない時、確率を使ってより早く解を見つける新しい方法が生まれました。この「確率的フォーカルサーチ」は、AIが試行錯誤する回数を大幅に減らし、より効率的に問題を解決できるようになります。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2609.10584",
+      "published": "2026-09-12T04:00:00.000Z"
+    },
+    {
+      "title": "Automating Quadratic Unconstrained Binary Optimization (QUBO) Formulation Generation from Natural Language",
+      "summary": "AIが、自然な言葉で書かれた問題を、最適化計算（QUBO）ができる形に自動で変換できるようになりました。これまで専門知識が必要で難しかったこの作業が、AIの力で効率化され、より多くの問題解決に役立つことが期待されます。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2609.10629",
+      "published": "2026-09-12T04:00:00.000Z"
     },
     {
       "title": "A Multi-Stage Rule-Chaining Framework for Compositional and Interpretable Cognitive Reasoning",
@@ -225,6 +257,14 @@
       "category": "product",
       "url": "https://openai.com/index/expanding-ai-access-us-government",
       "published": "2026-09-10T07:00:00.000Z"
+    },
+    {
+      "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
+      "summary": "AUTOMATIC1111は、画像生成AIをより使いやすくするための「魔法の箱」のようなものです。今回、この「箱」が新しくなり、より複雑な指示も理解して、思い描いた画像を簡単に作れるようになりました。",
+      "source": "Hugging Face",
+      "category": "product",
+      "url": "https://huggingface.co/blog/gradio-workflow-1111",
+      "published": "2026-09-10T00:00:00.000Z"
     },
     {
       "title": "OpenAI adds a prominent AI doomer to its board of directors",
@@ -761,46 +801,6 @@
       "category": "business",
       "url": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
       "published": "2026-09-02T22:44:56.000Z"
-    },
-    {
-      "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
-      "summary": "現実世界とデジタルの融合に注目した新しいステージでは、Nvidiaやロボット、絶滅した動物など、AIが物理世界でどのように活用されるのかが紹介されます。AIが私たちの生活をどう変えるのか、その最前線が体験できるイベントです。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
-      "published": "2026-09-02T22:24:09.000Z"
-    },
-    {
-      "title": "OpenAI’s new reasoning technique alarms AI safety experts",
-      "summary": "OpenAIが開発した新しいAI「Astra」は、これまでのAIとは違い、一歩ずつ順番に考えるのではなく、より深く、まとめて考える「再帰的深さ」という方法を使います。これにより、AIの「考える力」が大きく進歩する可能性があり、一部の専門家は、AIが予測不能な動きをするかもしれないと懸念しています。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
-      "published": "2026-09-02T20:19:14.000Z"
-    },
-    {
-      "title": "Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’",
-      "summary": "AIが作った文章や画像が、履歴書やレビューなどに紛れ込み、何が本物か見分けるのが難しくなってきました。この問題は、インターネットの信頼性を揺るがすため、AIが本物か偽物かを見分ける技術が重要になっています。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/",
-      "published": "2026-09-02T17:18:13.000Z"
-    },
-    {
-      "title": "Proactive cyber defense for governments and enterprises",
-      "summary": "政府や企業がサイバー攻撃から身を守るための、Googleの新しい「フェアウィンド・プログラム」が始まりました。これは、先進的なサイバー防御ツールを、信頼できるパートナーと協力して使うためのものです。",
-      "source": "Google AI Blog",
-      "category": "research",
-      "url": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
-      "published": "2026-09-02T15:40:00.000Z"
-    },
-    {
-      "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
-      "summary": "IBMが開発したAI（人工知能）が、リアルタイム（その場で）でデータの変化を予測できるようになりました。これにより、例えば株価の急な変動や、工場の機械の故障などをいち早く察知し、対応できるようになり、ビジネスで役立ちます。",
-      "source": "Hugging Face",
-      "category": "product",
-      "url": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
-      "published": "2026-09-02T13:49:14.000Z"
     }
   ]
 }
