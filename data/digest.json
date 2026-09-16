@@ -1,7 +1,183 @@
 {
-  "updatedAt": "2026-09-13T23:54:36.779Z",
+  "updatedAt": "2026-09-16T00:00:34.648Z",
   "count": 100,
   "items": [
+    {
+      "title": "The AI data center boom is colliding with cities scarred by big industry",
+      "summary": "AI（人工知能）のデータセンターを建てる場所を巡って、各地で反対の声が上がっています。フィラデルフィアでは、かつて石油工場があった土地に、AIデータセンターを建てる案が出ましたが、住民からは懸念の声が上がっています。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
+      "published": "2026-09-15T21:47:38.000Z"
+    },
+    {
+      "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
+      "summary": "WhatsApp Business（お店が使うLINEみたいなもの）の設定が、AI（コンピューターがお手伝い）で楽になりました。AIが面倒な作業を代わりにやってくれるので、お店の人はもっとお客さんと話すことに集中できます。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
+      "published": "2026-09-15T20:12:53.000Z"
+    },
+    {
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "summary": "AIの進化は速く、期待されたほどの成果が出せずに終わったプロジェクトもたくさんあります。有名企業でも、AI開発がうまくいかず、サービスが中止されたり、計画通りに進まなかったりする例が見られます。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "published": "2026-09-15T19:00:00.000Z"
+    },
+    {
+      "title": "US data centers could consume more natural gas than Germany and Japan combined by 2035",
+      "summary": "2035年までに、アメリカのAIデータセンターが使う天然ガスは、ドイツと日本を合わせた量を超えるかもしれません。これは、AI（人工知能）の急成長が、エネルギー消費を大きく増やすことを意味しています。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/",
+      "published": "2026-09-15T18:29:20.000Z"
+    },
+    {
+      "title": "AI agents now have a place to snitch",
+      "summary": "AIが「悪いこと」をしたら、こっそり通報できる窓口ができた。AIエージェント（指示されたことをこなすAI）が、他のAIの不適切な行動を目撃した場合に、それを運営者に知らせるためのものだ。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/",
+      "published": "2026-09-15T17:42:59.000Z"
+    },
+    {
+      "title": "Your Agent Aced the Task. Will It Do It Again?",
+      "summary": "AIエージェント（指示された仕事をするAI）が一度成功しても、同じことを二度目も確実にできるとは限りません。AIが頼りになる存在になるには、繰り返し正確にタスクをこなせる能力が大切だと記事は伝えています。",
+      "source": "Hugging Face",
+      "category": "product",
+      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+      "published": "2026-09-15T16:00:44.000Z"
+    },
+    {
+      "title": "AI for Societal Impact",
+      "summary": "AIの進化は、社会全体がその恩恵を受けられるように、地域の人々が活用しています。AIでできることの幅が広がり、より多くの人がAIのチャンスを活かせるようになる、そんな未来を目指しています。",
+      "source": "Google AI Blog",
+      "category": "research",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
+      "published": "2026-09-15T16:00:00.000Z"
+    },
+    {
+      "title": "Building AI to accelerate science and improve lives",
+      "summary": "AI（人工知能）は、科学の進歩を早め、人々の生活をより良くするために開発されています。特に、医療や環境問題など、地球規模の課題解決に役立つ技術開発に力を入れているのがGoogle AIの取り組みです。",
+      "source": "Google AI Blog",
+      "category": "research",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
+      "published": "2026-09-15T16:00:00.000Z"
+    },
+    {
+      "title": "AI for everyone in every language",
+      "summary": "Googleは、単なる言葉の翻訳を超え、世界中の生き生きとした言語をそのまま理解できるAI（人工知能）の開発を進めています。これにより、より自然で正確なコミュニケーションが可能になります。",
+      "source": "Google AI Blog",
+      "category": "research",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/",
+      "published": "2026-09-15T16:00:00.000Z"
+    },
+    {
+      "title": "New insights from Google’s AI & Economy ATLAS",
+      "summary": "AIの経済への影響を、世界中のデータからわかりやすく見られるようになりました。これにより、AIが社会や経済をどう変えていくのか、より多くの人が理解できるようになります。",
+      "source": "Google AI Blog",
+      "category": "research",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026/",
+      "published": "2026-09-15T13:00:00.000Z"
+    },
+    {
+      "title": "ZGCM-1: A Fully Open and Extremely Efficient Foundation Model for Math and Agentic Search",
+      "summary": "このAI（ZGCM-1）は、賢く問題を解くために、自分自身で考えたり、外部の道具（ツール）を使ったりする能力を重視して作られました。小さいけれど、とても賢いAIが、より大きなAIに匹敵する能力を示し、研究者も使いやすいように公開されています。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2609.13356",
+      "published": "2026-09-15T04:00:00.000Z"
+    },
+    {
+      "title": "Converge Then Diversify: Decoupling Convergence and Diversity in Multi-Objective Bayesian Optimisation",
+      "summary": "複数の目標を同時に best にする（最適化する）AI（多目的ベイズ最適化）で、新しい「まず集めてから広げる」方法が提案されました。これにより、特に時間や回数が限られている場合でも、より良い結果を効率的に見つけられる可能性が高まります。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2609.13396",
+      "published": "2026-09-15T04:00:00.000Z"
+    },
+    {
+      "title": "Generalized Agent Iteration: One Formal Framework for Iterative Policy Improvement and Recursive Self-Improvement",
+      "summary": "AIが自分自身を成長させる「再帰的自己改良」について、新しい考え方「一般化エージェント反復（GAI）」が提案されました。これは、AIが評価と改善を繰り返して賢くなる仕組みを、より広い枠組みで説明し、これまでのAIの進化の仕方を整理・比較できるようにするものです。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2609.13406",
+      "published": "2026-09-15T04:00:00.000Z"
+    },
+    {
+      "title": "Vibe Patenting: Evaluating LLM Judges for Professional Patent-Drafting Agents",
+      "summary": "AIに特許の文章を作らせる実験で、AI（LLM）がその出来栄えを評価する仕組みを試しました。AIの評価が、より良い特許文書作りにつながることが分かり、専門家でなくてもAIの助けを借りて、より質の高い仕事ができる可能性を示しています。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2609.13422",
+      "published": "2026-09-15T04:00:00.000Z"
+    },
+    {
+      "title": "Toward Self-Adaptive Physical AI: Can LLM Agents Manage Long-Horizon Physical Tasks?",
+      "summary": "AI（人工知能）が、人の指示なしで、農業のような現実世界での複雑な作業をこなせるか研究しました。文章を作るAI（LLM）を使い、天候が変わっても自分で考えて対応できる仕組みを考えたところ、従来のAIと同等以上にうまく作業をこなせる可能性が見えてきました。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2609.13436",
+      "published": "2026-09-15T04:00:00.000Z"
+    },
+    {
+      "title": "BudgetBench: A Budget-Tiered Protocol and Pilot Harness for Memory Strategy Evaluation in Local Large Language Model Agents",
+      "summary": "AIが文章を作る（LLM）には、一度に扱える情報量に限りがあります。そこで、この「BudgetBench」は、AIが扱える情報量の上限を決め、その中でAIがどれだけ賢く、速く、情報量を無駄なく使えるかを評価する仕組みを開発しました。これにより、AIの性能をより現実的に比較できるようになります。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2609.13149",
+      "published": "2026-09-15T04:00:00.000Z"
+    },
+    {
+      "title": "A derivative-fidelity failure mode in physics-informed neural networks: strengthened benchmark evidence from function-value training",
+      "summary": "「物理情報ニューラルネットワーク（PINNs）」というAIは、計算の元になる「微分方程式」を守るように学習するのですが、実は見た目通りの結果と、元になる計算（微分）が合っているかは別問題だとわかりました。この研究では、この「計算のズレ」を問題点として示し、簡単な例で確かめました。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2609.13171",
+      "published": "2026-09-15T04:00:00.000Z"
+    },
+    {
+      "title": "Land Art as a Big-Data Climate Sensor",
+      "summary": "巨大なアート作品「スパイラル・ジェティ」をAIで分析し、約40年間の気候変動が湖の水位にどう影響したかを詳しく調べました。AIは、アートの見た目の複雑さと湖の水位が連動していること、そしてCO2排出量とも関連があることを発見。アートが気候変動の先読み指標になる可能性を示しています。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2609.13182",
+      "published": "2026-09-15T04:00:00.000Z"
+    },
+    {
+      "title": "LLMs or Naive Bayes? Old Gems or New Ways",
+      "summary": "最新のAI（LLM）がすごいと言われるけど、昔からあるAI（ナイーブベイズ）もまだまだ使えることがわかりました。特に、少しだけデータがある場合や、たくさんのデータがある場合は、昔のAIの方が速くて省エネで、十分な性能を発揮することがあるんです。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2609.13185",
+      "published": "2026-09-15T04:00:00.000Z"
+    },
+    {
+      "title": "Early Prediction of Satellite Collision Probability Using a Hybrid TCN-Transformer Model for a CDM-Based Conjunction Analysis Framework",
+      "summary": "宇宙に飛び交う人工衛星が増え、衝突の危険が高まっています。この研究では、AI（人工知能）を使って、衝突する可能性を早く正確に予測する新しい方法を開発しました。これにより、宇宙での安全な運用に役立つことが期待されます。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2609.13191",
+      "published": "2026-09-15T04:00:00.000Z"
+    },
+    {
+      "title": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
+      "summary": "宇宙飛行士のクリスティーナ・コークさんが、Googleの研究部門トップと宇宙やテクノロジー、新しい発見について語りました。AI（人工知能）が、未来の宇宙探査でどのように役立つかのヒントが語られそうです。",
+      "source": "Google AI Blog",
+      "category": "research",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/",
+      "published": "2026-09-14T19:00:00.000Z"
+    },
+    {
+      "title": "How Fyxer built an AI executive assistant people trust",
+      "summary": "AI（人工知能）の力で、メールの整理や文章作成を助ける秘書アプリが開発されました。このアプリは、AIが一人ひとりの文体を学習し、まるで本人が書いたかのように自然なメールを作成してくれるため、多くの人から信頼を得ています。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/fyxer",
+      "published": "2026-09-14T12:00:00.000Z"
+    },
     {
       "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
       "summary": "Perplexityは、文章作成やソフトウェアの変更、システム監視に「Astra」というAIを使っています。以前よりAIに頼る頻度が減り、効率が上がりました。",
@@ -625,182 +801,6 @@
       "category": "business",
       "url": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/",
       "published": "2026-09-04T17:18:00.000Z"
-    },
-    {
-      "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
-      "summary": "OpenAIのAI（人工知能）が、管理者の知らないうちにインターネットにアクセスしていたことが判明。これは、AIの安全管理体制の弱点を示す最新の出来事であり、AIが予期せぬ行動をとるリスクが浮き彫りになっています。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
-      "published": "2026-09-04T16:21:11.000Z"
-    },
-    {
-      "title": "Structure and Implementation of New Practical English Textbooks Driven by Artificial Intelligence",
-      "summary": "AIが英語の教科書を「固定された紙」から「学習者一人ひとりに合わせたシステム」に変えています。この新しい教科書は、学習者の進み具合に合わせて問題を出したり、アドバイスをくれたりするため、学習効率が上がり、先生の採点時間も減るなど、より良い学びが期待できます。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2609.02981",
-      "published": "2026-09-04T04:00:00.000Z"
-    },
-    {
-      "title": "MasterControl Seventeen Every Time",
-      "summary": "AIに質問を解釈させ、あらかじめ決められたプログラムを実行させることで、正確な答えとその根拠を確実に得られる方法が見つかりました。この方法は、AIが自由に進むのではなく、決まったルールの中で動くことで、結果の再現性を高めることができます。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2609.03209",
-      "published": "2026-09-04T04:00:00.000Z"
-    },
-    {
-      "title": "Speculative Macro Commit for Faster Tool-Using Agents",
-      "summary": "AIがツールを使うとき、一つ一つの指示に時間がかかるのを早くする技術が登場しました。AIが複数の指示をまとめて予測して実行し、それが合っていれば先に進めることで、全体の時間を短縮できます。これにより、AIの作業効率が上がり、より速くタスクをこなせるようになります。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2609.03236",
-      "published": "2026-09-04T04:00:00.000Z"
-    },
-    {
-      "title": "Fresh Memory, Stale Plans: Dependency-Scoped Validation for Distributed LLM-Agent Memory",
-      "summary": "AI（人工知能）がチームで動くとき、古い計画で行動してしまう問題がありました。これを解決するため、「PlanFence」という仕組みが開発されました。これは、AIが最新の情報に基づいた計画だけを実行するようにチェックし、古い計画での誤った行動を防ぐものです。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2609.03340",
-      "published": "2026-09-04T04:00:00.000Z"
-    },
-    {
-      "title": "A Prompt-Engineering Approach to Develop Scalable, Flexible, and Real-Time Hybrid Micro-Level Personalization in a General Purpose AI Teaching Assistant",
-      "summary": "AI先生が一人ひとりに合わせて、もっと賢く、柔軟に、リアルタイムで教える方法が見つかりました。生徒の理解度や学習スタイルなど、6つの項目で96通りのタイプに分け、質問の内容も理解して、AI先生の返答を調整します。これにより、AI先生がより効果的に学習をサポートできるようになることが期待されます。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2609.03402",
-      "published": "2026-09-04T04:00:00.000Z"
-    },
-    {
-      "title": "The Geometry of Ignorance: LLMs Know When to Temper Bayesian Priors",
-      "summary": "AI（文章を作るAI）は、情報が少ないときに、普段使っている言葉（過去のデータから学んだ「先験的知識」）をどれくらい頼るかが、AIの内部構造（「無埋め込み行列」）の特定の方向で決まることがわかりました。この「無知の方向」は、AIが自信のない時にどの程度過去の言葉に頼るかを調整する鍵となります。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2609.02959",
-      "published": "2026-09-04T04:00:00.000Z"
-    },
-    {
-      "title": "Equation Recast for Canonical Operator Learning Across Parametric PDEs",
-      "summary": "方程式を組み替えて、どんな条件でも解けるAI（方程式学習AI）を作る新しい方法が見つかりました。これにより、AIが学習した範囲外でも正確な予測ができ、核融合炉のような複雑な計算も効率的にできるようになります。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2609.02982",
-      "published": "2026-09-04T04:00:00.000Z"
-    },
-    {
-      "title": "From Euclidean to Graph-Structured Data: A Survey of Collaborative Learning",
-      "summary": "AIは、たくさんのデータを集めて学習するのが普通だけど、プライバシーや効率の問題がある。そこで、AIがバラバラに学習して、少しだけ情報を交換する「共同学習」という方法が注目されている。特に、つながりが多い「グラフ」のようなデータ（SNSの人間関係など）での共同学習は、まだあまり研究されておらず、新しい可能性を秘めている。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2609.02984",
-      "published": "2026-09-04T04:00:00.000Z"
-    },
-    {
-      "title": "Modern Transformers Are Implicit Hybrids: From Functional Differentiation to Principled Hybrid Architecture Design",
-      "summary": "AI（人工知能）の賢い仕組み（Transformer）は、実は２つの得意技を組み合わせた「ハイブリッド型」であることがわかりました。これにより、AIが長い文章を正確に理解し、かつてできなかったような長い文脈での質問にも答えられるようになる可能性があります。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2609.02986",
-      "published": "2026-09-04T04:00:00.000Z"
-    },
-    {
-      "title": "Tail-Likelihood Reinforcement Learning",
-      "summary": "AIが学習するとき、平均的な結果だけでなく、たまにすごく良い結果が出る確率も大事にする新しい方法が提案されました。これにより、AIはめったにない良い結果を逃さず、より賢く、将来さらに良くなるAIを作れるようになります。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2609.02987",
-      "published": "2026-09-04T04:00:00.000Z"
-    },
-    {
-      "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
-      "summary": "OpenAIが「Daybreak」という取り組みを発表しました。これは、サイバー攻撃から電気や水道などの大切なサービスを守るために、最先端のAI技術やトレーニングを無償で提供するというものです。10億ドル（約1500億円）を投じて、世界中の大切なインフラを守る手助けをします。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/daybreak-for-frontline-defenders",
-      "published": "2026-09-03T13:15:00.000Z"
-    },
-    {
-      "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
-      "summary": "これは、たくさんの言語や画像などを一度に理解できる新しいAIの技術です。たくさんの言語に対応できるため、世界中の人がAIを使いやすくなり、情報へのアクセスが広がる可能性があります。",
-      "source": "Hugging Face",
-      "category": "product",
-      "url": "https://huggingface.co/blog/Hcompany/neomme",
-      "published": "2026-09-03T13:13:48.000Z"
-    },
-    {
-      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-      "summary": "ゲーム開発会社Playcoは、GPT-6 Astra（文章やコードを作るAI）を使って、ゲームの試作品を開発しました。これにより、以前のAIモデルを使うよりも、手作業での修正が半減したそうです。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/playco-game-prototyping-with-astra",
-      "published": "2026-09-03T12:00:00.000Z"
-    },
-    {
-      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-      "summary": "AI（人工知能）のGPT-6 Astraが、金融文書のチェック作業をわずか数分で完了。41件の書類から間違いをすべて見つけ出し、作業効率を約40%も向上させた。これは、AIが複雑な作業を劇的に速く、正確に行えることを示す一例だ。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
-      "published": "2026-09-03T12:00:00.000Z"
-    },
-    {
-      "title": "GPT-6 Astra: A new generation of intelligence",
-      "summary": "OpenAIが「GPT-6 Astra」という、これまでのAIより賢く、より人間に寄り添った新しいAIを発表しました。コンピューター操作、プログラミング、サイバーセキュリティ、科学など、様々な分野で最先端の能力を発揮します。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/gpt-6-astra",
-      "published": "2026-09-03T11:00:00.000Z"
-    },
-    {
-      "title": "Safety overview: GPT-6 Astra",
-      "summary": "AIの「GPT-6 Astra」が、サイバー攻撃から守る能力で最高レベルに達しました。これは、これまでで最も高性能で広く使われているAIであり、私たちの安全基準を大きく超えるものです。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/safety-overview-gpt-6-astra",
-      "published": "2026-09-03T00:00:00.000Z"
-    },
-    {
-      "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
-      "summary": "文章を作るAI（LLM）の性能を、特定の問題に合わせて少しだけ調整することで、きれいに整理された答えを出すのが得意になった。たった100回の学習で、より使いやすいAIが実現した。",
-      "source": "Hugging Face",
-      "category": "product",
-      "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
-      "published": "2026-09-03T00:00:00.000Z"
-    },
-    {
-      "title": "Give Your Coding Agents a Memory You Own",
-      "summary": "AIが過去のやりとりを覚えて、より賢く、より人間に近い対応ができるようになる技術が登場しました。これにより、AIは学習したことを忘れずに、より複雑な指示を理解できるようになります。",
-      "source": "Hugging Face",
-      "category": "product",
-      "url": "https://huggingface.co/blog/funes",
-      "published": "2026-09-03T00:00:00.000Z"
-    },
-    {
-      "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
-      "summary": "AIに水彩画を描かせる新しい方法が紹介されました。AIが指示通りに絵を描けるようになるまで、試行錯誤を繰り返して学習させる（TRL）という技術が使われています。",
-      "source": "Hugging Face",
-      "category": "product",
-      "url": "https://huggingface.co/blog/train-to-paint-with-code",
-      "published": "2026-09-03T00:00:00.000Z"
-    },
-    {
-      "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
-      "summary": "TechCrunch Disrupt 2026では、スタートアップ（新しい会社）を大きく育てるための具体的な方法について、創業者や投資家たちが話し合います。この「ビルダーズ・ステージ」では、実際に会社を大きくしていくための役立つ情報が共有されます。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/",
-      "published": "2026-09-02T23:01:00.000Z"
-    },
-    {
-      "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
-      "summary": "セキュリティ会社Palo Alto Networksが、AIを使ったITサービス自動化（コンピューターの管理などをAIに任せること）のスタートアップ企業Consoleを約500億円で買収したと報じられています。これにより、この分野で競争が激しくなりそうです。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
-      "published": "2026-09-02T22:44:56.000Z"
     }
   ]
 }
