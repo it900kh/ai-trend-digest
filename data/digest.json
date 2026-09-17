@@ -1,7 +1,143 @@
 {
-  "updatedAt": "2026-09-17T00:09:37.393Z",
+  "updatedAt": "2026-09-17T23:56:34.318Z",
   "count": 100,
   "items": [
+    {
+      "title": "Crusoe raises $3.9B to build massive data centers and small modular “AI factories”",
+      "summary": "AIの計算には大量の電力が必要ですが、Crusoeは再生可能エネルギー（自然の力）で作った安価な電力で、巨大なコンピューター施設（データセンター）や小型のAI工場を建てるために、約5000億円（39億ドル）の資金調達に成功しました。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
+      "published": "2026-09-17T23:25:52.000Z"
+    },
+    {
+      "title": "Google DeepMind launches institute to widen the AGI debate",
+      "summary": "GoogleのAI研究チームが、人間のように幅広い知能を持つ「AGI（汎用人工知能）」について、みんなで話し合うための研究所を立ち上げました。これは、AGIが社会にどう影響するか、安全にどう開発するかといった難しい問題を、専門家だけでなく多くの人と一緒に考えるための新しい取り組みです。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/",
+      "published": "2026-09-17T23:21:17.000Z"
+    },
+    {
+      "title": "PrismML hopes its tiny LLM will change how we all use AI",
+      "summary": "AI開発会社PrismMLが、とても小さなAI（LLM）を開発しました。このAIは、スマホなどでも動くため、いつでもどこでもAIを使えるようになり、私たちのAIとの付き合い方を大きく変えるかもしれません。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/",
+      "published": "2026-09-17T22:34:09.000Z"
+    },
+    {
+      "title": "The FAA’s plan to fix air traffic? $875M worth of AI",
+      "summary": "アメリカの空の安全を守る航空管制官のお仕事を、AI（人工知能）の新しいソフトが助けることになりました。これにより、管制官はよりスムーズに飛行機を誘導できるようになり、空の安全性がさらに高まることが期待されています。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/",
+      "published": "2026-09-17T22:14:59.000Z"
+    },
+    {
+      "title": "The fix for rogue AI agents could be more AI",
+      "summary": "AIに複雑な仕事を任せると、人間が見きれないほどの速さで、たくさんの処理が進んでしまう問題が起きています。この問題の解決策として、AI自身がAIの行動をチェックするという、AIを使った新しい方法が注目されています。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/",
+      "published": "2026-09-17T20:34:47.000Z"
+    },
+    {
+      "title": "Making global data easier to explore",
+      "summary": "国連の統計データをもっと見やすく、探しやすくする「UN System Data Commons」という新しいウェブサイトができました。世界中の情報にアクセスしやすくなり、これまで難しかったデータ分析が誰でもできるようになります。",
+      "source": "Google AI Blog",
+      "category": "research",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
+      "published": "2026-09-17T20:00:00.000Z"
+    },
+    {
+      "title": "Making AI-Assisted Claims Independently Challengeable: Publication Authority and a Protocol for Falsifiable Publication Records",
+      "summary": "AIが作った主張が、本当に正しいか疑わしい場合がある。そこで、AIの主張が「いつ」「どのように」作られたかを記録し、誰でも検証できるようにする仕組みを開発した。これにより、AIの主張の信頼性を高めることができる。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2609.17631",
+      "published": "2026-09-17T04:00:00.000Z"
+    },
+    {
+      "title": "EvolveTrade: Experience-Driven Policy Refinement for Self-Evolving LLM Trading Agents",
+      "summary": "AIが株取引をする際、いままで決まったやり方でしか情報収集やリスク管理ができませんでした。しかし、「EvolveTrade」という新しい仕組みを使うと、AI自身が経験から学び、株取引のやり方をどんどん改良できるようになります。これにより、AIはより賢く、利益を上げやすくなると期待されています。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2609.17632",
+      "published": "2026-09-17T04:00:00.000Z"
+    },
+    {
+      "title": "One Color Preprocessing Improves DSATUR",
+      "summary": "「グラフの色塗り問題」を解くAI（DSATUR）を、あらかじめAI（SDP）が色の候補を一つ決めてあげることで、より少ない色で効率よく解けるように改良しました。これはDSATURの性能を向上させる新しい方法で、様々なグラフで効果が確認されています。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2609.17633",
+      "published": "2026-09-17T04:00:00.000Z"
+    },
+    {
+      "title": "Physics-Constrained Digital Twins for Sensor Integrity in Urban Pedestrian Flow: Detecting Stealthy False Data Injection with Conformal Guarantees",
+      "summary": "街の人の流れを測るシステムが、悪意のあるデータでだまされないようにする新しい方法が見つかりました。物理法則（例えば、人が急に消えたり現れたりしないこと）をAI（デジタルツイン）に組み込むことで、こっそり送られてくる偽のデータを正確に見つけ出せるようになったのです。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2609.17635",
+      "published": "2026-09-17T04:00:00.000Z"
+    },
+    {
+      "title": "What You Can't See Is Still What You Learn: A Preregistered Sixty-Society Confirmation That Evidence Masking Drives Compositional Generalization",
+      "summary": "AIが「隠された情報」から学ぶことで、新しい問題に対応する力が格段に上がることがわかりました。これは、AIが情報を「見る」範囲を制限すると、より賢く学習できることを示しており、今後のAI開発に役立つ発見です。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2609.17637",
+      "published": "2026-09-17T04:00:00.000Z"
+    },
+    {
+      "title": "Pay Only for Disagreement: Certified No-Regression Verdicts for Model Updates with Matching Label-Complexity Bounds",
+      "summary": "AIモデルの更新で、性能が悪くなっていないかを確認する新しい方法が開発されました。AIが間違える場所だけをチェックするため、ラベル（正解）をつける手間が大幅に減り、賢く品質を保証できます。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2609.17560",
+      "published": "2026-09-17T04:00:00.000Z"
+    },
+    {
+      "title": "Beyond Static RAG: An Adaptive, Tri-Metric Routing Framework for Efficient Long-Context Inference on Commodity GPUs",
+      "summary": "長文のAI（文章を作るAI）を使いこなすための新しい技術が登場しました。GPU（AIの計算機）の容量が限られていても、AIが文章をうまく作れるように、３つの指標（複雑さ、単語の種類、密度）で最適な方法を選びます。これにより、AIがエラーを起こさず、より効率的に長文を生成できるようになりました。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2609.17564",
+      "published": "2026-09-17T04:00:00.000Z"
+    },
+    {
+      "title": "Where Grokking Happens: Distributed Utility and Fourier Recoding Without a Module Switch",
+      "summary": "AIが学習する「なぜ」がどこで生まれるのかを研究。AIが急に賢くなる現象（grokking）は、特定の部品が新しくなるのではなく、情報が別の形で処理されることで起きると分かりました。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2609.17571",
+      "published": "2026-09-17T04:00:00.000Z"
+    },
+    {
+      "title": "Disentangling Algorithmic Bias from Archival Artifacts: A Controlled Audit of Vision-Language Model Valuation in Metropolitan Museum Archives",
+      "summary": "AIが美術品の評価で性別による偏りがないか調べたところ、AI（文章と画像で理解するAI）の全体的な評価は男女で大きな差がありませんでした。しかし、これはAIの評価方法がまだ粗いため、細かい偏りを見つけるのが難しいことが分かりました。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2609.17572",
+      "published": "2026-09-17T04:00:00.000Z"
+    },
+    {
+      "title": "Temperon: Full-Time SAM Quality at a Third Less Wall-Clock",
+      "summary": "AIの学習を速くする新しい方法「Temperon」が開発されました。これは、学習の最初だけ特別な方法（SAM）を使い、後半でAIをさらに改良することで、学習時間を3分の1に短縮しながら、今までと同じ高い精度を実現します。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2609.17575",
+      "published": "2026-09-17T04:00:00.000Z"
+    },
+    {
+      "title": "Introducing Astra for Law",
+      "summary": "OpenAIが、法律分野に特化したAI「Astra」を発表しました。これにより、専門的な法律業務の効率化や、機密情報を含む顧客データの安全な管理が可能になります。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/astra-for-law",
+      "published": "2026-09-17T00:00:00.000Z"
+    },
     {
       "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
       "summary": "AIを作る会社が、開発の内部に「安全チェック係」を置こうとしています。これはすごいことですが、本当にチェックが効くかは、情報公開や独立性が大事だと専門家は言っています。",
@@ -665,142 +801,6 @@
       "category": "research",
       "url": "https://blog.google/products-and-platforms/products/search/football-features-google-search/",
       "published": "2026-09-09T16:00:00.000Z"
-    },
-    {
-      "title": "Recreating a 70-year love story frame by frame",
-      "summary": "AI（人工知能）の力で、70年前の記録が残っていない恋人たちの物語を映像で再現しました。Google DeepMindと映画制作者が協力し、AIを使って失われた過去を蘇らせる短編映画「Love, Rendered」が作られたのです。",
-      "source": "Google AI Blog",
-      "category": "research",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/",
-      "published": "2026-09-09T16:00:00.000Z"
-    },
-    {
-      "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
-      "summary": "IBMが、過去のデータから未来の株価や気温などを予測する「時系列AI（過去のデータから未来を予測するAI）」の新しいモデル「Granite Time Series PatchTST-FM-r2」を発表しました。このAIは、ビジネスで使いやすいように、ライセンス（利用許可）も整備されています。",
-      "source": "Hugging Face",
-      "category": "product",
-      "url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
-      "published": "2026-09-09T15:36:24.000Z"
-    },
-    {
-      "title": "The AI policy window is open. We need to act.",
-      "summary": "AIの能力が強くなるほど、安全性をしっかり確認し、みんなで守るルールを作り、それをずっと続けるための話し合い（政策決定）を、今こそ急いで行うべきだと専門家は訴えています。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/ai-policy-window",
-      "published": "2026-09-09T13:00:00.000Z"
-    },
-    {
-      "title": "GPT-6 Astra: The next generation in intelligence for work",
-      "summary": "OpenAIが新しいAI「GPT-6 Astra」を発表しました。これは、仕事で役立つように作られており、物事を深く考えたり、パソコンを使いこなしたり、文章やデザインの良し悪しを判断する能力がさらに進んでいます。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/gpt-6-astra-next-generation-work",
-      "published": "2026-09-09T11:00:00.000Z"
-    },
-    {
-      "title": "Hackers are stealing Claude tokens from subscribers",
-      "summary": "AIサービス「Claude」の利用者を狙ったハッカーによる不正利用が報告されています。利用していないのに「トークン」（AIが処理する情報量のこと）が減るという被害が出ており、開発元のAnthropic社が注意を呼びかけています。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
-      "published": "2026-09-08T21:10:27.000Z"
-    },
-    {
-      "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
-      "summary": "AIがコードを書く分野で、新しい会社「Cognition」がすごい評価額（480億ドル）を得ました。これは、この分野ではまだ勝者が一人に決まるわけではないと、投資家が考えている証拠です。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
-      "published": "2026-09-08T21:04:06.000Z"
-    },
-    {
-      "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
-      "summary": "Metaが新しいAIアシスタント「Muse」を発表しました。これは、メールやカレンダー、健康情報などにアクセスして、あなたの生活をサポートするものです。しかし、個人情報をどこまでAIに渡せるか、人々の信頼が試されることになりそうです。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
-      "published": "2026-09-08T19:00:00.000Z"
-    },
-    {
-      "title": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
-      "summary": "AI開発企業OpenAIが、数学の難問（ナビエ・ストークス方程式の解）を解くために、不正な手段を使ったとニューヨーク大学の数学者が指摘。この問題の解決には1億円の賞金がかかっており、AIの能力を試す上で重要な意味を持つ。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/",
-      "published": "2026-09-08T17:32:15.000Z"
-    },
-    {
-      "title": "How GPT-5.6 Sol helps run quantum computing experiments",
-      "summary": "量子コンピューター（すごい計算ができるコンピューター）の実験を、AI（指示を理解して動くコンピューター）が自動で進めてくれるようになった。研究者はAIに指示を出すだけで、実験の実行から結果の分析、調整まで任せられる。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/codex-quantum-computing-experiments",
-      "published": "2026-09-08T17:00:00.000Z"
-    },
-    {
-      "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
-      "summary": "Google Cloudは、AI（人工知能）の利用を企業に広げるため、アクセンチュアと提携しました。専門家を企業に直接派遣することで、AIの導入をスムーズにし、課題を解決することを目指します。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
-      "published": "2026-09-08T16:20:31.000Z"
-    },
-    {
-      "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
-      "summary": "AIが特定の話題について、すべてを拒否するのではなく、危険な部分だけを避ける賢い方法が研究されています。これにより、AIがより安全に、かつ役立つ情報を提供できるようになることが期待されます。",
-      "source": "Hugging Face",
-      "category": "product",
-      "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
-      "published": "2026-09-08T14:23:07.000Z"
-    },
-    {
-      "title": "The Work Now Within Reach",
-      "summary": "さらに賢く安くなったAI（人工知能）で、個人や会社ができる仕事の範囲が広がり、経済的な成長も期待できるようになります。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/the-work-now-within-reach",
-      "published": "2026-09-08T13:00:00.000Z"
-    },
-    {
-      "title": "Introducing ChatGPT Images 2.5",
-      "summary": "AIがあなたのアイデアや下書き、参考写真から、もっとあなたのイメージに合った、洗練された画像を作成できるようになりました。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
-      "published": "2026-09-08T11:30:00.000Z"
-    },
-    {
-      "title": "On the Navier–Stokes Millennium Prize Problem",
-      "summary": "AIが、科学の大きな謎「ナビエ・ストークス方程式の解」を解いたと発表されました。これは、水の流れなどを説明する難しい方程式で、解ければ新しい発見につながるかもしれません。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/navier-stokes-solution",
-      "published": "2026-09-08T10:00:00.000Z"
-    },
-    {
-      "title": "Funding grants for new research into AI and teen development",
-      "summary": "OpenAIが、AI（人工知能）が若者の成長や安心・安全にどう影響するかを調べる研究に、500万ドル（約7億円）の支援を始めました。この新しい取り組みは、AIと若者の関わりを深く理解するために重要です。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/teen-development-research-grants",
-      "published": "2026-09-08T09:00:00.000Z"
-    },
-    {
-      "title": "Opaque recurrence, and other AI terms that you should probably know",
-      "summary": "AIの進化で新しい言葉がたくさん出てきました。この記事は、知っておくと便利なAI関連の用語を、分かりやすく解説してくれるものです。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-      "published": "2026-09-07T19:24:00.000Z"
-    },
-    {
-      "title": "EXAONE Forecast for Finance",
-      "summary": "株や仮想通貨などの将来の値段を予測する新しいAI「EXAONE Finance」が開発されました。これは、たくさんのデータで学習させたAIで、特に金融分野の予測に強く、これまで難しかった情報が欠けているデータでもうまく対応できるのが特徴です。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2609.04239",
-      "published": "2026-09-07T04:00:00.000Z"
     }
   ]
 }
