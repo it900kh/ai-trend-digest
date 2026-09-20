@@ -1,7 +1,71 @@
 {
-  "updatedAt": "2026-09-17T23:56:34.318Z",
+  "updatedAt": "2026-09-19T23:55:29.889Z",
   "count": 100,
   "items": [
+    {
+      "title": "Flock reportedly tries to shrink workforce with employee buyouts",
+      "summary": "AI企業が、社員に自ら会社を辞めるよう促す（バイアウト）ことで、人員削減を試みている。これは、このままでは「ほぼ確実に」解雇せざるを得ない状況を避けるための動きだ。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
+      "published": "2026-09-19T20:39:13.000Z"
+    },
+    {
+      "title": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
+      "summary": "トランプ氏は、AIへの批判は民主党のでっち上げだとして、AIに新しい名前をつけ、AI部隊を作ることを提案しています。これは、AIのイメージを変えたいという意図があるようです。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
+      "published": "2026-09-19T19:57:47.000Z"
+    },
+    {
+      "title": "Google’s Gemini is the latest AI model to hack other companies",
+      "summary": "Googleの新しいAI「Gemini」が、他の会社のシステムに忍び込む（ハッキングする）実験に成功したと話題です。ただし、すぐに不正なアクセスを止めたため、問題はなかったとしています。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
+      "published": "2026-09-19T17:30:00.000Z"
+    },
+    {
+      "title": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
+      "summary": "猫がそれぞれどれだけご飯を食べているかAIカメラで測ってくれる最新の自動給餌器が登場。多頭飼いのおうちで、愛猫の健康管理がより簡単に、しかも正確にできるようになりました。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
+      "published": "2026-09-19T15:00:00.000Z"
+    },
+    {
+      "title": "AI safety conversations have gotten unbelievable",
+      "summary": "AIの安全についての話し合いが、AIの事実と嘘を見分けるのがどれほど難しいかを示しており、注目を集めています。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/",
+      "published": "2026-09-19T15:00:00.000Z"
+    },
+    {
+      "title": "New experts join Google’s AI & Economy team",
+      "summary": "Googleは、AI（人工知能）と経済の関わりを専門に研究するチームを、世界の一流研究者たちで強化しました。これにより、AIが社会や経済に与える影響をより深く理解し、その活用方法を考える上で、専門的な知見がさらに集まることになります。",
+      "source": "Google AI Blog",
+      "category": "research",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
+      "published": "2026-09-18T14:00:00.000Z"
+    },
+    {
+      "title": "Co-creating the future of fashion with Google",
+      "summary": "Googleは、ニューヨーク・ファッション・ウィークに向けて、デザイナーのジェーン・ウェイドさんとセルジオ・ハドソンさんと協力し、オリジナルのAI（人工知能）ツール「Google Flow」を開発しました。これにより、デザイナーがAIを活用して未来のファッションを創り出す試みを進めています。",
+      "source": "Google AI Blog",
+      "category": "research",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/",
+      "published": "2026-09-18T13:00:00.000Z"
+    },
+    {
+      "title": "Introducing the Australian Youth Safety Blueprint",
+      "summary": "OpenAIが、オーストラリアの若い人たちが安全にAIを使えるようにするための6つの柱からなる計画を発表しました。これは、AIが子供たちの安全を守り、可能性を広げるための新しい取り組みです。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/australian-youth-safety-blueprint",
+      "published": "2026-09-18T12:00:00.000Z"
+    },
     {
       "title": "Crusoe raises $3.9B to build massive data centers and small modular “AI factories”",
       "summary": "AIの計算には大量の電力が必要ですが、Crusoeは再生可能エネルギー（自然の力）で作った安価な電力で、巨大なコンピューター施設（データセンター）や小型のAI工場を建てるために、約5000億円（39億ドル）の資金調達に成功しました。",
@@ -49,6 +113,14 @@
       "category": "research",
       "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
       "published": "2026-09-17T20:00:00.000Z"
+    },
+    {
+      "title": "How Cooley is accelerating IPO work with ChatGPT",
+      "summary": "Cooleyという会社が、ChatGPT（文章を作るAI）を使って、会社が株を公開する（IPO）準備を速く進める新しいシステムを作りました。IPOの準備は複雑で時間がかかりますが、このシステムのおかげで、弁護士たちが問題点に早く気づき、本当に大事な判断に集中できるようになります。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/cooley-gopublic",
+      "published": "2026-09-17T12:00:00.000Z"
     },
     {
       "title": "Making AI-Assisted Claims Independently Challengeable: Publication Authority and a Protocol for Falsifiable Publication Records",
@@ -729,78 +801,6 @@
       "category": "product",
       "url": "https://openai.com/index/expanding-ai-access-us-government",
       "published": "2026-09-10T07:00:00.000Z"
-    },
-    {
-      "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
-      "summary": "AUTOMATIC1111は、画像生成AIをより使いやすくするための「魔法の箱」のようなものです。今回、この「箱」が新しくなり、より複雑な指示も理解して、思い描いた画像を簡単に作れるようになりました。",
-      "source": "Hugging Face",
-      "category": "product",
-      "url": "https://huggingface.co/blog/gradio-workflow-1111",
-      "published": "2026-09-10T00:00:00.000Z"
-    },
-    {
-      "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
-      "summary": "「Hugging Face」というAIの道具箱で、AIの学習を速く、効率的に行う新しい方法が見つかりました。これは、たくさんのAIの仕事を同時に進められるようにするもので、AI開発をよりスムーズにします。",
-      "source": "Hugging Face",
-      "category": "product",
-      "url": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
-      "published": "2026-09-10T00:00:00.000Z"
-    },
-    {
-      "title": "OpenAI adds a prominent AI doomer to its board of directors",
-      "summary": "AIの安全性を高める研究者であるポール・クリスティアーノ氏が、AIを作る会社OpenAIの理事に加わりました。これは、AIが危険にならないように、開発の段階から安全性をしっかり考えようという姿勢の表れです。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
-      "published": "2026-09-09T22:25:22.000Z"
-    },
-    {
-      "title": "Massachusetts hits data centers with new clean power rules",
-      "summary": "マサチューセッツ州で、コンピューターが大量のデータを処理する場所（データセンター）を作る際に、きれいな電力（再生可能エネルギーなど）を使うことを義務付ける新しいルールができました。これは、データセンターの電力消費を減らし、環境への影響を抑えるための取り組みです。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/",
-      "published": "2026-09-09T21:43:34.000Z"
-    },
-    {
-      "title": "Apple Watch’s new AI features are normalizing the idea that technology is always listening",
-      "summary": "新しいApple WatchのAI機能は、音声を聞き取って文字にしたり会話を要約したりできるため、「常に聞かれている」という感覚が普通になるかもしれません。プライバシーや、いつ聞かれているか分からない状況でどう振る舞うか、という点が議論になっています。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/",
-      "published": "2026-09-09T20:24:48.000Z"
-    },
-    {
-      "title": "Everything Apple announced at its fall iPhone event, from the foldable iPhone Duo to an always-listening Apple Watch",
-      "summary": "アップルが初の折りたたみスマホ「iPhone Duo」を発表しました。画面を広げるとタブレットのように使えるこの新製品は、スマホの可能性を広げる画期的な登場です。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch/",
-      "published": "2026-09-09T20:03:43.000Z"
-    },
-    {
-      "title": "The hinge for Apple’s new foldable phone was built with AI",
-      "summary": "アップルは、開発中の折りたたみスマホにAI（人工知能）と3Dプリンターを活用しました。AIは、スマホを折りたたむ際のヒンジ（蝶番）部分の設計に役立ち、耐久性を高めたとのことです。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/09/09/the-hinge-for-apples-new-foldable-phone-was-built-with-ai/",
-      "published": "2026-09-09T19:21:48.000Z"
-    },
-    {
-      "title": "Paul Christiano joins OpenAI Foundation Board",
-      "summary": "AIを安全に作るための専門家、ポール・クリスティアーノさんがOpenAIの理事会に加わりました。AIが人々にとって安全で役立つものになるよう、そのためのルール作りや安全対策を進める役割を担います。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
-      "published": "2026-09-09T17:00:00.000Z"
-    },
-    {
-      "title": "Get ready for the game with new football features in Search",
-      "summary": "Google検索で、サッカーの試合情報がもっと便利になります。試合のリアルタイム情報や詳しい成績が見られるほか、あなたのファンタジーフットボール（架空のチームを作って楽しむゲーム）のチーム編成に役立つアドバイスももらえます。",
-      "source": "Google AI Blog",
-      "category": "research",
-      "url": "https://blog.google/products-and-platforms/products/search/football-features-google-search/",
-      "published": "2026-09-09T16:00:00.000Z"
     }
   ]
 }
