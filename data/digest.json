@@ -1,7 +1,47 @@
 {
-  "updatedAt": "2026-09-19T23:55:29.889Z",
+  "updatedAt": "2026-09-20T23:52:32.961Z",
   "count": 100,
   "items": [
+    {
+      "title": "6 days left to save up to $200 to TechCrunch Disrupt 2026",
+      "summary": "AIの未来を語る大きなイベント「TechCrunch Disrupt 2026」への参加費が、9月25日まで割引価格で購入できます。10,000人以上の起業家や技術者たちと、AIの最新動向について情報交換できる貴重な機会です。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/",
+      "published": "2026-09-20T21:41:08.000Z"
+    },
+    {
+      "title": "World model companies are keeping a lot of secrets",
+      "summary": "「ワールドモデル」という新しいAI技術（現実世界をコンピューター上で再現する技術）を作る会社は、たくさんのお金と注目を集めていますが、一体何を作っているのか、ほとんど情報公開していません。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/",
+      "published": "2026-09-20T20:29:07.000Z"
+    },
+    {
+      "title": "Is the AI industry really ready to slow down?",
+      "summary": "AI開発のスピードについて、AI業界のトップたちが本当に減速を望んでいるのか、専門家たちが議論しました。AIの進化が速すぎるという懸念がある一方で、開発競争は激しいままです。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/",
+      "published": "2026-09-20T18:56:04.000Z"
+    },
+    {
+      "title": "Vocci’s ring adds a new form factor to meeting note-taking",
+      "summary": "首につける小さなデバイス「Vocci」が登場。会議の会話を記録し、議事録作成を助けてくれます。今までになかった形でのAI活用で、記録が楽になる可能性を秘めていますが、プライバシーへの配慮も必要になりそうです。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking/",
+      "published": "2026-09-20T18:32:52.000Z"
+    },
+    {
+      "title": "ScrollEd wants to turn textbooks into TikTok",
+      "summary": "教科書をTikTokのように見やすくするアプリが登場。動画やクイズも追加され、まるでSNSを眺めるように学べる。学生のアイデアから生まれたこの新しい学習方法は、勉強をより楽しく、身近なものに変えるかもしれない。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok/",
+      "published": "2026-09-20T18:00:00.000Z"
+    },
     {
       "title": "Flock reportedly tries to shrink workforce with employee buyouts",
       "summary": "AI企業が、社員に自ら会社を辞めるよう促す（バイアウト）ことで、人員削減を試みている。これは、このままでは「ほぼ確実に」解雇せざるを得ない状況を避けるための動きだ。",
@@ -761,46 +801,6 @@
       "category": "research",
       "url": "https://arxiv.org/abs/2609.10652",
       "published": "2026-09-11T04:00:00.000Z"
-    },
-    {
-      "title": "3 ways to prep for your next big race with Search",
-      "summary": "レースの準備をGoogle検索で楽に！参加登録のリマインダーや、自分に合った練習メニューの提案など、AIがあなたの目標達成をサポートします。",
-      "source": "Google AI Blog",
-      "category": "research",
-      "url": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/",
-      "published": "2026-09-10T16:00:00.000Z"
-    },
-    {
-      "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
-      "summary": "この研究では、AI（コデックスとChatGPT）を使って、病気に効く新しい薬の種（抗菌分子）を探しています。昔の生物や今の生物の遺伝子（ゲノム）を調べることで、薬が効きにくい感染症と戦うための候補を見つけ出そうとしています。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
-      "published": "2026-09-10T16:00:00.000Z"
-    },
-    {
-      "title": "Now everyone can put data to work",
-      "summary": "ChatGPTに「データ担当者」が登場！ 会社のデータをAIに読み込ませて、質問するだけで、隠された情報を見つけ出したり、グラフを作ったりできるようになったよ。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/put-data-to-work",
-      "published": "2026-09-10T15:00:00.000Z"
-    },
-    {
-      "title": "Introducing ChatGPT for Financial Services",
-      "summary": "金融業界でChatGPTが使えるようになり、株価や企業情報など、専門的なデータと組み合わせて、調査や分析、お客さん向けの資料作りがしやすくなります。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/introducing-chatgpt-financial-services",
-      "published": "2026-09-10T07:00:00.000Z"
-    },
-    {
-      "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
-      "summary": "政府機関や地方自治体などが、AI（人工知能）を使いやすくなる取り組みが始まりました。AIの利用料が安くなったり、サイバー攻撃（コンピューターへの不正な攻撃）から守るサポートが強化されたりします。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/expanding-ai-access-us-government",
-      "published": "2026-09-10T07:00:00.000Z"
     }
   ]
 }
