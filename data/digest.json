@@ -1,7 +1,143 @@
 {
-  "updatedAt": "2026-09-24T00:17:24.778Z",
+  "updatedAt": "2026-09-26T00:24:45.012Z",
   "count": 100,
   "items": [
+    {
+      "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
+      "summary": "AIのデータセンターを動かすための新しい発電方法が、一時的に見送られました。これまでは boomsupersonic社のタービンを使う計画でしたが、今回は実現しないことになったようです。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
+      "published": "2026-09-25T23:11:10.000Z"
+    },
+    {
+      "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
+      "summary": "OpenAIのAI（人工知能）が、知らず知らずのうちに、ユーザーが共有した53枚の画像をインターネット上に公開してしまった。これは、AIの安全管理の難しさと、情報漏洩のリスクを示す出来事だ。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
+      "published": "2026-09-25T22:20:47.000Z"
+    },
+    {
+      "title": "Meta opens early access program for new Muse features",
+      "summary": "Meta（Facebookの親会社）が、新しいAI機能「Muse」の先行利用（まだ一部の人しか使えないこと）を始めました。興味がある人は、Museに申し込む必要があります。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/",
+      "published": "2026-09-25T20:34:53.000Z"
+    },
+    {
+      "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
+      "summary": "AIを作る会社Anthropicが、7年間で約1400億円（116億ドル）をクラウドの利用料としてAkamaiに支払うことになりました。これは、AIの計算に必要なコンピューター（CPU）への大きな投資であり、Anthropicの利用額に応じてAkamaiの株を最大5%までもらえるという、珍しい契約です。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
+      "published": "2026-09-25T19:13:38.000Z"
+    },
+    {
+      "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+      "summary": "AI（人工知能）を使い、車の管理サービスを素早く作って売れるようになり、売上が60%アップし、作業時間も75時間以上も短縮されました。AIが開発や運営を助けることで、効率が格段に上がったのです。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/proaction",
+      "published": "2026-09-25T19:00:00.000Z"
+    },
+    {
+      "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
+      "summary": "俳優のマーク・ウォールバーグが、2026年のテッククランチ・ディスラプトで、自身のキャリアではなく、参加者の仕事や事業について話します。投資や起業、ヘルスケア、ウェルネスといった分野でのビジネス構築について、ブルース・K・リー氏と共に語り合う予定です。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/09/25/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
+      "published": "2026-09-25T18:48:33.000Z"
+    },
+    {
+      "title": "When Should Forecasting Agents Reason? Behavioral Stress Tests for Reliability Routing",
+      "summary": "AIは未来を予測する際に、過去のデータや他のAIの意見など、様々な情報をどう使うべきか、まだわかっていません。あるデータでは過去の例が、別のデータでは多くの人の意見が役立つことがわかりました。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2609.28475",
+      "published": "2026-09-25T04:00:00.000Z"
+    },
+    {
+      "title": "TW3Cast: A Frozen Router of Lightly Fine-Tuned Foundation Models for Time-Series Forecasting on GIFT-Eval, Selected Entirely on the Training Split",
+      "summary": "AIが過去のデータから将来の予測を立てる技術について、TW3Castという新しいシステムが開発されました。これは、特殊なAIモデル（LLMのようなもの）を使わずに、過去のデータだけを見て予測するAIモデルを賢く組み合わせることで、高い予測精度を出しています。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2609.28506",
+      "published": "2026-09-25T04:00:00.000Z"
+    },
+    {
+      "title": "PAWS: Policy-driven Agentic World Simulation",
+      "summary": "新しいAIのデータセット「PAWS」は、過去のアメリカの経済政策が人々の行動にどう影響したかを、ニュース記事と照らし合わせながらシミュレーションできるものです。これにより、AIが政策の効果をより正確に理解し、将来の経済の動きを予測するのに役立ちます。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2609.28547",
+      "published": "2026-09-25T04:00:00.000Z"
+    },
+    {
+      "title": "Pistis Technical Report",
+      "summary": "新しいAI「Pistis」は、画像や文章も理解できる高性能なAI（大規模言語モデル）です。特に、複雑な推理や計画を立てて、AIが自ら仕事を進める能力が向上しました。さらに、AIの性能を直接変えずに、AIがより賢く動くための工夫もされています。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2609.28554",
+      "published": "2026-09-25T04:00:00.000Z"
+    },
+    {
+      "title": "BaseCamp --- An Agentic AI Framework for Automating DNA Sequencing Data Pipelines",
+      "summary": "DNA解析の複雑な作業を自動化する「BaseCamp」という新しいAIが登場しました。これは、AIの専門家たちが、実験結果の判断や異常の発見など、これまで人間が行っていた「判断」の部分を担うように設計されています。これにより、DNA解析のプロセスがより速く、正確になり、科学の進歩に貢献することが期待されます。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2609.28557",
+      "published": "2026-09-25T04:00:00.000Z"
+    },
+    {
+      "title": "Stable and Faithful Explanations for Knowledge Tracing",
+      "summary": "AIが学習者の理解度を「なぜ」そう判断したのか、その理由をより信頼できるようにする研究です。これにより、先生が生徒一人ひとりに合わせた教え方をする手助けができるようになります。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2609.28502",
+      "published": "2026-09-25T04:00:00.000Z"
+    },
+    {
+      "title": "SMILESGNN: Interpretable Clinical Toxicity Prediction via SMILES-Graph Cross-Attention Fusion",
+      "summary": "新しいAI「SMILESGNN」は、薬の副作用を予測するのに役立ちます。薬の情報を表す２つの方法を組み合わせることで、より正確に予測でき、なぜその薬が危険だと判断されたのかも分かりやすくなりました。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2609.28553",
+      "published": "2026-09-25T04:00:00.000Z"
+    },
+    {
+      "title": "CFD Correction of Open Tip Clearance Flow in a Compressor Cascade Using VAE Latent Space Adaptation",
+      "summary": "空気の流れを調べる計算（CFD）は、実際の実験とずれることがある。そこで、AI（VAE）を使って、実験データが少ない場所でも計算結果をより正確に修正する方法を開発した。これにより、計算結果と実験結果のずれが大幅に減り、より信頼性の高い予測が可能になる。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2609.28558",
+      "published": "2026-09-25T04:00:00.000Z"
+    },
+    {
+      "title": "CARE: Condition-Aware Representation Regularization for Diffusion Models",
+      "summary": "AIが画像を作る技術（拡散モデル）で、より高品質で速く画像を作るための新しい方法「CARE」が開発されました。これは、画像の内容（例えば「猫」とか「犬」といった情報）をうまく利用して、似たような画像の情報（特徴）をまとめ、AIの学習を助ける仕組みです。この技術を使うと、学習時間が短縮され、より正確な画像が作れるようになります。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2609.28561",
+      "published": "2026-09-25T04:00:00.000Z"
+    },
+    {
+      "title": "SpaFactor: Lightweight Spatial Context-Aware Gene Program Modeling for Histology-to-Transcriptomics Inference",
+      "summary": "細胞の形や周りの環境をAIが読み取り、病気の原因となる遺伝子の働きを予測する新しい技術「SpaFactor」が開発されました。これまで難しかった遺伝子の働きを、特別な設備なしで、より正確に、そして速く知ることができるようになり、病気の解明に役立つと期待されています。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2609.28563",
+      "published": "2026-09-25T04:00:00.000Z"
+    },
+    {
+      "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
+      "summary": "画像と文章を同時に理解できるAI（ビジョン・言語モデル）が、LFM2.5-VL-DSparkという新しい技術で、より速く賢く動くようになりました。これにより、AIが写真を見て質問に答えたり、説明を生成したりする能力が向上し、さまざまな分野での活用が期待されます。",
+      "source": "Hugging Face",
+      "category": "product",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
+      "published": "2026-09-24T14:08:57.000Z"
+    },
     {
       "title": "Meta introduces camera-free AI glasses",
       "summary": "カメラなしのAIメガネが登場。重さが軽くなり、最大12時間使えるようになる。",
@@ -73,6 +209,14 @@
       "category": "product",
       "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
       "published": "2026-09-23T13:00:00.000Z"
+    },
+    {
+      "title": "Sam Altman’s remarks at the United Nations Security Council",
+      "summary": "OpenAIのサム・アルトマンCEOが国連で、AIの安全な使い方や人間がAIをコントロールすること、そして世界中が協力してAIの開発を進めることの重要性を話しました。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
+      "published": "2026-09-23T12:00:00.000Z"
     },
     {
       "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
@@ -163,6 +307,14 @@
       "published": "2026-09-23T04:00:00.000Z"
     },
     {
+      "title": "Stable Unsupervised Continual Chunking with Sheaf SyncMap",
+      "summary": "AIが時間とともに変化するデータから、似たもの同士をグループ分けする新しい方法を開発しました。これにより、AIは新しいことを学んでも、以前の知識を忘れたり間違えたりしにくくなります。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2609.25143",
+      "published": "2026-09-23T04:00:00.000Z"
+    },
+    {
       "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
       "summary": "起業家が苦労から学ぶ必要がないように、このイベントでは資金調達や人材採用、AIの最新情報について、成功のヒントが得られます。11月4日にボストンで開催され、起業の難しさを乗り越え、成功をさらに大きくするための学びを提供します。",
       "source": "TechCrunch AI",
@@ -240,6 +392,14 @@
       "source": "arXiv (cs.AI)",
       "category": "research",
       "url": "https://arxiv.org/abs/2609.20974",
+      "published": "2026-09-22T04:00:00.000Z"
+    },
+    {
+      "title": "CaLR: Causal Latent Revision for Robust Diffusion Reasoning",
+      "summary": "AIが文章を作る時、前の言葉に引きずられて間違った方向へ進んでしまうことがあります。この新技術（CaLR）は、AIが途中で考えを修正し、論理的に正しい答えを出すのを助け、難しい問題も解けるようにします。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2609.20981",
       "published": "2026-09-22T04:00:00.000Z"
     },
     {
@@ -641,166 +801,6 @@
       "category": "business",
       "url": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/",
       "published": "2026-09-16T16:30:00.000Z"
-    },
-    {
-      "title": "Helping older adults use AI in everyday life",
-      "summary": "AI（人工知能）を安全に使う方法を、お年寄り1000人に無料で教えるワークショップがアメリカの10都市で開かれます。ChatGPT（文章を作るAI）の使い方を体験しながら学べ、生活に役立つスキルが身につきます。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
-      "published": "2026-09-16T16:00:00.000Z"
-    },
-    {
-      "title": "Reimagining advertising with AI",
-      "summary": "AI（人工知能）が広告の作り方を変えようとしています。OpenAIは、広告主向けの新しいツールや、Shopify（ネットショップ作成サービス）などとの連携を発表しました。これにより、より効果的な広告が作れるようになると期待されています。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/reimagining-advertising-with-ai",
-      "published": "2026-09-16T13:00:00.000Z"
-    },
-    {
-      "title": "How to connect AI usage to business value",
-      "summary": "ChatGPT（文章を作るAI）の使いかたを分析すると、チームがAIの利用状況や費用を把握し、どんなスキルが必要かを知ることができます。これにより、AIの導入が会社の成果にどうつながるかが見えるようになり、より効果的にAIを活用できるようになります。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
-      "published": "2026-09-16T12:00:00.000Z"
-    },
-    {
-      "title": "How workers are unlocking new ways of working",
-      "summary": "AI（人工知能）が、これまでと違う仕事のやり方を広げていることがわかりました。AIは、決められた仕事だけでなく、新しいアイデアを考えたり、複雑な分析をしたりと、私たちの仕事を助ける新しい方法を見つけ出しています。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/unlocking-new-ways-of-working",
-      "published": "2026-09-16T09:00:00.000Z"
-    },
-    {
-      "title": "Optimal Pruning for Neural Architectures using Fisher Information Distances",
-      "summary": "AIの「賢さ」を保ちつつ、無駄な部分を削ぎ落とす新しい方法が見つかりました。これは、AIの構造を数学的に分析し、どの部分を削っても賢さが大きく損なわれないかを見つける技術で、AIをより効率的にするのに役立ちます。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2609.16129",
-      "published": "2026-09-16T04:00:00.000Z"
-    },
-    {
-      "title": "Safe Error Correction for Language Models: Frozen-Base Adjustment with Capability Preservation",
-      "summary": "AIが間違った答えを出したときに、AI本体をいじらずに、少しの追加機能で正しく直す方法が開発されました。これは、AIの賢さを保ちつつ、間違いだけを減らす画期的な技術です。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2609.16145",
-      "published": "2026-09-16T04:00:00.000Z"
-    },
-    {
-      "title": "GPEvac: GNN-Based PPO for Adaptive Evacuation Routing During Shooting Events",
-      "summary": "銃乱射事件で、AIがリアルタイムで安全な避難経路を計算するシステム「GPEvac」が開発されました。建物の形に関係なく、AIが素早く最適なルートを見つけることで、危険にさらされる時間を減らし、人命救助に役立つと期待されています。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2609.16163",
-      "published": "2026-09-16T04:00:00.000Z"
-    },
-    {
-      "title": "Position: AI Is Not Ready for Strategic Conflicts",
-      "summary": "AI（人工知能）は、まだ戦争のような複雑な戦略的判断ができるほど賢くない。AIを使ったシミュレーション（仮想的な実験）は、AIの弱点を見つけるために使うべきで、実際の計画や政策に使うのは危険だと専門家は警鐘を鳴らしている。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2609.16189",
-      "published": "2026-09-16T04:00:00.000Z"
-    },
-    {
-      "title": "Calibrate, Then Route: A Measured Study of Learned Request Routing for Disaggregated LLM Serving",
-      "summary": "AI（人工知能）が「文章を作るAI（LLM）」からの依頼を、どのコンピューターに送るか、より賢く決める方法が見つかりました。これにより、AIの応答速度が上がり、無駄が減ることが分かりました。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2609.16206",
-      "published": "2026-09-16T04:00:00.000Z"
-    },
-    {
-      "title": "Causal neural set filtering for online multi-target tracking",
-      "summary": "AIがたくさんの動き回るもの（人や車など）を追いかける時、これまでのやり方だと無駄な計算が多くありました。新しい「CNSF」という方法では、最新の情報だけを処理し、過去の情報を賢く持ち越すことで、より速く、より少なくコンピューターの力で正確に追いかけられるようになりました。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2609.16054",
-      "published": "2026-09-16T04:00:00.000Z"
-    },
-    {
-      "title": "Managing Action Preconditions in Neuro-Symbolic RL: Three Placement Strategies for Embodied Agents",
-      "summary": "AI（人工知能）が「いつ、どんな行動をして良いか」を判断する新しい方法を研究しました。これにより、AIは過去の経験を活かして、より安全で確実な行動ができるようになり、ロボットなどが複雑な作業をこなすのに役立ちます。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2609.16056",
-      "published": "2026-09-16T04:00:00.000Z"
-    },
-    {
-      "title": "OmniHarness: Harnessing Generalizable Visual Generation via Symbolic Policy Learning",
-      "summary": "AIが絵を生成する技術で、これまで苦手だった「応用力」を大きく伸ばす新しい方法「OmniHarness」が登場しました。これは、AIが色々な絵作りの「コツ」を学ぶことで、初めて見るお題でも上手に絵を描けるようになる画期的な仕組みです。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2609.16057",
-      "published": "2026-09-16T04:00:00.000Z"
-    },
-    {
-      "title": "Driver Behavior Estimation at Signalized Intersections Using a Physics-Constrained Decision-Conditioned Autoregressive Transformer",
-      "summary": "信号のある交差点で、赤信号無視や急ブレーキによる事故を防ぐため、AIがドライバーの判断や動きを予測する技術が開発されました。このAIは、実際の車の動きやドライバーの心拍数などを分析し、より自然なブレーキを再現できるようになっています。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2609.16058",
-      "published": "2026-09-16T04:00:00.000Z"
-    },
-    {
-      "title": "HintMiner: Automatic Question Hints Mining From Q&A Web Posts with Language Model via Self-Supervised Learning",
-      "summary": "AIがウェブ上の質問と回答から、質問へのヒントを自動で見つけ出す「HintMiner」を開発しました。これにより、質問への回答がすぐに見つからない場合でも、ユーザーが自分で答えを見つけやすくなることが期待されます。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2609.16060",
-      "published": "2026-09-16T04:00:00.000Z"
-    },
-    {
-      "title": "The AI data center boom is colliding with cities scarred by big industry",
-      "summary": "AI（人工知能）のデータセンターを建てる場所を巡って、各地で反対の声が上がっています。フィラデルフィアでは、かつて石油工場があった土地に、AIデータセンターを建てる案が出ましたが、住民からは懸念の声が上がっています。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
-      "published": "2026-09-15T21:47:38.000Z"
-    },
-    {
-      "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
-      "summary": "WhatsApp Business（お店が使うLINEみたいなもの）の設定が、AI（コンピューターがお手伝い）で楽になりました。AIが面倒な作業を代わりにやってくれるので、お店の人はもっとお客さんと話すことに集中できます。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
-      "published": "2026-09-15T20:12:53.000Z"
-    },
-    {
-      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-      "summary": "AIの進化は速く、期待されたほどの成果が出せずに終わったプロジェクトもたくさんあります。有名企業でも、AI開発がうまくいかず、サービスが中止されたり、計画通りに進まなかったりする例が見られます。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-      "published": "2026-09-15T19:00:00.000Z"
-    },
-    {
-      "title": "US data centers could consume more natural gas than Germany and Japan combined by 2035",
-      "summary": "2035年までに、アメリカのAIデータセンターが使う天然ガスは、ドイツと日本を合わせた量を超えるかもしれません。これは、AI（人工知能）の急成長が、エネルギー消費を大きく増やすことを意味しています。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/",
-      "published": "2026-09-15T18:29:20.000Z"
-    },
-    {
-      "title": "AI agents now have a place to snitch",
-      "summary": "AIが「悪いこと」をしたら、こっそり通報できる窓口ができた。AIエージェント（指示されたことをこなすAI）が、他のAIの不適切な行動を目撃した場合に、それを運営者に知らせるためのものだ。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/",
-      "published": "2026-09-15T17:42:59.000Z"
-    },
-    {
-      "title": "Your Agent Aced the Task. Will It Do It Again?",
-      "summary": "AIエージェント（指示された仕事をするAI）が一度成功しても、同じことを二度目も確実にできるとは限りません。AIが頼りになる存在になるには、繰り返し正確にタスクをこなせる能力が大切だと記事は伝えています。",
-      "source": "Hugging Face",
-      "category": "product",
-      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
-      "published": "2026-09-15T16:00:44.000Z"
     }
   ]
 }
