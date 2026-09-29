@@ -1,7 +1,127 @@
 {
-  "updatedAt": "2026-09-26T00:24:45.012Z",
+  "updatedAt": "2026-09-29T01:30:53.624Z",
   "count": 100,
   "items": [
+    {
+      "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
+      "summary": "AIの新しいチーム「Surge」が、スタートアップへの投資上限を500万ドルに引き上げ、18社を発表しました。このうち13社は世界市場を狙っており、半数以上がインドに拠点を置いているのが特徴です。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/",
+      "published": "2026-09-29T00:30:00.000Z"
+    },
+    {
+      "title": "OpenAI reportedly ditches model over safety concerns",
+      "summary": "OpenAIが、指示をうまく守れないAIモデルの開発をやめたようです。AIが安全に、人の指示に従って動くことはとても重要で、今回の判断はそのために必要なことだと考えられます。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
+      "published": "2026-09-28T23:39:20.000Z"
+    },
+    {
+      "title": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
+      "summary": "AIの計算を助ける会社（Modal Labs）が、たった4ヶ月で会社の価値を3倍以上に高め、約1兆円（157.5億ドル）で資金調達しようとしています。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/",
+      "published": "2026-09-28T21:29:18.000Z"
+    },
+    {
+      "title": "AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion",
+      "summary": "コンピューターチップを作る会社AMDが、AI研究者のFei-Fei Liさんが率いるWorld Labsという会社を約820億円で買収します。LiさんはAMDの新しい科学技術担当役員になり、AI分野でのAMDの力をさらに強めることが期待されます。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/",
+      "published": "2026-09-28T20:39:33.000Z"
+    },
+    {
+      "title": "Shopify opens checkout to browser-based AI agents",
+      "summary": "ネット通販で買い物がもっと便利に！ECサイト「Shopify」が、AI（人工知能）が代わりに注文内容を変更したり、購入手続きを済ませたりできるようになります。あなたがお金を払う許可をAIに与えれば、AIが代わりに買い物を完了してくれるイメージです。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/",
+      "published": "2026-09-28T19:33:57.000Z"
+    },
+    {
+      "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+      "summary": "AIが作った感動的な映像作品が、未来の映像表現の可能性を示しました。この作品は、AI（人工知能）が物語を考え、映像を作り出す「Future Vision XPRIZE」というコンテストで優勝したものです。",
+      "source": "Google AI Blog",
+      "category": "research",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
+      "published": "2026-09-28T19:00:00.000Z"
+    },
+    {
+      "title": "Holo4: powering generalist computer-use agents",
+      "summary": "Holo4は、パソコンの様々な操作をこなせるAI（人工知能）の開発に貢献する技術です。これにより、AIがより多くの場面で人間のようにパソコンを使えるようになり、私たちの生活が便利になる可能性があります。",
+      "source": "Hugging Face",
+      "category": "product",
+      "url": "https://huggingface.co/blog/Hcompany/holo4",
+      "published": "2026-09-28T09:44:05.000Z"
+    },
+    {
+      "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+      "summary": "AIの会社OpenAIが、ニュースを作るためのAI（文章を作るAI）を支援するプログラムに、さらに500万ドル（約7.5億円）を出すことになりました。これにより、AIを使った新しいニュースの作り方や、AIを学ぶ人の育成がもっと進むでしょう。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
+      "published": "2026-09-28T07:00:00.000Z"
+    },
+    {
+      "title": "Bringing AI to Autonomous Systems -- From Cognition to Collective Intelligence",
+      "summary": "AIの最終形は、自分で考え、判断し、行動できる「自律システム」だ。この記事では、その実現に必要なAI技術や、複数のAIが協力して賢くなる方法、そしてAIが信頼できるかどうかの新しい評価方法について解説している。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2609.30291",
+      "published": "2026-09-28T04:00:00.000Z"
+    },
+    {
+      "title": "ScopeBench: Do Agents Preserve Engagement Boundaries Under Goal Pressure?",
+      "summary": "AIがインターネットの安全を守るテスト（ペネトレーションテスト）をする際、決まった範囲（スコープ）を守れるかが課題になっています。この研究では、AIが範囲を越えた危険な行動をとらないかを試す新しいテスト「ScopeBench」を開発しました。これにより、AIが指示された範囲内で安全に作業できるかを評価できるようになり、AIをより安全に実社会で使うための重要な一歩となります。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2609.30325",
+      "published": "2026-09-28T04:00:00.000Z"
+    },
+    {
+      "title": "When Is a Multi-Agent Code Judge Actually Grounded? Two Label-Free Measurements, and a Judge That Declines to Guess",
+      "summary": "AIが他のAIの書いたプログラムを評価する際、根拠がなくても自信満々に「正しい」と断定してしまう問題があります。そこで、複数のAIが検証する仕組みが提案されていますが、この仕組みがうまく機能するには、評価対象と関係ない証拠が必要だと研究者たちは指摘します。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2609.30328",
+      "published": "2026-09-28T04:00:00.000Z"
+    },
+    {
+      "title": "Bridging LLM Agents and Data Spaces: An Architectural Mediation Approach using the Model Context Protocol",
+      "summary": "AI（人工知能）が、組織をまたいだ安全なデータ共有（データスペース）とうまく連携できない課題を解決する新しい方法が提案されました。AIエージェントがデータスペースのルールを守りながら、必要なデータを見つけて使えるようにする仕組みです。これにより、AIを使ったデータ活用がより簡単になり、組織間の連携もスムーズになります。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2609.30341",
+      "published": "2026-09-28T04:00:00.000Z"
+    },
+    {
+      "title": "Stealth Apart, Harm Together: Skill Cascading Attacks on Skill-Based Agent Systems",
+      "summary": "AIが「スキル」（できること）を組み合わせて使うとき、複数のスキルをこっそり悪用して、全体で危険な指示を出す攻撃が見つかりました。単独では問題ないように見えても、組み合わさると薬の危険な飲み合わせに気づかなくなるなど、深刻な結果を招く可能性があります。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2609.30383",
+      "published": "2026-09-28T04:00:00.000Z"
+    },
+    {
+      "title": "Are you a Codex Original?",
+      "summary": "Codex（コードを作るAI）を使ってすごいことをしている人たちの体験談を集めています。あなたのCodexを使った新しいプロジェクトのアイデアがあれば、ぜひ教えてください。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/form/codex-originals",
+      "published": "2026-09-28T00:00:00.000Z"
+    },
+    {
+      "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
+      "summary": "新しいAI「GPT-6 Astra」は、税金の書類作りを前のバージョンより2倍速く終えました。ユーザーの意図をより正確に理解できるため、実際に仕事で使うことへの信頼が高まっています。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/basis-tax-workbook-with-astra",
+      "published": "2026-09-28T00:00:00.000Z"
+    },
     {
       "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
       "summary": "AIのデータセンターを動かすための新しい発電方法が、一時的に見送られました。これまでは boomsupersonic社のタービンを使う計画でしたが、今回は実現しないことになったようです。",
@@ -507,6 +627,14 @@
       "published": "2026-09-21T12:00:00.000Z"
     },
     {
+      "title": "tokenizers v1: encode, decode and scaling, measured",
+      "summary": "AIが文章を理解し、作り出すための「箱詰め」技術が進化しました。これにより、AIがより速く、より多くの情報を扱えるようになり、AIの能力が大きく広がる可能性があります。",
+      "source": "Hugging Face",
+      "category": "product",
+      "url": "https://huggingface.co/blog/tokenizers-v1",
+      "published": "2026-09-21T00:00:00.000Z"
+    },
+    {
       "title": "6 days left to save up to $200 to TechCrunch Disrupt 2026",
       "summary": "AIの未来を語る大きなイベント「TechCrunch Disrupt 2026」への参加費が、9月25日まで割引価格で購入できます。10,000人以上の起業家や技術者たちと、AIの最新動向について情報交換できる貴重な機会です。",
       "source": "TechCrunch AI",
@@ -673,134 +801,6 @@
       "category": "research",
       "url": "https://arxiv.org/abs/2609.17631",
       "published": "2026-09-17T04:00:00.000Z"
-    },
-    {
-      "title": "EvolveTrade: Experience-Driven Policy Refinement for Self-Evolving LLM Trading Agents",
-      "summary": "AIが株取引をする際、いままで決まったやり方でしか情報収集やリスク管理ができませんでした。しかし、「EvolveTrade」という新しい仕組みを使うと、AI自身が経験から学び、株取引のやり方をどんどん改良できるようになります。これにより、AIはより賢く、利益を上げやすくなると期待されています。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2609.17632",
-      "published": "2026-09-17T04:00:00.000Z"
-    },
-    {
-      "title": "One Color Preprocessing Improves DSATUR",
-      "summary": "「グラフの色塗り問題」を解くAI（DSATUR）を、あらかじめAI（SDP）が色の候補を一つ決めてあげることで、より少ない色で効率よく解けるように改良しました。これはDSATURの性能を向上させる新しい方法で、様々なグラフで効果が確認されています。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2609.17633",
-      "published": "2026-09-17T04:00:00.000Z"
-    },
-    {
-      "title": "Physics-Constrained Digital Twins for Sensor Integrity in Urban Pedestrian Flow: Detecting Stealthy False Data Injection with Conformal Guarantees",
-      "summary": "街の人の流れを測るシステムが、悪意のあるデータでだまされないようにする新しい方法が見つかりました。物理法則（例えば、人が急に消えたり現れたりしないこと）をAI（デジタルツイン）に組み込むことで、こっそり送られてくる偽のデータを正確に見つけ出せるようになったのです。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2609.17635",
-      "published": "2026-09-17T04:00:00.000Z"
-    },
-    {
-      "title": "What You Can't See Is Still What You Learn: A Preregistered Sixty-Society Confirmation That Evidence Masking Drives Compositional Generalization",
-      "summary": "AIが「隠された情報」から学ぶことで、新しい問題に対応する力が格段に上がることがわかりました。これは、AIが情報を「見る」範囲を制限すると、より賢く学習できることを示しており、今後のAI開発に役立つ発見です。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2609.17637",
-      "published": "2026-09-17T04:00:00.000Z"
-    },
-    {
-      "title": "Pay Only for Disagreement: Certified No-Regression Verdicts for Model Updates with Matching Label-Complexity Bounds",
-      "summary": "AIモデルの更新で、性能が悪くなっていないかを確認する新しい方法が開発されました。AIが間違える場所だけをチェックするため、ラベル（正解）をつける手間が大幅に減り、賢く品質を保証できます。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2609.17560",
-      "published": "2026-09-17T04:00:00.000Z"
-    },
-    {
-      "title": "Beyond Static RAG: An Adaptive, Tri-Metric Routing Framework for Efficient Long-Context Inference on Commodity GPUs",
-      "summary": "長文のAI（文章を作るAI）を使いこなすための新しい技術が登場しました。GPU（AIの計算機）の容量が限られていても、AIが文章をうまく作れるように、３つの指標（複雑さ、単語の種類、密度）で最適な方法を選びます。これにより、AIがエラーを起こさず、より効率的に長文を生成できるようになりました。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2609.17564",
-      "published": "2026-09-17T04:00:00.000Z"
-    },
-    {
-      "title": "Where Grokking Happens: Distributed Utility and Fourier Recoding Without a Module Switch",
-      "summary": "AIが学習する「なぜ」がどこで生まれるのかを研究。AIが急に賢くなる現象（grokking）は、特定の部品が新しくなるのではなく、情報が別の形で処理されることで起きると分かりました。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2609.17571",
-      "published": "2026-09-17T04:00:00.000Z"
-    },
-    {
-      "title": "Disentangling Algorithmic Bias from Archival Artifacts: A Controlled Audit of Vision-Language Model Valuation in Metropolitan Museum Archives",
-      "summary": "AIが美術品の評価で性別による偏りがないか調べたところ、AI（文章と画像で理解するAI）の全体的な評価は男女で大きな差がありませんでした。しかし、これはAIの評価方法がまだ粗いため、細かい偏りを見つけるのが難しいことが分かりました。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2609.17572",
-      "published": "2026-09-17T04:00:00.000Z"
-    },
-    {
-      "title": "Temperon: Full-Time SAM Quality at a Third Less Wall-Clock",
-      "summary": "AIの学習を速くする新しい方法「Temperon」が開発されました。これは、学習の最初だけ特別な方法（SAM）を使い、後半でAIをさらに改良することで、学習時間を3分の1に短縮しながら、今までと同じ高い精度を実現します。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2609.17575",
-      "published": "2026-09-17T04:00:00.000Z"
-    },
-    {
-      "title": "Introducing Astra for Law",
-      "summary": "OpenAIが、法律分野に特化したAI「Astra」を発表しました。これにより、専門的な法律業務の効率化や、機密情報を含む顧客データの安全な管理が可能になります。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/astra-for-law",
-      "published": "2026-09-17T00:00:00.000Z"
-    },
-    {
-      "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
-      "summary": "AIを作る会社が、開発の内部に「安全チェック係」を置こうとしています。これはすごいことですが、本当にチェックが効くかは、情報公開や独立性が大事だと専門家は言っています。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
-      "published": "2026-09-16T21:07:24.000Z"
-    },
-    {
-      "title": "After accusations of selling ‘perv glasses,’ Meta prepares to sell a pair without a camera",
-      "summary": "メタ社がカメラなしの新しいメガネを発売。以前の「変態メガネ」という批判（カメラで隠し撮りができるという懸念）を避け、プライバシーに配慮した製品でイメージ回復を狙います。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/09/16/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera/",
-      "published": "2026-09-16T20:12:00.000Z"
-    },
-    {
-      "title": "AI labs want in-house auditors — but maybe they should shut the front door first",
-      "summary": "AIの「失敗」を防ぐために、AIを作っている会社が内部にチェックする係（監査官）を置こうとしていますが、もしかしたら、もっと簡単な方法があるかもしれません。それは、AIが勝手に動き出すのを、そもそもさせないようにすることです。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/09/16/ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first/",
-      "published": "2026-09-16T18:25:25.000Z"
-    },
-    {
-      "title": "Our framework for reporting model misalignment",
-      "summary": "AIが「おかしいな？」と思ったことを、ちゃんと調べるための新しい報告ルールをOpenAIが公開しました。これまで経験した6つの事例も紹介し、AIの安全な開発に役立てようとしています。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/model-misalignment-reporting-framework",
-      "published": "2026-09-16T17:00:00.000Z"
-    },
-    {
-      "title": "Your AI agents can now control your Google Home devices",
-      "summary": "AI（人工知能）が、あなたの家のスマートスピーカー（Google Homeなど）を操作できるようになります。これにより、AIに話しかけるだけで、照明をつけたり、カメラの映像を確認したりできるようになり、暮らしが便利になります。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
-      "published": "2026-09-16T17:00:00.000Z"
-    },
-    {
-      "title": "Anthropic merges Claude chat and Cowork in one interface",
-      "summary": "文章を作るAI「Claude」と、仕事の効率を上げるAI「Cowork」が一緒になって、もっと使いやすくなったよ。これからは、話しかけるだけでなく、仕事のサポートもClaudeにお願いできるようになるのが新しい点。まず、有料プランの利用者が使えるようになる。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/",
-      "published": "2026-09-16T16:30:00.000Z"
     }
   ]
 }
