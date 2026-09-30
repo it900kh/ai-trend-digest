@@ -1,7 +1,55 @@
 {
-  "updatedAt": "2026-09-29T01:30:53.624Z",
+  "updatedAt": "2026-09-30T01:07:53.300Z",
   "count": 100,
   "items": [
+    {
+      "title": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
+      "summary": "イーロン・マスク氏のAI企業xAIが、OpenAIの新AI「Dots」の発表前に「dot.com」というドメイン名を取得しました。このドメイン名は現在、xAIのチャットボット「Grok」のダウンロードページに誘導されており、OpenAIをからかったのではないかと話題になっています。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
+      "published": "2026-09-29T22:20:59.000Z"
+    },
+    {
+      "title": "OpenAI’s latest features take direct aim at the app store model",
+      "summary": "OpenAIは、iPhoneアプリなどを探す「アプリストア」に代わる新しい仕組みを作り始めています。ChatGPT（文章を作るAI）を通して、人間だけでなくAIも使える便利なソフトを見つけられるようになるのが狙いです。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
+      "published": "2026-09-29T20:15:47.000Z"
+    },
+    {
+      "title": "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
+      "summary": "OpenAIは、Nvidia（高性能なAIチップを作る会社）が始めた、AIが勝手に暴走しないようにする取り組みに公には参加していませんが、Nvidiaとは秘密裏に協力していることがわかりました。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
+      "published": "2026-09-29T18:35:00.000Z"
+    },
+    {
+      "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
+      "summary": "NVIDIAが開発したKumo Tabularは、表形式のデータ（エクセルやデータベースのようなもの）を分析し、将来を予測するAI（人工知能）で、これまでになく正確で効率的な性能を発揮します。これにより、ビジネスの意思決定などがより賢く、迅速に行えるようになります。",
+      "source": "Hugging Face",
+      "category": "product",
+      "url": "https://huggingface.co/blog/nvidia/kumo-tabular",
+      "published": "2026-09-29T15:30:38.000Z"
+    },
+    {
+      "title": "ENAS: An Efficient Hardware-Aware Neural Architecture Search Framework for TinyML on Resource-Constrained Microcontrollers",
+      "summary": "小さいコンピューター（マイコン）でAIを動かすための、効率的な設計方法「ENAS」が開発されました。GPUを使わず、少ないメモリでもAIの設計を速く見つけられるのが特徴で、医療画像認識などで、より少ない資源で高い性能を発揮します。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2609.30272",
+      "published": "2026-09-29T04:00:00.000Z"
+    },
+    {
+      "title": "Cosine Similarity Is Not Evidence: Measuring the Noise Floor of Interpretability Transfer Under Quantization",
+      "summary": "AIの「説明できる度合い」を測る方法に、実は落とし穴があることがわかりました。AIの性能を落とさずに小さくする（量子化）と、AIがなぜそう判断したかの説明が本当に保たれているのか、わかりにくい数字（コサイン類似度など）でしか示されていない場合があるのです。\nこの研究では、その数字がどれくらい信頼できるのかを測る「ノイズの基準」を計算する方法を開発しました。この方法で調べたところ、AIの判断が実際には変わってしまっていることが明らかになりました。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2609.30275",
+      "published": "2026-09-29T04:00:00.000Z"
+    },
     {
       "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
       "summary": "AIの新しいチーム「Surge」が、スタートアップへの投資上限を500万ドルに引き上げ、18社を発表しました。このうち13社は世界市場を狙っており、半数以上がインドに拠点を置いているのが特徴です。",
@@ -48,6 +96,22 @@
       "source": "Google AI Blog",
       "category": "research",
       "url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
+      "published": "2026-09-28T19:00:00.000Z"
+    },
+    {
+      "title": "Towards safety cases for frontier AI training",
+      "summary": "AI（人工知能）の進化には、安全対策が欠かせません。特に、最先端のAI開発では、AIが意図しない動きをしないか、問題が起きた時にどう対応するかといった、具体的な安全計画（安全ケース）の作成が重要になっています。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+      "published": "2026-09-28T19:00:00.000Z"
+    },
+    {
+      "title": "How we will do better for Australia",
+      "summary": "OpenAIは、オーストラリア政府のウェブサイトで起きた問題について謝罪し、サイバー攻撃から国を守るための新しい対策と支援策を発表しました。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/how-we-will-do-better-for-australia",
       "published": "2026-09-28T19:00:00.000Z"
     },
     {
@@ -737,70 +801,6 @@
       "category": "product",
       "url": "https://openai.com/index/australian-youth-safety-blueprint",
       "published": "2026-09-18T12:00:00.000Z"
-    },
-    {
-      "title": "Crusoe raises $3.9B to build massive data centers and small modular “AI factories”",
-      "summary": "AIの計算には大量の電力が必要ですが、Crusoeは再生可能エネルギー（自然の力）で作った安価な電力で、巨大なコンピューター施設（データセンター）や小型のAI工場を建てるために、約5000億円（39億ドル）の資金調達に成功しました。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
-      "published": "2026-09-17T23:25:52.000Z"
-    },
-    {
-      "title": "Google DeepMind launches institute to widen the AGI debate",
-      "summary": "GoogleのAI研究チームが、人間のように幅広い知能を持つ「AGI（汎用人工知能）」について、みんなで話し合うための研究所を立ち上げました。これは、AGIが社会にどう影響するか、安全にどう開発するかといった難しい問題を、専門家だけでなく多くの人と一緒に考えるための新しい取り組みです。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/",
-      "published": "2026-09-17T23:21:17.000Z"
-    },
-    {
-      "title": "PrismML hopes its tiny LLM will change how we all use AI",
-      "summary": "AI開発会社PrismMLが、とても小さなAI（LLM）を開発しました。このAIは、スマホなどでも動くため、いつでもどこでもAIを使えるようになり、私たちのAIとの付き合い方を大きく変えるかもしれません。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/",
-      "published": "2026-09-17T22:34:09.000Z"
-    },
-    {
-      "title": "The FAA’s plan to fix air traffic? $875M worth of AI",
-      "summary": "アメリカの空の安全を守る航空管制官のお仕事を、AI（人工知能）の新しいソフトが助けることになりました。これにより、管制官はよりスムーズに飛行機を誘導できるようになり、空の安全性がさらに高まることが期待されています。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/",
-      "published": "2026-09-17T22:14:59.000Z"
-    },
-    {
-      "title": "The fix for rogue AI agents could be more AI",
-      "summary": "AIに複雑な仕事を任せると、人間が見きれないほどの速さで、たくさんの処理が進んでしまう問題が起きています。この問題の解決策として、AI自身がAIの行動をチェックするという、AIを使った新しい方法が注目されています。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/",
-      "published": "2026-09-17T20:34:47.000Z"
-    },
-    {
-      "title": "Making global data easier to explore",
-      "summary": "国連の統計データをもっと見やすく、探しやすくする「UN System Data Commons」という新しいウェブサイトができました。世界中の情報にアクセスしやすくなり、これまで難しかったデータ分析が誰でもできるようになります。",
-      "source": "Google AI Blog",
-      "category": "research",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
-      "published": "2026-09-17T20:00:00.000Z"
-    },
-    {
-      "title": "How Cooley is accelerating IPO work with ChatGPT",
-      "summary": "Cooleyという会社が、ChatGPT（文章を作るAI）を使って、会社が株を公開する（IPO）準備を速く進める新しいシステムを作りました。IPOの準備は複雑で時間がかかりますが、このシステムのおかげで、弁護士たちが問題点に早く気づき、本当に大事な判断に集中できるようになります。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/cooley-gopublic",
-      "published": "2026-09-17T12:00:00.000Z"
-    },
-    {
-      "title": "Making AI-Assisted Claims Independently Challengeable: Publication Authority and a Protocol for Falsifiable Publication Records",
-      "summary": "AIが作った主張が、本当に正しいか疑わしい場合がある。そこで、AIの主張が「いつ」「どのように」作られたかを記録し、誰でも検証できるようにする仕組みを開発した。これにより、AIの主張の信頼性を高めることができる。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2609.17631",
-      "published": "2026-09-17T04:00:00.000Z"
     }
   ]
 }
