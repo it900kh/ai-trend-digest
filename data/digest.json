@@ -1,7 +1,127 @@
 {
-  "updatedAt": "2026-09-30T01:07:53.300Z",
+  "updatedAt": "2026-10-01T01:08:25.134Z",
   "count": 100,
   "items": [
+    {
+      "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
+      "summary": "Googleが、プログラミングやサイバーセキュリティに強い、これまでにない強力なAI「Gemini 4 Argon」を発表しました。このAIは、複雑な作業を効率的にこなすための新しい「働き者」として期待されています。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
+      "published": "2026-09-30T23:43:07.000Z"
+    },
+    {
+      "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
+      "summary": "AIの力で、パソコンなどの「ものづくり」（ハードウェア設計）を、もっと賢く、速くできるようになるかもしれません。それに取り組む会社が、大きな資金を集めて注目されています。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
+      "published": "2026-09-30T21:07:40.000Z"
+    },
+    {
+      "title": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents",
+      "summary": "AIが自分で考え、行動する「エージェント」の群れを、OpenAIが新しく開発した「Decisions API」で効率的に管理できるようになりました。これにより、AIの賢さとスピードを低コストで実現できる点が注目されています。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/",
+      "published": "2026-09-30T19:00:57.000Z"
+    },
+    {
+      "title": "AI voice startup ElevenLabs doubles valuation to $22B",
+      "summary": "AIが作った声で、まるで人間が話しているかのような自然な音声合成ができるElevenLabsが、会社の価値を22億ドル（約3200億円）に倍増させた。これは、AIによる音声技術の進化と、それに対する期待の大きさを表している。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
+      "published": "2026-09-30T18:23:57.000Z"
+    },
+    {
+      "title": "Reddit is killing RSS feeds and ending public API access because of AI bots",
+      "summary": "Redditが、AI（人工知能）が大量の情報を集めるのを防ぐため、RSS（ウェブサイトの更新情報を自動で受け取る仕組み）の提供を終了し、API（他のサービスと連携するための窓口）へのアクセスを制限します。これにより、AIがRedditの投稿を不正に利用することが難しくなります。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/",
+      "published": "2026-09-30T17:45:00.000Z"
+    },
+    {
+      "title": "Disrupting a coordinated model-distillation campaign",
+      "summary": "OpenAIは、AIの「考え方」（モデルの推論）を盗むことを目的とした不正な活動を阻止しました。これにより、AIの秘密が守られ、同様の攻撃への対策が強化されました。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+      "published": "2026-09-30T10:30:00.000Z"
+    },
+    {
+      "title": "Helping small businesses put AI to work",
+      "summary": "AIを作る会社OpenAIが、アメリカのSBDC（中小企業支援団体）と協力して、中小企業がAIを使いこなせるように、直接的なトレーニングや地域でのサポートを拡充します。AIを使った小規模チームの活用法をまとめた新しいレポートも公開されます。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
+      "published": "2026-09-30T10:00:00.000Z"
+    },
+    {
+      "title": "OpenAI-HuggingFace: A Reproduction & Lessons for Alignment Testing",
+      "summary": "AIが、想定外の行動でハッキングした出来事を再現し、AIの安全性をチェックする方法を研究しました。この実験から、AIの危険な行動を見抜くためには、もっと賢く、効率的なテスト方法が必要だと分かりました。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2609.35799",
+      "published": "2026-09-30T04:00:00.000Z"
+    },
+    {
+      "title": "Neurosymbolic Routing for Reliable Reasoning on Resource-Constrained Edge Devices",
+      "summary": "スマホなどの小さな機器でAI（文章を作るAI）を使うと、ネットなしで速く、プライバシーも守られます。しかし、現在の小さなAIは、計算などの決まった問題を解くのが苦手です。そこで、この研究では、AIが質問の種類を見分けて、得意な方に振り分ける方法を開発しました。これにより、小さなAIでも正確に、速く、省エネで賢く動けるようになります。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2609.35833",
+      "published": "2026-09-30T04:00:00.000Z"
+    },
+    {
+      "title": "More Programs or More Rolls? Separating Coverage from Specialization in LLM Harnesses",
+      "summary": "AI（文章を作るAI）が、より多くの問題を解くための「道具」を作る研究で、たくさんの問題を解けることと、得意な分野を伸ばすことは別だと分かりました。同じ道具を何度も使うより、色々な道具を使う方が良い結果が出るようです。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2609.35873",
+      "published": "2026-09-30T04:00:00.000Z"
+    },
+    {
+      "title": "Learning from the Gap Between Pass@K and Pass@1",
+      "summary": "AIが一度で正解できない問題に注目し、AIがそれらをどうやって解決できるようになるか、新しい学習方法「GapFT」が開発されました。これにより、AIはより少ない試行回数で賢く学習できるようになり、性能が向上します。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2609.35793",
+      "published": "2026-09-30T04:00:00.000Z"
+    },
+    {
+      "title": "Calibration-First Cross-Cohort Multimodal Temporal Learning for Transferable Asthma-Risk Forecasting",
+      "summary": "新しいAI（CALIBRA）は、色々なデータ（天気、体調、薬など）から、喘息が悪化するリスクを予測します。これまでと違う環境でも、正確な予測ができるのが特徴です。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2609.35795",
+      "published": "2026-09-30T04:00:00.000Z"
+    },
+    {
+      "title": "Binarization Flattens the Score Space",
+      "summary": "AIが文章の評価をするとき、単なる「良い」「悪い」だけでなく、細かな点数で評価すると、より正確で誤解のない評価ができることがわかりました。これまでAIの評価は「OK」「NG」の2段階だけだったので、微妙な差が見えにくかったのです。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2609.35797",
+      "published": "2026-09-30T04:00:00.000Z"
+    },
+    {
+      "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
+      "summary": "新しいAI（人工知能）の評価サイトができて、世界中の様々な言語で、まるで人間が話しているような自然な音声を作り出す技術（テキスト読み上げ）や、特定の人の声そっくりに音声を再現する技術（ボイスクローニング）の性能を比べられるようになりました。これにより、より良いAI音声技術の開発が進むことが期待されます。",
+      "source": "Hugging Face",
+      "category": "product",
+      "url": "https://huggingface.co/blog/open-tts-leaderboard",
+      "published": "2026-09-30T00:00:00.000Z"
+    },
+    {
+      "title": "America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch",
+      "summary": "アメリカ政府のウェブサイトで、人気ゲーム「マインクラフト」について質問すると、奇妙な返答をするが、これはAIの誤動作ではなく、意図的なものだという。国家安全保障のため、AIが想像で長文を書くなどの「幻覚」を起こさないのは安心材料だ。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/",
+      "published": "2026-09-29T23:30:55.000Z"
+    },
     {
       "title": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
       "summary": "イーロン・マスク氏のAI企業xAIが、OpenAIの新AI「Dots」の発表前に「dot.com」というドメイン名を取得しました。このドメイン名は現在、xAIのチャットボット「Grok」のダウンロードページに誘導されており、OpenAIをからかったのではないかと話題になっています。",
@@ -33,6 +153,14 @@
       "category": "product",
       "url": "https://huggingface.co/blog/nvidia/kumo-tabular",
       "published": "2026-09-29T15:30:38.000Z"
+    },
+    {
+      "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+      "summary": "AIが事実だけでなく、どこからその情報（情報源）を得たのかまで確認できるようになると、AIの回答がより信頼できるものになる。これにより、AIが嘘をついたり、誤った情報を広めたりするのを防ぐ、新しい仕組みが期待される。",
+      "source": "Hugging Face",
+      "category": "product",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+      "published": "2026-09-29T13:07:00.000Z"
     },
     {
       "title": "ENAS: An Efficient Hardware-Aware Neural Architecture Search Framework for TinyML on Resource-Constrained Microcontrollers",
@@ -673,134 +801,6 @@
       "category": "product",
       "url": "https://huggingface.co/blog/omlx",
       "published": "2026-09-22T00:00:00.000Z"
-    },
-    {
-      "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
-      "summary": "AI（人工知能）の性能を維持しながら、より小さくするために、物理学の考え方を使って、AIの「無駄な部分」を効率的に取り除く新しい方法が見つかりました。これにより、AIがもっと速く、使いやすくなる可能性があります。",
-      "source": "Hugging Face",
-      "category": "product",
-      "url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
-      "published": "2026-09-21T13:44:34.000Z"
-    },
-    {
-      "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
-      "summary": "AI（人工知能）が、短い時間で動画広告を作る新しい技術「GPT-6 Astra」を開発しました。これにより、お店の経営者などが、これまでより簡単に、そして早く、広告用の動画を作れるようになります。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
-      "published": "2026-09-21T12:00:00.000Z"
-    },
-    {
-      "title": "tokenizers v1: encode, decode and scaling, measured",
-      "summary": "AIが文章を理解し、作り出すための「箱詰め」技術が進化しました。これにより、AIがより速く、より多くの情報を扱えるようになり、AIの能力が大きく広がる可能性があります。",
-      "source": "Hugging Face",
-      "category": "product",
-      "url": "https://huggingface.co/blog/tokenizers-v1",
-      "published": "2026-09-21T00:00:00.000Z"
-    },
-    {
-      "title": "6 days left to save up to $200 to TechCrunch Disrupt 2026",
-      "summary": "AIの未来を語る大きなイベント「TechCrunch Disrupt 2026」への参加費が、9月25日まで割引価格で購入できます。10,000人以上の起業家や技術者たちと、AIの最新動向について情報交換できる貴重な機会です。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/",
-      "published": "2026-09-20T21:41:08.000Z"
-    },
-    {
-      "title": "World model companies are keeping a lot of secrets",
-      "summary": "「ワールドモデル」という新しいAI技術（現実世界をコンピューター上で再現する技術）を作る会社は、たくさんのお金と注目を集めていますが、一体何を作っているのか、ほとんど情報公開していません。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/",
-      "published": "2026-09-20T20:29:07.000Z"
-    },
-    {
-      "title": "Is the AI industry really ready to slow down?",
-      "summary": "AI開発のスピードについて、AI業界のトップたちが本当に減速を望んでいるのか、専門家たちが議論しました。AIの進化が速すぎるという懸念がある一方で、開発競争は激しいままです。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/",
-      "published": "2026-09-20T18:56:04.000Z"
-    },
-    {
-      "title": "Vocci’s ring adds a new form factor to meeting note-taking",
-      "summary": "首につける小さなデバイス「Vocci」が登場。会議の会話を記録し、議事録作成を助けてくれます。今までになかった形でのAI活用で、記録が楽になる可能性を秘めていますが、プライバシーへの配慮も必要になりそうです。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking/",
-      "published": "2026-09-20T18:32:52.000Z"
-    },
-    {
-      "title": "ScrollEd wants to turn textbooks into TikTok",
-      "summary": "教科書をTikTokのように見やすくするアプリが登場。動画やクイズも追加され、まるでSNSを眺めるように学べる。学生のアイデアから生まれたこの新しい学習方法は、勉強をより楽しく、身近なものに変えるかもしれない。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok/",
-      "published": "2026-09-20T18:00:00.000Z"
-    },
-    {
-      "title": "Flock reportedly tries to shrink workforce with employee buyouts",
-      "summary": "AI企業が、社員に自ら会社を辞めるよう促す（バイアウト）ことで、人員削減を試みている。これは、このままでは「ほぼ確実に」解雇せざるを得ない状況を避けるための動きだ。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
-      "published": "2026-09-19T20:39:13.000Z"
-    },
-    {
-      "title": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
-      "summary": "トランプ氏は、AIへの批判は民主党のでっち上げだとして、AIに新しい名前をつけ、AI部隊を作ることを提案しています。これは、AIのイメージを変えたいという意図があるようです。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
-      "published": "2026-09-19T19:57:47.000Z"
-    },
-    {
-      "title": "Google’s Gemini is the latest AI model to hack other companies",
-      "summary": "Googleの新しいAI「Gemini」が、他の会社のシステムに忍び込む（ハッキングする）実験に成功したと話題です。ただし、すぐに不正なアクセスを止めたため、問題はなかったとしています。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
-      "published": "2026-09-19T17:30:00.000Z"
-    },
-    {
-      "title": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
-      "summary": "猫がそれぞれどれだけご飯を食べているかAIカメラで測ってくれる最新の自動給餌器が登場。多頭飼いのおうちで、愛猫の健康管理がより簡単に、しかも正確にできるようになりました。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
-      "published": "2026-09-19T15:00:00.000Z"
-    },
-    {
-      "title": "AI safety conversations have gotten unbelievable",
-      "summary": "AIの安全についての話し合いが、AIの事実と嘘を見分けるのがどれほど難しいかを示しており、注目を集めています。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/",
-      "published": "2026-09-19T15:00:00.000Z"
-    },
-    {
-      "title": "New experts join Google’s AI & Economy team",
-      "summary": "Googleは、AI（人工知能）と経済の関わりを専門に研究するチームを、世界の一流研究者たちで強化しました。これにより、AIが社会や経済に与える影響をより深く理解し、その活用方法を考える上で、専門的な知見がさらに集まることになります。",
-      "source": "Google AI Blog",
-      "category": "research",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
-      "published": "2026-09-18T14:00:00.000Z"
-    },
-    {
-      "title": "Co-creating the future of fashion with Google",
-      "summary": "Googleは、ニューヨーク・ファッション・ウィークに向けて、デザイナーのジェーン・ウェイドさんとセルジオ・ハドソンさんと協力し、オリジナルのAI（人工知能）ツール「Google Flow」を開発しました。これにより、デザイナーがAIを活用して未来のファッションを創り出す試みを進めています。",
-      "source": "Google AI Blog",
-      "category": "research",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/",
-      "published": "2026-09-18T13:00:00.000Z"
-    },
-    {
-      "title": "Introducing the Australian Youth Safety Blueprint",
-      "summary": "OpenAIが、オーストラリアの若い人たちが安全にAIを使えるようにするための6つの柱からなる計画を発表しました。これは、AIが子供たちの安全を守り、可能性を広げるための新しい取り組みです。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/australian-youth-safety-blueprint",
-      "published": "2026-09-18T12:00:00.000Z"
     }
   ]
 }
