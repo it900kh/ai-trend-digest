@@ -1,7 +1,183 @@
 {
-  "updatedAt": "2026-10-01T01:08:25.134Z",
+  "updatedAt": "2026-10-03T00:59:43.414Z",
   "count": 100,
   "items": [
+    {
+      "title": "Meta wants your next gadget to be Muse-infused",
+      "summary": "Meta（FacebookやInstagramの会社）が、スマート家電など様々な機器に、AI「Muse」を搭載したいと考えています。そのための開発に必要なプログラムを無料で公開し、多くの人がAIを使いやすくすることを目指しています。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
+      "published": "2026-10-03T00:45:39.000Z"
+    },
+    {
+      "title": "Sean Parker is rebuilding Stability AI around music",
+      "summary": "音楽業界に革命を起こしたショーン・パーカー氏が、今度はAIを使って音楽制作に乗り出す。かつて音楽配信で業界に衝撃を与えた彼が、音楽レーベルの協力と資金を得て、新しい音楽体験を創造する。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
+      "published": "2026-10-02T21:09:14.000Z"
+    },
+    {
+      "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
+      "summary": "AI業界のイベントで、もし失業してしまったとしても、ここで新たなチャンスが見つかるかもしれません。75ドルの特別価格で参加できるチャンスがあり、これはあなたの次のキャリアにつながるかもしれません。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
+      "published": "2026-10-02T19:15:51.000Z"
+    },
+    {
+      "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+      "summary": "AI（人工知能）の性能が上がるにつれて、パソコンのファイルやメール、閲覧履歴など、あらゆる情報にアクセスできる機能（フルディスクアクセス）が悪用される危険性が高まりました。そのため、AppleはMacのこの機能に関する制限を厳しくすることにしました。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
+      "published": "2026-10-02T18:11:27.000Z"
+    },
+    {
+      "title": "Call it AI, call it Super Intelligence, only 2% of consumers are buying it",
+      "summary": "AI（人工知能）を「スーパーインテリジェンス」と呼ぶ動きが強まっていますが、一般の消費者はAI製品への関心がまだ低いです。技術リーダーたちがAIの安全な開発について話し合う一方、企業はAIをより親しみやすく見せようとしています。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/podcast/call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it/",
+      "published": "2026-10-02T17:56:00.000Z"
+    },
+    {
+      "title": "A model guide for the GPT-6 family",
+      "summary": "GPT-6（新しい文章を作るAI）のファミリーから、スタートアップ企業が自社に最適なモデルを選ぶ方法や、AIの「考える力」の調整、指示（プロンプト）の工夫、ツールの連携、そして実際の仕事で使うための準備について解説しています。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/practical-guide-building-gpt-6",
+      "published": "2026-10-02T16:15:00.000Z"
+    },
+    {
+      "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+      "summary": "Open-sourcing AstaBriefは、AIが素早く報告書を作成できるモデルを公開したというニュースです。これにより、今まで時間がかかっていた文書作成が効率化され、多くの人がAIの恩恵を受けやすくなることが期待されます。",
+      "source": "Hugging Face",
+      "category": "product",
+      "url": "https://huggingface.co/blog/allenai/astabrief",
+      "published": "2026-10-02T15:19:50.000Z"
+    },
+    {
+      "title": "The latest AI news we announced in September 2026",
+      "summary": "Googleは、AI（人工知能）の進化を加速させる新しい技術を発表しました。これにより、AIはさらに賢くなり、私たちの生活をより豊かにしてくれることが期待されます。",
+      "source": "Google AI Blog",
+      "category": "research",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
+      "published": "2026-10-02T15:00:00.000Z"
+    },
+    {
+      "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
+      "summary": "AIに仕事をさせるための「先生役」（訓練データ）を、自動で作る新しい方法が紹介されました。これにより、企業で働くAI（エージェント）を、より賢く、効率的に育てられるようになります。",
+      "source": "Hugging Face",
+      "category": "product",
+      "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+      "published": "2026-10-02T04:01:31.000Z"
+    },
+    {
+      "title": "Heavy-Tailed Memory Traces in Long-Horizon Language Agents",
+      "summary": "AIが長い文章を理解する際、記憶の使い方が偏ることが分かりました。一部の重要な記憶に集中し、まれな出来事の記憶が忘れられると、間違いが増える可能性があります。この問題を解決する新しい方法が提案され、AIがより効率的に記憶を使えるようになりました。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2610.00010",
+      "published": "2026-10-02T04:00:00.000Z"
+    },
+    {
+      "title": "When Do Causal World Models Help Modular LLM Agents",
+      "summary": "AI（人工知能）が、注文や支払いなどの部品（モジュール）に分かれたシステムで賢く動くには、部品同士の「因果関係」（何が原因で何が結果か）を理解することが大切です。この研究は、AIが部品間の関係を正しく捉え、より的確な行動をとれるようになるための新しい方法を示しています。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2610.00012",
+      "published": "2026-10-02T04:00:00.000Z"
+    },
+    {
+      "title": "From Proposal to Verified Effect: Praxa, an Evidence-Bound Harness for Governed AI Agent Execution",
+      "summary": "AIエージェントが行動を提案・実行する際、その提案から実際の結果までをきちんと確認する仕組み「Praxa」が開発されました。これにより、AIの活動が信頼できるかどうかの判断がしやすくなります。ただし、現時点ではAIの安全性や効果について、まだ証明されていない点もあります。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2610.00015",
+      "published": "2026-10-02T04:00:00.000Z"
+    },
+    {
+      "title": "What Do Rationales Communicate? A Message-Intervention Study in Role-Specialized QA",
+      "summary": "AIが質問に答えるとき、なぜそう答えたかの理由（根拠）を一緒に伝えると、答えの正確さより、根拠が正しいかの判断が大きく変わってしまうことがわかりました。AIの判断ミスを防ぐために、根拠の伝え方を工夫することが大切です。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2610.00018",
+      "published": "2026-10-02T04:00:00.000Z"
+    },
+    {
+      "title": "Measuring the Microtask Eligibility Gap: When Is an Off-the-Shelf SLM Enough for an Agent Harness?",
+      "summary": "AIに簡単な仕事を任せるには、そのまま使えるAI（SLM）で十分か？という疑問に、実験で答えを出しました。結果、そのままのAIでは多くの仕事（コマンド承認や記憶整理など）を任せるには性能が足りず、AIの性能を落とす「量子化」（AIのサイズを小さくする技術）をしても、状況は改善されませんでした。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2610.00025",
+      "published": "2026-10-02T04:00:00.000Z"
+    },
+    {
+      "title": "Travel Time Prediction in Supply Chain Management Using Machine Learning",
+      "summary": "AI（人工知能）を使って、荷物が届くまでの時間を正確に予測する研究が進んでいます。これにより、物がいつ届くか計画しやすくなり、お店の在庫管理や、お客さんが満足することにつながります。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2609.38190",
+      "published": "2026-10-02T04:00:00.000Z"
+    },
+    {
+      "title": "EHR2Trace: Auditable EHR Data Infrastructure for Patient World Models and Clinical Agents",
+      "summary": "患者さんの健康状態を予測し、医療を助けるAI（「患者ワールドモデル」や「臨床エージェント」）を作るには、過去の病気や治療の記録が正確に必要です。でも、病院ごとの記録の付け方の違いで、これらの記録をそのまま使うのが難しいのです。そこで、EHR2Traceというシステムは、バラバラな病院の記録を、AIが学習しやすい「たどれる」記録に変換し、より信頼できるAI開発を可能にします。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2609.38193",
+      "published": "2026-10-02T04:00:00.000Z"
+    },
+    {
+      "title": "A Moving-Horizon Approximate Branch-and-Reduce Method for Deep Classification Trees",
+      "summary": "AIで「なぜその判断をしたのか」を分かりやすく説明できる「決定木」を、もっとたくさんのデータで、もっと深く賢く作れる新しい方法が開発されました。これにより、AIの賢さと分かりやすさの両方を高めることが期待されます。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2609.38194",
+      "published": "2026-10-02T04:00:00.000Z"
+    },
+    {
+      "title": "A Data-Free Physics-Informed Neural Operator for Level-Set Interface Advection",
+      "summary": "AIが、過去のデータに頼らず物理法則だけで「境界線」（例：水の波紋の形）の動きを予測する新しい方法が開発されました。これは、AIが学習する際に「正解データ」を必要としないため、より応用範囲が広がる可能性があります。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2609.38195",
+      "published": "2026-10-02T04:00:00.000Z"
+    },
+    {
+      "title": "Conformal Adversarial Generative Ensemble",
+      "summary": "AIが未来の予測（時系列予測）をより正確にする新しい方法「CAGE」が開発されました。これは、複数のAIで予測を作り、その中で信頼できるものだけを選ぶことで、特に異常なデータがあっても失敗しにくいのが特徴です。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2609.38196",
+      "published": "2026-10-02T04:00:00.000Z"
+    },
+    {
+      "title": "Chatham scales its capital markets expertise with OpenAI",
+      "summary": "金融会社が、文章を作るAI（GPT）やコードを作るAI（Codex）を使って、仕事のやり方を劇的に速くしました。これまで30分かかっていた確認作業が4分未満でできるようになり、効率が大幅にアップしたことが新しい点です。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/chatham-financial",
+      "published": "2026-10-02T00:00:00.000Z"
+    },
+    {
+      "title": "The eternal complement",
+      "summary": "AIは、画期的なアイデアを生み出すための裏側にある地道な作業を助けることで、重要になるかもしれません。この「実行」の部分が、これからの経済や進歩のスピードをどう変えるのかが注目されています。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/the-eternal-complement",
+      "published": "2026-10-01T17:00:00.000Z"
+    },
+    {
+      "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
+      "summary": "AI（人工知能）のおかげで、あるコミュニティスペースは、これまで数日かかっていた書類作成の時間が数時間で済むようになり、年間100時間以上も節約できた。これにより、新しい拠点の準備や地域への貢献活動にもっと時間をかけられるようになった。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/the-den-family-social",
+      "published": "2026-10-01T00:00:00.000Z"
+    },
     {
       "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
       "summary": "Googleが、プログラミングやサイバーセキュリティに強い、これまでにない強力なAI「Gemini 4 Argon」を発表しました。このAIは、複雑な作業を効率的にこなすための新しい「働き者」として期待されています。",
@@ -80,6 +256,14 @@
       "source": "arXiv (cs.AI)",
       "category": "research",
       "url": "https://arxiv.org/abs/2609.35873",
+      "published": "2026-09-30T04:00:00.000Z"
+    },
+    {
+      "title": "Serverless gossip training of LSTM failure detectors: A matched-protocol comparison with federated, local and centralized learning on NASA C-MAPSS",
+      "summary": "AIが機械の故障を予測する際、データを集めずに学習する方法を比べました。サーバーなしで学習できる「ゴシップ学習」が、従来のサーバーありの学習と同等の精度で、故障予測ができることがわかりました。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2609.35792",
       "published": "2026-09-30T04:00:00.000Z"
     },
     {
@@ -617,190 +801,6 @@
       "category": "research",
       "url": "https://arxiv.org/abs/2609.25134",
       "published": "2026-09-23T04:00:00.000Z"
-    },
-    {
-      "title": "Stable Unsupervised Continual Chunking with Sheaf SyncMap",
-      "summary": "AIが時間とともに変化するデータから、似たもの同士をグループ分けする新しい方法を開発しました。これにより、AIは新しいことを学んでも、以前の知識を忘れたり間違えたりしにくくなります。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2609.25143",
-      "published": "2026-09-23T04:00:00.000Z"
-    },
-    {
-      "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
-      "summary": "起業家が苦労から学ぶ必要がないように、このイベントでは資金調達や人材採用、AIの最新情報について、成功のヒントが得られます。11月4日にボストンで開催され、起業の難しさを乗り越え、成功をさらに大きくするための学びを提供します。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
-      "published": "2026-09-22T23:21:49.000Z"
-    },
-    {
-      "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
-      "summary": "AIの学習に欠かせない「データ」を効率的に集めるサービスを提供するSnorkel AIが、120億円以上の資金調達に成功し、会社を評価する値段が3.5倍になりました。AI技術の発展で、質の高いデータへの需要が急増しているためです。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
-      "published": "2026-09-22T21:56:43.000Z"
-    },
-    {
-      "title": "Better prompt caching for GPT-6",
-      "summary": "GPT-6は、AIに指示（プロンプト）を記憶する能力を向上させました。これにより、AIは以前の指示をより賢く再利用できるようになり、処理速度が上がり、コストも抑えられるようになりました。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
-      "published": "2026-09-22T21:00:00.000Z"
-    },
-    {
-      "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
-      "summary": "クアルコムが新しいスマホ用チップを発表。AI（人工知能）をスマホで直接動かす能力が大幅にアップし、より賢く、速いスマホ体験が期待できるようになります。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
-      "published": "2026-09-22T20:00:00.000Z"
-    },
-    {
-      "title": "Meta admits Muse’s likeness to OpenClaw isn’t a coincidence",
-      "summary": "メタ社が開発したAIアシスタント「Muse」は、ゼロから作られたとしながらも、ワークスペースのファイル名など、他のAI「OpenClaw」から強く影響を受けていたことを認めました。これは、AI開発におけるアイデアの共有や参考が、時に意図せず似通ったものにつながる可能性を示唆しています。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/",
-      "published": "2026-09-22T19:09:11.000Z"
-    },
-    {
-      "title": "Introducing GPT-6 Sol and Luna",
-      "summary": "OpenAIが、仕事で使いやすい新しいAI「GPT-6 Sol」と「GPT-6 Luna」を発表しました。それぞれ得意なことと値段のバランスが違い、より身近なAIとして活躍が期待されます。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
-      "published": "2026-09-22T18:00:00.000Z"
-    },
-    {
-      "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
-      "summary": "OpenAIが、より安く、間違いが減った「Sol」と「Luna」という新しいAIを発表しました。これらは、以前発表された「Astra」と同じように作られており、AIの利用がより身近になることを目指しています。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
-      "published": "2026-09-22T18:00:00.000Z"
-    },
-    {
-      "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
-      "summary": "AI「GPT-6 Astra」のおかげで、ある会社（Parallel）の調査員たちが、市場のデータ（労働市場のこと）を調べるのに、以前より半分の時間とコストで済むようになった。これは、AIが賢く情報をまとめてくれるようになったから。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
-      "published": "2026-09-22T12:00:00.000Z"
-    },
-    {
-      "title": "RBS-Attention: Radius-Bounded Sparse Prefill for Long-Context Large Language Models",
-      "summary": "長文のAI（文章を作るAI）が、長い文章を読み込む（プリフィル）のに時間がかかる問題を解決する新しい技術「RBS-Attention」が開発されました。\nこれは、重要な部分だけを選び出す工夫で、AIの応答速度を大幅に速くし、長い文章もスムーズに扱えるようになります。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2609.20971",
-      "published": "2026-09-22T04:00:00.000Z"
-    },
-    {
-      "title": "Attention-Aware Routing: Coupling Routing and Attention in MoEs",
-      "summary": "AIが文章を作る時、どの「専門家（エキスパート）」に任せるかを決める「ルーター」の賢さが進化しました。新しい「Attention-Aware Routing（AAR）」は、単語だけでなく、文章全体で単語の関連性（アテンション）を広く見て、より良い専門家を選ぶため、数学のテストの成績が上がりました。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2609.20974",
-      "published": "2026-09-22T04:00:00.000Z"
-    },
-    {
-      "title": "CaLR: Causal Latent Revision for Robust Diffusion Reasoning",
-      "summary": "AIが文章を作る時、前の言葉に引きずられて間違った方向へ進んでしまうことがあります。この新技術（CaLR）は、AIが途中で考えを修正し、論理的に正しい答えを出すのを助け、難しい問題も解けるようにします。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2609.20981",
-      "published": "2026-09-22T04:00:00.000Z"
-    },
-    {
-      "title": "LoRA Enhanced Contrastive Learning with SAS Vision Transformers",
-      "summary": "水中にあるものをAIで見つける（ sonar画像認識 ）研究で、少ないデータでも性能が上がる新しい方法が見つかりました。これは、AIの学習を効率化する「LoRA」という技術と、AIが間違えやすいもの（岩など）と本物の目標物を見分ける工夫を組み合わせたものです。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2609.21061",
-      "published": "2026-09-22T04:00:00.000Z"
-    },
-    {
-      "title": "Detecting Hallucination in LLMs: Tracing the Topological Signatures of Impaired Context Sharing",
-      "summary": "AIが「嘘」をつく（ハルシネーション）のを、AIの「考え方のクセ」を調べることで見つけ出す新しい方法が見つかりました。これはAIが情報をうまく伝えられていない部分を見つけ、より正確で信頼できるAIを作るのに役立ちます。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2609.21096",
-      "published": "2026-09-22T04:00:00.000Z"
-    },
-    {
-      "title": "PRQuant: Permutation Residual Quantization for Low-Overhead Inference",
-      "summary": "AIが賢く動くためには、計算を速く軽くする必要があります。PRQuantは、AIの「重み」をより小さくする（量子化）ときに、一部の重要な部分をずらしてまとめて計算することで、速さと正確さを両立させました。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2609.22106",
-      "published": "2026-09-22T04:00:00.000Z"
-    },
-    {
-      "title": "Generalized Multimodal Foundation Model",
-      "summary": "「どんな種類の情報（画像、文字、音声など）も、決まったタスクだけでなく、色々なタスクに使えるAI」が開発されました。これは、色々な情報をまとめて、それぞれの関係性を学習することで、新しい状況にも柔軟に対応できるのがすごい点です。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2609.22107",
-      "published": "2026-09-22T04:00:00.000Z"
-    },
-    {
-      "title": "Correcting Learning-based Perception for Safety",
-      "summary": "自動運転車などが周囲の状況を理解するAI（学習ベースの知覚）は、どこまで正確に物事を見分けられるか分かりにくいという問題がありました。そこで、この研究ではAIが間違った判断をした場合に、安全な運転に修正する技術を提案。これにより、危険な状況を7割以上減らせることが分かりました。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2609.22108",
-      "published": "2026-09-22T04:00:00.000Z"
-    },
-    {
-      "title": "A Shared Learning Rate Is Not a Neutral Control in Selective On-Policy Distillation",
-      "summary": "AIの学習方法の実験で、学習率（AIの賢くなるスピードを決めるもの）が、どのようにAIが賢くなるかに影響するかを調べました。\nある学習方法では学習率の影響が小さいのに、別の学習方法では学習率で結果が大きく変わることがわかりました。これはAIの学習方法を比較する上で、これまで見過ごされてきた大切な点です。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2609.22109",
-      "published": "2026-09-22T04:00:00.000Z"
-    },
-    {
-      "title": "Toward Fairness in Machine Learning Models for Predicting Treatment Retention and Premature Discontinuation in Medication for Opioid Use Disorder",
-      "summary": "薬物依存症の治療薬の効果を予測するAIは、人種や年齢などで成績に差が出ることが判明。この差をなくす工夫をしても、完全には消えないことがわかりました。AIを治療に役立てるには、すべての人が公平に恩恵を受けられるか確認することが大切です。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2609.22113",
-      "published": "2026-09-22T04:00:00.000Z"
-    },
-    {
-      "title": "Priorities and principles for effective third party assessments",
-      "summary": "OpenAIは、AI（人工知能）が安全で信頼できるかを、外部の専門家がしっかりチェックするための大切な考え方とルールをまとめました。これにより、新しいAI技術の安全性が、きちんと確かめられるようになります。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/priorities-principles-third-party-assessments",
-      "published": "2026-09-22T00:00:00.000Z"
-    },
-    {
-      "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
-      "summary": "イギリスのAI研究機関が、AIの性能を比べるテスト（ベンチマーク）の結果を誰でも同じように再現できるようにする仕組みを作っています。これにより、AI開発の進歩がより正確に評価できるようになります。",
-      "source": "Hugging Face",
-      "category": "product",
-      "url": "https://huggingface.co/blog/evaleval-aisi",
-      "published": "2026-09-22T00:00:00.000Z"
-    },
-    {
-      "title": "Transformers now runs llama.cpp quants",
-      "summary": "AIで文章を上手に作る「llama.cpp」という技術が、さらに使いやすくなりました。これで、もっと色々なAIのモデル（※AIの計算方法や知識のこと）が、手軽に動かせるようになり、AI開発の幅が広がるかもしれません。",
-      "source": "Hugging Face",
-      "category": "product",
-      "url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
-      "published": "2026-09-22T00:00:00.000Z"
-    },
-    {
-      "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
-      "summary": "AI開発で注目されるJun Kimさんが、AIの専門家が集まるHugging Faceに加わりました。MLX（機械学習の処理を高速化する技術）のコミュニティをさらに盛り上げ、多くの人がAIを使いやすくなることが期待されます。",
-      "source": "Hugging Face",
-      "category": "product",
-      "url": "https://huggingface.co/blog/omlx",
-      "published": "2026-09-22T00:00:00.000Z"
     }
   ]
 }
