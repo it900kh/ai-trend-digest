@@ -1,7 +1,79 @@
 {
-  "updatedAt": "2026-10-03T00:59:43.414Z",
+  "updatedAt": "2026-10-04T00:23:46.582Z",
   "count": 100,
   "items": [
+    {
+      "title": "The Agent Said It Was Done. The Database Disagreed.",
+      "summary": "AIが「完了した」と言っても、実はデータが更新されていなかったという問題が発覚。AIの判断を鵜呑みにせず、実際にデータが正しく反映されているか確認することが、AIを正しく使うために重要だと分かりました。",
+      "source": "Hugging Face",
+      "category": "product",
+      "url": "https://huggingface.co/blog/microsoft/thinkingbox",
+      "published": "2026-10-03T22:56:48.000Z"
+    },
+    {
+      "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
+      "summary": "アマゾンは、データセンターが地域に与える影響への心配に対し、今後は秘密保持契約（NDA）を結ばずに情報公開を進めると発表しました。これにより、地域住民との信頼関係を築き、透明性を高めることを目指しています。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
+      "published": "2026-10-03T18:43:57.000Z"
+    },
+    {
+      "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+      "summary": "OpenAIの安全担当者が「会社の文化は壊れている」と訴え、辞職しました。AIの安全性を重視するはずの会社で、開発スピードを優先するあまり、危険なAIが生まれるリスクが高まっていると警鐘を鳴らしています。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+      "published": "2026-10-03T16:30:01.000Z"
+    },
+    {
+      "title": "All the AI agents that can live in your text messages",
+      "summary": "スマホのメッセージアプリで使えるAI（人工知能）について、色々な種類が紹介されています。家族や旅行、仕事など、目的に合わせたAIがメッセージ上で活躍し、私たちの生活を便利にしてくれます。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "published": "2026-10-03T14:00:00.000Z"
+    },
+    {
+      "title": "Reverse Item Response Theory for Sparsity-Robust Ranking in Fragmented Cancer Drug-Response Matrices",
+      "summary": "がん治療薬の効果を調べる新しい方法（Reverse IRT）が開発されました。これは、がんの種類を「被験者」、薬を「項目」と見立てて、薬が効きにくいがんの種類と、広く効果のある薬を見つけるのに役立ちます。データが欠けていても、他の方法より正確に薬の効果を順位付けできるのが新しい点です。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2610.00002",
+      "published": "2026-10-03T04:00:00.000Z"
+    },
+    {
+      "title": "How Far is Adam from Natural Gradient Descent?",
+      "summary": "Adam（学習を速めるAIの仕組み）が、本来もっと進んだ「自然勾配」という方法からどれくらいズレているのかを調べました。\nズレは、学習がうまくいかない場面で大きくなるものの、最終的にはちゃんと目標にたどり着くことがわかりました。\nAdamの良さは、単に進んだ方法を追うのではなく、色々な要素のバランスで生まれているようです。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2610.00004",
+      "published": "2026-10-03T04:00:00.000Z"
+    },
+    {
+      "title": "FourierQK: Filter Shape, Admissibility and the Leakage-Coverage Law",
+      "summary": "AIの「注意機構（Attention）」を改良し、文章の理解度を上げる方法が見つかりました。特定の周波数で音のフィルターのように情報を区切ることで、AIがより効果的に文章を学習できるようになります。これは、AIが文章の「どこに注目すべきか」をより賢く判断できるようになるため重要です。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2610.00009",
+      "published": "2026-10-03T04:00:00.000Z"
+    },
+    {
+      "title": "Integrating Fairness and Explainability in a Multiple Instance Reinforcement Learning System",
+      "summary": "AIが学生の成績を予測する際、公平さと説明責任（なぜそう予測したか）を両立させる新しい方法を研究しました。学生の行動データから、AIが「この学生は危ない」と予測する際に、人種や性別で差別しないようにし、予測根拠も分かりやすくしようと試みています。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2610.00035",
+      "published": "2026-10-03T04:00:00.000Z"
+    },
+    {
+      "title": "Fast Polynomial Transcendentals for LLMs",
+      "summary": "AI（文章を作るAI）が使う計算の一部を、もっと速くできる新しい方法が見つかりました。短い計算プログラムを使うことで、AIの学習や処理が最大で8%ほど速くなる可能性があります。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2610.00049",
+      "published": "2026-10-03T04:00:00.000Z"
+    },
     {
       "title": "Meta wants your next gadget to be Muse-infused",
       "summary": "Meta（FacebookやInstagramの会社）が、スマート家電など様々な機器に、AI「Muse」を搭載したいと考えています。そのための開発に必要なプログラムを無料で公開し、多くの人がAIを使いやすくすることを目指しています。",
@@ -251,11 +323,35 @@
       "published": "2026-09-30T04:00:00.000Z"
     },
     {
+      "title": "Is Human-Readable Text Necessary for Effective LLM Fine-Tuning?",
+      "summary": "AI（文章を作るAI）を賢くするには、人間が読める文章がなくても、AIが学習する「ヒント」を直接作れば、もっと速く、効率的に賢くなるかもしれない、という研究です。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2609.35868",
+      "published": "2026-09-30T04:00:00.000Z"
+    },
+    {
+      "title": "The Price of Token Boundaries: Compression Certificates and Prediction",
+      "summary": "AIが文章を理解する際、単語を「トークン」という塊に区切ります。この区切り方を変えると、AIが文章をどれだけ効率的に圧縮できるかに影響が出ることがわかりました。区切り方を工夫することで、AIはより少ないトークンで文章を表現できるようになります。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2609.35869",
+      "published": "2026-09-30T04:00:00.000Z"
+    },
+    {
       "title": "More Programs or More Rolls? Separating Coverage from Specialization in LLM Harnesses",
       "summary": "AI（文章を作るAI）が、より多くの問題を解くための「道具」を作る研究で、たくさんの問題を解けることと、得意な分野を伸ばすことは別だと分かりました。同じ道具を何度も使うより、色々な道具を使う方が良い結果が出るようです。",
       "source": "arXiv (cs.AI)",
       "category": "research",
       "url": "https://arxiv.org/abs/2609.35873",
+      "published": "2026-09-30T04:00:00.000Z"
+    },
+    {
+      "title": "Sage: Formalization with Semantic Correction",
+      "summary": "AIが数学の証明を正確に作るとき、言葉の間違いで「見かけだけ正しい」証明をしてしまう問題があった。Sageという新しいAIは、この間違いを自動で直しながら、より正確で信頼できる証明を早く作れるようになった。これで、難解な数学の証明もAIで解きやすくなるかもしれない。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2609.35790",
       "published": "2026-09-30T04:00:00.000Z"
     },
     {
@@ -323,6 +419,14 @@
       "published": "2026-09-29T20:15:47.000Z"
     },
     {
+      "title": "OpenAI reportedly in talks to raise $30B round at $1.4T valuation",
+      "summary": "AI開発のOpenAIが、巨額の資金調達を検討している。これは、2027年を目標とする株式公開（IPO）前の最後の資金集めになる可能性があり、AI技術のさらなる発展に期待がかかる。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
+      "published": "2026-09-29T19:52:37.000Z"
+    },
+    {
       "title": "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
       "summary": "OpenAIは、Nvidia（高性能なAIチップを作る会社）が始めた、AIが勝手に暴走しないようにする取り組みに公には参加していませんが、Nvidiaとは秘密裏に協力していることがわかりました。",
       "source": "TechCrunch AI",
@@ -347,11 +451,51 @@
       "published": "2026-09-29T13:07:00.000Z"
     },
     {
+      "title": "Introducing GPT-6.1 Sol",
+      "summary": "GPT-6.1 Solという新しいAIが登場しました。これは、プロの仕事やプログラミングを助けるAIで、以前よりずっと安く使えるのが特徴です。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/introducing-gpt-6-1-sol",
+      "published": "2026-09-29T10:00:00.000Z"
+    },
+    {
+      "title": "DevDay 2026 Recap",
+      "summary": "OpenAIが新しいAI「GPT-6 Astra」などを発表。開発者向けのツールも充実し、AIを使った新しいサービスやアプリを作るのがさらに簡単になります。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/devday-2026-recap",
+      "published": "2026-09-29T10:00:00.000Z"
+    },
+    {
+      "title": "HybridInfer: Thermal-Aware Reinforcement-Learning Tier Routing for On-Device, Edge, and Cloud LLM Inference",
+      "summary": "スマホでAI（文章を作るAI）を使うとき、熱くなりすぎて壊れることがあるのを防ぐ新しい方法「HybridInfer」が開発されました。これは、AIの計算をスマホ本体、近くのサーバー、遠くのクラウドの３つに賢く振り分ける技術で、スマホの熱を考慮して最適な場所を選びます。これにより、速くて壊れにくく、どんな質問にも対応できるAI利用が可能になり、ユーザー体験が向上します。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2609.30270",
+      "published": "2026-09-29T04:00:00.000Z"
+    },
+    {
+      "title": "When the Preconditioning Exponent Turns Negative: Learning-Rate Coupling and Cross-Environment Generalization",
+      "summary": "AIの学習方法（最適化手法）について、学習率（AIがどれだけ速く学ぶか）と、学習の「クセ」を決める調整値（事前調整指数）の関係を調べました。学習率が大きくなると、この調整値はマイナスの方がAIが色々な状況に対応できるようになることがわかりました。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2609.30271",
+      "published": "2026-09-29T04:00:00.000Z"
+    },
+    {
       "title": "ENAS: An Efficient Hardware-Aware Neural Architecture Search Framework for TinyML on Resource-Constrained Microcontrollers",
       "summary": "小さいコンピューター（マイコン）でAIを動かすための、効率的な設計方法「ENAS」が開発されました。GPUを使わず、少ないメモリでもAIの設計を速く見つけられるのが特徴で、医療画像認識などで、より少ない資源で高い性能を発揮します。",
       "source": "arXiv (cs.LG)",
       "category": "research",
       "url": "https://arxiv.org/abs/2609.30272",
+      "published": "2026-09-29T04:00:00.000Z"
+    },
+    {
+      "title": "Offline Policy Evaluation as a decision support tool for designing Adaptive Experiments",
+      "summary": "今あるデータから、より賢く効果的な実験計画を立てる方法が見つかりました。\nこれまでの実験（A/Bテスト）の結果を元に、状況に合わせて変化する実験（適応型実験）で、どの方法が一番良かったかを事前にシミュレーションで確かめられます。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2609.30273",
       "published": "2026-09-29T04:00:00.000Z"
     },
     {
@@ -369,6 +513,14 @@
       "category": "business",
       "url": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/",
       "published": "2026-09-29T00:30:00.000Z"
+    },
+    {
+      "title": "Introducing dots",
+      "summary": "OpenAIが開発した「dots」は、複雑な仕事や日常のタスクを、指示なしでも進めてくれる賢いアシスタントです。あなたの指示を理解し、プロジェクトを前進させながら、あなたが状況を把握できるようサポートしてくれます。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/introducing-dots",
+      "published": "2026-09-29T00:00:00.000Z"
     },
     {
       "title": "OpenAI reportedly ditches model over safety concerns",
@@ -649,158 +801,6 @@
       "category": "business",
       "url": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/",
       "published": "2026-09-23T22:17:39.000Z"
-    },
-    {
-      "title": "Enveda secures $311M to bring more nature-derived AI drugs into clinical trials",
-      "summary": "自然由来の薬を開発するAI企業が、多額の資金調達に成功しました。これにより、皮膚の病気や、食欲抑制薬（GLP-1）をやめた後の体重維持に役立つ薬を、より多くの臨床試験（実際に人に試す試験）に進めることができます。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/",
-      "published": "2026-09-23T19:31:28.000Z"
-    },
-    {
-      "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
-      "summary": "ロボットを動かす練習（シミュレーション）を速くする技術が登場しました。NVIDIA Warpという新しい道具（ソフトウェア）で、ロボットが賢くなる（学習）ための時間も短縮できるため、これからのロボット開発に役立ちます。",
-      "source": "Hugging Face",
-      "category": "product",
-      "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
-      "published": "2026-09-23T18:41:40.000Z"
-    },
-    {
-      "title": "Google Beam expands with new regions, partners, and customers",
-      "summary": "GoogleのAI（人工知能）サービス「Beam」が、新たに5つの国で使えるようになり、提携先も増えました。これにより、もっと多くの人がAIの恩恵を受けられるようになります。",
-      "source": "Google AI Blog",
-      "category": "research",
-      "url": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
-      "published": "2026-09-23T18:00:00.000Z"
-    },
-    {
-      "title": "ChatGPT mobile app gets voice-based agentic features",
-      "summary": "ChatGPTのスマホアプリで、声で指示するだけで複雑な作業ができる新機能が登場。有料会員なら、スマホから「仕事」タブを使って、AIに旅行計画や情報収集など、色々なことをお願いできるようになります。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features/",
-      "published": "2026-09-23T17:00:00.000Z"
-    },
-    {
-      "title": "Even Americans who use AI every day are worried about it",
-      "summary": "普段AIを使っているアメリカ人の多くも、AIの進化に不安を感じています。AIに慣れても、この不安は消えず、AIを規制すべきだという意見はむしろ強まる傾向にあるようです。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/09/23/even-americans-who-use-ai-every-day-are-worried-about-it/",
-      "published": "2026-09-23T16:49:58.000Z"
-    },
-    {
-      "title": "Two years of OpenAI Academy",
-      "summary": "OpenAI Academyが2年間で多くの人々にAIのスキルを届けてきました。この取り組みは、AIをより身近に感じてもらい、誰もがAIを活用できる社会を目指す上で重要です。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/two-years-of-openai-academy",
-      "published": "2026-09-23T16:00:00.000Z"
-    },
-    {
-      "title": "OpenAI extends cyber access to Ukraine for civilian defense",
-      "summary": "AI開発企業OpenAIが、ウクライナ政府にサイバー防衛支援を延長しました。これは、人々の生活を支えるインフラ（電力や通信など）をサイバー攻撃から守るためで、AI技術が平和利用される一例です。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
-      "published": "2026-09-23T13:00:00.000Z"
-    },
-    {
-      "title": "Sam Altman’s remarks at the United Nations Security Council",
-      "summary": "OpenAIのサム・アルトマンCEOが国連で、AIの安全な使い方や人間がAIをコントロールすること、そして世界中が協力してAIの開発を進めることの重要性を話しました。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
-      "published": "2026-09-23T12:00:00.000Z"
-    },
-    {
-      "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
-      "summary": "「GPT-6 Astra」という新しいAIは、法律の専門家が書類を作るのを助けます。裁判の状況を理解して、より分かりやすく、内容に合った書類を素早く作れるので、弁護士は書類作成よりも大切な戦略を考える時間に集中できるようになります。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
-      "published": "2026-09-23T12:00:00.000Z"
-    },
-    {
-      "title": "How invideo improves color grading 3x with GPT‑6 Astra",
-      "summary": "動画編集アプリのinvideoが、OpenAIの新しいAI「GPT-6 Astra」を使って、色味の調整（カラーグレーディング）を3倍速く、そしてより正確にできるようになりました。これにより、1日で50種類ものオリジナル効果を作り出せるようになり、動画制作の効率が大きく向上します。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
-      "published": "2026-09-23T12:00:00.000Z"
-    },
-    {
-      "title": "Didactic knowledge or Clinical Cases? How Data Types Shape Medical Large Language Models",
-      "summary": "AIが医療現場で活躍するには、教科書のような知識と、実際の患者さんの記録（カルテ）のような情報、どちらを学習させるかで得意なことが変わることがわかりました。カルテで学ぶと、より実践的な診断に役立つ一方、教科書で学ぶと、より広い知識を覚えるのが得意になるようです。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2609.22161",
-      "published": "2026-09-23T04:00:00.000Z"
-    },
-    {
-      "title": "An Affordable AI-Integrated Smart Cane for Multimodal Mobility Assistance of Visually Impaired Users",
-      "summary": "視覚障害のある方のために、安価で高性能なスマート杖が開発されました。この杖は、カメラと距離センサーを使い、段差や障害物を検知して、音や振動で知らせてくれます。インターネットがなくても使えるので、多くの人が利用しやすくなるでしょう。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2609.22277",
-      "published": "2026-09-23T04:00:00.000Z"
-    },
-    {
-      "title": "PAANI : On Device Visual Evidence Fusion and Explainable Guidance for River Robot Simulation",
-      "summary": "川で働くロボットが、カメラ映像から障害物や水の境界を判断し、安全に進むための「説明できる」指示を出す新しい仕組み「PAANI」が開発されました。これにより、ロボットがなぜその指示を出したのかが分かりやすくなり、より信頼性が高まります。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2609.22353",
-      "published": "2026-09-23T04:00:00.000Z"
-    },
-    {
-      "title": "Social Influence and the Allocation of Scientific Attention in AI Populations",
-      "summary": "AIが論文を読む時代、AIの「注目」が論文選びに影響することがわかりました。AIに人気の論文とそうでない論文が偏ることで、注目される論文の数が減り、研究の広がりが狭まる可能性があるのです。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2609.22408",
-      "published": "2026-09-23T04:00:00.000Z"
-    },
-    {
-      "title": "Learning 3D biophysical cell properties from 2D images and cell-population statistics",
-      "summary": "細胞の形や大きさ（3D）を、写真（2D）と集団のデータからAIで推測する新しい方法が開発されました。これは、個々の細胞の詳しい情報がない場合でも、細胞全体の平均的な特徴を正確に知るのに役立ちます。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2609.22410",
-      "published": "2026-09-23T04:00:00.000Z"
-    },
-    {
-      "title": "\"As a Language Model...\": Chat Template Switches LLM Self-Referential Voice and Activation Steering Reproduces It",
-      "summary": "AI（文章を作るAI）が「私はAIです」などと自分について話すとき、その言葉はAI自身の意思ではなく、指示の出し方（チャットテンプレート）で変わることがわかりました。これは、AIの自己認識ではなく、指示によって発言が操作されていることを示しています。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2609.25021",
-      "published": "2026-09-23T04:00:00.000Z"
-    },
-    {
-      "title": "Federating Quantum and Classical Computing: A Privacy-Preserving Hybrid Approach",
-      "summary": "量子コンピューターと通常のコンピューターを、個人情報（プライバシー）を守りながら協力させる新しい方法が見つかりました。これにより、量子コンピューターの能力を使いつつ、データを集めなくても、より正確なAIを作れるようになります。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2609.25082",
-      "published": "2026-09-23T04:00:00.000Z"
-    },
-    {
-      "title": "Entropy Can Flow, or It Can Guide. Be Entropy. LEDFlow: Introducing Entropy-guided Generation Order into Uniform Discrete Flow",
-      "summary": "AIが文章や画像を作る時、途中で間違ったものができても、後から修正できる方法が考えられました。でも、修正することで、一度正しかったものが間違ってしまうことも。そこで、新しい「LEDFlow」という方法では、AIが「これは間違っているかも」と判断した部分だけを、効率よく修正できるようになりました。これにより、AIの生成するものがより正確になり、特に難しい問題や画像生成で良い結果が出ています。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2609.25131",
-      "published": "2026-09-23T04:00:00.000Z"
-    },
-    {
-      "title": "The Probabilistic Structure of Large Language Models",
-      "summary": "この論文は、文章を作るAI（LLM）を、確率（起こりやすさ）の考え方で説明しています。AIが文章を作る仕組みや、なぜ事実と違うことを言ってしまうのか（ハルシネーション）といった現象も、この確率の考え方で理解できることを示しています。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2609.25134",
-      "published": "2026-09-23T04:00:00.000Z"
     }
   ]
 }
