@@ -1,7 +1,23 @@
 {
-  "updatedAt": "2026-10-04T00:23:46.582Z",
+  "updatedAt": "2026-10-05T00:27:36.761Z",
   "count": 100,
   "items": [
+    {
+      "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
+      "summary": "AIのバグ探しプログラムで、AIが作った「質の低い報告」が急増し、Googleは一時停止しました。これは、AIがまだ正確な情報を提供できない現状を示しています。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+      "published": "2026-10-04T20:31:07.000Z"
+    },
+    {
+      "title": "Trump unveils his new Super Intelligence Force",
+      "summary": "トランプ氏がAIの安全性を守るための新しいチームを作りました。AIが社会に与える影響について議論が進む中、このチームがどう動くか注目されています。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
+      "published": "2026-10-04T15:15:10.000Z"
+    },
     {
       "title": "The Agent Said It Was Done. The Database Disagreed.",
       "summary": "AIが「完了した」と言っても、実はデータが更新されていなかったという問題が発覚。AIの判断を鵜呑みにせず、実際にデータが正しく反映されているか確認することが、AIを正しく使うために重要だと分かりました。",
@@ -241,6 +257,14 @@
       "category": "product",
       "url": "https://openai.com/index/the-eternal-complement",
       "published": "2026-10-01T17:00:00.000Z"
+    },
+    {
+      "title": "How Albertsons Companies is reimagining retail from the inside out",
+      "summary": "アメリカのスーパーマーケットチェーンが、ChatGPT（文章を作るAI）を活用し、従業員の仕事の効率を上げ、お客さんの買い物を便利にしています。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/albertsons-reimagining-retail",
+      "published": "2026-10-01T16:00:00.000Z"
     },
     {
       "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
@@ -777,30 +801,6 @@
       "category": "research",
       "url": "https://arxiv.org/abs/2609.28563",
       "published": "2026-09-25T04:00:00.000Z"
-    },
-    {
-      "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
-      "summary": "画像と文章を同時に理解できるAI（ビジョン・言語モデル）が、LFM2.5-VL-DSparkという新しい技術で、より速く賢く動くようになりました。これにより、AIが写真を見て質問に答えたり、説明を生成したりする能力が向上し、さまざまな分野での活用が期待されます。",
-      "source": "Hugging Face",
-      "category": "product",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
-      "published": "2026-09-24T14:08:57.000Z"
-    },
-    {
-      "title": "Meta introduces camera-free AI glasses",
-      "summary": "カメラなしのAIメガネが登場。重さが軽くなり、最大12時間使えるようになる。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/",
-      "published": "2026-09-23T23:39:44.000Z"
-    },
-    {
-      "title": "Anthropic says its biology lab has already found something big",
-      "summary": "AI開発会社Anthropicは、AI（人工知能）を生物学の研究に活用し、すでに大きな発見があったと発表しました。しかし、AI（Claude）が単独で研究を進めるのではなく、人間も一緒に協力して進めている点が新しいです。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/",
-      "published": "2026-09-23T22:17:39.000Z"
     }
   ]
 }
