@@ -1,7 +1,127 @@
 {
-  "updatedAt": "2026-10-05T00:27:36.761Z",
+  "updatedAt": "2026-10-06T02:06:03.554Z",
   "count": 100,
   "items": [
+    {
+      "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
+      "summary": "ChatGPTが作った文章に、目には見えない「しるし」を付けられるようになります。これは、ヨーロッパで決まったAIの新しいルール（AI Act）を守るためで、文章がAIによって作られたものだと分かりやすくなります。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
+      "published": "2026-10-05T20:36:48.000Z"
+    },
+    {
+      "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
+      "summary": "「Beam」という新しいAIが登場しました。これは、自国のデータでAIを賢くできる「AI工場」を作るためのもので、国や企業がAIをより安く、自分たちのものとして使えるようにすることを目指しています。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
+      "published": "2026-10-05T19:33:53.000Z"
+    },
+    {
+      "title": "Instinct brings its AI agent to group chats, even for friends without an account",
+      "summary": "InstinctがAIアシスタントをグループチャットで使えるようにしました。旅行の計画や送迎の調整など、友達と協力してタスクを進められます。プライベートな情報は、許可なしには共有されないので安心です。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
+      "published": "2026-10-05T18:54:30.000Z"
+    },
+    {
+      "title": "TikTok rolls out an AI shopping assistant and one-click checkout",
+      "summary": "TikTokがAIを使った買い物アシスタントと、ワンクリックで購入できる機能を開始しました。これは、AIがユーザーの質問に答えておすすめ商品を提案し、そのまま簡単に買えるようにするものです。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/",
+      "published": "2026-10-05T18:29:00.000Z"
+    },
+    {
+      "title": "Hot Girl Hotline is like ‘Dear Abby’ for the AI era",
+      "summary": "姉妹が始めた「ホットガール・ホットライン」は、AI（人工知能）を使って若い女性に、安全で自立を促す恋愛や人間関係のアドバイスを personalised（一人ひとりに合わせた）に提供します。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/10/05/hot-girl-hotline-is-like-dear-abby-for-the-ai-era/",
+      "published": "2026-10-05T17:29:22.000Z"
+    },
+    {
+      "title": "Our approach to EU text provenance rules",
+      "summary": "EU（ヨーロッパ連合）の新しいAIルールに対応するため、OpenAIはAIが作った文章だとわかる「しるし」をつける方法を考えています。これは、AIが書いた文章かどうかの見分け方を簡単にするためのもので、まずは研究者向けに公開される予定です。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/eu-text-provenance",
+      "published": "2026-10-05T15:00:00.000Z"
+    },
+    {
+      "title": "Building advertising for the way people use AI",
+      "summary": "ChatGPTで、AIが広告の作り方を変える新しい方法が登場しました。広告主は、AIが作る広告の見た目や、広告が誰に見られたかの記録を、より詳しく知ることができるようになります。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+      "published": "2026-10-05T10:00:00.000Z"
+    },
+    {
+      "title": "MintFlow: Minimal Trajectory Intervention for Constrained Flow Matching",
+      "summary": "文章を作るAI（LLM）が作ったものを、特定の条件（例えば物理法則）を守らせながら生成する新しい方法「MintFlow」が登場しました。これは、AIが作ったものが元々のデータからあまり離れすぎないように、条件を守るために最小限の修正を加える技術です。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2610.02260",
+      "published": "2026-10-05T04:00:00.000Z"
+    },
+    {
+      "title": "Fast Models, Slow Evidence: A Paired and Self-Audited Evaluation of System-1 Decision Models for LLM Agent Harnesses",
+      "summary": "AIに色々な判断をさせる際、LLM（文章を作るAI）に頼ると時間がかかることがあります。そこで、もっと速いAI（System-1）が使えないか調べたところ、一部の判断では速いAIの方が正確でしたが、まだ精度が足りない部分もありました。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2610.02267",
+      "published": "2026-10-05T04:00:00.000Z"
+    },
+    {
+      "title": "Choosing Before Acting: Comparative Value Estimation for Long-Horizon Tool-Use Agents",
+      "summary": "AI（文章を作るAI）が複雑な問題を解くとき、たくさんの道具（ツール）を順番に使うことがあります。しかし、どの道具を使うと最終的にうまくいくか、AIが自分で判断するのが難しいという課題がありました。そこで、この研究では、AIが次の道具を使う前に「この道具を使ったら、うまくいく可能性はどれくらいか」を比較して予測する新しい方法（CITA）を提案しました。これにより、AIはより賢く道具を選べるようになり、複雑なタスクの成功率が上がることがわかりました。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2610.02330",
+      "published": "2026-10-05T04:00:00.000Z"
+    },
+    {
+      "title": "Hybrid Machine Learning-Assisted Raman Spectroscopy with Generative Feature Augmentation for Pharmaceutical Identification",
+      "summary": "薬の成分を素早く正確に見分けることは、私たちの健康を守るためにとても大切です。この研究では、AI（人工知能）を使い、薬の成分をより賢く見分ける新しい方法が開発されました。\n\nAIに薬の情報をたくさん学ばせ、さらに「AIで新しい薬のデータを作り出す」技術を組み合わせることで、少ないデータでも正確に薬を見分けられるようになりました。これは、薬の安全性を高めるのに役立ちます。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2610.02224",
+      "published": "2026-10-05T04:00:00.000Z"
+    },
+    {
+      "title": "The Price of Greenwashing: Algorithmic Verification and Market Discipline using Conformal Machine Learning",
+      "summary": "企業が環境に配慮しているように見せかける「グリーンウォッシング」を、AIでチェックする新しい方法が提案されました。AIが企業の環境データを分析し、本当の環境負荷と申告された値との差を数値化することで、投資家が企業を正しく評価できるようになります。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2610.02225",
+      "published": "2026-10-05T04:00:00.000Z"
+    },
+    {
+      "title": "State-Space Unlearning for Non-Stationary Bias in Land Surface Forecasting",
+      "summary": "AIが天気予報のような地球の表面の予測をする際、 irrigatiom（農地の水やり）やダムの操作、センサーの調整など、記録に残らない変化が知らず知らずのうちに予測を狂わせることがあります。この研究では、AIに不要な情報（「記憶違い」のようなもの）を消去させる新しい技術を開発し、予測の精度を改善しました。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2610.02248",
+      "published": "2026-10-05T04:00:00.000Z"
+    },
+    {
+      "title": "Nearest-neighbour baselines for fingerprint prediction from MS/MS spectra under different assumptions",
+      "summary": "AIが、薬の分子を調べる「指紋」のようなものを、実験データから見つける方法で、簡単なAIでも高性能なものができた。この研究は、どんな情報があれば、より正確に「指紋」を見つけられるか比較し、今後のAI開発の基準を明確にすることを目指している。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2610.02249",
+      "published": "2026-10-05T04:00:00.000Z"
+    },
+    {
+      "title": "Rank-Aware Speculative Sampling for Diffusion Draft Trees",
+      "summary": "AIが絵を作る速さを上げる新しい方法「RASS」が開発されました。これは、いくつかの絵の候補を同時に作り、より良い候補を効率的に選ぶことで、AIが絵を生成する時間を約20%短縮できるのが特徴です。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2610.02251",
+      "published": "2026-10-05T04:00:00.000Z"
+    },
     {
       "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
       "summary": "AIのバグ探しプログラムで、AIが作った「質の低い報告」が急増し、Googleは一時停止しました。これは、AIがまだ正確な情報を提供できない現状を示しています。",
@@ -9,6 +129,14 @@
       "category": "business",
       "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
       "published": "2026-10-04T20:31:07.000Z"
+    },
+    {
+      "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
+      "summary": "AIのイメージを変えようと、ある会議で「超知能」（人間を超える賢さを持つAI）の安全な開発について話し合われました。拘束力のない協定（お互いに守りましょうね、という約束）が、AIへの不安を和らげる鍵になるかもしれない、という内容です。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
+      "published": "2026-10-04T20:08:34.000Z"
     },
     {
       "title": "Trump unveils his new Super Intelligence Force",
@@ -673,134 +801,6 @@
       "category": "product",
       "url": "https://openai.com/index/basis-tax-workbook-with-astra",
       "published": "2026-09-28T00:00:00.000Z"
-    },
-    {
-      "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
-      "summary": "AIのデータセンターを動かすための新しい発電方法が、一時的に見送られました。これまでは boomsupersonic社のタービンを使う計画でしたが、今回は実現しないことになったようです。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
-      "published": "2026-09-25T23:11:10.000Z"
-    },
-    {
-      "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
-      "summary": "OpenAIのAI（人工知能）が、知らず知らずのうちに、ユーザーが共有した53枚の画像をインターネット上に公開してしまった。これは、AIの安全管理の難しさと、情報漏洩のリスクを示す出来事だ。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
-      "published": "2026-09-25T22:20:47.000Z"
-    },
-    {
-      "title": "Meta opens early access program for new Muse features",
-      "summary": "Meta（Facebookの親会社）が、新しいAI機能「Muse」の先行利用（まだ一部の人しか使えないこと）を始めました。興味がある人は、Museに申し込む必要があります。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/",
-      "published": "2026-09-25T20:34:53.000Z"
-    },
-    {
-      "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
-      "summary": "AIを作る会社Anthropicが、7年間で約1400億円（116億ドル）をクラウドの利用料としてAkamaiに支払うことになりました。これは、AIの計算に必要なコンピューター（CPU）への大きな投資であり、Anthropicの利用額に応じてAkamaiの株を最大5%までもらえるという、珍しい契約です。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
-      "published": "2026-09-25T19:13:38.000Z"
-    },
-    {
-      "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
-      "summary": "AI（人工知能）を使い、車の管理サービスを素早く作って売れるようになり、売上が60%アップし、作業時間も75時間以上も短縮されました。AIが開発や運営を助けることで、効率が格段に上がったのです。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/proaction",
-      "published": "2026-09-25T19:00:00.000Z"
-    },
-    {
-      "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
-      "summary": "俳優のマーク・ウォールバーグが、2026年のテッククランチ・ディスラプトで、自身のキャリアではなく、参加者の仕事や事業について話します。投資や起業、ヘルスケア、ウェルネスといった分野でのビジネス構築について、ブルース・K・リー氏と共に語り合う予定です。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/09/25/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
-      "published": "2026-09-25T18:48:33.000Z"
-    },
-    {
-      "title": "When Should Forecasting Agents Reason? Behavioral Stress Tests for Reliability Routing",
-      "summary": "AIは未来を予測する際に、過去のデータや他のAIの意見など、様々な情報をどう使うべきか、まだわかっていません。あるデータでは過去の例が、別のデータでは多くの人の意見が役立つことがわかりました。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2609.28475",
-      "published": "2026-09-25T04:00:00.000Z"
-    },
-    {
-      "title": "TW3Cast: A Frozen Router of Lightly Fine-Tuned Foundation Models for Time-Series Forecasting on GIFT-Eval, Selected Entirely on the Training Split",
-      "summary": "AIが過去のデータから将来の予測を立てる技術について、TW3Castという新しいシステムが開発されました。これは、特殊なAIモデル（LLMのようなもの）を使わずに、過去のデータだけを見て予測するAIモデルを賢く組み合わせることで、高い予測精度を出しています。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2609.28506",
-      "published": "2026-09-25T04:00:00.000Z"
-    },
-    {
-      "title": "PAWS: Policy-driven Agentic World Simulation",
-      "summary": "新しいAIのデータセット「PAWS」は、過去のアメリカの経済政策が人々の行動にどう影響したかを、ニュース記事と照らし合わせながらシミュレーションできるものです。これにより、AIが政策の効果をより正確に理解し、将来の経済の動きを予測するのに役立ちます。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2609.28547",
-      "published": "2026-09-25T04:00:00.000Z"
-    },
-    {
-      "title": "Pistis Technical Report",
-      "summary": "新しいAI「Pistis」は、画像や文章も理解できる高性能なAI（大規模言語モデル）です。特に、複雑な推理や計画を立てて、AIが自ら仕事を進める能力が向上しました。さらに、AIの性能を直接変えずに、AIがより賢く動くための工夫もされています。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2609.28554",
-      "published": "2026-09-25T04:00:00.000Z"
-    },
-    {
-      "title": "BaseCamp --- An Agentic AI Framework for Automating DNA Sequencing Data Pipelines",
-      "summary": "DNA解析の複雑な作業を自動化する「BaseCamp」という新しいAIが登場しました。これは、AIの専門家たちが、実験結果の判断や異常の発見など、これまで人間が行っていた「判断」の部分を担うように設計されています。これにより、DNA解析のプロセスがより速く、正確になり、科学の進歩に貢献することが期待されます。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2609.28557",
-      "published": "2026-09-25T04:00:00.000Z"
-    },
-    {
-      "title": "Stable and Faithful Explanations for Knowledge Tracing",
-      "summary": "AIが学習者の理解度を「なぜ」そう判断したのか、その理由をより信頼できるようにする研究です。これにより、先生が生徒一人ひとりに合わせた教え方をする手助けができるようになります。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2609.28502",
-      "published": "2026-09-25T04:00:00.000Z"
-    },
-    {
-      "title": "SMILESGNN: Interpretable Clinical Toxicity Prediction via SMILES-Graph Cross-Attention Fusion",
-      "summary": "新しいAI「SMILESGNN」は、薬の副作用を予測するのに役立ちます。薬の情報を表す２つの方法を組み合わせることで、より正確に予測でき、なぜその薬が危険だと判断されたのかも分かりやすくなりました。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2609.28553",
-      "published": "2026-09-25T04:00:00.000Z"
-    },
-    {
-      "title": "CFD Correction of Open Tip Clearance Flow in a Compressor Cascade Using VAE Latent Space Adaptation",
-      "summary": "空気の流れを調べる計算（CFD）は、実際の実験とずれることがある。そこで、AI（VAE）を使って、実験データが少ない場所でも計算結果をより正確に修正する方法を開発した。これにより、計算結果と実験結果のずれが大幅に減り、より信頼性の高い予測が可能になる。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2609.28558",
-      "published": "2026-09-25T04:00:00.000Z"
-    },
-    {
-      "title": "CARE: Condition-Aware Representation Regularization for Diffusion Models",
-      "summary": "AIが画像を作る技術（拡散モデル）で、より高品質で速く画像を作るための新しい方法「CARE」が開発されました。これは、画像の内容（例えば「猫」とか「犬」といった情報）をうまく利用して、似たような画像の情報（特徴）をまとめ、AIの学習を助ける仕組みです。この技術を使うと、学習時間が短縮され、より正確な画像が作れるようになります。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2609.28561",
-      "published": "2026-09-25T04:00:00.000Z"
-    },
-    {
-      "title": "SpaFactor: Lightweight Spatial Context-Aware Gene Program Modeling for Histology-to-Transcriptomics Inference",
-      "summary": "細胞の形や周りの環境をAIが読み取り、病気の原因となる遺伝子の働きを予測する新しい技術「SpaFactor」が開発されました。これまで難しかった遺伝子の働きを、特別な設備なしで、より正確に、そして速く知ることができるようになり、病気の解明に役立つと期待されています。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2609.28563",
-      "published": "2026-09-25T04:00:00.000Z"
     }
   ]
 }
