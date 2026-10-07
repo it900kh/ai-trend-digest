@@ -1,7 +1,87 @@
 {
-  "updatedAt": "2026-10-06T02:06:03.554Z",
+  "updatedAt": "2026-10-07T01:14:28.626Z",
   "count": 100,
   "items": [
+    {
+      "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
+      "summary": "広告運用を助ける代わりに、AIで広告のアイデアやデザインを作り出すツール開発に力を入れています。この新しいプラットフォーム「Melius」は、広告制作を効率化し、より効果的なキャンペーンを生み出すためのものです。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/",
+      "published": "2026-10-06T22:34:03.000Z"
+    },
+    {
+      "title": "How AI decision models could change content moderation",
+      "summary": "AIが、動画やコメントなどを「これはOK」「これはダメ」と自動で判断する仕組み（コンテンツモデレーション）を、もっと速く、賢く変える新しい技術が登場しました。この技術は、SNSなどで不適切な投稿を素早く見つけ出すのに役立ちます。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
+      "published": "2026-10-06T20:35:20.000Z"
+    },
+    {
+      "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
+      "summary": "AIの計算（AIを動かすためのコンピューター技術）を開発するLambda社が、2027年の株式公開（IPO、会社が株を売って資金を集めること）を前に、巨額の資金調達を計画しています。これは、AIの進化を支えるために必要なコンピューターパワーが、今後さらに重要になることを示しています。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
+      "published": "2026-10-06T20:00:30.000Z"
+    },
+    {
+      "title": "The next hurdle for AI agents: getting websites to let them in",
+      "summary": "AIエージェント（代わりに指示されたことをしてくれるAI）が、インターネットでお店を探したり、予約をしたりするのに、ウェブサイト側がAIのアクセスを制限している。この問題を解決するため、AIが安全にウェブサイトを使えるようにする新しいルール作りが進んでいる。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/",
+      "published": "2026-10-06T19:56:50.000Z"
+    },
+    {
+      "title": "Hark releases an AI personal assistant with a focus on privacy",
+      "summary": "Harkが、プライバシーを重視した新しいAIアシスタントを発表しました。これは、未来のコンピューターのように、あなたの代わりに色々な作業をこなしてくれるもので、競合製品と比べてもユニークな存在です。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/",
+      "published": "2026-10-06T18:22:45.000Z"
+    },
+    {
+      "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+      "summary": "アトラシアンとOpenAIが協力して、会社の持つ情報をAI（文章を作るAI）が理解できるようにしました。これにより、チームは仕事の計画を立てたり、進めたりすることがさらにスムーズになります。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/atlassian-partnership",
+      "published": "2026-10-06T16:00:00.000Z"
+    },
+    {
+      "title": "How Jump Trading is scaling quant research with ChatGPT",
+      "summary": "投資会社がChatGPT（文章を作るAI）を活用して、より多くのデータを分析し、人間の専門家によるチェックと組み合わせることで、高度な金融調査を効率化している。これにより、これまで以上に複雑で長期間にわたる調査が可能になる。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/jump-trading",
+      "published": "2026-10-06T12:00:00.000Z"
+    },
+    {
+      "title": "Sharing AI progress in mathematics",
+      "summary": "AIが数学の難しい問題を解いた！OpenAIが、AIの最新研究成果を公開。AIが証明した数学の新しい発見や、その証明のやり方（Leanというプログラム）も、みんなが学べるようにGitHubで公開しているよ。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+      "published": "2026-10-06T12:00:00.000Z"
+    },
+    {
+      "title": "Advancing computer use with Ironclad",
+      "summary": "OpenAIとIroncladは、契約書作成のような複雑な仕事でAI（人工知能）が活躍できるよう、AIエージェント（指示通りに動くAI）の訓練と評価を進めています。これにより、専門的な仕事でのコンピューターの活用がさらに進むでしょう。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
+      "published": "2026-10-06T10:00:00.000Z"
+    },
+    {
+      "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
+      "summary": "アラビア語の方言や文化、ニュアンスを理解するAIが登場しました。これにより、アラビア語圏の人々とのコミュニケーションがより自然で深くなり、AIの活用範囲が広がることが期待されます。",
+      "source": "Hugging Face",
+      "category": "product",
+      "url": "https://huggingface.co/blog/tiiuae/falcon-emirati",
+      "published": "2026-10-06T06:44:39.000Z"
+    },
     {
       "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
       "summary": "ChatGPTが作った文章に、目には見えない「しるし」を付けられるようになります。これは、ヨーロッパで決まったAIの新しいルール（AI Act）を守るためで、文章がAIによって作られたものだと分かりやすくなります。",
@@ -72,6 +152,22 @@
       "source": "arXiv (cs.AI)",
       "category": "research",
       "url": "https://arxiv.org/abs/2610.02267",
+      "published": "2026-10-05T04:00:00.000Z"
+    },
+    {
+      "title": "The AI Risk Observatory: What Can We Learn from AI Disclosures in Annual Reports About Societal Resilience?",
+      "summary": "AIが会社にどう影響するか、その情報を会社の年次報告書からAI（文章を作るAI）を使って調べた研究。AIのリスクに言及する会社が増えましたが、具体的にどう対応するかまで詳しく書かれているのはまだ少ないことがわかりました。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2610.02281",
+      "published": "2026-10-05T04:00:00.000Z"
+    },
+    {
+      "title": "Keep It CALM: Analyzing the Limits of Global Unsafety in Text-to-Image Generation",
+      "summary": "AIが生成する画像に不適切な内容が含まれるのを防ぐ方法について、これまでのやり方には問題があることがわかりました。そこで、指示された内容だけを調整して、より安全に画像を作れる新しい方法「CALM」が提案されています。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2610.02300",
       "published": "2026-10-05T04:00:00.000Z"
     },
     {
@@ -705,102 +801,6 @@
       "category": "business",
       "url": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/",
       "published": "2026-09-28T19:33:57.000Z"
-    },
-    {
-      "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-      "summary": "AIが作った感動的な映像作品が、未来の映像表現の可能性を示しました。この作品は、AI（人工知能）が物語を考え、映像を作り出す「Future Vision XPRIZE」というコンテストで優勝したものです。",
-      "source": "Google AI Blog",
-      "category": "research",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
-      "published": "2026-09-28T19:00:00.000Z"
-    },
-    {
-      "title": "Towards safety cases for frontier AI training",
-      "summary": "AI（人工知能）の進化には、安全対策が欠かせません。特に、最先端のAI開発では、AIが意図しない動きをしないか、問題が起きた時にどう対応するかといった、具体的な安全計画（安全ケース）の作成が重要になっています。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
-      "published": "2026-09-28T19:00:00.000Z"
-    },
-    {
-      "title": "How we will do better for Australia",
-      "summary": "OpenAIは、オーストラリア政府のウェブサイトで起きた問題について謝罪し、サイバー攻撃から国を守るための新しい対策と支援策を発表しました。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/how-we-will-do-better-for-australia",
-      "published": "2026-09-28T19:00:00.000Z"
-    },
-    {
-      "title": "Holo4: powering generalist computer-use agents",
-      "summary": "Holo4は、パソコンの様々な操作をこなせるAI（人工知能）の開発に貢献する技術です。これにより、AIがより多くの場面で人間のようにパソコンを使えるようになり、私たちの生活が便利になる可能性があります。",
-      "source": "Hugging Face",
-      "category": "product",
-      "url": "https://huggingface.co/blog/Hcompany/holo4",
-      "published": "2026-09-28T09:44:05.000Z"
-    },
-    {
-      "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
-      "summary": "AIの会社OpenAIが、ニュースを作るためのAI（文章を作るAI）を支援するプログラムに、さらに500万ドル（約7.5億円）を出すことになりました。これにより、AIを使った新しいニュースの作り方や、AIを学ぶ人の育成がもっと進むでしょう。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
-      "published": "2026-09-28T07:00:00.000Z"
-    },
-    {
-      "title": "Bringing AI to Autonomous Systems -- From Cognition to Collective Intelligence",
-      "summary": "AIの最終形は、自分で考え、判断し、行動できる「自律システム」だ。この記事では、その実現に必要なAI技術や、複数のAIが協力して賢くなる方法、そしてAIが信頼できるかどうかの新しい評価方法について解説している。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2609.30291",
-      "published": "2026-09-28T04:00:00.000Z"
-    },
-    {
-      "title": "ScopeBench: Do Agents Preserve Engagement Boundaries Under Goal Pressure?",
-      "summary": "AIがインターネットの安全を守るテスト（ペネトレーションテスト）をする際、決まった範囲（スコープ）を守れるかが課題になっています。この研究では、AIが範囲を越えた危険な行動をとらないかを試す新しいテスト「ScopeBench」を開発しました。これにより、AIが指示された範囲内で安全に作業できるかを評価できるようになり、AIをより安全に実社会で使うための重要な一歩となります。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2609.30325",
-      "published": "2026-09-28T04:00:00.000Z"
-    },
-    {
-      "title": "When Is a Multi-Agent Code Judge Actually Grounded? Two Label-Free Measurements, and a Judge That Declines to Guess",
-      "summary": "AIが他のAIの書いたプログラムを評価する際、根拠がなくても自信満々に「正しい」と断定してしまう問題があります。そこで、複数のAIが検証する仕組みが提案されていますが、この仕組みがうまく機能するには、評価対象と関係ない証拠が必要だと研究者たちは指摘します。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2609.30328",
-      "published": "2026-09-28T04:00:00.000Z"
-    },
-    {
-      "title": "Bridging LLM Agents and Data Spaces: An Architectural Mediation Approach using the Model Context Protocol",
-      "summary": "AI（人工知能）が、組織をまたいだ安全なデータ共有（データスペース）とうまく連携できない課題を解決する新しい方法が提案されました。AIエージェントがデータスペースのルールを守りながら、必要なデータを見つけて使えるようにする仕組みです。これにより、AIを使ったデータ活用がより簡単になり、組織間の連携もスムーズになります。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2609.30341",
-      "published": "2026-09-28T04:00:00.000Z"
-    },
-    {
-      "title": "Stealth Apart, Harm Together: Skill Cascading Attacks on Skill-Based Agent Systems",
-      "summary": "AIが「スキル」（できること）を組み合わせて使うとき、複数のスキルをこっそり悪用して、全体で危険な指示を出す攻撃が見つかりました。単独では問題ないように見えても、組み合わさると薬の危険な飲み合わせに気づかなくなるなど、深刻な結果を招く可能性があります。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2609.30383",
-      "published": "2026-09-28T04:00:00.000Z"
-    },
-    {
-      "title": "Are you a Codex Original?",
-      "summary": "Codex（コードを作るAI）を使ってすごいことをしている人たちの体験談を集めています。あなたのCodexを使った新しいプロジェクトのアイデアがあれば、ぜひ教えてください。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/form/codex-originals",
-      "published": "2026-09-28T00:00:00.000Z"
-    },
-    {
-      "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
-      "summary": "新しいAI「GPT-6 Astra」は、税金の書類作りを前のバージョンより2倍速く終えました。ユーザーの意図をより正確に理解できるため、実際に仕事で使うことへの信頼が高まっています。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/basis-tax-workbook-with-astra",
-      "published": "2026-09-28T00:00:00.000Z"
     }
   ]
 }
