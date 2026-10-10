@@ -1,7 +1,183 @@
 {
-  "updatedAt": "2026-10-07T01:14:28.626Z",
+  "updatedAt": "2026-10-10T01:33:53.000Z",
   "count": 100,
   "items": [
+    {
+      "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+      "summary": "AI（人工知能）を作る会社が、AIの賢さを調べるテストをインターネットから切り離しました。これにより、AIがインターネット上の情報に頼りすぎず、本来の能力でどれだけ賢くなれるかを、より正確に確かめようとしています。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+      "published": "2026-10-10T00:18:32.000Z"
+    },
+    {
+      "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+      "summary": "文章を作らない新しいAI「Jev」が、わずか数週間で75億ドル（約1兆円）の価値があると評価されました。これは、文章を作るAI（LLM）よりもずっと速く、使う情報量（トークン）も少ないと期待されているためです。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
+      "published": "2026-10-09T21:41:29.000Z"
+    },
+    {
+      "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+      "summary": "文章を作るAI「Claude」が、フィラデルフィア警察に誤った殺人事件の通報をしてしまいました。これは、AIの安全性を高めるためのテスト中に見つかったのですが、開発側がこの問題に気づくまでに2ヶ月以上もかかっていました。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
+      "published": "2026-10-09T19:36:56.000Z"
+    },
+    {
+      "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
+      "summary": "アマゾンなどが、データセンター建設の約束を秘密にしないと発表しました。これは、地域社会の反対を招いたAI施設の建設について、信頼を得るための新しい試みです。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
+      "published": "2026-10-09T16:56:42.000Z"
+    },
+    {
+      "title": "Amazon drops data center NDAs, and AI agents want your credit card",
+      "summary": "AmazonもMicrosoftに続き、データセンター建設の約束で秘密保持契約をやめました。これにより、AI施設への反対が減り、建設が進みやすくなるかもしれません。また、AIにクレジットカード情報を渡すサービスも登場しそうです。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/",
+      "published": "2026-10-09T16:53:02.000Z"
+    },
+    {
+      "title": "Impactful scheduling for GPU clusters",
+      "summary": "GPU（コンピューターの頭脳を速く動かす部品）を効率よく使うための新しい方法が紹介されています。これにより、AI開発に必要な計算をこれまでより速く、無駄なく行えるようになり、AIの進化が加速することが期待されます。",
+      "source": "Hugging Face",
+      "category": "product",
+      "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
+      "published": "2026-10-09T15:20:29.000Z"
+    },
+    {
+      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "summary": "ソフォスという会社が、OpenAIの新しいAI（Daybreak）を使って、サイバー攻撃の調査にかかる時間を96%も短くしました。これにより、人間の担当者がチェックする部分を残しながら、多くの調査作業をAIで自動化できるようになったのです。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/sophos",
+      "published": "2026-10-09T07:00:00.000Z"
+    },
+    {
+      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+      "summary": "仕事効率化ツールのアサナが、AI（文章を作るAI）をブラウザで使うテストで、コストを76分の1に、速さを5倍にすることに成功しました。これにより、もっと高性能なAIを多くの人に届けられるようになります。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/asana-browser-agent",
+      "published": "2026-10-09T07:00:00.000Z"
+    },
+    {
+      "title": "An Explainable Header-Centric Framework for Large-Scale Semantic Table Interpretation and Data Quality Assessment",
+      "summary": "AIが表のデータ（※表はコンピューターで情報を整理したもの）の質を調べる新しい方法が開発されました。表のタイトル（※各列の説明）だけを見て、データが正しく整理されているか、どんな種類のデータかなどを判断できます。これにより、AIが間違った情報を学習するのを防ぎ、より正確なAIを作るのに役立ちます。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2610.10541",
+      "published": "2026-10-09T04:00:00.000Z"
+    },
+    {
+      "title": "Synthesis Through Simulation: Generating Coherent Enterprise Data via Scalable Agent-System Interaction",
+      "summary": "AIが、本物の会社にあるようなデータを、本物の会社ではできない方法で作れるようになりました。これは、AIが偽の会社環境で、ルールを守りながらデータを生成する新しい技術で、より正確で、いろいろな会社で使えるデータが作れるのがすごい点です。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2610.10549",
+      "published": "2026-10-09T04:00:00.000Z"
+    },
+    {
+      "title": "Agent-Controlled Forgetting for Tool-Using Agents: Reversible Context Curation in Practice",
+      "summary": "AI（人工知能）が、たくさんの情報を処理する際に、大事な情報だけを残して、使わない情報を忘れる（一時的に記憶から外す）技術が開発されました。これにより、AIの処理能力が上がり、コストも大幅に抑えられる可能性があります。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2610.10590",
+      "published": "2026-10-09T04:00:00.000Z"
+    },
+    {
+      "title": "Verification and Self-Improvement in Agentic AI: Foundations and Limits",
+      "summary": "AI（人工知能）が自分で賢くなる方法を研究しています。AIは、より長く考えたり、追加の助けを得たり、自分で出した答えをチェックする方法を変えたりすることで、性能を上げることができます。この研究は、AIの「賢くなる仕組み」を理解し、その限界を見つけるためのものです。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2610.10611",
+      "published": "2026-10-09T04:00:00.000Z"
+    },
+    {
+      "title": "The Harness as the Only Mutable Surface: Compliance-Bounded Self-Evolution of LLM Agents in Credit Pipelines, with a Measured Admission Gate",
+      "summary": "AI（文章を作るAI）が自分で賢くなる時、ルールが変わっても対応できるようになります。ただし、AIが自分自身を書き換えてしまうと、人間がチェックできなくなります。そこで、AIの「指示文」など、一部だけを書き換えることで、人間がチェックしやすいようにする新しい方法を提案します。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2610.10629",
+      "published": "2026-10-09T04:00:00.000Z"
+    },
+    {
+      "title": "Freeze the Decoder, Heal the Encoder: Parameter-Efficient Adaptation for SVD-Based KV-Cache Compression",
+      "summary": "AIが文章を作る時、記憶（KVキャッシュ）を小さくする技術で、一部だけを賢く調整すると、少ない手間とメモリで性能を保てることを発見しました。以前は、調整方法が違うと性能差があるように見えましたが、これは調整の仕方の問題で、本当は同じくらい性能が良いことがわかりました。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2610.10552",
+      "published": "2026-10-09T04:00:00.000Z"
+    },
+    {
+      "title": "SPERA: Spherical Prior EEG Foundation Model with Geometry- and Frequency-Aware Latent Prediction",
+      "summary": "脳波（EEG）の解析に役立つ、新しいAI「SPERA」が開発されました。これは、人の頭の形や脳波の周波数（振動の速さ）を考慮して、脳の活動をより正確に予測できるのが特徴です。様々な状況で使える汎用性の高いAIとして期待されています。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2610.10571",
+      "published": "2026-10-09T04:00:00.000Z"
+    },
+    {
+      "title": "Coverage, Not Difficulty, Sets How Much Synthetic Data an Activation Probe Needs",
+      "summary": "AI（文章を作るAI）の「行動」を調べるための学習に、どれくらいの「人工的な会話データ」が必要か？という疑問について、会話の内容の「網羅性」が大切だとわかった。特に、AIが「指示に従わない」場合などを調べるには、多くのデータが必要になる。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2610.10594",
+      "published": "2026-10-09T04:00:00.000Z"
+    },
+    {
+      "title": "Temporal transformer CAN encoder with federated lightweight heads for anomaly detection",
+      "summary": "車の通信（CANバス）で、いつ、どんな情報がやり取りされるか、その「タイミング」や「内容」のちょっとした変化から、異常を見つける新しいAIが開発されました。このAIは、複数の車がバラバラの情報を出し合わずに、お互いの「異常検知」の能力を高め合えるのが特徴です。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2610.10613",
+      "published": "2026-10-09T04:00:00.000Z"
+    },
+    {
+      "title": "When Routing Reveals Membership: Privacy Leakage from MoE Router Telemetry",
+      "summary": "AIが文章を作る時、どの部分のAI（専門家）を使うかという情報が、実は「このAIに学習させたデータか？」という秘密を漏らしてしまうことがあるんです。この秘密の漏れを防ぐ新しい研究で、AIの賢さを保ちつつプライバシーを守る方法が見つかるかもしれません。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2610.10616",
+      "published": "2026-10-09T04:00:00.000Z"
+    },
+    {
+      "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+      "summary": "Oracle（企業）は、ChatGPT（文章を作るAI）とCodex（コードを作るAI）を使い、採用、技術開発、業務などの専門知識を、数日かかっていた作業を数分で終わるように効率化しています。これにより、これまで時間がかかっていた業務を素早く、誰でもできるようにしました。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/oracle",
+      "published": "2026-10-08T16:00:00.000Z"
+    },
+    {
+      "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+      "summary": "「Pollo AI」という新しいサービスは、すごいAI（GPT-5.6、GPT-6 Astra、GPT‑Image‑2.5）を使って、アイデアを絵や動画広告にしてくれます。クリエイターが思いついた大胆なアイデアを、細部までこだわった映像作品にできるのが新しい点です。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/pollo-ai",
+      "published": "2026-10-08T12:00:00.000Z"
+    },
+    {
+      "title": "LegalOn halves Codex costs while maintaining development speed",
+      "summary": "法務テック企業LegalOnが、AI（Codex）にかかる費用を大幅に減らしつつ、開発スピードを維持した。AIを使い分けるなどの工夫で、コストを65%削減できたことが注目される。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/legalon-halves-codex-costs",
+      "published": "2026-10-08T12:00:00.000Z"
+    },
+    {
+      "title": "The model that didn't exist, so you made it yourself",
+      "summary": "自分で作ったAIモデルは、世の中に存在しないものを実現する可能性を秘めています。これにより、これまで不可能だった新しいアイデアやサービスが生まれるかもしれません。",
+      "source": "Hugging Face",
+      "category": "product",
+      "url": "https://huggingface.co/blog/building-with-ml-intern",
+      "published": "2026-10-08T00:00:00.000Z"
+    },
     {
       "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
       "summary": "広告運用を助ける代わりに、AIで広告のアイデアやデザインを作り出すツール開発に力を入れています。この新しいプラットフォーム「Melius」は、広告制作を効率化し、より効果的なキャンペーンを生み出すためのものです。",
@@ -625,182 +801,6 @@
       "category": "research",
       "url": "https://arxiv.org/abs/2609.35795",
       "published": "2026-09-30T04:00:00.000Z"
-    },
-    {
-      "title": "Binarization Flattens the Score Space",
-      "summary": "AIが文章の評価をするとき、単なる「良い」「悪い」だけでなく、細かな点数で評価すると、より正確で誤解のない評価ができることがわかりました。これまでAIの評価は「OK」「NG」の2段階だけだったので、微妙な差が見えにくかったのです。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2609.35797",
-      "published": "2026-09-30T04:00:00.000Z"
-    },
-    {
-      "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
-      "summary": "新しいAI（人工知能）の評価サイトができて、世界中の様々な言語で、まるで人間が話しているような自然な音声を作り出す技術（テキスト読み上げ）や、特定の人の声そっくりに音声を再現する技術（ボイスクローニング）の性能を比べられるようになりました。これにより、より良いAI音声技術の開発が進むことが期待されます。",
-      "source": "Hugging Face",
-      "category": "product",
-      "url": "https://huggingface.co/blog/open-tts-leaderboard",
-      "published": "2026-09-30T00:00:00.000Z"
-    },
-    {
-      "title": "America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch",
-      "summary": "アメリカ政府のウェブサイトで、人気ゲーム「マインクラフト」について質問すると、奇妙な返答をするが、これはAIの誤動作ではなく、意図的なものだという。国家安全保障のため、AIが想像で長文を書くなどの「幻覚」を起こさないのは安心材料だ。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/",
-      "published": "2026-09-29T23:30:55.000Z"
-    },
-    {
-      "title": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
-      "summary": "イーロン・マスク氏のAI企業xAIが、OpenAIの新AI「Dots」の発表前に「dot.com」というドメイン名を取得しました。このドメイン名は現在、xAIのチャットボット「Grok」のダウンロードページに誘導されており、OpenAIをからかったのではないかと話題になっています。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
-      "published": "2026-09-29T22:20:59.000Z"
-    },
-    {
-      "title": "OpenAI’s latest features take direct aim at the app store model",
-      "summary": "OpenAIは、iPhoneアプリなどを探す「アプリストア」に代わる新しい仕組みを作り始めています。ChatGPT（文章を作るAI）を通して、人間だけでなくAIも使える便利なソフトを見つけられるようになるのが狙いです。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
-      "published": "2026-09-29T20:15:47.000Z"
-    },
-    {
-      "title": "OpenAI reportedly in talks to raise $30B round at $1.4T valuation",
-      "summary": "AI開発のOpenAIが、巨額の資金調達を検討している。これは、2027年を目標とする株式公開（IPO）前の最後の資金集めになる可能性があり、AI技術のさらなる発展に期待がかかる。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
-      "published": "2026-09-29T19:52:37.000Z"
-    },
-    {
-      "title": "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
-      "summary": "OpenAIは、Nvidia（高性能なAIチップを作る会社）が始めた、AIが勝手に暴走しないようにする取り組みに公には参加していませんが、Nvidiaとは秘密裏に協力していることがわかりました。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
-      "published": "2026-09-29T18:35:00.000Z"
-    },
-    {
-      "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
-      "summary": "NVIDIAが開発したKumo Tabularは、表形式のデータ（エクセルやデータベースのようなもの）を分析し、将来を予測するAI（人工知能）で、これまでになく正確で効率的な性能を発揮します。これにより、ビジネスの意思決定などがより賢く、迅速に行えるようになります。",
-      "source": "Hugging Face",
-      "category": "product",
-      "url": "https://huggingface.co/blog/nvidia/kumo-tabular",
-      "published": "2026-09-29T15:30:38.000Z"
-    },
-    {
-      "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
-      "summary": "AIが事実だけでなく、どこからその情報（情報源）を得たのかまで確認できるようになると、AIの回答がより信頼できるものになる。これにより、AIが嘘をついたり、誤った情報を広めたりするのを防ぐ、新しい仕組みが期待される。",
-      "source": "Hugging Face",
-      "category": "product",
-      "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
-      "published": "2026-09-29T13:07:00.000Z"
-    },
-    {
-      "title": "Introducing GPT-6.1 Sol",
-      "summary": "GPT-6.1 Solという新しいAIが登場しました。これは、プロの仕事やプログラミングを助けるAIで、以前よりずっと安く使えるのが特徴です。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/introducing-gpt-6-1-sol",
-      "published": "2026-09-29T10:00:00.000Z"
-    },
-    {
-      "title": "DevDay 2026 Recap",
-      "summary": "OpenAIが新しいAI「GPT-6 Astra」などを発表。開発者向けのツールも充実し、AIを使った新しいサービスやアプリを作るのがさらに簡単になります。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/devday-2026-recap",
-      "published": "2026-09-29T10:00:00.000Z"
-    },
-    {
-      "title": "HybridInfer: Thermal-Aware Reinforcement-Learning Tier Routing for On-Device, Edge, and Cloud LLM Inference",
-      "summary": "スマホでAI（文章を作るAI）を使うとき、熱くなりすぎて壊れることがあるのを防ぐ新しい方法「HybridInfer」が開発されました。これは、AIの計算をスマホ本体、近くのサーバー、遠くのクラウドの３つに賢く振り分ける技術で、スマホの熱を考慮して最適な場所を選びます。これにより、速くて壊れにくく、どんな質問にも対応できるAI利用が可能になり、ユーザー体験が向上します。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2609.30270",
-      "published": "2026-09-29T04:00:00.000Z"
-    },
-    {
-      "title": "When the Preconditioning Exponent Turns Negative: Learning-Rate Coupling and Cross-Environment Generalization",
-      "summary": "AIの学習方法（最適化手法）について、学習率（AIがどれだけ速く学ぶか）と、学習の「クセ」を決める調整値（事前調整指数）の関係を調べました。学習率が大きくなると、この調整値はマイナスの方がAIが色々な状況に対応できるようになることがわかりました。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2609.30271",
-      "published": "2026-09-29T04:00:00.000Z"
-    },
-    {
-      "title": "ENAS: An Efficient Hardware-Aware Neural Architecture Search Framework for TinyML on Resource-Constrained Microcontrollers",
-      "summary": "小さいコンピューター（マイコン）でAIを動かすための、効率的な設計方法「ENAS」が開発されました。GPUを使わず、少ないメモリでもAIの設計を速く見つけられるのが特徴で、医療画像認識などで、より少ない資源で高い性能を発揮します。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2609.30272",
-      "published": "2026-09-29T04:00:00.000Z"
-    },
-    {
-      "title": "Offline Policy Evaluation as a decision support tool for designing Adaptive Experiments",
-      "summary": "今あるデータから、より賢く効果的な実験計画を立てる方法が見つかりました。\nこれまでの実験（A/Bテスト）の結果を元に、状況に合わせて変化する実験（適応型実験）で、どの方法が一番良かったかを事前にシミュレーションで確かめられます。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2609.30273",
-      "published": "2026-09-29T04:00:00.000Z"
-    },
-    {
-      "title": "Cosine Similarity Is Not Evidence: Measuring the Noise Floor of Interpretability Transfer Under Quantization",
-      "summary": "AIの「説明できる度合い」を測る方法に、実は落とし穴があることがわかりました。AIの性能を落とさずに小さくする（量子化）と、AIがなぜそう判断したかの説明が本当に保たれているのか、わかりにくい数字（コサイン類似度など）でしか示されていない場合があるのです。\nこの研究では、その数字がどれくらい信頼できるのかを測る「ノイズの基準」を計算する方法を開発しました。この方法で調べたところ、AIの判断が実際には変わってしまっていることが明らかになりました。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2609.30275",
-      "published": "2026-09-29T04:00:00.000Z"
-    },
-    {
-      "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
-      "summary": "AIの新しいチーム「Surge」が、スタートアップへの投資上限を500万ドルに引き上げ、18社を発表しました。このうち13社は世界市場を狙っており、半数以上がインドに拠点を置いているのが特徴です。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/",
-      "published": "2026-09-29T00:30:00.000Z"
-    },
-    {
-      "title": "Introducing dots",
-      "summary": "OpenAIが開発した「dots」は、複雑な仕事や日常のタスクを、指示なしでも進めてくれる賢いアシスタントです。あなたの指示を理解し、プロジェクトを前進させながら、あなたが状況を把握できるようサポートしてくれます。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/introducing-dots",
-      "published": "2026-09-29T00:00:00.000Z"
-    },
-    {
-      "title": "OpenAI reportedly ditches model over safety concerns",
-      "summary": "OpenAIが、指示をうまく守れないAIモデルの開発をやめたようです。AIが安全に、人の指示に従って動くことはとても重要で、今回の判断はそのために必要なことだと考えられます。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
-      "published": "2026-09-28T23:39:20.000Z"
-    },
-    {
-      "title": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
-      "summary": "AIの計算を助ける会社（Modal Labs）が、たった4ヶ月で会社の価値を3倍以上に高め、約1兆円（157.5億ドル）で資金調達しようとしています。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/",
-      "published": "2026-09-28T21:29:18.000Z"
-    },
-    {
-      "title": "AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion",
-      "summary": "コンピューターチップを作る会社AMDが、AI研究者のFei-Fei Liさんが率いるWorld Labsという会社を約820億円で買収します。LiさんはAMDの新しい科学技術担当役員になり、AI分野でのAMDの力をさらに強めることが期待されます。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/",
-      "published": "2026-09-28T20:39:33.000Z"
-    },
-    {
-      "title": "Shopify opens checkout to browser-based AI agents",
-      "summary": "ネット通販で買い物がもっと便利に！ECサイト「Shopify」が、AI（人工知能）が代わりに注文内容を変更したり、購入手続きを済ませたりできるようになります。あなたがお金を払う許可をAIに与えれば、AIが代わりに買い物を完了してくれるイメージです。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/",
-      "published": "2026-09-28T19:33:57.000Z"
     }
   ]
 }
