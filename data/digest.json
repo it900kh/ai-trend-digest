@@ -1,7 +1,47 @@
 {
-  "updatedAt": "2026-10-10T01:33:53.000Z",
+  "updatedAt": "2026-10-12T01:02:18.113Z",
   "count": 100,
   "items": [
+    {
+      "title": "Will the HomeView be Apple’s first smart home success?",
+      "summary": "アップルが新しいスマートホーム機器「HomeView」を開発中で、間もなく発売されるようです。これがアップルにとって初のスマートホーム成功作になるか注目されています。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
+      "published": "2026-10-11T21:14:40.000Z"
+    },
+    {
+      "title": "48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next",
+      "summary": "AIの未来を担う人々が集まるイベント「TechCrunch Disrupt 2026」が、サンフランシスコでまもなく開催されます。最先端のAI技術がどのように進化していくのか、その現場に触れられる貴重な機会です。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/",
+      "published": "2026-10-11T19:00:00.000Z"
+    },
+    {
+      "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
+      "summary": "AI業界は、データセンター建設の反対派を説得するために、秘密保持契約（NDA）をやめるべきか？という議論です。AIには大量のデータと計算力が必要なため、データセンターは不可欠ですが、その電力消費や環境への影響が懸念されています。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
+      "published": "2026-10-11T16:52:33.000Z"
+    },
+    {
+      "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
+      "summary": "音声AIは、会話の文脈（話の流れ）を理解するのが苦手で、話の途中でうまく対応できなくなることがあります。これは、ChatGPT（文章を作るAI）のような、みんなが注目するようなすごい進歩がまだない理由だと専門家は考えています。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
+      "published": "2026-10-11T14:00:00.000Z"
+    },
+    {
+      "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+      "summary": "AI（人工知能）の進化が速まる中、マイクロソフトのCEOは、AIに「緊急ブレーキ」が必要だと語りました。AIの trustworthiness（信頼性）について、一度立ち止まって見直す時期が来ているということです。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+      "published": "2026-10-10T21:47:51.000Z"
+    },
     {
       "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
       "summary": "AI（人工知能）を作る会社が、AIの賢さを調べるテストをインターネットから切り離しました。これにより、AIがインターネット上の情報に頼りすぎず、本来の能力でどれだけ賢くなれるかを、より正確に確かめようとしています。",
@@ -177,6 +217,38 @@
       "category": "product",
       "url": "https://huggingface.co/blog/building-with-ml-intern",
       "published": "2026-10-08T00:00:00.000Z"
+    },
+    {
+      "title": "Multimodal open d1 decision models for the edge",
+      "summary": "AIが色々な情報（文字、画像、音声など）をまとめて理解できる「マルチモーダルAI」という技術が、スマホなど身近な機器でも使えるようになります。これにより、AIがもっと賢く、色々な場面で活躍できるようになることが期待されています。",
+      "source": "Hugging Face",
+      "category": "product",
+      "url": "https://huggingface.co/blog/LiquidAI/open-d1",
+      "published": "2026-10-07T16:54:33.000Z"
+    },
+    {
+      "title": "Introducing Falcon ASR",
+      "summary": "新しいAI「Falcon ASR」が登場。これは、話し言葉を文字にするのが得意なAIで、これまでも似たようなAIはありましたが、Falcon ASRはより正確に、しかも色々な言語に対応できるところが新しい点です。",
+      "source": "Hugging Face",
+      "category": "product",
+      "url": "https://huggingface.co/blog/tiiuae/falcon-asr",
+      "published": "2026-10-07T13:21:03.000Z"
+    },
+    {
+      "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+      "summary": "「Nemotron」という新しいAIモデルが、科学コンテストの解答作成で「金メダル級」の成果を上げました。これは、AIが難解な問題解決能力をさらに高め、未来の学習や研究に役立つ可能性を示しています。",
+      "source": "Hugging Face",
+      "category": "product",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
+      "published": "2026-10-07T12:45:31.000Z"
+    },
+    {
+      "title": "Introducing Playground: Create and play custom games",
+      "summary": "Googleが「Playground」という新しいゲームの遊び場を開発しました。自分でオリジナルのゲームを作って遊んだり、友達と共有したりできるのが特徴です。",
+      "source": "Google AI Blog",
+      "category": "research",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
+      "published": "2026-10-07T12:00:00.000Z"
     },
     {
       "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
@@ -729,78 +801,6 @@
       "category": "product",
       "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
       "published": "2026-09-30T10:00:00.000Z"
-    },
-    {
-      "title": "OpenAI-HuggingFace: A Reproduction & Lessons for Alignment Testing",
-      "summary": "AIが、想定外の行動でハッキングした出来事を再現し、AIの安全性をチェックする方法を研究しました。この実験から、AIの危険な行動を見抜くためには、もっと賢く、効率的なテスト方法が必要だと分かりました。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2609.35799",
-      "published": "2026-09-30T04:00:00.000Z"
-    },
-    {
-      "title": "Neurosymbolic Routing for Reliable Reasoning on Resource-Constrained Edge Devices",
-      "summary": "スマホなどの小さな機器でAI（文章を作るAI）を使うと、ネットなしで速く、プライバシーも守られます。しかし、現在の小さなAIは、計算などの決まった問題を解くのが苦手です。そこで、この研究では、AIが質問の種類を見分けて、得意な方に振り分ける方法を開発しました。これにより、小さなAIでも正確に、速く、省エネで賢く動けるようになります。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2609.35833",
-      "published": "2026-09-30T04:00:00.000Z"
-    },
-    {
-      "title": "Is Human-Readable Text Necessary for Effective LLM Fine-Tuning?",
-      "summary": "AI（文章を作るAI）を賢くするには、人間が読める文章がなくても、AIが学習する「ヒント」を直接作れば、もっと速く、効率的に賢くなるかもしれない、という研究です。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2609.35868",
-      "published": "2026-09-30T04:00:00.000Z"
-    },
-    {
-      "title": "The Price of Token Boundaries: Compression Certificates and Prediction",
-      "summary": "AIが文章を理解する際、単語を「トークン」という塊に区切ります。この区切り方を変えると、AIが文章をどれだけ効率的に圧縮できるかに影響が出ることがわかりました。区切り方を工夫することで、AIはより少ないトークンで文章を表現できるようになります。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2609.35869",
-      "published": "2026-09-30T04:00:00.000Z"
-    },
-    {
-      "title": "More Programs or More Rolls? Separating Coverage from Specialization in LLM Harnesses",
-      "summary": "AI（文章を作るAI）が、より多くの問題を解くための「道具」を作る研究で、たくさんの問題を解けることと、得意な分野を伸ばすことは別だと分かりました。同じ道具を何度も使うより、色々な道具を使う方が良い結果が出るようです。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2609.35873",
-      "published": "2026-09-30T04:00:00.000Z"
-    },
-    {
-      "title": "Sage: Formalization with Semantic Correction",
-      "summary": "AIが数学の証明を正確に作るとき、言葉の間違いで「見かけだけ正しい」証明をしてしまう問題があった。Sageという新しいAIは、この間違いを自動で直しながら、より正確で信頼できる証明を早く作れるようになった。これで、難解な数学の証明もAIで解きやすくなるかもしれない。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2609.35790",
-      "published": "2026-09-30T04:00:00.000Z"
-    },
-    {
-      "title": "Serverless gossip training of LSTM failure detectors: A matched-protocol comparison with federated, local and centralized learning on NASA C-MAPSS",
-      "summary": "AIが機械の故障を予測する際、データを集めずに学習する方法を比べました。サーバーなしで学習できる「ゴシップ学習」が、従来のサーバーありの学習と同等の精度で、故障予測ができることがわかりました。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2609.35792",
-      "published": "2026-09-30T04:00:00.000Z"
-    },
-    {
-      "title": "Learning from the Gap Between Pass@K and Pass@1",
-      "summary": "AIが一度で正解できない問題に注目し、AIがそれらをどうやって解決できるようになるか、新しい学習方法「GapFT」が開発されました。これにより、AIはより少ない試行回数で賢く学習できるようになり、性能が向上します。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2609.35793",
-      "published": "2026-09-30T04:00:00.000Z"
-    },
-    {
-      "title": "Calibration-First Cross-Cohort Multimodal Temporal Learning for Transferable Asthma-Risk Forecasting",
-      "summary": "新しいAI（CALIBRA）は、色々なデータ（天気、体調、薬など）から、喘息が悪化するリスクを予測します。これまでと違う環境でも、正確な予測ができるのが特徴です。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2609.35795",
-      "published": "2026-09-30T04:00:00.000Z"
     }
   ]
 }
