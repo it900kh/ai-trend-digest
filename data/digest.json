@@ -1,7 +1,127 @@
 {
-  "updatedAt": "2026-10-12T01:02:18.113Z",
+  "updatedAt": "2026-10-13T02:52:04.438Z",
   "count": 100,
   "items": [
+    {
+      "title": "Meta releases its first frontier model, Muse Wonder",
+      "summary": "メタ社が「Muse Wonder」という、より高性能なAIを発表しました。これは、複雑な質問に答えたり、プログラム（コンピューターが動くための指示）を作ったりする能力が向上しています。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
+      "published": "2026-10-12T17:56:56.000Z"
+    },
+    {
+      "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
+      "summary": "天気予報に使う気球とAIで、アメリカ空軍から約50億円もの大きな契約を得たシリコンバレーの会社があります。これは、気球で集めたデータをAIが分析して、より正確な天気予報を軍に提供できるようになったことを意味します。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
+      "published": "2026-10-12T17:19:14.000Z"
+    },
+    {
+      "title": "Honeyjar offers AI tools to improve PR and comms at every company",
+      "summary": "AI（人工知能）が、広報活動（PR）のやり方を改善する手助けをしてくれます。これまで難しかった情報発信が、AIの力でよりスムーズに、効率的にできるようになるかもしれません。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
+      "published": "2026-10-12T15:45:00.000Z"
+    },
+    {
+      "title": "Microsoft president says UK is best placed to drive AI regulation",
+      "summary": "マイクロソフトの社長が、AI（人工知能）のルール作りをイギリスがリードすべきだと発言しました。AIはまだ安全のルールが少なく、牛乳や洗濯機よりも管理が甘いと指摘。イギリスはAIの発展と安全な利用のためのルール作りに適した場所だと主張しています。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
+      "published": "2026-10-12T15:31:19.000Z"
+    },
+    {
+      "title": "This AI startup says it can generate permit-ready blueprints in minutes",
+      "summary": "AIの力で、建物の設計図（青写真）があっという間に作れるようになりました。写真や手書きの絵から、法律に合った設計図を自動で作れるので、建築のスピードアップが期待できます。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
+      "published": "2026-10-12T15:27:59.000Z"
+    },
+    {
+      "title": "Faithfulness Without Anchors: A Position Paper on the Structural Misalignments of Explainable AI Faithfulness Metrics for Feature Importance",
+      "summary": "AIの「説明できる」機能（XAI）は、AIの判断がなぜそうなるのかを分かりやすくするはずだったが、実はAIを過信させ、間違った結果に頼らせてしまうことがある。この問題の根っこは、AIの仕組みを単純化しすぎて、説明とAIの実際の動きがずれていることにある。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2610.12493",
+      "published": "2026-10-12T04:00:00.000Z"
+    },
+    {
+      "title": "EliteTable: Self-Improving Program Search for Executable Control Policies",
+      "summary": "AIが自分で「こうすればうまくいく」というプログラムを探し、それをどんどん良くしていく仕組み「EliteTable」が開発されました。これは、AIが過去の成功例を参考にしながら、より良いプログラムを自動で作っていく技術で、ゲームの操作などをより上手くさせるのに役立つ可能性があります。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2610.12536",
+      "published": "2026-10-12T04:00:00.000Z"
+    },
+    {
+      "title": "Equal-Budget Monte Carlo Tree Search versus Randomized-Restart List Scheduling for DAG Workflows: A Controlled Equal-Budget Computational Study",
+      "summary": "AI（人工知能）を使った仕事の進め方（スケジュール調整）を比べた研究で、複雑なAIよりも、もっと単純な方法の方が成績が良いことがわかりました。\nこれは、AIの進歩はすごいけれど、仕事の進め方によっては、もっと簡単な方法が効率的な場合もあるということを示しています。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2610.12542",
+      "published": "2026-10-12T04:00:00.000Z"
+    },
+    {
+      "title": "Know What You Don't Know: Agentic Data Synthesis by Evolving Generation Space for Closed-Loop Learning",
+      "summary": "AIが自分で学習するための「経験」を、もっと賢く作る方法が開発されました。AIが間違えたところや、もっと知りたいことを分析し、次にどんな「経験」をさせるべきかを自動で決めてくれます。これにより、AIはより早く、より多くのことを効果的に学べるようになります。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2610.12593",
+      "published": "2026-10-12T04:00:00.000Z"
+    },
+    {
+      "title": "SpireBench: Evaluating Long-Horizon Strategic Play of Agentic Models with Slay the Spire",
+      "summary": "AI（人工知能）が長い戦略を考える力を測る新しい方法「SpireBench」ができました。この方法で、AIに人気ゲーム「Slay the Spire」をプレイさせたところ、AIは人間並みにはなったものの、熟練したプレイヤーにはまだ及ばないことがわかりました。AIは、将来のために今健康を守りすぎ、強くなるためのリスクを取らないことが課題のようです。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2610.12596",
+      "published": "2026-10-12T04:00:00.000Z"
+    },
+    {
+      "title": "Algebraic Integer Quantization for Machine Learning Applications",
+      "summary": "AIは、計算を速くするために数字の表現方法を工夫しています。この研究では、「代数的整数」という特別な方法を使うことで、計算ミスをなくし、AI（特に文章を作るLLM）をより速く、正確に動かす新しい技術を提案しています。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2610.12494",
+      "published": "2026-10-12T04:00:00.000Z"
+    },
+    {
+      "title": "Kairos: Toward a Byte-Level Foundation Model for Every Modality",
+      "summary": "「Kairos」という新しいAIは、文章だけでなく、画像、音声、動画など、様々な種類の情報を「バイト」（情報の最小単位）レベルでまとめて扱えるよう目指しています。これにより、AIがより多くの種類の情報を同時に学習し、理解できるようになる可能性があります。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2610.12495",
+      "published": "2026-10-12T04:00:00.000Z"
+    },
+    {
+      "title": "An Input-Dependent Readout Phase for Resonant Sequence Models",
+      "summary": "AIが文章を覚える仕組みを改良し、長い文章でも正確に理解できるようになりました。これまでは、AIが文章のどこまで覚えているか（状態）を、全ての単語で同じように決めていましたが、この新しい技術では、単語ごとにAIの記憶の読み取り方を変えます。その結果、AIが長い文章の過去の情報をより正確に思い出せるようになり、文章理解の精度が大幅に向上しました。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2610.12496",
+      "published": "2026-10-12T04:00:00.000Z"
+    },
+    {
+      "title": "CircuitTree: Composing Circuits into A Syllable Transcriber",
+      "summary": "AIが音を区別する小さな部品（回路）を組み合わせて、単語（音節）を聞き取る方法が開発されました。この技術を使うと、一つ一つの音を認識する部品だけでは難しかった「単語」の聞き取りが、部品の大部分を共有しながらも高い精度でできるようになります。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2610.12520",
+      "published": "2026-10-12T04:00:00.000Z"
+    },
+    {
+      "title": "Behind-the-Meter Photovoltaic Visibility from Net Smart Meters: Deployment Regimes and Operational Insights",
+      "summary": "家庭で発電された電気（太陽光発電）がどれくらい使われているか、電力会社は詳しく知りたいと思っています。でも、普通のスマートメーター（電気の使用量を測る賢い機械）では、家全体で使った電気の差しか分からないのです。そこで、AI（人工知能）を使って、家庭で発電された電気の量を正確に把握しようという研究が行われています。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2610.12527",
+      "published": "2026-10-12T04:00:00.000Z"
+    },
     {
       "title": "Will the HomeView be Apple’s first smart home success?",
       "summary": "アップルが新しいスマートホーム機器「HomeView」を開発中で、間もなく発売されるようです。これがアップルにとって初のスマートホーム成功作になるか注目されています。",
@@ -681,126 +801,6 @@
       "category": "research",
       "url": "https://arxiv.org/abs/2609.38190",
       "published": "2026-10-02T04:00:00.000Z"
-    },
-    {
-      "title": "EHR2Trace: Auditable EHR Data Infrastructure for Patient World Models and Clinical Agents",
-      "summary": "患者さんの健康状態を予測し、医療を助けるAI（「患者ワールドモデル」や「臨床エージェント」）を作るには、過去の病気や治療の記録が正確に必要です。でも、病院ごとの記録の付け方の違いで、これらの記録をそのまま使うのが難しいのです。そこで、EHR2Traceというシステムは、バラバラな病院の記録を、AIが学習しやすい「たどれる」記録に変換し、より信頼できるAI開発を可能にします。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2609.38193",
-      "published": "2026-10-02T04:00:00.000Z"
-    },
-    {
-      "title": "A Moving-Horizon Approximate Branch-and-Reduce Method for Deep Classification Trees",
-      "summary": "AIで「なぜその判断をしたのか」を分かりやすく説明できる「決定木」を、もっとたくさんのデータで、もっと深く賢く作れる新しい方法が開発されました。これにより、AIの賢さと分かりやすさの両方を高めることが期待されます。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2609.38194",
-      "published": "2026-10-02T04:00:00.000Z"
-    },
-    {
-      "title": "A Data-Free Physics-Informed Neural Operator for Level-Set Interface Advection",
-      "summary": "AIが、過去のデータに頼らず物理法則だけで「境界線」（例：水の波紋の形）の動きを予測する新しい方法が開発されました。これは、AIが学習する際に「正解データ」を必要としないため、より応用範囲が広がる可能性があります。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2609.38195",
-      "published": "2026-10-02T04:00:00.000Z"
-    },
-    {
-      "title": "Conformal Adversarial Generative Ensemble",
-      "summary": "AIが未来の予測（時系列予測）をより正確にする新しい方法「CAGE」が開発されました。これは、複数のAIで予測を作り、その中で信頼できるものだけを選ぶことで、特に異常なデータがあっても失敗しにくいのが特徴です。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2609.38196",
-      "published": "2026-10-02T04:00:00.000Z"
-    },
-    {
-      "title": "Chatham scales its capital markets expertise with OpenAI",
-      "summary": "金融会社が、文章を作るAI（GPT）やコードを作るAI（Codex）を使って、仕事のやり方を劇的に速くしました。これまで30分かかっていた確認作業が4分未満でできるようになり、効率が大幅にアップしたことが新しい点です。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/chatham-financial",
-      "published": "2026-10-02T00:00:00.000Z"
-    },
-    {
-      "title": "The eternal complement",
-      "summary": "AIは、画期的なアイデアを生み出すための裏側にある地道な作業を助けることで、重要になるかもしれません。この「実行」の部分が、これからの経済や進歩のスピードをどう変えるのかが注目されています。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/the-eternal-complement",
-      "published": "2026-10-01T17:00:00.000Z"
-    },
-    {
-      "title": "How Albertsons Companies is reimagining retail from the inside out",
-      "summary": "アメリカのスーパーマーケットチェーンが、ChatGPT（文章を作るAI）を活用し、従業員の仕事の効率を上げ、お客さんの買い物を便利にしています。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/albertsons-reimagining-retail",
-      "published": "2026-10-01T16:00:00.000Z"
-    },
-    {
-      "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
-      "summary": "AI（人工知能）のおかげで、あるコミュニティスペースは、これまで数日かかっていた書類作成の時間が数時間で済むようになり、年間100時間以上も節約できた。これにより、新しい拠点の準備や地域への貢献活動にもっと時間をかけられるようになった。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/the-den-family-social",
-      "published": "2026-10-01T00:00:00.000Z"
-    },
-    {
-      "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
-      "summary": "Googleが、プログラミングやサイバーセキュリティに強い、これまでにない強力なAI「Gemini 4 Argon」を発表しました。このAIは、複雑な作業を効率的にこなすための新しい「働き者」として期待されています。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
-      "published": "2026-09-30T23:43:07.000Z"
-    },
-    {
-      "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
-      "summary": "AIの力で、パソコンなどの「ものづくり」（ハードウェア設計）を、もっと賢く、速くできるようになるかもしれません。それに取り組む会社が、大きな資金を集めて注目されています。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
-      "published": "2026-09-30T21:07:40.000Z"
-    },
-    {
-      "title": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents",
-      "summary": "AIが自分で考え、行動する「エージェント」の群れを、OpenAIが新しく開発した「Decisions API」で効率的に管理できるようになりました。これにより、AIの賢さとスピードを低コストで実現できる点が注目されています。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/",
-      "published": "2026-09-30T19:00:57.000Z"
-    },
-    {
-      "title": "AI voice startup ElevenLabs doubles valuation to $22B",
-      "summary": "AIが作った声で、まるで人間が話しているかのような自然な音声合成ができるElevenLabsが、会社の価値を22億ドル（約3200億円）に倍増させた。これは、AIによる音声技術の進化と、それに対する期待の大きさを表している。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
-      "published": "2026-09-30T18:23:57.000Z"
-    },
-    {
-      "title": "Reddit is killing RSS feeds and ending public API access because of AI bots",
-      "summary": "Redditが、AI（人工知能）が大量の情報を集めるのを防ぐため、RSS（ウェブサイトの更新情報を自動で受け取る仕組み）の提供を終了し、API（他のサービスと連携するための窓口）へのアクセスを制限します。これにより、AIがRedditの投稿を不正に利用することが難しくなります。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/",
-      "published": "2026-09-30T17:45:00.000Z"
-    },
-    {
-      "title": "Disrupting a coordinated model-distillation campaign",
-      "summary": "OpenAIは、AIの「考え方」（モデルの推論）を盗むことを目的とした不正な活動を阻止しました。これにより、AIの秘密が守られ、同様の攻撃への対策が強化されました。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
-      "published": "2026-09-30T10:30:00.000Z"
-    },
-    {
-      "title": "Helping small businesses put AI to work",
-      "summary": "AIを作る会社OpenAIが、アメリカのSBDC（中小企業支援団体）と協力して、中小企業がAIを使いこなせるように、直接的なトレーニングや地域でのサポートを拡充します。AIを使った小規模チームの活用法をまとめた新しいレポートも公開されます。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
-      "published": "2026-09-30T10:00:00.000Z"
     }
   ]
 }
