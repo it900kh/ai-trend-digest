@@ -1,7 +1,95 @@
 {
-  "updatedAt": "2026-10-13T02:52:04.438Z",
+  "updatedAt": "2026-10-15T00:19:08.185Z",
   "count": 100,
   "items": [
+    {
+      "title": "YouTube Music launches new labels as AI-generated music floods streaming platforms",
+      "summary": "YouTube MusicがAIが作った音楽の増加に対応し、AI生成曲や一部AIが関わった曲に新しいラベルを表示し始めました。これにより、ユーザーはAIが作る音楽をより分かりやすく区別できるようになります。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/",
+      "published": "2026-10-14T18:23:46.000Z"
+    },
+    {
+      "title": "Apate sends AI agents undercover to get scammed so they can gather fraud intelligence",
+      "summary": "AIがだまされる側になって、詐欺の手口を調べる新しいサービスが登場しました。これは、AIがわざと詐欺にひっかかることで、どんな手口が使われているかを学び、他の人を守るための情報（詐欺インテリジェンス）を集めるというものです。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/",
+      "published": "2026-10-14T18:00:00.000Z"
+    },
+    {
+      "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+      "summary": "AIが、これまでよりずっと細かく（3km四方）豪雨などの極端な天気を、ふつうよりずっと安く、しかも速くシミュレーションできるようになりました。これは、災害予測や対策に役立つ、新しい技術です。",
+      "source": "Hugging Face",
+      "category": "product",
+      "url": "https://huggingface.co/blog/allenai/hiro-acev2",
+      "published": "2026-10-14T16:12:42.000Z"
+    },
+    {
+      "title": "Deezer will soon let you filter out AI-generated music",
+      "summary": "音楽ストリーミングサービスDeezerが、今年末までにAIが作った曲を聴かないようにできる機能を追加します。これにより、人工知能（AI）が生成した音楽が苦手な人も、好みの音楽だけを選んで楽しめるようになります。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music/",
+      "published": "2026-10-14T15:16:04.000Z"
+    },
+    {
+      "title": "Save 50% on your TechCrunch Disrupt 2026 ticket and join the last 2 days in San Francisco’s Moscone West",
+      "summary": "AI技術の最先端が集まる「TechCrunch Disrupt 2026」の後半2日間（10月14日〜15日）のチケットが半額になるキャンペーンが始まりました。スタートアップが集まるこのイベントで、物理AIとソフトウェアAIの最新動向をチェックしましょう。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/10/14/save-50-on-your-techcrunch-disrupt-2026-ticket-and-join-the-last-two-days-in-san-francisco/",
+      "published": "2026-10-14T15:13:24.000Z"
+    },
+    {
+      "title": "Amp puts AI agents to work beyond code with OpenAI models",
+      "summary": "AI（人工知能）の新しい「Amp」という仕組みを使うと、AIがプログラムを作るだけでなく、もっと色々な仕事ができるようになります。OpenAI（AIを作る会社）の最新技術で、AIがもっと賢く、速く動けるようになるのがすごい点です。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/amp-beyond-coding",
+      "published": "2026-10-14T12:00:00.000Z"
+    },
+    {
+      "title": "SentinelOne cuts malware analysis from weeks to hours",
+      "summary": "SentinelOneという会社が、AI（OpenAI Daybreak）を使って、コンピューターウイルス（マルウェア）の分析にかかる時間を数週間から数時間に短縮しました。これにより、より多くの危険なコンピューターウイルスを見つけ出し、調査できるようになります。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/sentinelone",
+      "published": "2026-10-14T12:00:00.000Z"
+    },
+    {
+      "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
+      "summary": "AI研究機関が、まるで長期間集中できる賢いアシスタントのようなAI（GPT-6 Astraなど）を開発しました。これは、サイバー攻撃を防ぐためのAI（Codexなど）も含まれ、数日間学習し続け、使いこなすほど賢くなるのが特徴です。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/third-moment-research",
+      "published": "2026-10-14T07:00:00.000Z"
+    },
+    {
+      "title": "The EU’s next chapter in AI is agentic",
+      "summary": "EUでは、自ら考えて行動するAI（エージェントAI）が企業やお店で広まりつつあります。これをさらに活用すれば、もっと便利なサービスが生まれる可能性があります。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+      "published": "2026-10-14T00:00:00.000Z"
+    },
+    {
+      "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
+      "summary": "スマホやパソコンで、一人ひとりに合わせたAIアシスタントが、インターネットにつながらなくても、速くて安全に動くようになりました。この技術（LFM2.5-24B-A2B）で、AIがもっと身近になり、プライバシーも守られるようになります。",
+      "source": "Hugging Face",
+      "category": "product",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
+      "published": "2026-10-13T17:05:48.000Z"
+    },
+    {
+      "title": "Gemini 4 Argon: Built to solve your hardest problems",
+      "summary": "Googleが、これまでで最も賢いAI「Gemini 4 Argon」を公開しました。このAIは、難しい問題を解決するために作られ、色々な分野の専門家や一般の人々が使えるようになります。",
+      "source": "Google AI Blog",
+      "category": "research",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
+      "published": "2026-10-13T16:00:00.000Z"
+    },
     {
       "title": "Meta releases its first frontier model, Muse Wonder",
       "summary": "メタ社が「Muse Wonder」という、より高性能なAIを発表しました。これは、複雑な質問に答えたり、プログラム（コンピューターが動くための指示）を作ったりする能力が向上しています。",
@@ -713,94 +801,6 @@
       "category": "business",
       "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
       "published": "2026-10-02T18:11:27.000Z"
-    },
-    {
-      "title": "Call it AI, call it Super Intelligence, only 2% of consumers are buying it",
-      "summary": "AI（人工知能）を「スーパーインテリジェンス」と呼ぶ動きが強まっていますが、一般の消費者はAI製品への関心がまだ低いです。技術リーダーたちがAIの安全な開発について話し合う一方、企業はAIをより親しみやすく見せようとしています。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/podcast/call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it/",
-      "published": "2026-10-02T17:56:00.000Z"
-    },
-    {
-      "title": "A model guide for the GPT-6 family",
-      "summary": "GPT-6（新しい文章を作るAI）のファミリーから、スタートアップ企業が自社に最適なモデルを選ぶ方法や、AIの「考える力」の調整、指示（プロンプト）の工夫、ツールの連携、そして実際の仕事で使うための準備について解説しています。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/practical-guide-building-gpt-6",
-      "published": "2026-10-02T16:15:00.000Z"
-    },
-    {
-      "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
-      "summary": "Open-sourcing AstaBriefは、AIが素早く報告書を作成できるモデルを公開したというニュースです。これにより、今まで時間がかかっていた文書作成が効率化され、多くの人がAIの恩恵を受けやすくなることが期待されます。",
-      "source": "Hugging Face",
-      "category": "product",
-      "url": "https://huggingface.co/blog/allenai/astabrief",
-      "published": "2026-10-02T15:19:50.000Z"
-    },
-    {
-      "title": "The latest AI news we announced in September 2026",
-      "summary": "Googleは、AI（人工知能）の進化を加速させる新しい技術を発表しました。これにより、AIはさらに賢くなり、私たちの生活をより豊かにしてくれることが期待されます。",
-      "source": "Google AI Blog",
-      "category": "research",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
-      "published": "2026-10-02T15:00:00.000Z"
-    },
-    {
-      "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
-      "summary": "AIに仕事をさせるための「先生役」（訓練データ）を、自動で作る新しい方法が紹介されました。これにより、企業で働くAI（エージェント）を、より賢く、効率的に育てられるようになります。",
-      "source": "Hugging Face",
-      "category": "product",
-      "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
-      "published": "2026-10-02T04:01:31.000Z"
-    },
-    {
-      "title": "Heavy-Tailed Memory Traces in Long-Horizon Language Agents",
-      "summary": "AIが長い文章を理解する際、記憶の使い方が偏ることが分かりました。一部の重要な記憶に集中し、まれな出来事の記憶が忘れられると、間違いが増える可能性があります。この問題を解決する新しい方法が提案され、AIがより効率的に記憶を使えるようになりました。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2610.00010",
-      "published": "2026-10-02T04:00:00.000Z"
-    },
-    {
-      "title": "When Do Causal World Models Help Modular LLM Agents",
-      "summary": "AI（人工知能）が、注文や支払いなどの部品（モジュール）に分かれたシステムで賢く動くには、部品同士の「因果関係」（何が原因で何が結果か）を理解することが大切です。この研究は、AIが部品間の関係を正しく捉え、より的確な行動をとれるようになるための新しい方法を示しています。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2610.00012",
-      "published": "2026-10-02T04:00:00.000Z"
-    },
-    {
-      "title": "From Proposal to Verified Effect: Praxa, an Evidence-Bound Harness for Governed AI Agent Execution",
-      "summary": "AIエージェントが行動を提案・実行する際、その提案から実際の結果までをきちんと確認する仕組み「Praxa」が開発されました。これにより、AIの活動が信頼できるかどうかの判断がしやすくなります。ただし、現時点ではAIの安全性や効果について、まだ証明されていない点もあります。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2610.00015",
-      "published": "2026-10-02T04:00:00.000Z"
-    },
-    {
-      "title": "What Do Rationales Communicate? A Message-Intervention Study in Role-Specialized QA",
-      "summary": "AIが質問に答えるとき、なぜそう答えたかの理由（根拠）を一緒に伝えると、答えの正確さより、根拠が正しいかの判断が大きく変わってしまうことがわかりました。AIの判断ミスを防ぐために、根拠の伝え方を工夫することが大切です。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2610.00018",
-      "published": "2026-10-02T04:00:00.000Z"
-    },
-    {
-      "title": "Measuring the Microtask Eligibility Gap: When Is an Off-the-Shelf SLM Enough for an Agent Harness?",
-      "summary": "AIに簡単な仕事を任せるには、そのまま使えるAI（SLM）で十分か？という疑問に、実験で答えを出しました。結果、そのままのAIでは多くの仕事（コマンド承認や記憶整理など）を任せるには性能が足りず、AIの性能を落とす「量子化」（AIのサイズを小さくする技術）をしても、状況は改善されませんでした。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2610.00025",
-      "published": "2026-10-02T04:00:00.000Z"
-    },
-    {
-      "title": "Travel Time Prediction in Supply Chain Management Using Machine Learning",
-      "summary": "AI（人工知能）を使って、荷物が届くまでの時間を正確に予測する研究が進んでいます。これにより、物がいつ届くか計画しやすくなり、お店の在庫管理や、お客さんが満足することにつながります。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2609.38190",
-      "published": "2026-10-02T04:00:00.000Z"
     }
   ]
 }
