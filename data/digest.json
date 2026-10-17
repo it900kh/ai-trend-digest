@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-10-17T00:11:57.366Z",
+  "updatedAt": "2026-10-17T23:46:50.984Z",
   "count": 100,
   "items": [
+    {
+      "title": "Meta removes language that raised scraping and AI training concerns",
+      "summary": "メタ社は、ウェブサイトの情報をAIの学習に使うことへの懸念を招く表現を規約から削除しました。これは、ウェブ情報の収集方法を変えるものではないとしています。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+      "published": "2026-10-17T21:31:32.000Z"
+    },
+    {
+      "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+      "summary": "AI開発会社Anthropicの社員構成が変化しました。以前より経験豊富な社員が増え、会議に費やす時間が増えたことで、AI開発の質が高まっていると考えられます。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+      "published": "2026-10-17T20:21:19.000Z"
+    },
+    {
+      "title": "Replit makes OpenAI its default over Anthropic, CEO says",
+      "summary": "プログラミング学習サイト「Replit」が、文章作成AI（LLM）の提供元を「Anthropic」から「OpenAI」に変更した。これにより、より多くの人が高性能なAIを使えるようになる。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "published": "2026-10-17T18:48:08.000Z"
+    },
     {
       "title": "Replit is no longer working with Anthropic, CEO says",
       "summary": "プログラミング学習サービスReplitが、AI（人工知能）開発企業Anthropicとの連携を解消しました。コストなどが理由として挙げられていますが、これまで連携解消の兆候はありませんでした。",
@@ -131,6 +155,14 @@
       "published": "2026-10-16T04:00:00.000Z"
     },
     {
+      "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+      "summary": "インドの言葉（インドで使われる様々な言語）を学習させたAIを、これまでで最も多くの（2兆8000億個）単語で訓練しました。これにより、インドの言語の理解度が飛躍的に向上し、新しいAI開発への道が開かれました。",
+      "source": "Hugging Face",
+      "category": "product",
+      "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
+      "published": "2026-10-16T01:44:47.000Z"
+    },
+    {
       "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
       "summary": "ChatGPTのプラグイン（AIの機能拡張）を使った「Stack Overflow for Agents」が、開発者の登録を3倍に増やしました。これは、AI（Codex）を使って短期間で作られたもので、AIエージェント（指示された作業をこなすAI）をより簡単に作れるようになったことが、利用者を大きく伸ばした理由です。",
       "source": "OpenAI Blog",
@@ -144,6 +176,14 @@
       "source": "Hugging Face",
       "category": "product",
       "url": "https://huggingface.co/blog/reflection-beam",
+      "published": "2026-10-16T00:00:00.000Z"
+    },
+    {
+      "title": "Benefit Street Partners answers questions faster with Codex",
+      "summary": "ある会社では、AI（コードを作るAI）を使って、お金に関する難しい書類のチェックを速くこなせるようになりました。これにより、質問に早く答えられるようになり、仕事の効率が上がっています。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/benefit-street-partners",
       "published": "2026-10-16T00:00:00.000Z"
     },
     {
@@ -307,6 +347,22 @@
       "published": "2026-10-15T00:00:00.000Z"
     },
     {
+      "title": "Sullivan & Cromwell brings legal expertise into agreement review",
+      "summary": "弁護士事務所とOpenAIが協力し、契約書をチェックするAIツール「Agreement Analyzer」を開発しました。これにより、契約書に潜む問題点をAIが見つけ出し、より安全な契約締結をサポートします。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/sullivan-cromwell",
+      "published": "2026-10-15T00:00:00.000Z"
+    },
+    {
+      "title": "Flock CEO says its microphones detect ‘just gunshots’ — its website says different",
+      "summary": "Flockという会社のCEOは、自社のマイクは「銃声だけ」を検知すると言っていますが、ウェブサイトには違うことが書かれています。この技術がプライバシー侵害に使われるのではと、人々から心配の声があがっています。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/",
+      "published": "2026-10-14T21:30:33.000Z"
+    },
+    {
       "title": "YouTube Music launches new labels as AI-generated music floods streaming platforms",
       "summary": "YouTube MusicがAIが作った音楽の増加に対応し、AI生成曲や一部AIが関わった曲に新しいラベルを表示し始めました。これにより、ユーザーはAIが作る音楽をより分かりやすく区別できるようになります。",
       "source": "TechCrunch AI",
@@ -368,6 +424,14 @@
       "source": "OpenAI Blog",
       "category": "product",
       "url": "https://openai.com/index/third-moment-research",
+      "published": "2026-10-14T07:00:00.000Z"
+    },
+    {
+      "title": "How Block is building AI-powered security with OpenAI technology",
+      "summary": "Block（決済サービスなどを手がける会社）が、OpenAI（ChatGPTなどを開発する会社）の技術を使ってAIをセキュリティ（安全を守ること）に活用し始めています。これにより、悪意のある攻撃（脅威）を見つけるのが速くなり、その対策（パッチ）も数分で提案できるようになりました。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/block-ai-powered-security",
       "published": "2026-10-14T07:00:00.000Z"
     },
     {
@@ -737,70 +801,6 @@
       "category": "product",
       "url": "https://huggingface.co/blog/LiquidAI/open-d1",
       "published": "2026-10-07T16:54:33.000Z"
-    },
-    {
-      "title": "Introducing Falcon ASR",
-      "summary": "新しいAI「Falcon ASR」が登場。これは、話し言葉を文字にするのが得意なAIで、これまでも似たようなAIはありましたが、Falcon ASRはより正確に、しかも色々な言語に対応できるところが新しい点です。",
-      "source": "Hugging Face",
-      "category": "product",
-      "url": "https://huggingface.co/blog/tiiuae/falcon-asr",
-      "published": "2026-10-07T13:21:03.000Z"
-    },
-    {
-      "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
-      "summary": "「Nemotron」という新しいAIモデルが、科学コンテストの解答作成で「金メダル級」の成果を上げました。これは、AIが難解な問題解決能力をさらに高め、未来の学習や研究に役立つ可能性を示しています。",
-      "source": "Hugging Face",
-      "category": "product",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
-      "published": "2026-10-07T12:45:31.000Z"
-    },
-    {
-      "title": "Introducing Playground: Create and play custom games",
-      "summary": "Googleが「Playground」という新しいゲームの遊び場を開発しました。自分でオリジナルのゲームを作って遊んだり、友達と共有したりできるのが特徴です。",
-      "source": "Google AI Blog",
-      "category": "research",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
-      "published": "2026-10-07T12:00:00.000Z"
-    },
-    {
-      "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
-      "summary": "広告運用を助ける代わりに、AIで広告のアイデアやデザインを作り出すツール開発に力を入れています。この新しいプラットフォーム「Melius」は、広告制作を効率化し、より効果的なキャンペーンを生み出すためのものです。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/",
-      "published": "2026-10-06T22:34:03.000Z"
-    },
-    {
-      "title": "How AI decision models could change content moderation",
-      "summary": "AIが、動画やコメントなどを「これはOK」「これはダメ」と自動で判断する仕組み（コンテンツモデレーション）を、もっと速く、賢く変える新しい技術が登場しました。この技術は、SNSなどで不適切な投稿を素早く見つけ出すのに役立ちます。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
-      "published": "2026-10-06T20:35:20.000Z"
-    },
-    {
-      "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
-      "summary": "AIの計算（AIを動かすためのコンピューター技術）を開発するLambda社が、2027年の株式公開（IPO、会社が株を売って資金を集めること）を前に、巨額の資金調達を計画しています。これは、AIの進化を支えるために必要なコンピューターパワーが、今後さらに重要になることを示しています。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
-      "published": "2026-10-06T20:00:30.000Z"
-    },
-    {
-      "title": "The next hurdle for AI agents: getting websites to let them in",
-      "summary": "AIエージェント（代わりに指示されたことをしてくれるAI）が、インターネットでお店を探したり、予約をしたりするのに、ウェブサイト側がAIのアクセスを制限している。この問題を解決するため、AIが安全にウェブサイトを使えるようにする新しいルール作りが進んでいる。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/",
-      "published": "2026-10-06T19:56:50.000Z"
-    },
-    {
-      "title": "Hark releases an AI personal assistant with a focus on privacy",
-      "summary": "Harkが、プライバシーを重視した新しいAIアシスタントを発表しました。これは、未来のコンピューターのように、あなたの代わりに色々な作業をこなしてくれるもので、競合製品と比べてもユニークな存在です。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/",
-      "published": "2026-10-06T18:22:45.000Z"
     }
   ]
 }
