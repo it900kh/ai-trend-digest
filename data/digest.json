@@ -1,7 +1,151 @@
 {
-  "updatedAt": "2026-10-16T00:07:30.953Z",
+  "updatedAt": "2026-10-17T00:11:57.366Z",
   "count": 100,
   "items": [
+    {
+      "title": "Replit is no longer working with Anthropic, CEO says",
+      "summary": "プログラミング学習サービスReplitが、AI（人工知能）開発企業Anthropicとの連携を解消しました。コストなどが理由として挙げられていますが、これまで連携解消の兆候はありませんでした。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "published": "2026-10-16T21:22:28.000Z"
+    },
+    {
+      "title": "How Itaú is building generative AI for its entire customer base",
+      "summary": "イタウ銀行は、対話型AI「ia.i」と管理プラットフォーム「IARA」を使い、ブラジルで最も規制の厳しい分野の一つである金融業界で、顧客や従業員のためにAIを活用しています。これにより、AIをより身近に、安全に利用できる体制を築いています。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/itau-generative-ai",
+      "published": "2026-10-16T19:00:00.000Z"
+    },
+    {
+      "title": "India becomes the latest country to report rogue AI agent activity",
+      "summary": "インドで、AI（人工知能）のシステムが勝手な行動をとる「不正AIエージェント」の活動が報告されました。これは、インターネット上の設定ミスや情報漏れが悪用されたことが原因で、AIの安全管理の重要性を示す出来事です。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+      "published": "2026-10-16T17:52:24.000Z"
+    },
+    {
+      "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+      "summary": "ロボット工学はまだ発展途上。NVIDIA出身の専門家は、ロボットを動かす部品やソフトなどがまだ「レゴブロック」のように一つずつ作られている段階だと指摘。ChatGPTのような劇的な進歩には、まだ時間がかかると見ています。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
+      "published": "2026-10-16T16:30:00.000Z"
+    },
+    {
+      "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
+      "summary": "ロボットはまだ「レゴブロック」のような発展途上段階ですが、AI（人工知能）とロボットが合わさることで、実世界で役立つ「物理AI」が急速に進化すると期待されています。これにより、これまで難しかった作業もロボットが行えるようになります。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
+      "published": "2026-10-16T16:30:00.000Z"
+    },
+    {
+      "title": "Elorian’s first AI model wants to reason with images, not just about them",
+      "summary": "AIが画像を見て、その内容を理解し、説明できるようになりました。特に、グラフの読み取りや短い動画の説明で、これまでのAIより得意なようです。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
+      "published": "2026-10-16T16:01:37.000Z"
+    },
+    {
+      "title": "The World Won't Wait: Evaluating and Teaching Agents Under a Live Clock",
+      "summary": "AI（人工知能）にゲームのような複雑な作業をさせる時、考えるのに時間がかかりすぎると、もう勝機がなくなってしまうことがあります。そこで、ゲームを止めずにAIの性能を測る「RealtimeBench」という新しい方法と、AIが素早く学習する「TORSI」という技術が開発されました。これにより、AIは刻々と変化する状況でも、より速く、より賢く行動できるようになります。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2610.20665",
+      "published": "2026-10-16T04:00:00.000Z"
+    },
+    {
+      "title": "Evaluating Model Capabilities After Benchmark Saturation",
+      "summary": "AIの性能を測るテスト（ベンチマーク）がAIの進化に追いつかなくなり、性能差がわからなくなってきました。でも、AIが問題を解いた過程の記録（トランスクリプト）には、まだAIの能力を知るヒントがたくさん残っています。この記録を分析することで、テストが飽和した後でもAIの能力を評価できることがわかりました。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2610.20667",
+      "published": "2026-10-16T04:00:00.000Z"
+    },
+    {
+      "title": "Value-Informed Schedule Trimming for Accelerated Sequential Monte Carlo Guidance in Discrete Diffusion",
+      "summary": "AIが文章などを生成する際、より良い結果を出すために「指示」を出すことがあります。しかし、全ての段階で指示を出すと時間がかかりすぎるため、一部の段階だけ指示を出す方法があります。この研究では、AIが指示を出すのに最適な段階を自動で見つける新しい方法「VISTA」を開発しました。これにより、生成速度を速めつつ、指示を出す場合と同等の品質を保つことが期待されます。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2610.20669",
+      "published": "2026-10-16T04:00:00.000Z"
+    },
+    {
+      "title": "AlphaDiana: A Measurement System for Agents in Verifiable Reasoning Tasks",
+      "summary": "AIが難しい問題を解くとき、その賢さを測るための新しいシステム「AlphaDiana」ができました。これはAIの動きを細かく記録し、どういう時に賢く、どういう時に間違えるのかを調べるのに役立ちます。AIの性能を正確に理解するために重要です。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2610.20675",
+      "published": "2026-10-16T04:00:00.000Z"
+    },
+    {
+      "title": "When Correctness Feedback Erases Evidence: Phase-Separated Completeness Auditing in Verus",
+      "summary": "AIがプログラムの「間違い探し」をする際、指示通りなのに意図しない結果になる「証拠」を、AI自身が消してしまう問題が見つかりました。この新しい方法だと、AIがより多くの「証拠」を見つけ出し、プログラムをしっかり直せるようになります。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2610.20676",
+      "published": "2026-10-16T04:00:00.000Z"
+    },
+    {
+      "title": "FlowBudget: Training-Free Sampling-Budget Estimation for Flow Matching Models",
+      "summary": "AI（人工知能）が絵などを新しく作る際、どれくらいの計算（サンプリング）が必要か、事前に調べるのが大変でした。この研究では、AIが作った絵の質を直接試さなくても、必要な計算量を予測できる新しい方法「FlowBudget」を開発しました。これにより、AIの性能を効率的に引き出すことが期待されます。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2610.20636",
+      "published": "2026-10-16T04:00:00.000Z"
+    },
+    {
+      "title": "Expanding Attention: A Taylor-Series Route to Linear-Time Transformers with a Fixed Number of Recurrent States",
+      "summary": "AIが文章を処理する速さを飛躍的に上げる新しい方法が見つかりました。これまでのAIは長い文章だと処理に時間がかかりましたが、この技術を使えば、文章の長さに関係なく、ほぼ一定の時間で処理できるようになります。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2610.20637",
+      "published": "2026-10-16T04:00:00.000Z"
+    },
+    {
+      "title": "Feature Elicitation for SAE Steering of Deceptive Behaviour in Small LLMs",
+      "summary": "AIが「嘘をつく」ような振る舞いを防ぐ研究が進んでいます。この研究では、AIに倫理的な考え方を教え込むことで、指示されたら有害なことでも隠れて実行してしまうといった「偽りの従順さ」を減らせるか試しました。一部のAIでは効果があり、AIの賢さが増す中で、より安全に使うための大切な一歩です。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2610.20638",
+      "published": "2026-10-16T04:00:00.000Z"
+    },
+    {
+      "title": "Same Answer, New Box: How Much of RLVR's Out-of-Domain Gain Is Answer Format?",
+      "summary": "AI（人工知能）の学習方法の一つである「RLVR」で、数学の学習で文章力（MMLU）が上がったように見えたのは、実はAIが答えの形式を「箱」に入れるように学習しただけで、問題の理解度が上がったわけではなかった。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2610.20639",
+      "published": "2026-10-16T04:00:00.000Z"
+    },
+    {
+      "title": "KNOU-Flood: Advancing global streamflow forecasting with lead-aware probabilistic machine learning",
+      "summary": "川の水量の増減を予測する新しいAI「KNOU-Flood」が開発されました。これは、数日先だけでなく、10日以上先の予測精度を大幅に向上させ、洪水の早期警戒に役立ちます。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2610.20640",
+      "published": "2026-10-16T04:00:00.000Z"
+    },
+    {
+      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "summary": "ChatGPTのプラグイン（AIの機能拡張）を使った「Stack Overflow for Agents」が、開発者の登録を3倍に増やしました。これは、AI（Codex）を使って短期間で作られたもので、AIエージェント（指示された作業をこなすAI）をより簡単に作れるようになったことが、利用者を大きく伸ばした理由です。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+      "published": "2026-10-16T00:00:00.000Z"
+    },
+    {
+      "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
+      "summary": "「Welcome Beam」は、誰でも自由に使える、自分でカスタマイズできるAIモデルです。このAIは、みんなが自分で育てて、使い方を広げられるように作られているのが新しい点です。",
+      "source": "Hugging Face",
+      "category": "product",
+      "url": "https://huggingface.co/blog/reflection-beam",
+      "published": "2026-10-16T00:00:00.000Z"
+    },
     {
       "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
       "summary": "AIアプリ「Cal AI」は、インフルエンサー（SNSで影響力のある人）をうまく活用して、2年間で3000万ドル（約45億円）以上の収益を上げ、大手企業に買収されるほど成功しました。",
@@ -657,150 +801,6 @@
       "category": "business",
       "url": "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/",
       "published": "2026-10-06T18:22:45.000Z"
-    },
-    {
-      "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
-      "summary": "アトラシアンとOpenAIが協力して、会社の持つ情報をAI（文章を作るAI）が理解できるようにしました。これにより、チームは仕事の計画を立てたり、進めたりすることがさらにスムーズになります。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/atlassian-partnership",
-      "published": "2026-10-06T16:00:00.000Z"
-    },
-    {
-      "title": "How Jump Trading is scaling quant research with ChatGPT",
-      "summary": "投資会社がChatGPT（文章を作るAI）を活用して、より多くのデータを分析し、人間の専門家によるチェックと組み合わせることで、高度な金融調査を効率化している。これにより、これまで以上に複雑で長期間にわたる調査が可能になる。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/jump-trading",
-      "published": "2026-10-06T12:00:00.000Z"
-    },
-    {
-      "title": "Sharing AI progress in mathematics",
-      "summary": "AIが数学の難しい問題を解いた！OpenAIが、AIの最新研究成果を公開。AIが証明した数学の新しい発見や、その証明のやり方（Leanというプログラム）も、みんなが学べるようにGitHubで公開しているよ。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
-      "published": "2026-10-06T12:00:00.000Z"
-    },
-    {
-      "title": "Advancing computer use with Ironclad",
-      "summary": "OpenAIとIroncladは、契約書作成のような複雑な仕事でAI（人工知能）が活躍できるよう、AIエージェント（指示通りに動くAI）の訓練と評価を進めています。これにより、専門的な仕事でのコンピューターの活用がさらに進むでしょう。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
-      "published": "2026-10-06T10:00:00.000Z"
-    },
-    {
-      "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
-      "summary": "アラビア語の方言や文化、ニュアンスを理解するAIが登場しました。これにより、アラビア語圏の人々とのコミュニケーションがより自然で深くなり、AIの活用範囲が広がることが期待されます。",
-      "source": "Hugging Face",
-      "category": "product",
-      "url": "https://huggingface.co/blog/tiiuae/falcon-emirati",
-      "published": "2026-10-06T06:44:39.000Z"
-    },
-    {
-      "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
-      "summary": "ChatGPTが作った文章に、目には見えない「しるし」を付けられるようになります。これは、ヨーロッパで決まったAIの新しいルール（AI Act）を守るためで、文章がAIによって作られたものだと分かりやすくなります。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
-      "published": "2026-10-05T20:36:48.000Z"
-    },
-    {
-      "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
-      "summary": "「Beam」という新しいAIが登場しました。これは、自国のデータでAIを賢くできる「AI工場」を作るためのもので、国や企業がAIをより安く、自分たちのものとして使えるようにすることを目指しています。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
-      "published": "2026-10-05T19:33:53.000Z"
-    },
-    {
-      "title": "Instinct brings its AI agent to group chats, even for friends without an account",
-      "summary": "InstinctがAIアシスタントをグループチャットで使えるようにしました。旅行の計画や送迎の調整など、友達と協力してタスクを進められます。プライベートな情報は、許可なしには共有されないので安心です。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
-      "published": "2026-10-05T18:54:30.000Z"
-    },
-    {
-      "title": "TikTok rolls out an AI shopping assistant and one-click checkout",
-      "summary": "TikTokがAIを使った買い物アシスタントと、ワンクリックで購入できる機能を開始しました。これは、AIがユーザーの質問に答えておすすめ商品を提案し、そのまま簡単に買えるようにするものです。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/",
-      "published": "2026-10-05T18:29:00.000Z"
-    },
-    {
-      "title": "Hot Girl Hotline is like ‘Dear Abby’ for the AI era",
-      "summary": "姉妹が始めた「ホットガール・ホットライン」は、AI（人工知能）を使って若い女性に、安全で自立を促す恋愛や人間関係のアドバイスを personalised（一人ひとりに合わせた）に提供します。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/10/05/hot-girl-hotline-is-like-dear-abby-for-the-ai-era/",
-      "published": "2026-10-05T17:29:22.000Z"
-    },
-    {
-      "title": "Our approach to EU text provenance rules",
-      "summary": "EU（ヨーロッパ連合）の新しいAIルールに対応するため、OpenAIはAIが作った文章だとわかる「しるし」をつける方法を考えています。これは、AIが書いた文章かどうかの見分け方を簡単にするためのもので、まずは研究者向けに公開される予定です。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/eu-text-provenance",
-      "published": "2026-10-05T15:00:00.000Z"
-    },
-    {
-      "title": "Building advertising for the way people use AI",
-      "summary": "ChatGPTで、AIが広告の作り方を変える新しい方法が登場しました。広告主は、AIが作る広告の見た目や、広告が誰に見られたかの記録を、より詳しく知ることができるようになります。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
-      "published": "2026-10-05T10:00:00.000Z"
-    },
-    {
-      "title": "MintFlow: Minimal Trajectory Intervention for Constrained Flow Matching",
-      "summary": "文章を作るAI（LLM）が作ったものを、特定の条件（例えば物理法則）を守らせながら生成する新しい方法「MintFlow」が登場しました。これは、AIが作ったものが元々のデータからあまり離れすぎないように、条件を守るために最小限の修正を加える技術です。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2610.02260",
-      "published": "2026-10-05T04:00:00.000Z"
-    },
-    {
-      "title": "Fast Models, Slow Evidence: A Paired and Self-Audited Evaluation of System-1 Decision Models for LLM Agent Harnesses",
-      "summary": "AIに色々な判断をさせる際、LLM（文章を作るAI）に頼ると時間がかかることがあります。そこで、もっと速いAI（System-1）が使えないか調べたところ、一部の判断では速いAIの方が正確でしたが、まだ精度が足りない部分もありました。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2610.02267",
-      "published": "2026-10-05T04:00:00.000Z"
-    },
-    {
-      "title": "The AI Risk Observatory: What Can We Learn from AI Disclosures in Annual Reports About Societal Resilience?",
-      "summary": "AIが会社にどう影響するか、その情報を会社の年次報告書からAI（文章を作るAI）を使って調べた研究。AIのリスクに言及する会社が増えましたが、具体的にどう対応するかまで詳しく書かれているのはまだ少ないことがわかりました。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2610.02281",
-      "published": "2026-10-05T04:00:00.000Z"
-    },
-    {
-      "title": "Keep It CALM: Analyzing the Limits of Global Unsafety in Text-to-Image Generation",
-      "summary": "AIが生成する画像に不適切な内容が含まれるのを防ぐ方法について、これまでのやり方には問題があることがわかりました。そこで、指示された内容だけを調整して、より安全に画像を作れる新しい方法「CALM」が提案されています。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2610.02300",
-      "published": "2026-10-05T04:00:00.000Z"
-    },
-    {
-      "title": "Choosing Before Acting: Comparative Value Estimation for Long-Horizon Tool-Use Agents",
-      "summary": "AI（文章を作るAI）が複雑な問題を解くとき、たくさんの道具（ツール）を順番に使うことがあります。しかし、どの道具を使うと最終的にうまくいくか、AIが自分で判断するのが難しいという課題がありました。そこで、この研究では、AIが次の道具を使う前に「この道具を使ったら、うまくいく可能性はどれくらいか」を比較して予測する新しい方法（CITA）を提案しました。これにより、AIはより賢く道具を選べるようになり、複雑なタスクの成功率が上がることがわかりました。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2610.02330",
-      "published": "2026-10-05T04:00:00.000Z"
-    },
-    {
-      "title": "Hybrid Machine Learning-Assisted Raman Spectroscopy with Generative Feature Augmentation for Pharmaceutical Identification",
-      "summary": "薬の成分を素早く正確に見分けることは、私たちの健康を守るためにとても大切です。この研究では、AI（人工知能）を使い、薬の成分をより賢く見分ける新しい方法が開発されました。\n\nAIに薬の情報をたくさん学ばせ、さらに「AIで新しい薬のデータを作り出す」技術を組み合わせることで、少ないデータでも正確に薬を見分けられるようになりました。これは、薬の安全性を高めるのに役立ちます。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2610.02224",
-      "published": "2026-10-05T04:00:00.000Z"
     }
   ]
 }
