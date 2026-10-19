@@ -1,7 +1,23 @@
 {
-  "updatedAt": "2026-10-17T23:46:50.984Z",
+  "updatedAt": "2026-10-18T23:55:56.254Z",
   "count": 100,
   "items": [
+    {
+      "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+      "summary": "文章を作るAI（LLM）を開発するAnthropicという会社が、会社の株式の5%を「社会貢献基金」に寄付すると発表しました。これは、AIの利益を社会全体に還元しようとする新しい取り組みです。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+      "published": "2026-10-18T20:37:40.000Z"
+    },
+    {
+      "title": "Disney agrees to hire the majority of Character.AI’s workforce",
+      "summary": "ディズニーが、AIキャラクター作りで知られるCharacter.AIの多くの従業員を、自社で採用することで合意しました。これは、ディズニーがCharacter.AIの技術や人材を自社のエンターテイメントに活かしたいと考えていることを示しています。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+      "published": "2026-10-18T16:30:00.000Z"
+    },
     {
       "title": "Meta removes language that raised scraping and AI training concerns",
       "summary": "メタ社は、ウェブサイトの情報をAIの学習に使うことへの懸念を招く表現を規約から削除しました。これは、ウェブ情報の収集方法を変えるものではないとしています。",
@@ -785,22 +801,6 @@
       "category": "product",
       "url": "https://openai.com/index/legalon-halves-codex-costs",
       "published": "2026-10-08T12:00:00.000Z"
-    },
-    {
-      "title": "The model that didn't exist, so you made it yourself",
-      "summary": "自分で作ったAIモデルは、世の中に存在しないものを実現する可能性を秘めています。これにより、これまで不可能だった新しいアイデアやサービスが生まれるかもしれません。",
-      "source": "Hugging Face",
-      "category": "product",
-      "url": "https://huggingface.co/blog/building-with-ml-intern",
-      "published": "2026-10-08T00:00:00.000Z"
-    },
-    {
-      "title": "Multimodal open d1 decision models for the edge",
-      "summary": "AIが色々な情報（文字、画像、音声など）をまとめて理解できる「マルチモーダルAI」という技術が、スマホなど身近な機器でも使えるようになります。これにより、AIがもっと賢く、色々な場面で活躍できるようになることが期待されています。",
-      "source": "Hugging Face",
-      "category": "product",
-      "url": "https://huggingface.co/blog/LiquidAI/open-d1",
-      "published": "2026-10-07T16:54:33.000Z"
     }
   ]
 }
