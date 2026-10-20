@@ -1,7 +1,111 @@
 {
-  "updatedAt": "2026-10-18T23:55:56.254Z",
+  "updatedAt": "2026-10-20T00:56:22.137Z",
   "count": 100,
   "items": [
+    {
+      "title": "Nscale and Anthropic are reportedly in talks for yet another $45 billion compute deal",
+      "summary": "AIを作る会社（Anthropic）が、AIを動かすためのコンピューター（Nscale）をさらに巨額で借りる交渉をしているようです。これは、AIの性能をさらに高めるために、より多くのコンピューターが必要になっていることを示しています。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
+      "published": "2026-10-19T23:39:38.000Z"
+    },
+    {
+      "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
+      "summary": "AIの性能を比べる「評価」は、これまでAIの進歩のバロメーターとされてきました。しかし、その評価方法にはまだ課題が多く、AIの性能を正しく測るのは難しいと専門家は指摘しています。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
+      "published": "2026-10-19T22:49:27.000Z"
+    },
+    {
+      "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
+      "summary": "AIが作る「AIエージェント」は、会社の秘密を漏らすような「社内からの脅威」になりうるとマイクロソフトは警告しています。特に、OpenAIなどのAI開発会社が管理していないAIエージェントは、まだ信頼できないため注意が必要です。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
+      "published": "2026-10-19T22:04:28.000Z"
+    },
+    {
+      "title": "Advancing coding in low‑resource programming languages",
+      "summary": "OpenAIは、あまり使われないプログラミング言語でもChatGPTが使いやすくなるように、改善を進めています。特に、プログラミングの専門分野や、古いコンピューターで使われるCOBOL（コボル）という言語の移行など、新しい評価方法を導入しました。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/low-resource-programming-languages",
+      "published": "2026-10-19T12:00:00.000Z"
+    },
+    {
+      "title": "Structured Authority Injection: Persistent Human Control for LLM Agents via Typed MCP Overrides",
+      "summary": "AIが自分で考えて行動する（LLMエージェント）とき、人間が後から「こうしてほしい」と指示しても、AIがそれを忘れたり、うまく理解できなかったりすることがありました。この新しい技術（SAI）は、人間からの指示をAIが確実に理解し、忘れずに実行できるようにする仕組みです。これにより、AIをより安全で信頼できるものにすることができます。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2610.22373",
+      "published": "2026-10-19T04:00:00.000Z"
+    },
+    {
+      "title": "Rethinking User Encoders: Routing Diffusion States for Scenario-Adaptive User Representation",
+      "summary": "AIがユーザーの行動を理解する方法が進化しました。これまでのAIは、ユーザーの様々な行動履歴をまとめて一つの情報にしていたため、状況によって必要な情報がうまく伝わらないことがありました。新しい技術「FINDERS」は、AIが段階的に情報を整理・再構築する仕組みを使い、状況に合わせて最も適した情報を選び出して、より賢くユーザーを理解できるようにします。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2610.22400",
+      "published": "2026-10-19T04:00:00.000Z"
+    },
+    {
+      "title": "From Events to Reasoning: Hierarchical Rule Composition over Explicit States",
+      "summary": "AIが「なぜそうなるのか」を説明できるようにする新しいシステム「ERS」が開発されました。これは、出来事（イベント）をグラフで表し、ルールを組み合わせて、間違いなく理由を説明できる結論を導き出します。これにより、AIの信頼性が高まります。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2610.22403",
+      "published": "2026-10-19T04:00:00.000Z"
+    },
+    {
+      "title": "ECHOES: Seeing Beyond the Current Image via Recursive History Compression and Privileged On-Policy Distillation",
+      "summary": "AIが複雑な作業を記憶し続けるには、過去の画面情報（履歴）をどう保存するかが課題でした。この新技術「ECHOES」は、AIが過去の履歴を賢く要約し、重要な情報を逃さずに、より長期間の作業を正確にこなせるようにします。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2610.22408",
+      "published": "2026-10-19T04:00:00.000Z"
+    },
+    {
+      "title": "When is a large language model a good calibration agent? Physics-labeled prompting for budgeted engineering simulator calibration",
+      "summary": "高価なシミュレーションを調整（キャリブレーション）する際、物理の知識を教え込んだAI（LLM）が、計算回数を減らしつつ、より早く正確な調整方法を提案できるか調べました。AIと従来の調整方法を比べた結果、AIは最初だけ効果的でしたが、AIと従来の計算方法を組み合わせると、最も効率よく目標精度に到達することがわかりました。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2610.22379",
+      "published": "2026-10-19T04:00:00.000Z"
+    },
+    {
+      "title": "Trust but Verify: Designing Region-Inhomogeneous Forward Dynamics for Discrete Diffusion",
+      "summary": "AIが文章を作る時、元の情報をどれだけ信用するかを細かく調整できるようになりました。これにより、AIが間違った情報を元に文章を作るのを防ぎ、より正確な文章が作れるようになります。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2610.22380",
+      "published": "2026-10-19T04:00:00.000Z"
+    },
+    {
+      "title": "Binding-Specific Relearning Savings for Test-Time Continual Learning",
+      "summary": "AI（人工知能）が一度覚えたことを忘れたように見えても、実はアクセスしにくくなっているだけかもしれない、という研究です。AIが特定の事実を「再学習」する時に、以前にその事実を学習していた方が、より早く、より少ない修正で思い出しやすくなることがわかりました。これは、AIの「忘れ方」や「学習し直し」の理解に役立つ発見です。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2610.22381",
+      "published": "2026-10-19T04:00:00.000Z"
+    },
+    {
+      "title": "BOLT: Multi-Bottleneck Bound-Guided Learning for Flexible Job-Shop Scheduling with Time Lags and Resource-Coupled Transport",
+      "summary": "「BOLT」という新しいAIが、工場などで部品を運ぶ車（輸送車）が限られている場合に、作業を効率よく進める方法を見つけます。このAIは、作業の終わりまでの時間を短くするために、運ぶ車の時間も考慮した計画を立て、より早い解決策を提示します。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2610.22433",
+      "published": "2026-10-19T04:00:00.000Z"
+    },
+    {
+      "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
+      "summary": "Hugging Faceが開発したTorchNeuronは、AI（人工知能）の学習を速くするAWSのチップ（AWS Trainium）で、人気のAIモデル（HF models）をより簡単に動かせるようにしました。これで、AI開発者はより手軽に高性能なAIを作れるようになります。",
+      "source": "Hugging Face",
+      "category": "product",
+      "url": "https://huggingface.co/blog/hf-torchneuron",
+      "published": "2026-10-19T00:00:00.000Z"
+    },
     {
       "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
       "summary": "文章を作るAI（LLM）を開発するAnthropicという会社が、会社の株式の5%を「社会貢献基金」に寄付すると発表しました。これは、AIの利益を社会全体に還元しようとする新しい取り組みです。",
@@ -265,6 +369,14 @@
       "category": "product",
       "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
       "published": "2026-10-15T13:00:00.000Z"
+    },
+    {
+      "title": "Apertus 1.5 Release Notes",
+      "summary": "（本文がないため、要約を作成できません。記事の本文をご提供ください。）",
+      "source": "Hugging Face",
+      "category": "product",
+      "url": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
+      "published": "2026-10-15T09:08:45.000Z"
     },
     {
       "title": "Artificiality's First Exam: An LLM-Referenced C-test for Supraintelligence",
@@ -689,118 +801,6 @@
       "category": "product",
       "url": "https://openai.com/index/sophos",
       "published": "2026-10-09T07:00:00.000Z"
-    },
-    {
-      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-      "summary": "仕事効率化ツールのアサナが、AI（文章を作るAI）をブラウザで使うテストで、コストを76分の1に、速さを5倍にすることに成功しました。これにより、もっと高性能なAIを多くの人に届けられるようになります。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/asana-browser-agent",
-      "published": "2026-10-09T07:00:00.000Z"
-    },
-    {
-      "title": "An Explainable Header-Centric Framework for Large-Scale Semantic Table Interpretation and Data Quality Assessment",
-      "summary": "AIが表のデータ（※表はコンピューターで情報を整理したもの）の質を調べる新しい方法が開発されました。表のタイトル（※各列の説明）だけを見て、データが正しく整理されているか、どんな種類のデータかなどを判断できます。これにより、AIが間違った情報を学習するのを防ぎ、より正確なAIを作るのに役立ちます。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2610.10541",
-      "published": "2026-10-09T04:00:00.000Z"
-    },
-    {
-      "title": "Synthesis Through Simulation: Generating Coherent Enterprise Data via Scalable Agent-System Interaction",
-      "summary": "AIが、本物の会社にあるようなデータを、本物の会社ではできない方法で作れるようになりました。これは、AIが偽の会社環境で、ルールを守りながらデータを生成する新しい技術で、より正確で、いろいろな会社で使えるデータが作れるのがすごい点です。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2610.10549",
-      "published": "2026-10-09T04:00:00.000Z"
-    },
-    {
-      "title": "Agent-Controlled Forgetting for Tool-Using Agents: Reversible Context Curation in Practice",
-      "summary": "AI（人工知能）が、たくさんの情報を処理する際に、大事な情報だけを残して、使わない情報を忘れる（一時的に記憶から外す）技術が開発されました。これにより、AIの処理能力が上がり、コストも大幅に抑えられる可能性があります。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2610.10590",
-      "published": "2026-10-09T04:00:00.000Z"
-    },
-    {
-      "title": "Verification and Self-Improvement in Agentic AI: Foundations and Limits",
-      "summary": "AI（人工知能）が自分で賢くなる方法を研究しています。AIは、より長く考えたり、追加の助けを得たり、自分で出した答えをチェックする方法を変えたりすることで、性能を上げることができます。この研究は、AIの「賢くなる仕組み」を理解し、その限界を見つけるためのものです。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2610.10611",
-      "published": "2026-10-09T04:00:00.000Z"
-    },
-    {
-      "title": "The Harness as the Only Mutable Surface: Compliance-Bounded Self-Evolution of LLM Agents in Credit Pipelines, with a Measured Admission Gate",
-      "summary": "AI（文章を作るAI）が自分で賢くなる時、ルールが変わっても対応できるようになります。ただし、AIが自分自身を書き換えてしまうと、人間がチェックできなくなります。そこで、AIの「指示文」など、一部だけを書き換えることで、人間がチェックしやすいようにする新しい方法を提案します。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2610.10629",
-      "published": "2026-10-09T04:00:00.000Z"
-    },
-    {
-      "title": "Freeze the Decoder, Heal the Encoder: Parameter-Efficient Adaptation for SVD-Based KV-Cache Compression",
-      "summary": "AIが文章を作る時、記憶（KVキャッシュ）を小さくする技術で、一部だけを賢く調整すると、少ない手間とメモリで性能を保てることを発見しました。以前は、調整方法が違うと性能差があるように見えましたが、これは調整の仕方の問題で、本当は同じくらい性能が良いことがわかりました。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2610.10552",
-      "published": "2026-10-09T04:00:00.000Z"
-    },
-    {
-      "title": "SPERA: Spherical Prior EEG Foundation Model with Geometry- and Frequency-Aware Latent Prediction",
-      "summary": "脳波（EEG）の解析に役立つ、新しいAI「SPERA」が開発されました。これは、人の頭の形や脳波の周波数（振動の速さ）を考慮して、脳の活動をより正確に予測できるのが特徴です。様々な状況で使える汎用性の高いAIとして期待されています。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2610.10571",
-      "published": "2026-10-09T04:00:00.000Z"
-    },
-    {
-      "title": "Coverage, Not Difficulty, Sets How Much Synthetic Data an Activation Probe Needs",
-      "summary": "AI（文章を作るAI）の「行動」を調べるための学習に、どれくらいの「人工的な会話データ」が必要か？という疑問について、会話の内容の「網羅性」が大切だとわかった。特に、AIが「指示に従わない」場合などを調べるには、多くのデータが必要になる。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2610.10594",
-      "published": "2026-10-09T04:00:00.000Z"
-    },
-    {
-      "title": "Temporal transformer CAN encoder with federated lightweight heads for anomaly detection",
-      "summary": "車の通信（CANバス）で、いつ、どんな情報がやり取りされるか、その「タイミング」や「内容」のちょっとした変化から、異常を見つける新しいAIが開発されました。このAIは、複数の車がバラバラの情報を出し合わずに、お互いの「異常検知」の能力を高め合えるのが特徴です。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2610.10613",
-      "published": "2026-10-09T04:00:00.000Z"
-    },
-    {
-      "title": "When Routing Reveals Membership: Privacy Leakage from MoE Router Telemetry",
-      "summary": "AIが文章を作る時、どの部分のAI（専門家）を使うかという情報が、実は「このAIに学習させたデータか？」という秘密を漏らしてしまうことがあるんです。この秘密の漏れを防ぐ新しい研究で、AIの賢さを保ちつつプライバシーを守る方法が見つかるかもしれません。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2610.10616",
-      "published": "2026-10-09T04:00:00.000Z"
-    },
-    {
-      "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-      "summary": "Oracle（企業）は、ChatGPT（文章を作るAI）とCodex（コードを作るAI）を使い、採用、技術開発、業務などの専門知識を、数日かかっていた作業を数分で終わるように効率化しています。これにより、これまで時間がかかっていた業務を素早く、誰でもできるようにしました。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/oracle",
-      "published": "2026-10-08T16:00:00.000Z"
-    },
-    {
-      "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
-      "summary": "「Pollo AI」という新しいサービスは、すごいAI（GPT-5.6、GPT-6 Astra、GPT‑Image‑2.5）を使って、アイデアを絵や動画広告にしてくれます。クリエイターが思いついた大胆なアイデアを、細部までこだわった映像作品にできるのが新しい点です。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/pollo-ai",
-      "published": "2026-10-08T12:00:00.000Z"
-    },
-    {
-      "title": "LegalOn halves Codex costs while maintaining development speed",
-      "summary": "法務テック企業LegalOnが、AI（Codex）にかかる費用を大幅に減らしつつ、開発スピードを維持した。AIを使い分けるなどの工夫で、コストを65%削減できたことが注目される。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/legalon-halves-codex-costs",
-      "published": "2026-10-08T12:00:00.000Z"
     }
   ]
 }
