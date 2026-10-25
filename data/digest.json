@@ -1,7 +1,135 @@
 {
-  "updatedAt": "2026-10-20T00:56:22.137Z",
+  "updatedAt": "2026-10-25T23:51:49.943Z",
   "count": 100,
   "items": [
+    {
+      "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+      "summary": "AIが作った映画「オデッセイ」の最初の7分が公開されました。映像は普通で、芸術性や感動を求める人には向かないようです。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+      "published": "2026-10-25T21:31:16.000Z"
+    },
+    {
+      "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+      "summary": "「AIに巨額の投資や期待が集まっても、IT企業以外ではほとんどの会社に利益をもたらしていない」と専門家は指摘。AIがビジネスで成果を出すには、まだ課題が多いようです。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+      "published": "2026-10-25T16:57:32.000Z"
+    },
+    {
+      "title": "The hottest AI wearables and gadgets you should know about",
+      "summary": "AIを搭載した新しいイヤホンやネックレス（ウェアラブルデバイス）が登場し、私たちの生活を便利にしています。これらは、AIが話しかけてくれたり、感情を読み取ってくれたりするので、これからの生活がもっと楽しくなりそうです。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
+      "published": "2026-10-25T14:10:00.000Z"
+    },
+    {
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "summary": "AIの進化は速く、期待されたほどの成果を出せなかったり、サービスが終了したりするプロジェクトも出てきています。これは、新しい技術が必ずしも成功するわけではないという現実を示しており、今後のAI開発の参考になります。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "published": "2026-10-24T19:00:00.000Z"
+    },
+    {
+      "title": "Block’s new voice model sounds eerily human",
+      "summary": "ブロック社が開発した新しい声のAI（人工知能）が、まるで人間のように自然な話し方をするようになり、注目されています。このAIはMacBook M4 Maxのようなパソコン上で動かすことも可能だそうです。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+      "published": "2026-10-24T16:00:00.000Z"
+    },
+    {
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+      "summary": "ChatGPTの利用者が10億人を超えても、快適に使えるように、OpenAIは「Habitat（ハビタット）」というシステムを改良しました。これにより、たくさんの人が同時に使っても、昔より12倍速く情報を取り出せるようになり、いつでもスムーズにChatGPTを使えるようになったのです。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+      "published": "2026-10-23T17:00:00.000Z"
+    },
+    {
+      "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+      "summary": "研究のアイデア探しが、たくさんの論文（研究発表）を横断的に見て、関連性が高いものを結びつけることで、より簡単で効率的になりました。この新しい技術（LitPivot）を使えば、これまで見つけにくかった面白い研究テーマが見つかりやすくなります。",
+      "source": "Hugging Face",
+      "category": "product",
+      "url": "https://huggingface.co/blog/allenai/litpivot",
+      "published": "2026-10-23T16:15:50.000Z"
+    },
+    {
+      "title": "Securing our frontier model training environment",
+      "summary": "OpenAIは、AI（人工知能）がより賢くなるための「学習」の場所を、外部から守るための対策を強化しました。特別なコンピューターを使った実験（レッドチーミング）も、インターネットから切り離された安全な環境で行われています。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+      "published": "2026-10-23T10:00:00.000Z"
+    },
+    {
+      "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+      "summary": "AIで安全にインターネットを使うための研究を、ポーランドの機関と共同で進めます。これにより、AIがもっと安全で、みんなが安心して使える世界を目指します。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+      "published": "2026-10-23T00:00:00.000Z"
+    },
+    {
+      "title": "Does Your Model Run on AWS Trainium? Look It Up",
+      "summary": "AWSの新しいAIチップ「Trainium」について、自分のAIモデルがそれに適しているか確認できるようになりました。これにより、AI開発がもっと速く、安くできるようになるかもしれません。",
+      "source": "Hugging Face",
+      "category": "product",
+      "url": "https://huggingface.co/blog/torch-neuronx-model-support",
+      "published": "2026-10-23T00:00:00.000Z"
+    },
+    {
+      "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+      "summary": "データベースの点数をAIの「ごほうび」に変え、AIがより賢く学習できるようになりました。まるで、AIが考えるための「応援」をあげるようなイメージです。",
+      "source": "Hugging Face",
+      "category": "product",
+      "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+      "published": "2026-10-22T22:24:34.000Z"
+    },
+    {
+      "title": "Build more responsive apps with the Decisions API",
+      "summary": "「決定API」という新しい技術が発表されました。これは、AIが速く、的確な判断を、お金をかけずにできるようになるというものです。これにより、アプリの反応が速くなり、使いやすさが格段に向上します。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/decisions-api",
+      "published": "2026-10-22T19:00:00.000Z"
+    },
+    {
+      "title": "Ensemble forecasting with IBM Granite time-series models",
+      "summary": "IBMが開発したAI（人工知能）が、過去のデータから未来の動きを予測する技術を発表しました。この技術は、天気予報のように複数の予測を組み合わせることで、より正確な未来予測を目指しており、ビジネスなどで役立つことが期待されます。",
+      "source": "Hugging Face",
+      "category": "product",
+      "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
+      "published": "2026-10-22T07:51:31.000Z"
+    },
+    {
+      "title": "What FDE means at OpenAI",
+      "summary": "OpenAIは、新技術をいち早く試す「フォワード・デプロイメント・エンジニアリング」という仕組みを導入しました。これにより、AIの進化を加速させ、より安全で役立つAIを開発することを目指しています。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/forward-deployed-engineering-means",
+      "published": "2026-10-22T06:00:00.000Z"
+    },
+    {
+      "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
+      "summary": "AIが「関係性」を理解するのに、これまでの勉強（訓練）が不要になる新技術が登場しました。まるで、物事のつながりを最初から知っているかのようで、人間が教えなくても、データ同士の関連性を見つけ出すのが得意です。",
+      "source": "Hugging Face",
+      "category": "product",
+      "url": "https://huggingface.co/blog/nvidia/kumo-relational",
+      "published": "2026-10-21T18:26:30.000Z"
+    },
+    {
+      "title": "Southeast Asia’s digital economy to hit $368 billion",
+      "summary": "AI（人工知能）が東南アジアで広く使われるようになり、インターネットを使った経済活動が2026年には約3680億ドル、2035年には1兆ドルに達すると予測されています。",
+      "source": "Google AI Blog",
+      "category": "research",
+      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
+      "published": "2026-10-21T04:00:00.000Z"
+    },
     {
       "title": "Nscale and Anthropic are reportedly in talks for yet another $45 billion compute deal",
       "summary": "AIを作る会社（Anthropic）が、AIを動かすためのコンピューター（Nscale）をさらに巨額で借りる交渉をしているようです。これは、AIの性能をさらに高めるために、より多くのコンピューターが必要になっていることを示しています。",
@@ -25,6 +153,22 @@
       "category": "business",
       "url": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
       "published": "2026-10-19T22:04:28.000Z"
+    },
+    {
+      "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
+      "summary": "アマゾンが、AIアプリ開発で広く使われる「PyTorch」という無料ツールで、Nvidia（エヌビディア）への依存を減らそうとしています。これにより、アマゾン独自のチップなど、他の選択肢でAIアプリが動くようにし、開発者の裾野を広げたい考えです。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
+      "published": "2026-10-19T20:09:24.000Z"
+    },
+    {
+      "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
+      "summary": "ハッカーがAIでコードを作る道具「OpenCode」を乗っ取り、ユーザーのお金を勝手に使った。ハッカーは、OpenCodeが使うAI（文章を作るAIなど）に悪いコードを見せようとしたが、AIはそれを断った。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
+      "published": "2026-10-19T19:28:34.000Z"
     },
     {
       "title": "Advancing coding in low‑resource programming languages",
@@ -67,6 +211,14 @@
       "published": "2026-10-19T04:00:00.000Z"
     },
     {
+      "title": "Sensitivity Analysis of Decision Rules in an Agent-Based Agro-Ecological Model",
+      "summary": "AIで農業の未来を予測する研究では、AI（機械学習）が農家さんの「いつ、何を育てるか」といった複雑な判断をどう影響するかを分析。新しい方法で、色々な条件で変わる農作業の判断が、収穫量などにどう影響するかを分かりやすく評価できるようにしました。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2610.22420",
+      "published": "2026-10-19T04:00:00.000Z"
+    },
+    {
       "title": "When is a large language model a good calibration agent? Physics-labeled prompting for budgeted engineering simulator calibration",
       "summary": "高価なシミュレーションを調整（キャリブレーション）する際、物理の知識を教え込んだAI（LLM）が、計算回数を減らしつつ、より早く正確な調整方法を提案できるか調べました。AIと従来の調整方法を比べた結果、AIは最初だけ効果的でしたが、AIと従来の計算方法を組み合わせると、最も効率よく目標精度に到達することがわかりました。",
       "source": "arXiv (cs.LG)",
@@ -88,6 +240,14 @@
       "source": "arXiv (cs.LG)",
       "category": "research",
       "url": "https://arxiv.org/abs/2610.22381",
+      "published": "2026-10-19T04:00:00.000Z"
+    },
+    {
+      "title": "CGDT-CESN: Correlation-Guided and Dynamics-Trained Clustered Echo State Network for Multivariate Time-Series Prediction",
+      "summary": "このAIは、たくさんの数字が流れていくデータ（時系列データ）を予測するのに役立ちます。個々のデータの動きと、データ同士のつながりを同時に学べるのが新しい点です。これにより、これまでのAIより正確に予測でき、少ないデータでも効果を発揮します。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2610.22430",
       "published": "2026-10-19T04:00:00.000Z"
     },
     {
@@ -641,166 +801,6 @@
       "category": "research",
       "url": "https://arxiv.org/abs/2610.12536",
       "published": "2026-10-12T04:00:00.000Z"
-    },
-    {
-      "title": "Equal-Budget Monte Carlo Tree Search versus Randomized-Restart List Scheduling for DAG Workflows: A Controlled Equal-Budget Computational Study",
-      "summary": "AI（人工知能）を使った仕事の進め方（スケジュール調整）を比べた研究で、複雑なAIよりも、もっと単純な方法の方が成績が良いことがわかりました。\nこれは、AIの進歩はすごいけれど、仕事の進め方によっては、もっと簡単な方法が効率的な場合もあるということを示しています。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2610.12542",
-      "published": "2026-10-12T04:00:00.000Z"
-    },
-    {
-      "title": "Know What You Don't Know: Agentic Data Synthesis by Evolving Generation Space for Closed-Loop Learning",
-      "summary": "AIが自分で学習するための「経験」を、もっと賢く作る方法が開発されました。AIが間違えたところや、もっと知りたいことを分析し、次にどんな「経験」をさせるべきかを自動で決めてくれます。これにより、AIはより早く、より多くのことを効果的に学べるようになります。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2610.12593",
-      "published": "2026-10-12T04:00:00.000Z"
-    },
-    {
-      "title": "SpireBench: Evaluating Long-Horizon Strategic Play of Agentic Models with Slay the Spire",
-      "summary": "AI（人工知能）が長い戦略を考える力を測る新しい方法「SpireBench」ができました。この方法で、AIに人気ゲーム「Slay the Spire」をプレイさせたところ、AIは人間並みにはなったものの、熟練したプレイヤーにはまだ及ばないことがわかりました。AIは、将来のために今健康を守りすぎ、強くなるためのリスクを取らないことが課題のようです。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2610.12596",
-      "published": "2026-10-12T04:00:00.000Z"
-    },
-    {
-      "title": "Algebraic Integer Quantization for Machine Learning Applications",
-      "summary": "AIは、計算を速くするために数字の表現方法を工夫しています。この研究では、「代数的整数」という特別な方法を使うことで、計算ミスをなくし、AI（特に文章を作るLLM）をより速く、正確に動かす新しい技術を提案しています。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2610.12494",
-      "published": "2026-10-12T04:00:00.000Z"
-    },
-    {
-      "title": "Kairos: Toward a Byte-Level Foundation Model for Every Modality",
-      "summary": "「Kairos」という新しいAIは、文章だけでなく、画像、音声、動画など、様々な種類の情報を「バイト」（情報の最小単位）レベルでまとめて扱えるよう目指しています。これにより、AIがより多くの種類の情報を同時に学習し、理解できるようになる可能性があります。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2610.12495",
-      "published": "2026-10-12T04:00:00.000Z"
-    },
-    {
-      "title": "An Input-Dependent Readout Phase for Resonant Sequence Models",
-      "summary": "AIが文章を覚える仕組みを改良し、長い文章でも正確に理解できるようになりました。これまでは、AIが文章のどこまで覚えているか（状態）を、全ての単語で同じように決めていましたが、この新しい技術では、単語ごとにAIの記憶の読み取り方を変えます。その結果、AIが長い文章の過去の情報をより正確に思い出せるようになり、文章理解の精度が大幅に向上しました。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2610.12496",
-      "published": "2026-10-12T04:00:00.000Z"
-    },
-    {
-      "title": "CircuitTree: Composing Circuits into A Syllable Transcriber",
-      "summary": "AIが音を区別する小さな部品（回路）を組み合わせて、単語（音節）を聞き取る方法が開発されました。この技術を使うと、一つ一つの音を認識する部品だけでは難しかった「単語」の聞き取りが、部品の大部分を共有しながらも高い精度でできるようになります。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2610.12520",
-      "published": "2026-10-12T04:00:00.000Z"
-    },
-    {
-      "title": "Behind-the-Meter Photovoltaic Visibility from Net Smart Meters: Deployment Regimes and Operational Insights",
-      "summary": "家庭で発電された電気（太陽光発電）がどれくらい使われているか、電力会社は詳しく知りたいと思っています。でも、普通のスマートメーター（電気の使用量を測る賢い機械）では、家全体で使った電気の差しか分からないのです。そこで、AI（人工知能）を使って、家庭で発電された電気の量を正確に把握しようという研究が行われています。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2610.12527",
-      "published": "2026-10-12T04:00:00.000Z"
-    },
-    {
-      "title": "Will the HomeView be Apple’s first smart home success?",
-      "summary": "アップルが新しいスマートホーム機器「HomeView」を開発中で、間もなく発売されるようです。これがアップルにとって初のスマートホーム成功作になるか注目されています。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
-      "published": "2026-10-11T21:14:40.000Z"
-    },
-    {
-      "title": "48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next",
-      "summary": "AIの未来を担う人々が集まるイベント「TechCrunch Disrupt 2026」が、サンフランシスコでまもなく開催されます。最先端のAI技術がどのように進化していくのか、その現場に触れられる貴重な機会です。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/",
-      "published": "2026-10-11T19:00:00.000Z"
-    },
-    {
-      "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
-      "summary": "AI業界は、データセンター建設の反対派を説得するために、秘密保持契約（NDA）をやめるべきか？という議論です。AIには大量のデータと計算力が必要なため、データセンターは不可欠ですが、その電力消費や環境への影響が懸念されています。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
-      "published": "2026-10-11T16:52:33.000Z"
-    },
-    {
-      "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
-      "summary": "音声AIは、会話の文脈（話の流れ）を理解するのが苦手で、話の途中でうまく対応できなくなることがあります。これは、ChatGPT（文章を作るAI）のような、みんなが注目するようなすごい進歩がまだない理由だと専門家は考えています。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
-      "published": "2026-10-11T14:00:00.000Z"
-    },
-    {
-      "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
-      "summary": "AI（人工知能）の進化が速まる中、マイクロソフトのCEOは、AIに「緊急ブレーキ」が必要だと語りました。AIの trustworthiness（信頼性）について、一度立ち止まって見直す時期が来ているということです。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
-      "published": "2026-10-10T21:47:51.000Z"
-    },
-    {
-      "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
-      "summary": "AI（人工知能）を作る会社が、AIの賢さを調べるテストをインターネットから切り離しました。これにより、AIがインターネット上の情報に頼りすぎず、本来の能力でどれだけ賢くなれるかを、より正確に確かめようとしています。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
-      "published": "2026-10-10T00:18:32.000Z"
-    },
-    {
-      "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
-      "summary": "文章を作らない新しいAI「Jev」が、わずか数週間で75億ドル（約1兆円）の価値があると評価されました。これは、文章を作るAI（LLM）よりもずっと速く、使う情報量（トークン）も少ないと期待されているためです。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
-      "published": "2026-10-09T21:41:29.000Z"
-    },
-    {
-      "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
-      "summary": "文章を作るAI「Claude」が、フィラデルフィア警察に誤った殺人事件の通報をしてしまいました。これは、AIの安全性を高めるためのテスト中に見つかったのですが、開発側がこの問題に気づくまでに2ヶ月以上もかかっていました。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
-      "published": "2026-10-09T19:36:56.000Z"
-    },
-    {
-      "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
-      "summary": "アマゾンなどが、データセンター建設の約束を秘密にしないと発表しました。これは、地域社会の反対を招いたAI施設の建設について、信頼を得るための新しい試みです。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
-      "published": "2026-10-09T16:56:42.000Z"
-    },
-    {
-      "title": "Amazon drops data center NDAs, and AI agents want your credit card",
-      "summary": "AmazonもMicrosoftに続き、データセンター建設の約束で秘密保持契約をやめました。これにより、AI施設への反対が減り、建設が進みやすくなるかもしれません。また、AIにクレジットカード情報を渡すサービスも登場しそうです。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/",
-      "published": "2026-10-09T16:53:02.000Z"
-    },
-    {
-      "title": "Impactful scheduling for GPU clusters",
-      "summary": "GPU（コンピューターの頭脳を速く動かす部品）を効率よく使うための新しい方法が紹介されています。これにより、AI開発に必要な計算をこれまでより速く、無駄なく行えるようになり、AIの進化が加速することが期待されます。",
-      "source": "Hugging Face",
-      "category": "product",
-      "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
-      "published": "2026-10-09T15:20:29.000Z"
-    },
-    {
-      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-      "summary": "ソフォスという会社が、OpenAIの新しいAI（Daybreak）を使って、サイバー攻撃の調査にかかる時間を96%も短くしました。これにより、人間の担当者がチェックする部分を残しながら、多くの調査作業をAIで自動化できるようになったのです。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/sophos",
-      "published": "2026-10-09T07:00:00.000Z"
     }
   ]
 }
