@@ -1,7 +1,119 @@
 {
-  "updatedAt": "2026-10-25T23:51:49.943Z",
+  "updatedAt": "2026-10-27T01:12:05.527Z",
   "count": 100,
   "items": [
+    {
+      "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+      "summary": "AIがプログラムのバグを見つけるだけでなく、実際に人が使う流れ（ユーザーワークフロー）のテストまでできるようになりました。これにより、プログラムの間違いを早めに発見し、安全性を高めて、無駄な修正作業を減らすことが期待されます。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/greptile-code-review-codex-astra",
+      "published": "2026-10-26T22:00:00.000Z"
+    },
+    {
+      "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
+      "summary": "文章を作るAI「Claude」と自社アプリをセットで使う企業が増え、解約されにくくなっています。これは、Amazon（ネット通販大手）が商品とサービスを組み合わせて客をつなぎ止める戦略に似ており、企業にとって重要な新しい動きです。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
+      "published": "2026-10-26T16:49:42.000Z"
+    },
+    {
+      "title": "SpaceX locks in $40B GPU financing deal with Apollo",
+      "summary": "SpaceXがAI開発のため、AIの頭脳となる部品（GPU）を調達するのに必要な、約400億ドル（約6兆円）という巨額のお金を、投資会社から調達できたというニュースです。これにより、銀行からの借金に頼らず、AI事業をさらに発展させやすくなります。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
+      "published": "2026-10-26T16:46:36.000Z"
+    },
+    {
+      "title": "Our newest AI Quest: Mapping the human brain",
+      "summary": "Googleは、AI（人工知能）を使って人間の脳の仕組みを解き明かす新しい学習プログラム「Polar Peaks」を公開しました。これにより、AIの知識を深めながら、脳科学への理解も深めることができます。",
+      "source": "Google AI Blog",
+      "category": "research",
+      "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
+      "published": "2026-10-26T16:00:00.000Z"
+    },
+    {
+      "title": "Anthropic officially files for its public debut",
+      "summary": "AI開発会社Anthropicが、会社を公開する準備（IPO）を始めました。会社の収益は急激に伸びていますが、赤字も抱えています。AIの安全性を守るための特別な仕組みも導入される予定です。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
+      "published": "2026-10-26T14:35:22.000Z"
+    },
+    {
+      "title": "Working with academic communities to build scientific understanding",
+      "summary": "AIが難解な数学や物理学の謎解きに役立ちました。研究者たちは、AIの分析結果を自分で確かめ、さらに進んだ研究につなげることができます。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+      "published": "2026-10-26T14:30:00.000Z"
+    },
+    {
+      "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+      "summary": "AI「GPT-6.1 Sol」が、複雑なプログラムの安全性をチェックするのを助けてくれます。このAIのおかげで、プログラムを作っている人たちは、安全上の問題点や、それを直すための提案を、より簡単に見つけられるようになります。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+      "published": "2026-10-26T13:45:00.000Z"
+    },
+    {
+      "title": "ChatGPT’s expanding world of work",
+      "summary": "ChatGPTは世界100カ国、165の仕事で使われ、どのように活用され、変化しているか、そのデータが明らかになりました。仕事でAIを活用する人が増え、その方法は進化し続けていることがわかります。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
+      "published": "2026-10-26T10:00:00.000Z"
+    },
+    {
+      "title": "How Fanatics and OpenAI streamline the fan experience",
+      "summary": "スポーツグッズ専門店のFanaticsが、文章を作るAI「OpenAI」を使って、試合観戦時の服装選びをサポートする新サービスを始めました。これにより、ファンはより楽しく、効率的に「あの選手とお揃いの服」を探せるようになり、商品への関心が1割アップしました。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/fanatics-streamline-fan-experience",
+      "published": "2026-10-26T07:00:00.000Z"
+    },
+    {
+      "title": "Tradeoff-Aware Territory Design: A Multi-Objective Decision System for Enterprise Customer-to-Seller Allocation",
+      "summary": "AIが、会社のお客さんと営業担当者の割り当てを、もっとうまく決める方法を考えました。これまで手作業だったこの作業を、AIが「お客さんの価値」や「担当者との関係の継続」などを考慮して、最適な割り当てを提案します。これにより、会社はより多くの売上を上げ、営業担当者も効率的に働けるようになります。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2610.31701",
+      "published": "2026-10-26T04:00:00.000Z"
+    },
+    {
+      "title": "Phronix: The Capability-Centric Learning Paradigm for Agents",
+      "summary": "AI（人工知能）が自分で「できること」を学習する新しい方法「Phronix」が開発されました。これにより、AIは過去の経験から学んだ「できること」をすぐに使い、同じような問題を効率的に解けるようになります。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2610.31789",
+      "published": "2026-10-26T04:00:00.000Z"
+    },
+    {
+      "title": "Patronizing and Condescending Language Detection in English and Mandarin",
+      "summary": "相手を見下すような言葉（PCL）は、弱い立場の人を馬鹿にしたり同情したりする、いやな言葉です。この研究では、AIを使って、そんな言葉を自動で見つける方法を開発しました。特に、BERTというAI（文章を理解するAI）を使った方法が、言葉を見つけるのが得意で、約半分のPCLを見つけることができたそうです。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2610.31808",
+      "published": "2026-10-26T04:00:00.000Z"
+    },
+    {
+      "title": "PaperFormalizer: Author-in-the-Loop Autoformalization of Research Papers in Lean",
+      "summary": "論文の論理的な穴を見つけて埋めるAI「PaperFormalizer」が開発されました。論文の正確さを高め、数学の証明がしっかりしているかAIがチェックし、必要なら人間が修正することで、より信頼できる研究成果を生み出すことを目指します。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2610.31810",
+      "published": "2026-10-26T04:00:00.000Z"
+    },
+    {
+      "title": "Don't Forget What You Just Learned: Self-Directed Repair Turns Agent Mistakes Into Lasting Lessons",
+      "summary": "AIが失敗したときに、その経験を忘れてしまわないようにする新しい技術が開発されました。この技術は、AIが失敗から「教訓」を学び、それを保存して次に活かすことで、同じ間違いを繰り返さず、より賢くなるようにします。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2610.31846",
+      "published": "2026-10-26T04:00:00.000Z"
+    },
     {
       "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
       "summary": "AIが作った映画「オデッセイ」の最初の7分が公開されました。映像は普通で、芸術性や感動を求める人には向かないようです。",
@@ -689,118 +801,6 @@
       "category": "business",
       "url": "https://techcrunch.com/2026/10/14/save-50-on-your-techcrunch-disrupt-2026-ticket-and-join-the-last-two-days-in-san-francisco/",
       "published": "2026-10-14T15:13:24.000Z"
-    },
-    {
-      "title": "Amp puts AI agents to work beyond code with OpenAI models",
-      "summary": "AI（人工知能）の新しい「Amp」という仕組みを使うと、AIがプログラムを作るだけでなく、もっと色々な仕事ができるようになります。OpenAI（AIを作る会社）の最新技術で、AIがもっと賢く、速く動けるようになるのがすごい点です。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/amp-beyond-coding",
-      "published": "2026-10-14T12:00:00.000Z"
-    },
-    {
-      "title": "SentinelOne cuts malware analysis from weeks to hours",
-      "summary": "SentinelOneという会社が、AI（OpenAI Daybreak）を使って、コンピューターウイルス（マルウェア）の分析にかかる時間を数週間から数時間に短縮しました。これにより、より多くの危険なコンピューターウイルスを見つけ出し、調査できるようになります。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/sentinelone",
-      "published": "2026-10-14T12:00:00.000Z"
-    },
-    {
-      "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
-      "summary": "AI研究機関が、まるで長期間集中できる賢いアシスタントのようなAI（GPT-6 Astraなど）を開発しました。これは、サイバー攻撃を防ぐためのAI（Codexなど）も含まれ、数日間学習し続け、使いこなすほど賢くなるのが特徴です。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/third-moment-research",
-      "published": "2026-10-14T07:00:00.000Z"
-    },
-    {
-      "title": "How Block is building AI-powered security with OpenAI technology",
-      "summary": "Block（決済サービスなどを手がける会社）が、OpenAI（ChatGPTなどを開発する会社）の技術を使ってAIをセキュリティ（安全を守ること）に活用し始めています。これにより、悪意のある攻撃（脅威）を見つけるのが速くなり、その対策（パッチ）も数分で提案できるようになりました。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/block-ai-powered-security",
-      "published": "2026-10-14T07:00:00.000Z"
-    },
-    {
-      "title": "The EU’s next chapter in AI is agentic",
-      "summary": "EUでは、自ら考えて行動するAI（エージェントAI）が企業やお店で広まりつつあります。これをさらに活用すれば、もっと便利なサービスが生まれる可能性があります。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
-      "published": "2026-10-14T00:00:00.000Z"
-    },
-    {
-      "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
-      "summary": "スマホやパソコンで、一人ひとりに合わせたAIアシスタントが、インターネットにつながらなくても、速くて安全に動くようになりました。この技術（LFM2.5-24B-A2B）で、AIがもっと身近になり、プライバシーも守られるようになります。",
-      "source": "Hugging Face",
-      "category": "product",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
-      "published": "2026-10-13T17:05:48.000Z"
-    },
-    {
-      "title": "Gemini 4 Argon: Built to solve your hardest problems",
-      "summary": "Googleが、これまでで最も賢いAI「Gemini 4 Argon」を公開しました。このAIは、難しい問題を解決するために作られ、色々な分野の専門家や一般の人々が使えるようになります。",
-      "source": "Google AI Blog",
-      "category": "research",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
-      "published": "2026-10-13T16:00:00.000Z"
-    },
-    {
-      "title": "Meta releases its first frontier model, Muse Wonder",
-      "summary": "メタ社が「Muse Wonder」という、より高性能なAIを発表しました。これは、複雑な質問に答えたり、プログラム（コンピューターが動くための指示）を作ったりする能力が向上しています。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
-      "published": "2026-10-12T17:56:56.000Z"
-    },
-    {
-      "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
-      "summary": "天気予報に使う気球とAIで、アメリカ空軍から約50億円もの大きな契約を得たシリコンバレーの会社があります。これは、気球で集めたデータをAIが分析して、より正確な天気予報を軍に提供できるようになったことを意味します。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
-      "published": "2026-10-12T17:19:14.000Z"
-    },
-    {
-      "title": "Honeyjar offers AI tools to improve PR and comms at every company",
-      "summary": "AI（人工知能）が、広報活動（PR）のやり方を改善する手助けをしてくれます。これまで難しかった情報発信が、AIの力でよりスムーズに、効率的にできるようになるかもしれません。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
-      "published": "2026-10-12T15:45:00.000Z"
-    },
-    {
-      "title": "Microsoft president says UK is best placed to drive AI regulation",
-      "summary": "マイクロソフトの社長が、AI（人工知能）のルール作りをイギリスがリードすべきだと発言しました。AIはまだ安全のルールが少なく、牛乳や洗濯機よりも管理が甘いと指摘。イギリスはAIの発展と安全な利用のためのルール作りに適した場所だと主張しています。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
-      "published": "2026-10-12T15:31:19.000Z"
-    },
-    {
-      "title": "This AI startup says it can generate permit-ready blueprints in minutes",
-      "summary": "AIの力で、建物の設計図（青写真）があっという間に作れるようになりました。写真や手書きの絵から、法律に合った設計図を自動で作れるので、建築のスピードアップが期待できます。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
-      "published": "2026-10-12T15:27:59.000Z"
-    },
-    {
-      "title": "Faithfulness Without Anchors: A Position Paper on the Structural Misalignments of Explainable AI Faithfulness Metrics for Feature Importance",
-      "summary": "AIの「説明できる」機能（XAI）は、AIの判断がなぜそうなるのかを分かりやすくするはずだったが、実はAIを過信させ、間違った結果に頼らせてしまうことがある。この問題の根っこは、AIの仕組みを単純化しすぎて、説明とAIの実際の動きがずれていることにある。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2610.12493",
-      "published": "2026-10-12T04:00:00.000Z"
-    },
-    {
-      "title": "EliteTable: Self-Improving Program Search for Executable Control Policies",
-      "summary": "AIが自分で「こうすればうまくいく」というプログラムを探し、それをどんどん良くしていく仕組み「EliteTable」が開発されました。これは、AIが過去の成功例を参考にしながら、より良いプログラムを自動で作っていく技術で、ゲームの操作などをより上手くさせるのに役立つ可能性があります。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2610.12536",
-      "published": "2026-10-12T04:00:00.000Z"
     }
   ]
 }
