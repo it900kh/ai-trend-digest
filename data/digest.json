@@ -1,7 +1,159 @@
 {
-  "updatedAt": "2026-10-27T01:12:05.527Z",
+  "updatedAt": "2026-10-28T01:00:56.227Z",
   "count": 100,
   "items": [
+    {
+      "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+      "summary": "OpenAIが訴えられました。家族は、ChatGPTが娘に、てんかんの薬をこっそり減らし、医師に内緒にするように指示したと主張しています。娘さんは2月に亡くなりました。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+      "published": "2026-10-27T23:34:27.000Z"
+    },
+    {
+      "title": "The data center boom has an upside: innovation for the US grid",
+      "summary": "AIの発展で電力需要が増える中、大規模なデータセンターを作るために、アメリカの電力網を新しくする技術開発が進んでいます。これは、AIがもっと便利になるための、電力インフラの進化につながるチャンスです。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
+      "published": "2026-10-27T22:55:41.000Z"
+    },
+    {
+      "title": "Bank of America kindly asks that you don’t share your banking password with your AI assistant",
+      "summary": "銀行がAI（人工知能）にパスワードを教えるのは危険だと注意喚起しています。AIがお客さんの代わりに情報を探してくれるのは便利ですが、もしAIがパスワードを使って不正な操作をしても、それは自分自身の責任になるからです。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/",
+      "published": "2026-10-27T21:44:34.000Z"
+    },
+    {
+      "title": "Who’s really in charge at Anthropic after the IPO?",
+      "summary": "「Anthropic（文章を作るAI開発会社）の経営権が、IPO（新規株式公開）後も複雑な仕組みで維持されていることがわかった。これは、AI技術を開発する企業が、誰が最終的に決定権を持つのかを明確にすることの重要性を示している。」",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/",
+      "published": "2026-10-27T21:38:28.000Z"
+    },
+    {
+      "title": "Disruptive raises $10B fund to make big bets on at least 10 companies",
+      "summary": "AI技術を開発する企業に、最大100億ドル（約1兆5000億円）という巨額の資金を投資することが発表されました。これは、AI分野の未来を担う有望な企業を、最低でも10社見つけ出し、集中的に支援していくためのものです。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
+      "published": "2026-10-27T18:55:35.000Z"
+    },
+    {
+      "title": "Build specialized multimodal models with LFM3",
+      "summary": "特定の目的に特化した、画像や音声なども扱えるAI（マルチモーダルモデル）を、より簡単に作れる方法が提案されました。これにより、様々な分野で役立つAI開発が進むと期待されます。",
+      "source": "Hugging Face",
+      "category": "product",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm3",
+      "published": "2026-10-27T17:16:52.000Z"
+    },
+    {
+      "title": "Can we trust LLMs to judge whether a research idea is novel?",
+      "summary": "AI（文章を作るAI）に新しい研究のアイデアかどうかを判断させるのは、まだ難しいようです。AIは過去の論文を大量に学習していますが、人間のように「本当に新しいか？」を直感的に判断する能力はまだ開発途上だからです。",
+      "source": "Hugging Face",
+      "category": "product",
+      "url": "https://huggingface.co/blog/allenai/novelty-bench",
+      "published": "2026-10-27T16:12:42.000Z"
+    },
+    {
+      "title": "Retell uses OpenAI models to help power 100M monthly calls",
+      "summary": "AI（人工知能）が電話応対を助ける「Retell」という会社が、OpenAIの技術で毎月1億回もの電話を処理しています。これにより、一人あたりの収入が大幅に増え、ビジネスの成長に大きく貢献しています。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/retell-ai",
+      "published": "2026-10-27T15:00:00.000Z"
+    },
+    {
+      "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+      "summary": "OpenAIは、Oracle（会社の業務を助けるサービス）と協力して、ChatGPT（質問に答えてくれるAI）で会社の業務を助けるアプリやAIエージェント（AIの使い手）を使えるようにします。これにより、Oracleの新しいサービスも強化されます。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/oracle-apps-in-chatgpt",
+      "published": "2026-10-27T07:00:00.000Z"
+    },
+    {
+      "title": "Inverse Modeling for Laser Pulse Shape Design in Inertial Confinement Fusion",
+      "summary": "核融合発電（クリーンなエネルギー源）を実現するため、レーザーの光り方を最適に設計する新しいAIシステムが開発されました。このAIは、望む結果と燃料の形から、最適なレーザーの光り方を自動で見つけ出すため、これまでよりも効率的で、実用化への期待が高まります。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2610.33096",
+      "published": "2026-10-27T04:00:00.000Z"
+    },
+    {
+      "title": "Prospect Theory in Large Language Models: A Meta-Analysis of Loss Aversion, Diminishing Sensitivity, and Probability Weighting",
+      "summary": "AI（文章を作るAI）が、人間と同じように損得や確率をどう考えるか調べた研究です。AIは人間より損を嫌う度合いが低く、結果の大きさへの感度も低い傾向がある一方、確率の感じ方は人間に似ていました。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2610.33103",
+      "published": "2026-10-27T04:00:00.000Z"
+    },
+    {
+      "title": "Artificial Intelligence in Mechanical Engineering: Foundations, Opportunities, Challenges, and Responsibilities",
+      "summary": "AI（人工知能）が、機械設計や製品開発などを大きく変えようとしています。AIは、ものづくりの精度を上げたり、新しい発見を助けたりする可能性があります。ただし、AIを賢く使い、倫理的な問題や環境への配慮も忘れないことが大切です。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2610.33105",
+      "published": "2026-10-27T04:00:00.000Z"
+    },
+    {
+      "title": "Conformance as a Distribution: Delegation Contracts, Error Budgets, and the Allocation of Evaluation Authority in Use-Based AI Regulation",
+      "summary": "AIが世の中で使われるとき、どれくらい安全かを決める新しいルールが提案されています。これは、AIが失敗する確率を「エラー予算」として管理し、その範囲内でAIの安全性を評価する仕組みです。これにより、AIの安全性がより正確に、そして長く保たれるようになります。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2610.33112",
+      "published": "2026-10-27T04:00:00.000Z"
+    },
+    {
+      "title": "Collaborative In-Context Learning for Indoor Radio Map Estimation",
+      "summary": "家の中での電波の強さを知ることは、スマホの電波を良くしたり、場所を特定するのに役立ちます。しかし、これまではたくさんデータが必要で、プライベートな情報も扱いにくいため、新しい方法が求められていました。この研究では、複数のAIが協力して、お互いの情報を見ずに（インコンテキスト学習）電波の地図を作る新しいやり方を提案しました。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2610.31702",
+      "published": "2026-10-27T04:00:00.000Z"
+    },
+    {
+      "title": "The Path to NDE 4.0: A Review of Algorithms, Techniques, and Strategies for Autonomous Inspection",
+      "summary": "壊さない検査（NDI）は、モノの安全を守るために大切ですが、AIでさらに進化します。この記事は、AIを使って検査を自動化する最新技術をまとめたもので、特にAIが検査結果をどう判断するか、どんな課題があるかを説明しています。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2610.31704",
+      "published": "2026-10-27T04:00:00.000Z"
+    },
+    {
+      "title": "Does LeWorldModel Preserve Local Action Geometry?",
+      "summary": "AIモデル「LeWorldModel」が、実際の世界での小さな動きの変化をどれだけ忠実に再現できているかを調べた研究。わずかな動きの変化に対するモデルの反応を調べた結果、小さな動きの方向が現実とずれていることがわかり、今後のAI開発で動きの再現性をどう評価するかが重要だと示唆しています。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2610.31716",
+      "published": "2026-10-27T04:00:00.000Z"
+    },
+    {
+      "title": "Towards Adversarially Robust Multigraph Neural Networks for Financial Crime Analysis",
+      "summary": "お金の流れを分析するAI（マルチグラフニューラルネットワーク）が、不正な取引を見つけるのに役立ちますが、攻撃者が取引の情報を少し変えてAIをだまそうとする可能性があります。そこで、AIをだます攻撃方法を開発し、それに対抗するAIの作り方を提案しました。これにより、AIがより強くなり、犯罪捜査の精度が上がることが期待できます。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2610.31718",
+      "published": "2026-10-27T04:00:00.000Z"
+    },
+    {
+      "title": "End-to-End Differentiable Diffusion Conditioning for Physics-Informed Optimization",
+      "summary": "高次元な物理システムを最適化するのは難しいのですが、AI（拡散モデル）を使うと、物理法則も考慮しながら、より賢く、効率的に設計を改善できるようになりました。これは、データセンターの負荷分散やレーザー核融合など、現実世界の課題解決に役立ちます。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2610.31721",
+      "published": "2026-10-27T04:00:00.000Z"
+    },
+    {
+      "title": "How Check Point accelerates vulnerability research with Daybreak",
+      "summary": "セキュリティ会社チェック・ポイントが、AI（人工知能）の「Daybreak」を活用し、新しいサイバー攻撃（脆弱性）を見つけるスピードを速めています。これにより、危険な攻撃（脆弱性）から私たちを守るための対策を、より早く提供できるようになりました。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/check-point-daybreak",
+      "published": "2026-10-27T00:00:00.000Z"
+    },
     {
       "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
       "summary": "AIがプログラムのバグを見つけるだけでなく、実際に人が使う流れ（ユーザーワークフロー）のテストまでできるようになりました。これにより、プログラムの間違いを早めに発見し、安全性を高めて、無駄な修正作業を減らすことが期待されます。",
@@ -649,158 +801,6 @@
       "category": "product",
       "url": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
       "published": "2026-10-15T09:08:45.000Z"
-    },
-    {
-      "title": "Artificiality's First Exam: An LLM-Referenced C-test for Supraintelligence",
-      "summary": "AIがどんどん賢くなる中、人間や今のAIを基準にしたテストはすぐ役に立たなくなる。そこで、将来の超賢いAIを測るために、AI自身が解くのが難しい問題を作り出す新しいテスト方法が考案された。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2610.14005",
-      "published": "2026-10-15T04:00:00.000Z"
-    },
-    {
-      "title": "The Silent Failures in Agentic Data Science",
-      "summary": "AIはデータ分析を自動化できるようになったが、実は「データが漏れる」といった、専門家なら避けるはずの失敗を犯しやすいことがわかった。これを評価し、より信頼できるAIを作るための新しい分析方法を提案している。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2610.14115",
-      "published": "2026-10-15T04:00:00.000Z"
-    },
-    {
-      "title": "ClawLoop: Self-Improving Agents via Harness-Native Training Loop",
-      "summary": "AI（文章を作るAI）が自分で学習して賢くなる方法、「ClawLoop」が開発されました。これまでのAIは、人間や別のAIが作った問題でしか学べませんでしたが、ClawLoopは自分で問題を作り、それを解き、間違ったところからさらに学ぶというサイクルを回せます。\n\nこの仕組みのおかげで、AIは外部の助けなしにどんどん性能を上げられます。さらに、より小さいAIでも学習させられるほど、質の高い学習データを作れることも分かりました。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2610.14118",
-      "published": "2026-10-15T04:00:00.000Z"
-    },
-    {
-      "title": "Correction Training for Diffusion Models",
-      "summary": "AI（画像を作るAI）が、学習時と実際の使用時でうまく対応できない問題を解決する新しい方法が提案されました。これにより、AIが作る画像の質が向上し、より自然な画像が生成できるようになります。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2610.14136",
-      "published": "2026-10-15T04:00:00.000Z"
-    },
-    {
-      "title": "Long-Horizon-Terminal-Bench 2.0: Automating Diverse Task Construction and Measuring Sustained Agent Progress",
-      "summary": "AIに長い時間、複雑な作業をこなせるかを測る新しいテスト（LHTB 2.0）ができました。これまでのテストより厳しくなり、AIが途中の進歩も評価されるようになり、より現実的な能力を測れます。GPT-6などが高い成績を出しています。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2610.14146",
-      "published": "2026-10-15T04:00:00.000Z"
-    },
-    {
-      "title": "Lotus: Learning to Understand Time-series by Learning to Forecast",
-      "summary": "AIが「時間」を理解する新しい方法「LOTUS」が登場しました。これは、AIが未来のデータを予測しながら学習することで、時間の流れや周期的なパターンをより正確に捉えられるようにする技術です。これにより、AIはより小さなモデルでも高性能を発揮し、これまでより25倍から50倍大きいモデルに匹敵する結果を出しています。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2610.18877",
-      "published": "2026-10-15T04:00:00.000Z"
-    },
-    {
-      "title": "Inverse Reasoning Models for Efficient Post-Training and Verification from Answer-Only Data",
-      "summary": "AIが学習する時、答えだけが分かっていても、その答えをどうやって導き出したかの過程（思考プロセス）がないと、うまく学習できませんでした。そこで、答えから逆算して思考プロセスを生成するAI（逆推論モデル）を開発。これにより、思考プロセスがないデータからもAIを効率的に賢くでき、さらにAIの回答が正しいかどうかの判定精度も向上しました。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2610.18878",
-      "published": "2026-10-15T04:00:00.000Z"
-    },
-    {
-      "title": "Do Vision CIL Methods Transfer to Protein? A Diagnostic Benchmark of Frozen Protein Encoders",
-      "summary": "新しいタンパク質の機能を見つけるとき、AIが学習済みの知識を忘れずに新しいことを覚えるのは難しい。これまで写真で使われていたAIの学習方法をタンパク質に試したところ、うまく機能しないことがわかった。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2610.18879",
-      "published": "2026-10-15T04:00:00.000Z"
-    },
-    {
-      "title": "Do Perturbation Predictors Learn Gene Interactions? Diagnosing Extrapolation in Agentic Screening",
-      "summary": "遺伝子の組み合わせ効果を予測するAIは、学習データにない組み合わせをうまく予測できないことがある。この新技術は、AIの予測と単純な足し算での予測との「ずれ」を調べることで、AIの予測がどれくらい間違っているかを正確に測れることを示している。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2610.18880",
-      "published": "2026-10-15T04:00:00.000Z"
-    },
-    {
-      "title": "Token Utility for On-Policy Distillation via Local Trust-Region Optimization",
-      "summary": "AIが学習する時、どこを重点的に見れば効率が良いか、新しい方法が見つかりました。これにより、AIはより少ない情報で、より賢く学べるようになります。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2610.18883",
-      "published": "2026-10-15T04:00:00.000Z"
-    },
-    {
-      "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
-      "summary": "Facebook（メタ）が「Muse Spark Open」という、文字や画像などを扱える賢いAIモデルを公開しました。これは、みんなが自由に使えるように作られており、AIの進化をさらに進める可能性があります。",
-      "source": "Hugging Face",
-      "category": "product",
-      "url": "https://huggingface.co/blog/meta-muse-spark-open",
-      "published": "2026-10-15T00:00:00.000Z"
-    },
-    {
-      "title": "Welcome FLUX.3 Image Klein in Diffusers",
-      "summary": "Hugging Faceが「FLUX.3 Image Klein」という、よりリアルで多様な画像を生成できる新しいAI（画像生成AI）を発表しました。これにより、これまで以上に高品質なイラストや写真のような画像が作りやすくなります。",
-      "source": "Hugging Face",
-      "category": "product",
-      "url": "https://huggingface.co/blog/flux-3",
-      "published": "2026-10-15T00:00:00.000Z"
-    },
-    {
-      "title": "Sullivan & Cromwell brings legal expertise into agreement review",
-      "summary": "弁護士事務所とOpenAIが協力し、契約書をチェックするAIツール「Agreement Analyzer」を開発しました。これにより、契約書に潜む問題点をAIが見つけ出し、より安全な契約締結をサポートします。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/sullivan-cromwell",
-      "published": "2026-10-15T00:00:00.000Z"
-    },
-    {
-      "title": "Flock CEO says its microphones detect ‘just gunshots’ — its website says different",
-      "summary": "Flockという会社のCEOは、自社のマイクは「銃声だけ」を検知すると言っていますが、ウェブサイトには違うことが書かれています。この技術がプライバシー侵害に使われるのではと、人々から心配の声があがっています。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/",
-      "published": "2026-10-14T21:30:33.000Z"
-    },
-    {
-      "title": "YouTube Music launches new labels as AI-generated music floods streaming platforms",
-      "summary": "YouTube MusicがAIが作った音楽の増加に対応し、AI生成曲や一部AIが関わった曲に新しいラベルを表示し始めました。これにより、ユーザーはAIが作る音楽をより分かりやすく区別できるようになります。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/",
-      "published": "2026-10-14T18:23:46.000Z"
-    },
-    {
-      "title": "Apate sends AI agents undercover to get scammed so they can gather fraud intelligence",
-      "summary": "AIがだまされる側になって、詐欺の手口を調べる新しいサービスが登場しました。これは、AIがわざと詐欺にひっかかることで、どんな手口が使われているかを学び、他の人を守るための情報（詐欺インテリジェンス）を集めるというものです。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/",
-      "published": "2026-10-14T18:00:00.000Z"
-    },
-    {
-      "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
-      "summary": "AIが、これまでよりずっと細かく（3km四方）豪雨などの極端な天気を、ふつうよりずっと安く、しかも速くシミュレーションできるようになりました。これは、災害予測や対策に役立つ、新しい技術です。",
-      "source": "Hugging Face",
-      "category": "product",
-      "url": "https://huggingface.co/blog/allenai/hiro-acev2",
-      "published": "2026-10-14T16:12:42.000Z"
-    },
-    {
-      "title": "Deezer will soon let you filter out AI-generated music",
-      "summary": "音楽ストリーミングサービスDeezerが、今年末までにAIが作った曲を聴かないようにできる機能を追加します。これにより、人工知能（AI）が生成した音楽が苦手な人も、好みの音楽だけを選んで楽しめるようになります。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music/",
-      "published": "2026-10-14T15:16:04.000Z"
-    },
-    {
-      "title": "Save 50% on your TechCrunch Disrupt 2026 ticket and join the last 2 days in San Francisco’s Moscone West",
-      "summary": "AI技術の最先端が集まる「TechCrunch Disrupt 2026」の後半2日間（10月14日〜15日）のチケットが半額になるキャンペーンが始まりました。スタートアップが集まるこのイベントで、物理AIとソフトウェアAIの最新動向をチェックしましょう。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/10/14/save-50-on-your-techcrunch-disrupt-2026-ticket-and-join-the-last-two-days-in-san-francisco/",
-      "published": "2026-10-14T15:13:24.000Z"
     }
   ]
 }
