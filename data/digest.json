@@ -1,7 +1,23 @@
 {
-  "updatedAt": "2026-11-01T00:44:36.712Z",
+  "updatedAt": "2026-11-02T01:17:28.304Z",
   "count": 100,
   "items": [
+    {
+      "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+      "summary": "OpenAIは、コンピューターが集中する施設（データセンター）を「AIコンピューティングキャンパス」と呼び変えることを検討している。これにより、データセンターへのネガティブなイメージを払拭し、AI開発を促進する先進的な場所として捉えてもらう狙いがある。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+      "published": "2026-11-01T21:55:23.000Z"
+    },
+    {
+      "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
+      "summary": "AIがIT企業のトップたちの仕事を楽にするかもしれない一方、一般の人々への影響はどうなるのか、その疑問について考えている記事です。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+      "published": "2026-11-01T20:57:58.000Z"
+    },
     {
       "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
       "summary": "アップルは、やみくもにAIを導入するのではなく、人々の生活を豊かにする、より意味のあるAI機能を提供することに重点を置いている。これは、AIを単なる流行で終わらせず、実用的で役立つものにしたいという同社の考えを表している。",
@@ -395,6 +411,14 @@
       "published": "2026-10-27T04:00:00.000Z"
     },
     {
+      "title": "IRON-Meme: A Benchmark for Structured Understanding of Identities and Roles in Online Meme Narratives",
+      "summary": "SNSで意見が分かれる中、政治的なミーム（ネットで流行る画像や画像＋短い文章）がどう人々の考えに影響するかを知ることが大切になっています。そこで、ミームで使われる「誰が」「どんな立場で」「どういう考えで」話しているかを理解するための新しい評価方法「IRON-Meme」が作られました。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2610.33097",
+      "published": "2026-10-27T04:00:00.000Z"
+    },
+    {
       "title": "Prospect Theory in Large Language Models: A Meta-Analysis of Loss Aversion, Diminishing Sensitivity, and Probability Weighting",
       "summary": "AI（文章を作るAI）が、人間と同じように損得や確率をどう考えるか調べた研究です。AIは人間より損を嫌う度合いが低く、結果の大きさへの感度も低い傾向がある一方、確率の感じ方は人間に似ていました。",
       "source": "arXiv (cs.AI)",
@@ -776,30 +800,6 @@
       "source": "arXiv (cs.AI)",
       "category": "research",
       "url": "https://arxiv.org/abs/2610.22403",
-      "published": "2026-10-19T04:00:00.000Z"
-    },
-    {
-      "title": "ECHOES: Seeing Beyond the Current Image via Recursive History Compression and Privileged On-Policy Distillation",
-      "summary": "AIが複雑な作業を記憶し続けるには、過去の画面情報（履歴）をどう保存するかが課題でした。この新技術「ECHOES」は、AIが過去の履歴を賢く要約し、重要な情報を逃さずに、より長期間の作業を正確にこなせるようにします。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2610.22408",
-      "published": "2026-10-19T04:00:00.000Z"
-    },
-    {
-      "title": "Sensitivity Analysis of Decision Rules in an Agent-Based Agro-Ecological Model",
-      "summary": "AIで農業の未来を予測する研究では、AI（機械学習）が農家さんの「いつ、何を育てるか」といった複雑な判断をどう影響するかを分析。新しい方法で、色々な条件で変わる農作業の判断が、収穫量などにどう影響するかを分かりやすく評価できるようにしました。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2610.22420",
-      "published": "2026-10-19T04:00:00.000Z"
-    },
-    {
-      "title": "When is a large language model a good calibration agent? Physics-labeled prompting for budgeted engineering simulator calibration",
-      "summary": "高価なシミュレーションを調整（キャリブレーション）する際、物理の知識を教え込んだAI（LLM）が、計算回数を減らしつつ、より早く正確な調整方法を提案できるか調べました。AIと従来の調整方法を比べた結果、AIは最初だけ効果的でしたが、AIと従来の計算方法を組み合わせると、最も効率よく目標精度に到達することがわかりました。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2610.22379",
       "published": "2026-10-19T04:00:00.000Z"
     }
   ]
