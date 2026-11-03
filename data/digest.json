@@ -1,7 +1,135 @@
 {
-  "updatedAt": "2026-11-02T01:17:28.304Z",
+  "updatedAt": "2026-11-03T03:20:20.011Z",
   "count": 100,
   "items": [
+    {
+      "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
+      "summary": "アップルは、外部のAIアプリとの連携で収益を増やす方法を検討しているようです。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
+      "published": "2026-11-03T01:49:52.000Z"
+    },
+    {
+      "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+      "summary": "Y Combinatorのゲイリー・タン氏は、AIエージェント（AIが自動で仕事をしてくれる仕組み）に夢中になりすぎて、年間20万ドル（約3000万円）もの費用をかけているそうです。AIの進化に興奮し、睡眠時間を削ってまで研究に没頭するほど、その可能性に魅了されているのが伝わってきます。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
+      "published": "2026-11-03T00:35:52.000Z"
+    },
+    {
+      "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+      "summary": "専門知識がなくてもAI（人工知能）のモデル（※AIの設計図）を作れるようにするサービスが、4500万ドル（約65億円）もの資金を集めました。これにより、これまでAI開発は専門家だけのものでしたが、より多くの人がAIを作れるようになる未来が期待されています。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
+      "published": "2026-11-02T23:13:53.000Z"
+    },
+    {
+      "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
+      "summary": "AI（人工知能）が自分で自分を賢くする能力（自己改良AI）に近づいていると、Anthropic社が警告しました。これはAIの進化が急速に進み、予測不能になる可能性を示唆しており、一部では大きな懸念も出ています。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
+      "published": "2026-11-02T22:14:50.000Z"
+    },
+    {
+      "title": "Web host Squarespace lays off 19% of its employees",
+      "summary": "Webサイト作成サービス「Squarespace」が、組織再編のために従業員の19%を解雇しました。これは、AI（人工知能）などの新しい技術に対応するため、事業のあり方を見直す動きの一部と考えられます。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/",
+      "published": "2026-11-02T19:25:59.000Z"
+    },
+    {
+      "title": "Rewarding defenders with bigger bug bounties",
+      "summary": "OpenAIは、セキュリティの専門家がAIの弱点を見つけて報告することへの報酬を増やし、報告の質や貢献度に応じてさらにボーナスを出すようにしました。これにより、AIの安全性を高めるための活動がさらに活発になることが期待されます。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+      "published": "2026-11-02T18:00:00.000Z"
+    },
+    {
+      "title": "Preparing our next security sprint to harden OpenAI",
+      "summary": "OpenAIは、AIを使って自分たちのシステムをより安全にするための特別な取り組みを始める。これにより、AIの悪用を防ぐための対策をさらに強化し、ユーザーを危険から守ることを目指している。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+      "published": "2026-11-02T18:00:00.000Z"
+    },
+    {
+      "title": "The latest AI news we announced in October 2026",
+      "summary": "Googleが2026年10月に発表したAIの最新情報です。新しいAI技術で、より賢く、より便利なサービスが期待されます。",
+      "source": "Google AI Blog",
+      "category": "research",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
+      "published": "2026-11-02T17:45:00.000Z"
+    },
+    {
+      "title": "Scaling Git at OpenAI",
+      "summary": "OpenAIは、Codex（コードを書くAI）のような高度なAI開発に不可欠な、Git（プログラムの変更履歴を管理する仕組み）の規模に対応できる新しいシステム「Pando」を開発しました。これにより、AI開発のスピードと効率が飛躍的に向上します。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/scaling-git-at-openai",
+      "published": "2026-11-02T15:30:00.000Z"
+    },
+    {
+      "title": "Introducing the Grid Protectors Program",
+      "summary": "OpenAIは、AIを動かすための大規模なコンピューター施設（コンピュートキャンパス）が、電力網（グリッド）の安定性を保ち、電気料金が上がらないように、電力会社と協力するプログラムを始めます。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/grid-protectors-program",
+      "published": "2026-11-02T15:00:00.000Z"
+    },
+    {
+      "title": "LifeVal",
+      "summary": "AIが日常生活のタスク（子どもの預け先探しや家計管理など）をどれだけうまく手伝えるかを測る新しい評価方法「LifeVal」が発表されました。これにより、AIが私たちの暮らしをより便利にするためにどれだけ役立つかが分かります。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/lifeval",
+      "published": "2026-11-02T09:00:00.000Z"
+    },
+    {
+      "title": "Automatic Construction of Strong Simple Baselines",
+      "summary": "新しいAI（深層学習）のすごさを正確に確かめるには、しっかりとした比較対象（ベースライン）が必要です。この研究では、文章を作るAI（LLM）を使って、比較対象を自動で作る方法を試しました。その結果、AIが作った比較対象はとても強力で、新しいAIの成果を正確に評価するのに役立つことがわかりました。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2610.40700",
+      "published": "2026-11-02T05:00:00.000Z"
+    },
+    {
+      "title": "Bayesian Distribution System State Estimation with Flow Matching",
+      "summary": "電力網の状況を正確に把握するAI（PoSE）が開発されました。これは、限られた情報からでも、電力の流れのズレを学習し、より信頼性の高い電力網の「状態」を推測できる点が新しいです。これにより、停電を防ぐなど、安定した電力供給に役立ちます。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2610.40728",
+      "published": "2026-11-02T05:00:00.000Z"
+    },
+    {
+      "title": "Don't Just Impute, Detect: Task-Aware Diffusion Pipelines for Edge Anomaly Detection",
+      "summary": "工場などで、センサーのデータが途切れても、AIが異常を見つけやすくする新しい方法が開発されました。これまでの方法は、途切れたデータを「元に戻してから」異常を探していましたが、この新しい方法は、異常を見つけるAIに「合わせた」方法でデータを補うため、より正確に異常を発見できます。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2610.40732",
+      "published": "2026-11-02T05:00:00.000Z"
+    },
+    {
+      "title": "Unsupervised Feature Selection Using Local Intrinsic Dimensionality -- Extended Version",
+      "summary": "たくさんの特徴がある（次元が高い）と、AIの学習がうまくいかなくなることがあります。この研究では、AIに「この特徴は大事か」を教える情報（ラベル）がない場合でも、特徴同士の距離から重要度を判断する新しい方法「LIDFS」を開発しました。これにより、AIの学習効率と精度が向上する可能性があります。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2610.40736",
+      "published": "2026-11-02T05:00:00.000Z"
+    },
+    {
+      "title": "Certified Behavioral Retention for Continual Adaptation with Held-Out Anchors",
+      "summary": "AIが新しいことを学ぶとき、昔覚えたことを忘れないようにする新しい方法「CABA」が開発されました。これにより、AIは進化しつつも、過去の重要な行動を維持できるため、より賢く、信頼できるAIに近づきます。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2610.40740",
+      "published": "2026-11-02T05:00:00.000Z"
+    },
     {
       "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
       "summary": "OpenAIは、コンピューターが集中する施設（データセンター）を「AIコンピューティングキャンパス」と呼び変えることを検討している。これにより、データセンターへのネガティブなイメージを払拭し、AI開発を促進する先進的な場所として捉えてもらう狙いがある。",
@@ -673,134 +801,6 @@
       "category": "product",
       "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
       "published": "2026-10-23T00:00:00.000Z"
-    },
-    {
-      "title": "Does Your Model Run on AWS Trainium? Look It Up",
-      "summary": "AWSの新しいAIチップ「Trainium」について、自分のAIモデルがそれに適しているか確認できるようになりました。これにより、AI開発がもっと速く、安くできるようになるかもしれません。",
-      "source": "Hugging Face",
-      "category": "product",
-      "url": "https://huggingface.co/blog/torch-neuronx-model-support",
-      "published": "2026-10-23T00:00:00.000Z"
-    },
-    {
-      "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
-      "summary": "データベースの点数をAIの「ごほうび」に変え、AIがより賢く学習できるようになりました。まるで、AIが考えるための「応援」をあげるようなイメージです。",
-      "source": "Hugging Face",
-      "category": "product",
-      "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
-      "published": "2026-10-22T22:24:34.000Z"
-    },
-    {
-      "title": "Build more responsive apps with the Decisions API",
-      "summary": "「決定API」という新しい技術が発表されました。これは、AIが速く、的確な判断を、お金をかけずにできるようになるというものです。これにより、アプリの反応が速くなり、使いやすさが格段に向上します。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/decisions-api",
-      "published": "2026-10-22T19:00:00.000Z"
-    },
-    {
-      "title": "Ensemble forecasting with IBM Granite time-series models",
-      "summary": "IBMが開発したAI（人工知能）が、過去のデータから未来の動きを予測する技術を発表しました。この技術は、天気予報のように複数の予測を組み合わせることで、より正確な未来予測を目指しており、ビジネスなどで役立つことが期待されます。",
-      "source": "Hugging Face",
-      "category": "product",
-      "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
-      "published": "2026-10-22T07:51:31.000Z"
-    },
-    {
-      "title": "What FDE means at OpenAI",
-      "summary": "OpenAIは、新技術をいち早く試す「フォワード・デプロイメント・エンジニアリング」という仕組みを導入しました。これにより、AIの進化を加速させ、より安全で役立つAIを開発することを目指しています。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/forward-deployed-engineering-means",
-      "published": "2026-10-22T06:00:00.000Z"
-    },
-    {
-      "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
-      "summary": "AIが「関係性」を理解するのに、これまでの勉強（訓練）が不要になる新技術が登場しました。まるで、物事のつながりを最初から知っているかのようで、人間が教えなくても、データ同士の関連性を見つけ出すのが得意です。",
-      "source": "Hugging Face",
-      "category": "product",
-      "url": "https://huggingface.co/blog/nvidia/kumo-relational",
-      "published": "2026-10-21T18:26:30.000Z"
-    },
-    {
-      "title": "Southeast Asia’s digital economy to hit $368 billion",
-      "summary": "AI（人工知能）が東南アジアで広く使われるようになり、インターネットを使った経済活動が2026年には約3680億ドル、2035年には1兆ドルに達すると予測されています。",
-      "source": "Google AI Blog",
-      "category": "research",
-      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
-      "published": "2026-10-21T04:00:00.000Z"
-    },
-    {
-      "title": "Nscale and Anthropic are reportedly in talks for yet another $45 billion compute deal",
-      "summary": "AIを作る会社（Anthropic）が、AIを動かすためのコンピューター（Nscale）をさらに巨額で借りる交渉をしているようです。これは、AIの性能をさらに高めるために、より多くのコンピューターが必要になっていることを示しています。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
-      "published": "2026-10-19T23:39:38.000Z"
-    },
-    {
-      "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
-      "summary": "AIの性能を比べる「評価」は、これまでAIの進歩のバロメーターとされてきました。しかし、その評価方法にはまだ課題が多く、AIの性能を正しく測るのは難しいと専門家は指摘しています。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
-      "published": "2026-10-19T22:49:27.000Z"
-    },
-    {
-      "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
-      "summary": "AIが作る「AIエージェント」は、会社の秘密を漏らすような「社内からの脅威」になりうるとマイクロソフトは警告しています。特に、OpenAIなどのAI開発会社が管理していないAIエージェントは、まだ信頼できないため注意が必要です。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
-      "published": "2026-10-19T22:04:28.000Z"
-    },
-    {
-      "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
-      "summary": "アマゾンが、AIアプリ開発で広く使われる「PyTorch」という無料ツールで、Nvidia（エヌビディア）への依存を減らそうとしています。これにより、アマゾン独自のチップなど、他の選択肢でAIアプリが動くようにし、開発者の裾野を広げたい考えです。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
-      "published": "2026-10-19T20:09:24.000Z"
-    },
-    {
-      "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
-      "summary": "ハッカーがAIでコードを作る道具「OpenCode」を乗っ取り、ユーザーのお金を勝手に使った。ハッカーは、OpenCodeが使うAI（文章を作るAIなど）に悪いコードを見せようとしたが、AIはそれを断った。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
-      "published": "2026-10-19T19:28:34.000Z"
-    },
-    {
-      "title": "Advancing coding in low‑resource programming languages",
-      "summary": "OpenAIは、あまり使われないプログラミング言語でもChatGPTが使いやすくなるように、改善を進めています。特に、プログラミングの専門分野や、古いコンピューターで使われるCOBOL（コボル）という言語の移行など、新しい評価方法を導入しました。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/low-resource-programming-languages",
-      "published": "2026-10-19T12:00:00.000Z"
-    },
-    {
-      "title": "Structured Authority Injection: Persistent Human Control for LLM Agents via Typed MCP Overrides",
-      "summary": "AIが自分で考えて行動する（LLMエージェント）とき、人間が後から「こうしてほしい」と指示しても、AIがそれを忘れたり、うまく理解できなかったりすることがありました。この新しい技術（SAI）は、人間からの指示をAIが確実に理解し、忘れずに実行できるようにする仕組みです。これにより、AIをより安全で信頼できるものにすることができます。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2610.22373",
-      "published": "2026-10-19T04:00:00.000Z"
-    },
-    {
-      "title": "Rethinking User Encoders: Routing Diffusion States for Scenario-Adaptive User Representation",
-      "summary": "AIがユーザーの行動を理解する方法が進化しました。これまでのAIは、ユーザーの様々な行動履歴をまとめて一つの情報にしていたため、状況によって必要な情報がうまく伝わらないことがありました。新しい技術「FINDERS」は、AIが段階的に情報を整理・再構築する仕組みを使い、状況に合わせて最も適した情報を選び出して、より賢くユーザーを理解できるようにします。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2610.22400",
-      "published": "2026-10-19T04:00:00.000Z"
-    },
-    {
-      "title": "From Events to Reasoning: Hierarchical Rule Composition over Explicit States",
-      "summary": "AIが「なぜそうなるのか」を説明できるようにする新しいシステム「ERS」が開発されました。これは、出来事（イベント）をグラフで表し、ルールを組み合わせて、間違いなく理由を説明できる結論を導き出します。これにより、AIの信頼性が高まります。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2610.22403",
-      "published": "2026-10-19T04:00:00.000Z"
     }
   ]
 }
