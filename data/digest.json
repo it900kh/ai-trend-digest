@@ -1,7 +1,119 @@
 {
-  "updatedAt": "2026-11-03T03:20:20.011Z",
+  "updatedAt": "2026-11-05T02:01:16.886Z",
   "count": 100,
   "items": [
+    {
+      "title": "Apple is reportedly cutting budgets for its internal AI usage",
+      "summary": "アップルは、社内のAI（人工知能）開発に使う予算を大幅に減らすと報じられています。これは、AI技術の進歩が速い中で、開発チームへの投資を抑えるという驚きの動きです。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
+      "published": "2026-11-05T01:26:22.000Z"
+    },
+    {
+      "title": "After the midterms, a bigger clash over data centers could be coming",
+      "summary": "アメリカの中間選挙で、データセンター（インターネットの情報を保管する大きな施設）を巡る意見の対立が、政党に関係なく広がっていることがわかりました。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/",
+      "published": "2026-11-05T01:02:14.000Z"
+    },
+    {
+      "title": "AI PACs spent millions trying to shape Congress — here’s how they fared",
+      "summary": "AI業界がお金を使い、政治家（下院議員）の選挙に影響を与えようとしましたが、結果はあまり芳しくありませんでした。それでも、次の選挙に向けてすでに動き始めています。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
+      "published": "2026-11-04T22:45:09.000Z"
+    },
+    {
+      "title": "Nothing CEO says company’s mysterious AI-first device is dropping next month",
+      "summary": "スマホメーカーNothingが、AIを最優先にした謎の新製品を来月発売すると発表しました。この製品はAIを使って、もっと効率的に作業ができるように設計されているそうです。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
+      "published": "2026-11-04T22:13:16.000Z"
+    },
+    {
+      "title": "Almost no one uses AI agents to book their Uber, company says",
+      "summary": "ウーバー（配車サービス）では、AI（人工知能）を使った予約がほとんど利用されていません。AIエージェント（AIの使い手）経由での配車予約は、最も忙しかった時期でもわずか4件だったそうです。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
+      "published": "2026-11-04T21:56:01.000Z"
+    },
+    {
+      "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+      "summary": "AIが、どんな書類からでも必要な情報を抜き出し、整理されたかたち（JSON形式）で出力してくれるようになった。これにより、書類の情報を手作業で探す手間が省け、AIでの活用がより簡単になる。",
+      "source": "Hugging Face",
+      "category": "product",
+      "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+      "published": "2026-11-04T17:50:10.000Z"
+    },
+    {
+      "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+      "summary": "AI開発企業OpenAIが、コード生成・分析ツールを持つピエール・コンピューター社を買収しました。これにより、OpenAIのコード関連技術がさらに強化され、より高度なプログラミング支援が可能になります。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/openai-to-acquire-pierre",
+      "published": "2026-11-04T14:30:00.000Z"
+    },
+    {
+      "title": "A thousand fewer paths to root",
+      "summary": "AIがLinuxの改良点（バグ修正）を948個も見つけ、自動で直す方法を開発しました。これにより、コンピューターの安全性が高まり、より安心して使えるようになります。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+      "published": "2026-11-04T08:00:00.000Z"
+    },
+    {
+      "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+      "summary": "アメリカ政府の特定の機関で、サイバーセキュリティ（インターネットでの安全を守ること）に役立つ、新しいAI「Daybreak Red」が使えるようになりました。これは、機密性の高い情報を扱うための特別なクラウド環境（AWS GovCloud）で利用できる、GPT-5.6 CyberというAIモデルを活用したものです。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/daybreak-red-aws-govcloud",
+      "published": "2026-11-04T07:00:00.000Z"
+    },
+    {
+      "title": "Community detection in complex networks via node similarity, graph representation learning, and hierarchical clustering",
+      "summary": "複雑なつながり（ネットワーク）の中の「群れ」を見つける新しい方法が提案されました。これは、友達のグループや論文の引用関係などを分析するのに役立ちます。新しい方法は、いくつかの段階に分かれていて、これまでの方法より多くの情報を見つけられ、群れの数が分からない時でも使いやすいのが特徴です。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2303.12212",
+      "published": "2026-11-04T05:00:00.000Z"
+    },
+    {
+      "title": "Introducing Images 2.6",
+      "summary": "OpenAIが、画像を作るAI（Images 2.6）をアップデートしました。これにより、写真のような画像をより速く作ったり、動くGIFアニメーションを作ったり、細かい部分を正確に編集したりすることが可能になり、開発者も使いやすくなりました。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/introducing-images-2-6",
+      "published": "2026-11-04T00:00:00.000Z"
+    },
+    {
+      "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
+      "summary": "DevRevは、GPT-6.1 SolというAI（文章を作るAI）を使って、会社（企業）のお客さんの質問に自動で答えるシステムを作りました。これにより、お客さんは早く、そして賢く、納得のいく答えを得られるようになります。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/devrev-enterprise-self-service",
+      "published": "2026-11-04T00:00:00.000Z"
+    },
+    {
+      "title": "StateBench: Testing how language models track state changes over long documents",
+      "summary": "AI（人工知能）が長い文章をどれだけ正確に理解できるか調べる新しい方法「StateBench」が開発されました。これにより、AIが文章の途中で変わった情報（例えば、登場人物の状況の変化など）を、どこまで覚えているかをテストできます。",
+      "source": "Hugging Face",
+      "category": "product",
+      "url": "https://huggingface.co/blog/allenai/statebench",
+      "published": "2026-11-03T17:15:21.000Z"
+    },
+    {
+      "title": "Palette: teaching a small model to build decks in your design language",
+      "summary": "「Palette」という新しい技術は、小さなAIモデルに、デザインの「色合い」や「雰囲気」を学習させて、それに合ったデザインの組み合わせ（カードデッキ）を作らせるものです。これにより、プロのデザイナーが使うような洗練されたデザインを、AIが手軽に提案できるようになります。",
+      "source": "Hugging Face",
+      "category": "product",
+      "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+      "published": "2026-11-03T16:35:36.000Z"
+    },
     {
       "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
       "summary": "アップルは、外部のAIアプリとの連携で収益を増やす方法を検討しているようです。",
@@ -17,6 +129,22 @@
       "category": "business",
       "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
       "published": "2026-11-03T00:35:52.000Z"
+    },
+    {
+      "title": "CWE-bench v2: More coverage, quality, and transparency",
+      "summary": "AIの「弱点」を見つけるための新しい道具「CWE-bench v2」が登場しました。これを使えば、AIが間違ったことを言ったり、不適切な反応をしたりする原因を、より詳しく、そして分かりやすく調べることができます。",
+      "source": "Hugging Face",
+      "category": "product",
+      "url": "https://huggingface.co/blog/cwe-bench",
+      "published": "2026-11-03T00:00:00.000Z"
+    },
+    {
+      "title": "Transformers Model Integration Contracts",
+      "summary": "このAIモデル（Transformer）は、文章を作ったり、翻訳したりするのにとても役立ちます。他のAIサービスと連携しやすくするための「契約」の作り方が説明されています。これにより、AIをもっと色々なところで使いやすくなるのが新しい点です。",
+      "source": "Hugging Face",
+      "category": "product",
+      "url": "https://huggingface.co/blog/transformers-mic",
+      "published": "2026-11-03T00:00:00.000Z"
     },
     {
       "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
@@ -673,134 +801,6 @@
       "category": "product",
       "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
       "published": "2026-10-26T13:45:00.000Z"
-    },
-    {
-      "title": "ChatGPT’s expanding world of work",
-      "summary": "ChatGPTは世界100カ国、165の仕事で使われ、どのように活用され、変化しているか、そのデータが明らかになりました。仕事でAIを活用する人が増え、その方法は進化し続けていることがわかります。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
-      "published": "2026-10-26T10:00:00.000Z"
-    },
-    {
-      "title": "How Fanatics and OpenAI streamline the fan experience",
-      "summary": "スポーツグッズ専門店のFanaticsが、文章を作るAI「OpenAI」を使って、試合観戦時の服装選びをサポートする新サービスを始めました。これにより、ファンはより楽しく、効率的に「あの選手とお揃いの服」を探せるようになり、商品への関心が1割アップしました。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/fanatics-streamline-fan-experience",
-      "published": "2026-10-26T07:00:00.000Z"
-    },
-    {
-      "title": "Tradeoff-Aware Territory Design: A Multi-Objective Decision System for Enterprise Customer-to-Seller Allocation",
-      "summary": "AIが、会社のお客さんと営業担当者の割り当てを、もっとうまく決める方法を考えました。これまで手作業だったこの作業を、AIが「お客さんの価値」や「担当者との関係の継続」などを考慮して、最適な割り当てを提案します。これにより、会社はより多くの売上を上げ、営業担当者も効率的に働けるようになります。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2610.31701",
-      "published": "2026-10-26T04:00:00.000Z"
-    },
-    {
-      "title": "Phronix: The Capability-Centric Learning Paradigm for Agents",
-      "summary": "AI（人工知能）が自分で「できること」を学習する新しい方法「Phronix」が開発されました。これにより、AIは過去の経験から学んだ「できること」をすぐに使い、同じような問題を効率的に解けるようになります。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2610.31789",
-      "published": "2026-10-26T04:00:00.000Z"
-    },
-    {
-      "title": "Patronizing and Condescending Language Detection in English and Mandarin",
-      "summary": "相手を見下すような言葉（PCL）は、弱い立場の人を馬鹿にしたり同情したりする、いやな言葉です。この研究では、AIを使って、そんな言葉を自動で見つける方法を開発しました。特に、BERTというAI（文章を理解するAI）を使った方法が、言葉を見つけるのが得意で、約半分のPCLを見つけることができたそうです。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2610.31808",
-      "published": "2026-10-26T04:00:00.000Z"
-    },
-    {
-      "title": "PaperFormalizer: Author-in-the-Loop Autoformalization of Research Papers in Lean",
-      "summary": "論文の論理的な穴を見つけて埋めるAI「PaperFormalizer」が開発されました。論文の正確さを高め、数学の証明がしっかりしているかAIがチェックし、必要なら人間が修正することで、より信頼できる研究成果を生み出すことを目指します。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2610.31810",
-      "published": "2026-10-26T04:00:00.000Z"
-    },
-    {
-      "title": "Don't Forget What You Just Learned: Self-Directed Repair Turns Agent Mistakes Into Lasting Lessons",
-      "summary": "AIが失敗したときに、その経験を忘れてしまわないようにする新しい技術が開発されました。この技術は、AIが失敗から「教訓」を学び、それを保存して次に活かすことで、同じ間違いを繰り返さず、より賢くなるようにします。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2610.31846",
-      "published": "2026-10-26T04:00:00.000Z"
-    },
-    {
-      "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
-      "summary": "AIが作った映画「オデッセイ」の最初の7分が公開されました。映像は普通で、芸術性や感動を求める人には向かないようです。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
-      "published": "2026-10-25T21:31:16.000Z"
-    },
-    {
-      "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
-      "summary": "「AIに巨額の投資や期待が集まっても、IT企業以外ではほとんどの会社に利益をもたらしていない」と専門家は指摘。AIがビジネスで成果を出すには、まだ課題が多いようです。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
-      "published": "2026-10-25T16:57:32.000Z"
-    },
-    {
-      "title": "The hottest AI wearables and gadgets you should know about",
-      "summary": "AIを搭載した新しいイヤホンやネックレス（ウェアラブルデバイス）が登場し、私たちの生活を便利にしています。これらは、AIが話しかけてくれたり、感情を読み取ってくれたりするので、これからの生活がもっと楽しくなりそうです。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
-      "published": "2026-10-25T14:10:00.000Z"
-    },
-    {
-      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-      "summary": "AIの進化は速く、期待されたほどの成果を出せなかったり、サービスが終了したりするプロジェクトも出てきています。これは、新しい技術が必ずしも成功するわけではないという現実を示しており、今後のAI開発の参考になります。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-      "published": "2026-10-24T19:00:00.000Z"
-    },
-    {
-      "title": "Block’s new voice model sounds eerily human",
-      "summary": "ブロック社が開発した新しい声のAI（人工知能）が、まるで人間のように自然な話し方をするようになり、注目されています。このAIはMacBook M4 Maxのようなパソコン上で動かすことも可能だそうです。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
-      "published": "2026-10-24T16:00:00.000Z"
-    },
-    {
-      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
-      "summary": "ChatGPTの利用者が10億人を超えても、快適に使えるように、OpenAIは「Habitat（ハビタット）」というシステムを改良しました。これにより、たくさんの人が同時に使っても、昔より12倍速く情報を取り出せるようになり、いつでもスムーズにChatGPTを使えるようになったのです。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
-      "published": "2026-10-23T17:00:00.000Z"
-    },
-    {
-      "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
-      "summary": "研究のアイデア探しが、たくさんの論文（研究発表）を横断的に見て、関連性が高いものを結びつけることで、より簡単で効率的になりました。この新しい技術（LitPivot）を使えば、これまで見つけにくかった面白い研究テーマが見つかりやすくなります。",
-      "source": "Hugging Face",
-      "category": "product",
-      "url": "https://huggingface.co/blog/allenai/litpivot",
-      "published": "2026-10-23T16:15:50.000Z"
-    },
-    {
-      "title": "Securing our frontier model training environment",
-      "summary": "OpenAIは、AI（人工知能）がより賢くなるための「学習」の場所を、外部から守るための対策を強化しました。特別なコンピューターを使った実験（レッドチーミング）も、インターネットから切り離された安全な環境で行われています。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
-      "published": "2026-10-23T10:00:00.000Z"
-    },
-    {
-      "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
-      "summary": "AIで安全にインターネットを使うための研究を、ポーランドの機関と共同で進めます。これにより、AIがもっと安全で、みんなが安心して使える世界を目指します。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
-      "published": "2026-10-23T00:00:00.000Z"
     }
   ]
 }
