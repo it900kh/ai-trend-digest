@@ -1,7 +1,159 @@
 {
-  "updatedAt": "2026-11-05T02:01:16.886Z",
+  "updatedAt": "2026-11-06T02:01:51.574Z",
   "count": 100,
   "items": [
+    {
+      "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
+      "summary": "Airbnbが2027年前半にAI旅行アシスタントを導入します。このAIは、旅行の計画、選択肢の比較、予約管理、滞在中のサポートまで、旅のあらゆる面でお手伝いします。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
+      "published": "2026-11-05T22:40:55.000Z"
+    },
+    {
+      "title": "Meta says US users can now video chat with their Muse AI avatar",
+      "summary": "メタ社は、ユーザーが作ったアバター（キャラクター）とビデオ通話できるAI（人工知能）サービスをアメリカで始めました。まるで友達と話しているような感覚で、特別なデバイスも発売予定です。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
+      "published": "2026-11-05T19:48:28.000Z"
+    },
+    {
+      "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
+      "summary": "NVIDIAが開発した「Cosmos 3」という新しいAIモデルは、まるで現実世界のような仮想空間を作り出すことができます。この技術は、ゲームや自動運転車のシミュレーションなど、様々な分野で役立つと期待されています。",
+      "source": "Hugging Face",
+      "category": "product",
+      "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
+      "published": "2026-11-05T19:35:16.000Z"
+    },
+    {
+      "title": "Meta warns that election backlash against data centers could make AI expansion harder",
+      "summary": "データセンター建設への反対運動が世界で高まり、AI（人工知能）を動かすためのコンピューターを増やすことが難しくなるかもしれないとMeta（Facebookの親会社）が警告しています。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
+      "published": "2026-11-05T19:12:39.000Z"
+    },
+    {
+      "title": "OpenAI released a new cybersecurity model. Is that enough?",
+      "summary": "AI開発のOpenAIが、サイバー攻撃から守るための新しいAIを発表しました。これは、AIがインターネットなどの安全を守る上で、どれだけ役立つのか、注目が集まる中で発表されたものです。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
+      "published": "2026-11-05T19:06:12.000Z"
+    },
+    {
+      "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
+      "summary": "OpenAIの社長が、2027年までに上場（会社を公開して株を誰でも買えるようにすること）できる見込みだと話しました。企業向けのサービスを伸ばしており、ライバルに負けないように頑張っています。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
+      "published": "2026-11-05T18:02:27.000Z"
+    },
+    {
+      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+      "summary": "Googleが開発した新しいAI「Gemini Omni 1.2 Flash」は、15秒までの動画を自動で作ったり編集したりできるようになりました。これまでより賢く、さらに値段も30%安くなったので、動画制作がもっと手軽になります。",
+      "source": "Google AI Blog",
+      "category": "research",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+      "published": "2026-11-05T17:00:00.000Z"
+    },
+    {
+      "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
+      "summary": "OpenAIが、サイバー攻撃の弱点を見つけたり、その直し方を考えたりするAI「GPT-6 Cyber」を発表しました。これは、決まった範囲内で安全に動くように訓練されているのが新しい点です。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/introducing-gpt-6-cyber",
+      "published": "2026-11-05T09:00:00.000Z"
+    },
+    {
+      "title": "Merge builds product and business tools with OpenAI technology",
+      "summary": "Mergeという会社が、OpenAIのAI技術（GPT-6 Astra、ChatGPT、Codex）を使って、製品開発のコードチェックやマーケティングを助けるツールを作っています。さらに、会議の準備や営業資料作りにもAIを活用し、仕事の効率を上げています。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/merge-builds-with-openai",
+      "published": "2026-11-05T08:00:00.000Z"
+    },
+    {
+      "title": "Who May Overrule the Agent? Evidence-Gated Authority in LLM Review Institutions",
+      "summary": "AI（文章を作るAI）のシステムでは、作った回答をチェックするAI（審査員AI）がいます。この審査員AIが、正しい回答を勝手に変えてしまう問題があります。それを防ぐために、審査員AIが回答を変えられるのは、間違いを直した証拠がある時だけ、というルールを試しました。このルールで、間違った回答を直す能力は保ちつつ、正しい回答が勝手に変えられるのを減らせることがわかりました。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2611.05390",
+      "published": "2026-11-05T05:00:00.000Z"
+    },
+    {
+      "title": "Agent Harness Awareness: Turning Verified Telemetry into Operational Control for Tool-Using Agents",
+      "summary": "AI（人工知能）が、今どんな状態の道具（ツール）を使うのが安全か、という情報を受け取れるようになりました。これにより、AIが誤った判断をしてしまう（「オペレーショナル・ブラインドネス」と呼ばれる）のを防ぎ、より確実にタスクを完了できるようになります。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2611.05391",
+      "published": "2026-11-05T05:00:00.000Z"
+    },
+    {
+      "title": "Challenge-Aware Knowledge Recruitment with Meta-Agent Supervision for Medical Multi-Agent Reasoning",
+      "summary": "AIが医療の難しい問題を解くとき、これまでのやり方ではうまくいかないことがありました。そこで、AIが自分で「どこが分からないか」を見つけ、必要な情報だけを集めたり、専門家（他のAI）を呼んだりする新しい方法が開発されました。この方法で、AIの回答の正確さが大幅に向上しました。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2611.05393",
+      "published": "2026-11-05T05:00:00.000Z"
+    },
+    {
+      "title": "A Feasibility Condition for Confidence-Gated Tiered LLM Inference",
+      "summary": "AI（人工知能）が賢くなるには、たくさんの計算が必要ですが、それを効率的に行う方法が見つかりました。AIが「自信がある」かどうかで、どこで計算させるか（スマホやデータセンターなど）を決めるのですが、その判断がうまくいかない条件を特定したのです。これは、AIの利用をもっと速く、安く、プライベートにするための重要な一歩です。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2611.05394",
+      "published": "2026-11-05T05:00:00.000Z"
+    },
+    {
+      "title": "Constraint-Preserving Flow Matching for Spectral Graph Generation",
+      "summary": "グラフの「骨組み」をAIで作り出す新しい方法が提案されました。これは、グラフの性質（固有値・固有ベクトル）を保ちつつ、AIがより正確で自然なグラフを生成できるようにする技術です。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2611.05436",
+      "published": "2026-11-05T05:00:00.000Z"
+    },
+    {
+      "title": "Learning Implicit Solves for Dynamic Simulations",
+      "summary": "AIが、計算に時間がかかる「動き」のシミュレーションを、速く正確にできるようになりました。この新しいAIは、まず「止まっている状態」のデータから学習し、その知識を使って動きのシミュレーションを高速化します。これにより、これまで数千倍速く、より正確な予測が可能になりました。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2611.05439",
+      "published": "2026-11-05T05:00:00.000Z"
+    },
+    {
+      "title": "Matched but Not Better: An Equivalence-Tested Benchmark of Quantum Machine Learning on Six Clinical Datasets and the QML-Health-READY Reporting Framework",
+      "summary": "「量子コンピューターを使ったAI（QML）は、病気の予測で期待されているが、従来のAIと比べて本当に優れているのか、科学的にきちんと比べていなかった。今回の研究で、量子AIは従来のAIを上回ることはなく、同等レベルであることがわかった。」",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2611.05442",
+      "published": "2026-11-05T05:00:00.000Z"
+    },
+    {
+      "title": "Objective-Conditioned Active Preference Learning for Multi-Objective Alignment",
+      "summary": "AIがより良い文章を作る（LLM）には、たくさんの基準（優しさ、正直さなど）で評価する必要がある。このAIは、どの部分を評価すれば一番AIが賢くなるか、賢く効率的に選ぶ方法を見つけた。これにより、AIを育てるのにかかる時間とお金を節約できる。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2611.05506",
+      "published": "2026-11-05T05:00:00.000Z"
+    },
+    {
+      "title": "TSFM Meets LLM: Context as Covariates",
+      "summary": "AIで文章を理解できるモデル（LLM）と、数字の動きを予測するモデル（TSFM）を組み合わせ、より正確な予測を目指す新しい技術「CoCo」が開発されました。これにより、ニュースなどの文字情報と数字のデータを一緒に分析し、経済や天気など様々な分野での予測精度が大幅に向上する可能性があります。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2611.05515",
+      "published": "2026-11-05T05:00:00.000Z"
+    },
+    {
+      "title": "Setting a new standard for responsible AI infrastructure",
+      "summary": "OpenAIは、AI開発に必要なコンピューター資源を地域社会と共有し、雇用を生み出すための新しい取り組みを発表しました。これにより、AIが地域に良い影響を与えながら、大切に作られていくことが期待されます。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+      "published": "2026-11-05T02:00:00.000Z"
+    },
     {
       "title": "Apple is reportedly cutting budgets for its internal AI usage",
       "summary": "アップルは、社内のAI（人工知能）開発に使う予算を大幅に減らすと報じられています。これは、AI技術の進歩が速い中で、開発チームへの投資を抑えるという驚きの動きです。",
@@ -649,158 +801,6 @@
       "category": "product",
       "url": "https://openai.com/index/retell-ai",
       "published": "2026-10-27T15:00:00.000Z"
-    },
-    {
-      "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
-      "summary": "OpenAIは、Oracle（会社の業務を助けるサービス）と協力して、ChatGPT（質問に答えてくれるAI）で会社の業務を助けるアプリやAIエージェント（AIの使い手）を使えるようにします。これにより、Oracleの新しいサービスも強化されます。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/oracle-apps-in-chatgpt",
-      "published": "2026-10-27T07:00:00.000Z"
-    },
-    {
-      "title": "Inverse Modeling for Laser Pulse Shape Design in Inertial Confinement Fusion",
-      "summary": "核融合発電（クリーンなエネルギー源）を実現するため、レーザーの光り方を最適に設計する新しいAIシステムが開発されました。このAIは、望む結果と燃料の形から、最適なレーザーの光り方を自動で見つけ出すため、これまでよりも効率的で、実用化への期待が高まります。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2610.33096",
-      "published": "2026-10-27T04:00:00.000Z"
-    },
-    {
-      "title": "IRON-Meme: A Benchmark for Structured Understanding of Identities and Roles in Online Meme Narratives",
-      "summary": "SNSで意見が分かれる中、政治的なミーム（ネットで流行る画像や画像＋短い文章）がどう人々の考えに影響するかを知ることが大切になっています。そこで、ミームで使われる「誰が」「どんな立場で」「どういう考えで」話しているかを理解するための新しい評価方法「IRON-Meme」が作られました。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2610.33097",
-      "published": "2026-10-27T04:00:00.000Z"
-    },
-    {
-      "title": "Prospect Theory in Large Language Models: A Meta-Analysis of Loss Aversion, Diminishing Sensitivity, and Probability Weighting",
-      "summary": "AI（文章を作るAI）が、人間と同じように損得や確率をどう考えるか調べた研究です。AIは人間より損を嫌う度合いが低く、結果の大きさへの感度も低い傾向がある一方、確率の感じ方は人間に似ていました。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2610.33103",
-      "published": "2026-10-27T04:00:00.000Z"
-    },
-    {
-      "title": "Artificial Intelligence in Mechanical Engineering: Foundations, Opportunities, Challenges, and Responsibilities",
-      "summary": "AI（人工知能）が、機械設計や製品開発などを大きく変えようとしています。AIは、ものづくりの精度を上げたり、新しい発見を助けたりする可能性があります。ただし、AIを賢く使い、倫理的な問題や環境への配慮も忘れないことが大切です。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2610.33105",
-      "published": "2026-10-27T04:00:00.000Z"
-    },
-    {
-      "title": "Conformance as a Distribution: Delegation Contracts, Error Budgets, and the Allocation of Evaluation Authority in Use-Based AI Regulation",
-      "summary": "AIが世の中で使われるとき、どれくらい安全かを決める新しいルールが提案されています。これは、AIが失敗する確率を「エラー予算」として管理し、その範囲内でAIの安全性を評価する仕組みです。これにより、AIの安全性がより正確に、そして長く保たれるようになります。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2610.33112",
-      "published": "2026-10-27T04:00:00.000Z"
-    },
-    {
-      "title": "Collaborative In-Context Learning for Indoor Radio Map Estimation",
-      "summary": "家の中での電波の強さを知ることは、スマホの電波を良くしたり、場所を特定するのに役立ちます。しかし、これまではたくさんデータが必要で、プライベートな情報も扱いにくいため、新しい方法が求められていました。この研究では、複数のAIが協力して、お互いの情報を見ずに（インコンテキスト学習）電波の地図を作る新しいやり方を提案しました。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2610.31702",
-      "published": "2026-10-27T04:00:00.000Z"
-    },
-    {
-      "title": "The Path to NDE 4.0: A Review of Algorithms, Techniques, and Strategies for Autonomous Inspection",
-      "summary": "壊さない検査（NDI）は、モノの安全を守るために大切ですが、AIでさらに進化します。この記事は、AIを使って検査を自動化する最新技術をまとめたもので、特にAIが検査結果をどう判断するか、どんな課題があるかを説明しています。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2610.31704",
-      "published": "2026-10-27T04:00:00.000Z"
-    },
-    {
-      "title": "Does LeWorldModel Preserve Local Action Geometry?",
-      "summary": "AIモデル「LeWorldModel」が、実際の世界での小さな動きの変化をどれだけ忠実に再現できているかを調べた研究。わずかな動きの変化に対するモデルの反応を調べた結果、小さな動きの方向が現実とずれていることがわかり、今後のAI開発で動きの再現性をどう評価するかが重要だと示唆しています。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2610.31716",
-      "published": "2026-10-27T04:00:00.000Z"
-    },
-    {
-      "title": "Towards Adversarially Robust Multigraph Neural Networks for Financial Crime Analysis",
-      "summary": "お金の流れを分析するAI（マルチグラフニューラルネットワーク）が、不正な取引を見つけるのに役立ちますが、攻撃者が取引の情報を少し変えてAIをだまそうとする可能性があります。そこで、AIをだます攻撃方法を開発し、それに対抗するAIの作り方を提案しました。これにより、AIがより強くなり、犯罪捜査の精度が上がることが期待できます。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2610.31718",
-      "published": "2026-10-27T04:00:00.000Z"
-    },
-    {
-      "title": "End-to-End Differentiable Diffusion Conditioning for Physics-Informed Optimization",
-      "summary": "高次元な物理システムを最適化するのは難しいのですが、AI（拡散モデル）を使うと、物理法則も考慮しながら、より賢く、効率的に設計を改善できるようになりました。これは、データセンターの負荷分散やレーザー核融合など、現実世界の課題解決に役立ちます。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2610.31721",
-      "published": "2026-10-27T04:00:00.000Z"
-    },
-    {
-      "title": "How Check Point accelerates vulnerability research with Daybreak",
-      "summary": "セキュリティ会社チェック・ポイントが、AI（人工知能）の「Daybreak」を活用し、新しいサイバー攻撃（脆弱性）を見つけるスピードを速めています。これにより、危険な攻撃（脆弱性）から私たちを守るための対策を、より早く提供できるようになりました。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/check-point-daybreak",
-      "published": "2026-10-27T00:00:00.000Z"
-    },
-    {
-      "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
-      "summary": "AIがプログラムのバグを見つけるだけでなく、実際に人が使う流れ（ユーザーワークフロー）のテストまでできるようになりました。これにより、プログラムの間違いを早めに発見し、安全性を高めて、無駄な修正作業を減らすことが期待されます。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/greptile-code-review-codex-astra",
-      "published": "2026-10-26T22:00:00.000Z"
-    },
-    {
-      "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
-      "summary": "文章を作るAI「Claude」と自社アプリをセットで使う企業が増え、解約されにくくなっています。これは、Amazon（ネット通販大手）が商品とサービスを組み合わせて客をつなぎ止める戦略に似ており、企業にとって重要な新しい動きです。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
-      "published": "2026-10-26T16:49:42.000Z"
-    },
-    {
-      "title": "SpaceX locks in $40B GPU financing deal with Apollo",
-      "summary": "SpaceXがAI開発のため、AIの頭脳となる部品（GPU）を調達するのに必要な、約400億ドル（約6兆円）という巨額のお金を、投資会社から調達できたというニュースです。これにより、銀行からの借金に頼らず、AI事業をさらに発展させやすくなります。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
-      "published": "2026-10-26T16:46:36.000Z"
-    },
-    {
-      "title": "Our newest AI Quest: Mapping the human brain",
-      "summary": "Googleは、AI（人工知能）を使って人間の脳の仕組みを解き明かす新しい学習プログラム「Polar Peaks」を公開しました。これにより、AIの知識を深めながら、脳科学への理解も深めることができます。",
-      "source": "Google AI Blog",
-      "category": "research",
-      "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
-      "published": "2026-10-26T16:00:00.000Z"
-    },
-    {
-      "title": "Anthropic officially files for its public debut",
-      "summary": "AI開発会社Anthropicが、会社を公開する準備（IPO）を始めました。会社の収益は急激に伸びていますが、赤字も抱えています。AIの安全性を守るための特別な仕組みも導入される予定です。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
-      "published": "2026-10-26T14:35:22.000Z"
-    },
-    {
-      "title": "Working with academic communities to build scientific understanding",
-      "summary": "AIが難解な数学や物理学の謎解きに役立ちました。研究者たちは、AIの分析結果を自分で確かめ、さらに進んだ研究につなげることができます。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
-      "published": "2026-10-26T14:30:00.000Z"
-    },
-    {
-      "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
-      "summary": "AI「GPT-6.1 Sol」が、複雑なプログラムの安全性をチェックするのを助けてくれます。このAIのおかげで、プログラムを作っている人たちは、安全上の問題点や、それを直すための提案を、より簡単に見つけられるようになります。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
-      "published": "2026-10-26T13:45:00.000Z"
     }
   ]
 }
