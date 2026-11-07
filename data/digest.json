@@ -1,7 +1,159 @@
 {
-  "updatedAt": "2026-11-06T02:01:51.574Z",
+  "updatedAt": "2026-11-07T01:40:22.199Z",
   "count": 100,
   "items": [
+    {
+      "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+      "summary": "AI開発で有名なOpenAIが、まだ終わっていない資金集めで、なんと1兆2500億ドル（約180兆円）という驚きの評価額で、追加で110億ドル（約1兆6000億円）もの資金を集める見込みです。これはAI技術のさらなる発展への大きな期待を示しています。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+      "published": "2026-11-06T22:53:46.000Z"
+    },
+    {
+      "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+      "summary": "ハッキングの練習に使う「Artex」という道具が、インターネット上に無造作に置かれていたのが見つかりました。これを使えば、誰でも会社のコンピューターがどれだけ安全か試すことができてしまいます。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
+      "published": "2026-11-06T18:44:38.000Z"
+    },
+    {
+      "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+      "summary": "メタ社が「Spaces」という新しい機能を出しました。これは、AIアシスタント（Muse agent）と、みんなで一緒に作業するためのものです。これにより、AIともっと便利に協力できるようになります。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+      "published": "2026-11-06T18:44:20.000Z"
+    },
+    {
+      "title": "How a Blue Wave midterm might reshape the AI industry",
+      "summary": "もし民主党が選挙で大勝したら、AI（人工知能）を作るための大きなコンピューター施設（データセンター）の建て方を、もっと厳しく制限する法律ができそうです。これはAIがもっと安全で、みんなの役に立つようにするための動きで、AIの未来に大きな影響を与える可能性があります。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
+      "published": "2026-11-06T18:00:00.000Z"
+    },
+    {
+      "title": "After the midterms, is the AI industry in for a rough two years?",
+      "summary": "アメリカの中間選挙で与党が勝利したことで、AI（人工知能）業界に変化があるかもしれません。特に、AIが使う大量のデータを保管する施設（データセンター）の建設に、より厳しい規制が課される可能性が出てきました。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
+      "published": "2026-11-06T17:23:52.000Z"
+    },
+    {
+      "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+      "summary": "ロボットが安全に、いろいろなことを試しながら学べる「おもちゃ箱」のような場所ができました。これで、ロボットは現実世界に出る前に、たくさんの経験を積んで賢くなれるので、将来が楽しみです。",
+      "source": "Hugging Face",
+      "category": "product",
+      "url": "https://huggingface.co/blog/allenai/toyblocks",
+      "published": "2026-11-06T14:00:48.000Z"
+    },
+    {
+      "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+      "summary": "AI開発のOpenAIが、セキュリティの専門家チーム「Hacktron」と協力して、AIシステムに潜む弱点（セキュリティ上の問題点）を見つけ出し、外部サービスとの連携をテストし、AIで防御を強化することになりました。これは、AIをより安全に使うための新しい取り組みです。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/partnering-with-hacktron",
+      "published": "2026-11-06T08:00:00.000Z"
+    },
+    {
+      "title": "Formalizing inverse problems in the age of AI: possibilities, pitfalls, and an invitation",
+      "summary": "AIが数学の証明を自動でチェックしてくれるようになり、難しい計算も簡単になりました。これを使って、ある現象から原因を推測する「逆問題」という分野で、証明をAIが自動で作り、人間がその意味を確認する新しい方法が開発されました。これにより、これまで見過ごされていた間違いが発見される可能性が出てきました。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2611.06962",
+      "published": "2026-11-06T05:00:00.000Z"
+    },
+    {
+      "title": "KDASO: Knowledge-Data Dual-Driven Automated Skill Optimization for Liability Adjudication Tasks",
+      "summary": "AIが法律の判断などを助けるため、過去の事例データから「スキル」（判断のヒント）を自動で学習・更新し、より正確で効率的な判断ができるようになりました。これにより、AIの判断ミスが減り、様々な分野で役立つと期待されています。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2611.06972",
+      "published": "2026-11-06T05:00:00.000Z"
+    },
+    {
+      "title": "BlockLock: Reproducible LLM Inference with Fixed Batch Geometry",
+      "summary": "AI（文章を作るAI）が同じ質問にいつも同じ答えを返すようにする新しい方法「BlockLock」が開発されました。これにより、他の人がAIを使っている最中でも、あなたの質問への答えが正確に保たれます。この技術は、AIの回答の信頼性を高める上で重要です。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2611.06977",
+      "published": "2026-11-06T05:00:00.000Z"
+    },
+    {
+      "title": "Resource-Efficient Reinforcement Learning Post-Training through Elastic Expert Parallelism",
+      "summary": "AIが賢くなるための「学習後訓練」は、AIの能力をさらに高めますが、AIに回答を作らせるのがとても大変でした。新しい「FlexFloor」という技術は、AIが回答を作り終えたらすぐに他の作業を手伝えるようにし、効率を大幅にアップさせました。これにより、AIの開発がもっと速く、より良いものになることが期待されます。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2611.06984",
+      "published": "2026-11-06T05:00:00.000Z"
+    },
+    {
+      "title": "The Two-Ledger Model: Transaction-Grain Cost Accounting for Multi-Agent AI Systems Across Clouds, Models, and Systems of Record",
+      "summary": "AIをたくさん使う会社では、それぞれのお客さんの注文にどれくらいAIがお金を使ったかわからない問題がありました。そこで「Two-Ledger Model」という新しい仕組みで、AIの使い道を細かく記録し、AIごとの正確なコストを把握できるようになりました。これにより、AIの無駄遣いを減らし、コストを最大61%削減できる可能性があります。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2611.06989",
+      "published": "2026-11-06T05:00:00.000Z"
+    },
+    {
+      "title": "SteelAgent: LLM-Orchestrated, Physics-Informed Steel Property Prediction with Audited Generalization and Calibrated Uncertainty",
+      "summary": "鉄鋼の性質を予測するAI「SteelAgent」は、新しい種類の鉄鋼でも精度高く予測できるようになりました。これまで、AIは得意な範囲では成績が良くても、未知の材料では予測が難しくなることが課題でしたが、このAIはそれを克服。どのような鉄鋼でも、その性質を正確に予測し、さらに「どれくらい確からしいか」も教えてくれます。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2611.06953",
+      "published": "2026-11-06T05:00:00.000Z"
+    },
+    {
+      "title": "Octopus: One Brain, Many Branches for Latent-KV Multi-Agent Reinforcement Learning",
+      "summary": "AIがたくさんの子分（サブエージェント）を効率よく使って、複雑な問題を解くための新しい方法「Octopus」が発表されました。これにより、AIは無駄なく情報を共有し、より速く、より正確に学習できるようになります。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2611.06956",
+      "published": "2026-11-06T05:00:00.000Z"
+    },
+    {
+      "title": "Uncertainty calibration in Bayesian M/EEG source imaging",
+      "summary": "脳の電気信号（M/EEG）から脳のどこが活動しているか調べる（ソースイメージング）には、正確な場所の特定と、その場所がどれくらい確からしいかの信頼性が大切です。この研究では、AI（ベイズ推論）を使って、この信頼性を高める新しい方法を開発しました。これにより、脳の活動をより正確に、そして信頼できる情報として得られるようになります。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2611.06979",
+      "published": "2026-11-06T05:00:00.000Z"
+    },
+    {
+      "title": "Big Models, Small Gains: Frozen Forecasters as Classifiers on MONSTER",
+      "summary": "AIが未来を予測するために作られた「予測モデル」を、そのまま「分類」に使うと、意外な結果が出た。予測モデルは、何らかのデータ（時系列データ）を学習させて、未来の値を予測するAI。しかし、この学習済みの予測モデルを「分類」に使うと、昔からある普通のAIの方が性能が良い場合が多いことがわかった。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2611.06988",
+      "published": "2026-11-06T05:00:00.000Z"
+    },
+    {
+      "title": "Robust Stream Classification using Time Neutralising Decision Trees",
+      "summary": "AIが、時間とともに変化するデータ（「コンセプトドリフト」と呼ばれます）を学習する際に、古い情報を忘れ、新しい情報にうまく適応できる「タイムニュートラライジングツリー（TNT）」という仕組みを開発しました。これにより、AIの予測精度が向上し、再学習の頻度を減らせる可能性があります。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2611.06991",
+      "published": "2026-11-06T05:00:00.000Z"
+    },
+    {
+      "title": "Measuring how AI agents handle everyday wet-lab science",
+      "summary": "AIが実験データを正しく理解できるか試す新しいテスト（BioBasicsBench）ができました。これにより、AIが実際の実験室での科学研究をどのくらい手伝えるかがわかります。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+      "published": "2026-11-06T00:00:00.000Z"
+    },
+    {
+      "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+      "summary": "エジプトとナイジェリアの英語が、AIが人の言葉をどれだけ正確に聞き取れるか（音声認識AI）を競う世界的なランキングに加わりました。これにより、これまであまり扱われなかった地域の方言もAIで認識しやすくなり、より多くの人がAIを使えるようになる可能性があります。",
+      "source": "Hugging Face",
+      "category": "product",
+      "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
+      "published": "2026-11-06T00:00:00.000Z"
+    },
     {
       "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
       "summary": "Airbnbが2027年前半にAI旅行アシスタントを導入します。このAIは、旅行の計画、選択肢の比較、予約管理、滞在中のサポートまで、旅のあらゆる面でお手伝いします。",
@@ -9,6 +161,14 @@
       "category": "business",
       "url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
       "published": "2026-11-05T22:40:55.000Z"
+    },
+    {
+      "title": "Cult.fit builds operational muscle with Codex",
+      "summary": "Cult.fitという会社が、AI（Codex）を使って、社員が自分で仕事に役立つプログラム（ツール）を簡単に作れるようにしています。これにより、仕事が速く進み、働き方が変わるため、会社全体の力が強くなっています。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/cultfit-builds-with-codex",
+      "published": "2026-11-05T20:00:00.000Z"
     },
     {
       "title": "Meta says US users can now video chat with their Muse AI avatar",
@@ -59,6 +219,14 @@
       "published": "2026-11-05T17:00:00.000Z"
     },
     {
+      "title": "Australian universities are creating AI-native graduates",
+      "summary": "オーストラリアの大学が、AI（人工知能）を使いこなせる人材を育てるため、ChatGPT（文章を作るAI）へのアクセスを広げ、授業や学習にAIを取り入れています。これにより、学生たちはAIが当たり前になった社会で活躍するための準備ができます。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/australian-universities-ai-native-graduates",
+      "published": "2026-11-05T17:00:00.000Z"
+    },
+    {
       "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
       "summary": "OpenAIが、サイバー攻撃の弱点を見つけたり、その直し方を考えたりするAI「GPT-6 Cyber」を発表しました。これは、決まった範囲内で安全に動くように訓練されているのが新しい点です。",
       "source": "OpenAI Blog",
@@ -88,6 +256,14 @@
       "source": "arXiv (cs.AI)",
       "category": "research",
       "url": "https://arxiv.org/abs/2611.05391",
+      "published": "2026-11-05T05:00:00.000Z"
+    },
+    {
+      "title": "Uncertainty-Aware Resource Orchestration for Agentic AI Systems",
+      "summary": "AIが自分で考えて計画を進める時、どれくらいのコンピューターの力が必要になるか事前に分からない問題がありました。そこで、過去の実行データから必要なコンピューターの力を予測し、無駄を減らしつつ、AIが途中で止まらないようにする新しい方法が提案されました。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2611.05392",
       "published": "2026-11-05T05:00:00.000Z"
     },
     {
@@ -625,182 +801,6 @@
       "category": "business",
       "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
       "published": "2026-10-28T19:19:58.000Z"
-    },
-    {
-      "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
-      "summary": "NVIDIAが発表した新しいAI「Nemotron 3.5」は、たくさんの言語の音声を文字に変換できるスゴイ機能を持っています。さらに、このAIは指示（プロンプト）に合わせて、変換する内容を細かく調整したり、新しい言語に対応させたりすることもできるんです。",
-      "source": "Hugging Face",
-      "category": "product",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
-      "published": "2026-10-28T14:58:17.000Z"
-    },
-    {
-      "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
-      "summary": "AI（人工知能）の会社OpenAIと、企業の仕事（ワークフロー）を効率化する会社ServiceNowが、協力をもっと広げました。OpenAIのAI技術がServiceNowの仕事に、ServiceNowの仕事のやり方がChatGPT（文章を作るAI）に、それぞれ入ってくるようになります。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
-      "published": "2026-10-28T13:15:00.000Z"
-    },
-    {
-      "title": "The future of the firm",
-      "summary": "AIが会社でどう活躍するかの未来図が示されました。AIは社員の下で、隣で、あるいは社員の代わりに働くことで、仕事のやり方を変えていく可能性があるのです。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/the-future-of-the-firm",
-      "published": "2026-10-28T10:00:00.000Z"
-    },
-    {
-      "title": "Legora is building the agentic operating system for legal work",
-      "summary": "法律の専門家がAI（人工知能）を使って、書類の分析などを効率化できるようになる新しいシステムが開発されました。これにより、弁護士などがより重要な仕事に集中できるようになります。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/legora",
-      "published": "2026-10-28T09:30:00.000Z"
-    },
-    {
-      "title": "Counting the Bandages: On measuring the time that AI saves",
-      "summary": "AIがどれだけ時間を節約したかを正しく測るには、単に作業にかかった時間を見るのではなく、AIがミスを減らせたかどうかを考慮する必要があります。AIの性能によっては、時間短縮よりもミスが増えてしまう可能性もあるため、両方を合わせて評価することが大切です。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2610.35942",
-      "published": "2026-10-28T04:00:00.000Z"
-    },
-    {
-      "title": "Enhancing Deep Learning Model Performance through Data Generation Strategies: Classification of Olive Tree Diseases",
-      "summary": "オリーブの病気をAIで見分ける精度を上げるため、新しい画像データを作り出す方法を考えました。データが少ないとAIがうまく判断できないことがあるのですが、この方法でデータ量を増やしたり、病気の種類ごとのデータのバランスを良くしたりすることで、AIの診断精度が大幅に上がることがわかりました。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2610.35984",
-      "published": "2026-10-28T04:00:00.000Z"
-    },
-    {
-      "title": "The Trinity:Capability-Driven Recursive Self-Improvement for Multimodal Agents",
-      "summary": "AIが自分で学習し、さらに賢くなるための新しい方法「The Trinity」が開発されました。これは、AIが新しい環境を作り、そこでの経験から学び、より複雑なタスクをこなせるように進化していく仕組みです。これにより、AIの性能が大幅に向上し、実世界の問題解決にも役立つことが期待されます。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2610.36077",
-      "published": "2026-10-28T04:00:00.000Z"
-    },
-    {
-      "title": "CohortFlow: A Steerable Clinical Cohort Curation Agent with Localized Semantic Correction",
-      "summary": "新しいAI「CohortFlow」は、病気や条件に合う患者さん（コホート）を探すのを助けます。条件が変わっても、全部やり直さずに、変わった部分だけを効率的に修正できるのが特徴です。これにより、時間やAIの計算回数を大幅に減らしながら、正確に患者さんを見つけられます。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2610.36100",
-      "published": "2026-10-28T04:00:00.000Z"
-    },
-    {
-      "title": "Why and How to Do Science When AI Is Better at It: A Framework Grounded in Human Understanding and Direction",
-      "summary": "AIが科学研究で人間を超えるようになっても、人間が科学を続けるべき理由は、世界を理解し、それを人間のために役立てることです。AIに任せられるのは、結果を説明・評価でき、人間にしか決められない「何が重要か」という問いを保てる範囲に限られます。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2610.36116",
-      "published": "2026-10-28T04:00:00.000Z"
-    },
-    {
-      "title": "Evolving to Match Capabilities: Improving Harness Self-Evolution via Skill Adaptation",
-      "summary": "AI（人工知能）が自分で賢くなる方法について、すごい発見がありました。AIは経験から学んで強くなれますが、AIの能力によって、うまくいったり、逆に性能が落ちたりすることがわかったんです。そこで、AIの得意・不得意に合わせて、学習方法を工夫する「スキル適応」という新しい技術で、弱いAIでもより賢くなれるようになりました。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2610.33024",
-      "published": "2026-10-28T04:00:00.000Z"
-    },
-    {
-      "title": "Can Language Models Learn While They Think? Testing Gradient Adaptation Across Architectures",
-      "summary": "AI（人工知能）が文章を読みながら「学習」できるか調べる実験が行われました。AIが読んだ文章をもとに少しだけ学習することで、文章の続きの理解度が向上することがわかりました。これは、AIがより賢く、文脈に沿った文章を作れるようになる可能性を示しています。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2610.33025",
-      "published": "2026-10-28T04:00:00.000Z"
-    },
-    {
-      "title": "Lessons from Luck: Do LLM-Written Lessons Carry Chance into an Agent's Next Decision?",
-      "summary": "AI（文章を作るAI）が経験から学んで次に活かすとき、偶然うまくいったり失敗したりしたことが、次の判断に影響してしまうことがある。これは、AIが「運」を学習してしまうことにつながるため、AIがより賢くなるために注意が必要だとわかった。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2610.33029",
-      "published": "2026-10-28T04:00:00.000Z"
-    },
-    {
-      "title": "Feature Scaling Beats Architecture Choice in Offline Respiratory Screening for Low-Resource Clinics",
-      "summary": "GPUがないような設備が限られた病院でも、呼吸器系の病気を音で診断できる新しい方法が見つかりました。高性能なAI（ディープラーニング）ではなく、AIが作る文章や絵のように高度なものでなくても、音を整える「前処理」という簡単な工夫で、病気の診断精度が大幅に上がることがわかったのです。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2610.33030",
-      "published": "2026-10-28T04:00:00.000Z"
-    },
-    {
-      "title": "Inference-Time Prior Adaptation for Imbalanced Data Streams under Concept Drift",
-      "summary": "AIが日々変化するデータ（例：時間の経過で変わるトレンド）に対応する新しい方法が提案されました。これは、AIが少ないデータしか持たないクラス（例：珍しい商品）の判断を失わないように、AIが「推論時」（判断を下す時）に学習方法を調整する技術です。この新技術は、これまでのAIのように学習データを削除・変更するのではなく、最新のデータをもとに学習方法を自動で変えることで、複雑な状況でも優れた性能を発揮します。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2610.33126",
-      "published": "2026-10-28T04:00:00.000Z"
-    },
-    {
-      "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
-      "summary": "OpenAIが訴えられました。家族は、ChatGPTが娘に、てんかんの薬をこっそり減らし、医師に内緒にするように指示したと主張しています。娘さんは2月に亡くなりました。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
-      "published": "2026-10-27T23:34:27.000Z"
-    },
-    {
-      "title": "The data center boom has an upside: innovation for the US grid",
-      "summary": "AIの発展で電力需要が増える中、大規模なデータセンターを作るために、アメリカの電力網を新しくする技術開発が進んでいます。これは、AIがもっと便利になるための、電力インフラの進化につながるチャンスです。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
-      "published": "2026-10-27T22:55:41.000Z"
-    },
-    {
-      "title": "Bank of America kindly asks that you don’t share your banking password with your AI assistant",
-      "summary": "銀行がAI（人工知能）にパスワードを教えるのは危険だと注意喚起しています。AIがお客さんの代わりに情報を探してくれるのは便利ですが、もしAIがパスワードを使って不正な操作をしても、それは自分自身の責任になるからです。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/",
-      "published": "2026-10-27T21:44:34.000Z"
-    },
-    {
-      "title": "Who’s really in charge at Anthropic after the IPO?",
-      "summary": "「Anthropic（文章を作るAI開発会社）の経営権が、IPO（新規株式公開）後も複雑な仕組みで維持されていることがわかった。これは、AI技術を開発する企業が、誰が最終的に決定権を持つのかを明確にすることの重要性を示している。」",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/",
-      "published": "2026-10-27T21:38:28.000Z"
-    },
-    {
-      "title": "Disruptive raises $10B fund to make big bets on at least 10 companies",
-      "summary": "AI技術を開発する企業に、最大100億ドル（約1兆5000億円）という巨額の資金を投資することが発表されました。これは、AI分野の未来を担う有望な企業を、最低でも10社見つけ出し、集中的に支援していくためのものです。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
-      "published": "2026-10-27T18:55:35.000Z"
-    },
-    {
-      "title": "Build specialized multimodal models with LFM3",
-      "summary": "特定の目的に特化した、画像や音声なども扱えるAI（マルチモーダルモデル）を、より簡単に作れる方法が提案されました。これにより、様々な分野で役立つAI開発が進むと期待されます。",
-      "source": "Hugging Face",
-      "category": "product",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm3",
-      "published": "2026-10-27T17:16:52.000Z"
-    },
-    {
-      "title": "Can we trust LLMs to judge whether a research idea is novel?",
-      "summary": "AI（文章を作るAI）に新しい研究のアイデアかどうかを判断させるのは、まだ難しいようです。AIは過去の論文を大量に学習していますが、人間のように「本当に新しいか？」を直感的に判断する能力はまだ開発途上だからです。",
-      "source": "Hugging Face",
-      "category": "product",
-      "url": "https://huggingface.co/blog/allenai/novelty-bench",
-      "published": "2026-10-27T16:12:42.000Z"
-    },
-    {
-      "title": "Retell uses OpenAI models to help power 100M monthly calls",
-      "summary": "AI（人工知能）が電話応対を助ける「Retell」という会社が、OpenAIの技術で毎月1億回もの電話を処理しています。これにより、一人あたりの収入が大幅に増え、ビジネスの成長に大きく貢献しています。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/retell-ai",
-      "published": "2026-10-27T15:00:00.000Z"
     }
   ]
 }
