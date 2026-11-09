@@ -1,7 +1,39 @@
 {
-  "updatedAt": "2026-11-07T01:40:22.199Z",
+  "updatedAt": "2026-11-09T01:27:18.492Z",
   "count": 100,
   "items": [
+    {
+      "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
+      "summary": "NvidiaのCEOが、過去に中国のスパイの可能性が浮上した人物と関係があったことを認めました。会社は調査を進めており、その関係が安全保障上の問題に繋がらないか確認しています。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
+      "published": "2026-11-08T21:00:11.000Z"
+    },
+    {
+      "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
+      "summary": "イーロン・マスク氏が運営するデータセンター（コンピューターが集まる大きな施設）は、アメリカの選挙（中間選挙）の後、難しくなっているようです。AI（人工知能）を動かすために必要なコンピューターの電力不足が原因とみられています。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
+      "published": "2026-11-07T22:07:22.000Z"
+    },
+    {
+      "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+      "summary": "中国の情報機関が、大手半導体メーカー「Nvidia」のCEO（最高経営責任者）を監視するために、ある女性役員をスパイとして雇ったという情報があります。これは、アメリカの情報機関が作成したとされる文書で明らかになりました。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+      "published": "2026-11-07T21:17:08.000Z"
+    },
+    {
+      "title": "Crusoe sells troubled Wyoming data center project to Google",
+      "summary": "AIが使う巨大なコンピューター施設を作るのが、思ったより大変だということが、このニュースでわかりました。Googleが、うまくいかなかったプロジェクトを買ったことで、その難しさが浮き彫りになりました。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+      "published": "2026-11-07T01:40:28.000Z"
+    },
     {
       "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
       "summary": "AI開発で有名なOpenAIが、まだ終わっていない資金集めで、なんと1兆2500億ドル（約180兆円）という驚きの評価額で、追加で110億ドル（約1兆6000億円）もの資金を集める見込みです。これはAI技術のさらなる発展への大きな期待を示しています。",
@@ -345,6 +377,22 @@
       "category": "business",
       "url": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/",
       "published": "2026-11-05T01:02:14.000Z"
+    },
+    {
+      "title": "Flipsnack grows product signups with conversion optimization",
+      "summary": "Flipsnackは、ChatGPT広告（AIが広告文を作るサービス）を使い、製品のお試し登録を増やすことに注力しました。その結果、一人あたりの登録にかかる費用を抑えながら、登録者数を増やすことに成功しました。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/ads/customers/flipsnack",
+      "published": "2026-11-05T00:45:15.000Z"
+    },
+    {
+      "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+      "summary": "スマホやパソコンで、まるで人間のような自然な音声合成（TTS）が、インターネットにつながらなくてもできるようになりました。この技術は「Phonon TTS」と呼ばれ、これまでの技術よりずっと自然で聞きやすい音声を、しかも手軽に実現できるのが新しい点です。",
+      "source": "Hugging Face",
+      "category": "product",
+      "url": "https://huggingface.co/blog/phonon-tts",
+      "published": "2026-11-05T00:00:00.000Z"
     },
     {
       "title": "AI PACs spent millions trying to shape Congress — here’s how they fared",
@@ -753,54 +801,6 @@
       "category": "product",
       "url": "https://huggingface.co/blog/mistral-large4",
       "published": "2026-10-29T00:00:00.000Z"
-    },
-    {
-      "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
-      "summary": "アップル製品で音声認識や判断ができる新しいAIモデル「AnySpeechRecognizer」と「AnyDecisionModel」が登場しました。これにより、開発者はこれらのAIをより手軽にアップル製品に組み込めるようになり、音声操作や賢いアプリ作りが進化します。",
-      "source": "Hugging Face",
-      "category": "product",
-      "url": "https://huggingface.co/blog/anydecisionmodel",
-      "published": "2026-10-29T00:00:00.000Z"
-    },
-    {
-      "title": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
-      "summary": "マイクロソフトがクラウドサービス「Azure」の収益を初めて公表しました。その額は332億ドル（約4兆円）にもなり、最大のライバルであるAWSに迫る勢いです。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
-      "published": "2026-10-28T21:58:32.000Z"
-    },
-    {
-      "title": "Google expands AI Search ads globally as core ad growth slows",
-      "summary": "GoogleがAI検索広告を世界中で拡大。親会社Alphabetの売上は25%増となったものの、検索広告の成長は鈍化しており、AIが今後の広告収入の柱として期待されている。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
-      "published": "2026-10-28T21:48:37.000Z"
-    },
-    {
-      "title": "Microsoft recorded $10 billion in revenue from OpenAI",
-      "summary": "マイクロソフトは、文章を作るAI「OpenAI」との契約で、3ヶ月で約1兆円（100億ドル）もの収入を得たと発表しました。これは、AI技術の活用がマイクロソフトにとって大きなビジネスになっていることを示しています。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
-      "published": "2026-10-28T21:34:30.000Z"
-    },
-    {
-      "title": "Microsoft hits 10 quarters of record-breaking revenue in a row",
-      "summary": "マイクロソフトはAI（人工知能）分野の拡大により、過去10回連続で過去最高の四半期売上を記録しました。これは、AI技術への投資やサービス提供が、同社の業績を力強く押し上げていることを示しています。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/",
-      "published": "2026-10-28T21:25:30.000Z"
-    },
-    {
-      "title": "Anthropic just launched tools to show companies what their AI spending is buying",
-      "summary": "AI開発企業Anthropicが、企業がAI（人工知能）にどれだけお金を使い、何を得ているかを可視化するツールを公開しました。これは、IPO（新規株式公開）を前に、AI利用の実態を透明にすることを目指した動きです。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
-      "published": "2026-10-28T19:19:58.000Z"
     }
   ]
 }
