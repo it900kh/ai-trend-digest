@@ -1,7 +1,87 @@
 {
-  "updatedAt": "2026-11-09T01:27:18.492Z",
+  "updatedAt": "2026-11-10T03:58:36.565Z",
   "count": 100,
   "items": [
+    {
+      "title": "Anthropic reportedly plans to move forward with IPO plans",
+      "summary": "文章を作るAI（LLM）で注目されるAnthropicが、近々会社を証券取引所に公開する（IPO）計画を進めているようです。これにより、AI分野へのさらなる投資や技術開発の加速が期待されます。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
+      "published": "2026-11-10T01:27:12.000Z"
+    },
+    {
+      "title": "Jensen Huang reportedly engaged a PR firm with a history of handling  high-profile sex scandals a year ago",
+      "summary": "AI界の著名な人物が、過去にスキャンダル対応で実績のある広報会社と、1年前に契約していたことが報じられました。これは、その人物のビジネス取引に関する報道があった直後の出来事です。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/",
+      "published": "2026-11-09T23:28:37.000Z"
+    },
+    {
+      "title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
+      "summary": "NvidiaのCEOが中国の諜報員と疑われる人物と親しい関係にあると、 scandal が起きる半年も前から専門家が疑問を呈していました。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
+      "published": "2026-11-09T22:46:09.000Z"
+    },
+    {
+      "title": "The race is on to sue Nvidia",
+      "summary": "NvidiaのCEOと中国のスパイ疑惑の人物との関係について、社内調査が始まり株価が下がりました。以前「問題ない」としていた説明が、高額な訴訟につながる可能性が出てきました。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/",
+      "published": "2026-11-09T22:23:42.000Z"
+    },
+    {
+      "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
+      "summary": "NvidiaのCEOが、AI開発会社ElevenLabsのイベントをキャンセルしました。これは、同社がAI開発で使ったデータについて論争になっているためで、Anthropicという別のAI会社とのイベントもキャンセルしています。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
+      "published": "2026-11-09T20:09:06.000Z"
+    },
+    {
+      "title": "ChatGPT Enterprise now available in AWS Marketplace",
+      "summary": "ChatGPT Enterpriseが、Amazon Web Services（AWS）のマーケットプレイス（便利なアプリの集まる場所）で利用できるようになりました。これでお店が、いつも使っているAWSの契約や支払い方法で、ChatGPT Enterpriseを簡単に手に入れられます。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+      "published": "2026-11-09T19:00:00.000Z"
+    },
+    {
+      "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+      "summary": "日本の人々や経済の状況を学習したAIを作るため、架空のデータセット「Nemotron-Personas-Finance-Japan」が作られました。これにより、より現実に即したAIの開発が期待できます。",
+      "source": "Hugging Face",
+      "category": "product",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+      "published": "2026-11-09T15:05:57.000Z"
+    },
+    {
+      "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+      "summary": "OpenAIは、AI開発で使うコンピューターの作業（モデルワークロード）を管理し、安全やセキュリティに問題があればすぐに止められる「Control Room」というシステムを開発しました。これにより、AIの安全性がさらに高まります。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/control-room",
+      "published": "2026-11-09T13:00:00.000Z"
+    },
+    {
+      "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
+      "summary": "AI（人工知能）の進化は目覚ましいですが、その開発には多くの専門家（エキスパート）が協力しています。Hugging Faceは、これらの専門家たちが互いに協力し合い、AI開発をさらに進めるための新しい方法（HOPE）を提案しています。",
+      "source": "Hugging Face",
+      "category": "product",
+      "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+      "published": "2026-11-09T12:34:29.000Z"
+    },
+    {
+      "title": "Kuken Industries searches 70 years of drawings in minutes",
+      "summary": "クウケン工業は、70年分の冷却塔の設計図をAI（人工知能）を使って検索できるようにしました。これにより、修理に必要な図面を探す時間が1時間近くからわずか4.5分に短縮され、作業効率が大幅に向上しました。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/kuken",
+      "published": "2026-11-09T08:00:00.000Z"
+    },
     {
       "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
       "summary": "NvidiaのCEOが、過去に中国のスパイの可能性が浮上した人物と関係があったことを認めました。会社は調査を進めており、その関係が安全保障上の問題に繋がらないか確認しています。",
@@ -721,86 +801,6 @@
       "category": "research",
       "url": "https://arxiv.org/abs/2610.37786",
       "published": "2026-10-31T04:00:00.000Z"
-    },
-    {
-      "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
-      "summary": "Nvidia（高性能なコンピューター部品を作る会社）が、AI（人工知能）のデータセンターを作る会社Nscaleの融資に保証人として協力することを検討しています。これは、AI関連への投資が不安視される中で、Nvidiaが事業を後押ししたい意図があると考えられます。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
-      "published": "2026-10-31T01:20:05.000Z"
-    },
-    {
-      "title": "nemotron-halloween",
-      "summary": "このAIは、ハロウィンのテーマで、オリジナルの画像や音楽などを生成できる新しいツールです。ハロウィンらしいユニークな作品を簡単に作れるので、クリエイティブな活動がもっと楽しくなります。",
-      "source": "Hugging Face",
-      "category": "product",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
-      "published": "2026-10-30T17:57:24.000Z"
-    },
-    {
-      "title": "Making it easier for websites to express AI training preferences",
-      "summary": "ウェブサイトがAIに学習させたくない情報を伝えやすくなります。OpenAIは、ウェブサイトの管理者が「この情報はAIの学習に使わないでほしい」という意思を、 robots.txtという仕組みでAI提供者に伝えられるようにしました。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
-      "published": "2026-10-30T09:30:00.000Z"
-    },
-    {
-      "title": "Community safety report and new protections for teens",
-      "summary": "ChatGPTの安全性が高まり、特に未成年者を守るための新しい機能が追加されました。暴力的な内容の投稿をより早く見つけ出し、防ぐ仕組みが強化されています。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
-      "published": "2026-10-30T09:00:00.000Z"
-    },
-    {
-      "title": "Fair use benefits everyone",
-      "summary": "AI（人工知能）が新しい技術を生み出すために、作品を学習に使う「フェアユース（公正な利用）」が大切だと、クリエイターや専門家たちが訴えています。これは、AIの発展がみんなのためになることを示しています。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/fair-use-benefits-everyone",
-      "published": "2026-10-30T00:00:00.000Z"
-    },
-    {
-      "title": "An updated Model Spec for more capable and beneficial AI",
-      "summary": "OpenAIは、AIがより賢く、人間の役に立つようにするための新しいルール（モデル仕様）を作りました。このルールは、AIが正しい判断をし、人の意思を尊重し、人間の意図に忠実であるための5つの大切な考え方を示しています。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/updated-model-spec",
-      "published": "2026-10-29T17:00:00.000Z"
-    },
-    {
-      "title": "Granite Switch 4.1.1 — Update models like you update software",
-      "summary": "AIのモデルを、まるでスマートフォンのアプリをアップデートするように、より簡単に更新できる新しい技術「Granite Switch 4.1.1」が登場しました。これにより、AIの性能を常に最新の状態に保つことが可能になります。",
-      "source": "Hugging Face",
-      "category": "product",
-      "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
-      "published": "2026-10-29T13:37:07.000Z"
-    },
-    {
-      "title": "How we detect frontier model misalignment",
-      "summary": "OpenAIは、AI（人工知能）の「暴走」や、AIが勝手に動くことを早期に見つけるための仕組みを複数用意しました。これにより、問題が大きくなる前に人間が対応できるようになります。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
-      "published": "2026-10-29T09:00:00.000Z"
-    },
-    {
-      "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
-      "summary": "AIが科学研究に役立つように、政府が支援した研究成果をAIで使いやすくする「Project ProtoStar」が発表されました。これにより、これまで難しかった科学データをAIが分析し、新たな発見につながる期待が高まります。",
-      "source": "Hugging Face",
-      "category": "product",
-      "url": "https://huggingface.co/blog/announcing-project-protostar",
-      "published": "2026-10-29T00:00:00.000Z"
-    },
-    {
-      "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
-      "summary": "「Mistral Large 4」という新しいAIが、みんなが使う「Hugging Face」という場所で公開されました。これは、もっと賢くて、色々なことができるAIなので、みんながAIを使いやすくなるかもしれません。",
-      "source": "Hugging Face",
-      "category": "product",
-      "url": "https://huggingface.co/blog/mistral-large4",
-      "published": "2026-10-29T00:00:00.000Z"
     }
   ]
 }
