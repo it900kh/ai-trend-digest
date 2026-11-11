@@ -1,7 +1,103 @@
 {
-  "updatedAt": "2026-11-10T03:58:36.565Z",
+  "updatedAt": "2026-11-11T01:44:11.065Z",
   "count": 100,
   "items": [
+    {
+      "title": "Gilbert + Tobin rethinks the business of law with AI",
+      "summary": "法律事務所がAI（人工知能）を使い、弁護士の仕事のやり方を変えようとしています。特に、AIで契約書をチェックする時間を大幅に短縮し、より創造的な仕事に集中できるようになるのが新しい点です。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+      "published": "2026-11-12T00:00:00.000Z"
+    },
+    {
+      "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+      "summary": "OpenAIが、旅行スタートアップのOdessiaを買収しました。Odessiaを設立したのは、旅行業界で有名なSonderの創業者です。OpenAIが今後、旅行分野でどのようなサービスを作るのか、注目が集まっています。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
+      "published": "2026-11-10T21:08:52.000Z"
+    },
+    {
+      "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
+      "summary": "ニューヨーク州でAIの安全に関する法律が施行され、OpenAIなどの大手AI開発会社は、安全対策を公表し、問題発生時には報告することが義務付けられます。これに違反すると罰金が科されるため、AIの安全性がさらに高まることが期待されます。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
+      "published": "2026-11-10T20:52:13.000Z"
+    },
+    {
+      "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
+      "summary": "AI開発会社「Anthropic」の創業者7人が、IPO（新規株式公開）でそれぞれ約250億円（約2億5000万ドル）を手にする見込みだ。これにより、彼らは会社の株式を売却しつつ、引き続き会社をコントロールできる。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
+      "published": "2026-11-10T19:57:52.000Z"
+    },
+    {
+      "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
+      "summary": "Oura（健康管理リングの会社）が、AIを活用した診療所を運営するCounsel Healthを約625億円で買収する。 IPO（新規株式公開）の延期を経て、AIで医療サービスを強化するのが狙いだ。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
+      "published": "2026-11-10T19:23:34.000Z"
+    },
+    {
+      "title": "PSI is trying to make a business out of AI-driven scientific discovery",
+      "summary": "AI（人工知能）が、これまで解けなかった「量子コンピュータの難問」に答えを見つけた！これは、AIが科学の発見をビジネスに変える試みで、20年かかっても解決できなかった長年の謎をAIが解き明かした、まさに画期的な出来事です。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
+      "published": "2026-11-10T19:03:52.000Z"
+    },
+    {
+      "title": "Gemini Intelligence: New features, on more devices",
+      "summary": "GoogleのAI「Gemini」が、もっとたくさんのスマホやパソコンで使えるようになります。新しい機能で、色々な作業をもっと便利にこなせるようになるのがすごいところです。",
+      "source": "Google AI Blog",
+      "category": "research",
+      "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
+      "published": "2026-11-10T19:00:00.000Z"
+    },
+    {
+      "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+      "summary": "GoogleとAdobeが協力し、普段よく使うGoogleアプリで、Adobeの便利な機能が使えるようになります。例えば、GoogleドライブでPDFを編集したり、文章を作るAI「Gemini」でAdobeのAIを使ったり。クリエイティブな作業や仕事がもっと楽になります。",
+      "source": "Google AI Blog",
+      "category": "research",
+      "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
+      "published": "2026-11-10T14:00:00.000Z"
+    },
+    {
+      "title": "Google Cloud launches Gemini for healthcare.",
+      "summary": "Googleが医療分野向けにAI「Gemini」を発表。病気の情報などをまとめて整理し、医師や看護師の事務作業を自動化することで、忙しさを減らす手助けをします。",
+      "source": "Google AI Blog",
+      "category": "research",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
+      "published": "2026-11-10T13:00:00.000Z"
+    },
+    {
+      "title": "Introducing Businesses in ChatGPT",
+      "summary": "ChatGPTで、お店の情報を管理したり、お店がどう見られているかを知ったり、興味を持ってくれたお客さんを実際のお客さんに変えたりできるようになりました。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/introducing-businesses-chatgpt",
+      "published": "2026-11-10T10:00:00.000Z"
+    },
+    {
+      "title": "Closing the AI guidance gap in education",
+      "summary": "AIを学校でどう使うか、先生たちが迷わないように、OpenAIが新しい研究結果とこれまでの経験をまとめました。AIを使いこなし、自分で学ぶ力を育むためのヒントが満載です。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/closing-ai-guidance-gap-education",
+      "published": "2026-11-10T09:00:00.000Z"
+    },
+    {
+      "title": "Work at the Frontier: AI’s effect on freelance work",
+      "summary": "AI（人工知能）の進化で、フリーランスの仕事内容や依頼内容が変化。AI関連の仕事には、より多くの予算や時間がかけられるようになっています。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/ai-effect-on-freelance-work",
+      "published": "2026-11-10T07:00:00.000Z"
+    },
     {
       "title": "Anthropic reportedly plans to move forward with IPO plans",
       "summary": "文章を作るAI（LLM）で注目されるAnthropicが、近々会社を証券取引所に公開する（IPO）計画を進めているようです。これにより、AI分野へのさらなる投資や技術開発の加速が期待されます。",
@@ -9,6 +105,22 @@
       "category": "business",
       "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
       "published": "2026-11-10T01:27:12.000Z"
+    },
+    {
+      "title": "Pay for Hugging Face Hub with your Google Cloud Account",
+      "summary": "Hugging FaceのAIモデルを、Googleのクラウドサービス（コンピューティング資源などを貸し出すサービス）を通じて、さらに便利に使えるようになりました。これにより、AI開発者がより手軽に最新のAI技術を利用できるようになります。",
+      "source": "Hugging Face",
+      "category": "product",
+      "url": "https://huggingface.co/blog/hub-gcp-marketplace",
+      "published": "2026-11-10T00:00:00.000Z"
+    },
+    {
+      "title": "Decision Models in Hugging Face",
+      "summary": "AIが「どう判断するか」を決める「判断モデル」が、AI開発でよく使われる「Hugging Face」という場所で、より使いやすくなった。これにより、AIがもっと賢く、的確な判断を下せるようになることが期待される。",
+      "source": "Hugging Face",
+      "category": "product",
+      "url": "https://huggingface.co/blog/decision",
+      "published": "2026-11-10T00:00:00.000Z"
     },
     {
       "title": "Jensen Huang reportedly engaged a PR firm with a history of handling  high-profile sex scandals a year ago",
@@ -73,6 +185,14 @@
       "category": "product",
       "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
       "published": "2026-11-09T12:34:29.000Z"
+    },
+    {
+      "title": "CodeRabbit scales agentic software development and ships 20x more",
+      "summary": "AIが作るプログラム（コード）を、AI自身がチェックして、より安全で、開発チームと同じ人数で20倍も速くソフトウェアを作れるようになりました。これはAI開発の大きな進歩です。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/coderabbit-codex-daybreak",
+      "published": "2026-11-09T08:00:00.000Z"
     },
     {
       "title": "Kuken Industries searches 70 years of drawings in minutes",
@@ -681,126 +801,6 @@
       "category": "research",
       "url": "https://arxiv.org/abs/2610.40700",
       "published": "2026-11-02T05:00:00.000Z"
-    },
-    {
-      "title": "Bayesian Distribution System State Estimation with Flow Matching",
-      "summary": "電力網の状況を正確に把握するAI（PoSE）が開発されました。これは、限られた情報からでも、電力の流れのズレを学習し、より信頼性の高い電力網の「状態」を推測できる点が新しいです。これにより、停電を防ぐなど、安定した電力供給に役立ちます。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2610.40728",
-      "published": "2026-11-02T05:00:00.000Z"
-    },
-    {
-      "title": "Don't Just Impute, Detect: Task-Aware Diffusion Pipelines for Edge Anomaly Detection",
-      "summary": "工場などで、センサーのデータが途切れても、AIが異常を見つけやすくする新しい方法が開発されました。これまでの方法は、途切れたデータを「元に戻してから」異常を探していましたが、この新しい方法は、異常を見つけるAIに「合わせた」方法でデータを補うため、より正確に異常を発見できます。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2610.40732",
-      "published": "2026-11-02T05:00:00.000Z"
-    },
-    {
-      "title": "Unsupervised Feature Selection Using Local Intrinsic Dimensionality -- Extended Version",
-      "summary": "たくさんの特徴がある（次元が高い）と、AIの学習がうまくいかなくなることがあります。この研究では、AIに「この特徴は大事か」を教える情報（ラベル）がない場合でも、特徴同士の距離から重要度を判断する新しい方法「LIDFS」を開発しました。これにより、AIの学習効率と精度が向上する可能性があります。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2610.40736",
-      "published": "2026-11-02T05:00:00.000Z"
-    },
-    {
-      "title": "Certified Behavioral Retention for Continual Adaptation with Held-Out Anchors",
-      "summary": "AIが新しいことを学ぶとき、昔覚えたことを忘れないようにする新しい方法「CABA」が開発されました。これにより、AIは進化しつつも、過去の重要な行動を維持できるため、より賢く、信頼できるAIに近づきます。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2610.40740",
-      "published": "2026-11-02T05:00:00.000Z"
-    },
-    {
-      "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
-      "summary": "OpenAIは、コンピューターが集中する施設（データセンター）を「AIコンピューティングキャンパス」と呼び変えることを検討している。これにより、データセンターへのネガティブなイメージを払拭し、AI開発を促進する先進的な場所として捉えてもらう狙いがある。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
-      "published": "2026-11-01T21:55:23.000Z"
-    },
-    {
-      "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
-      "summary": "AIがIT企業のトップたちの仕事を楽にするかもしれない一方、一般の人々への影響はどうなるのか、その疑問について考えている記事です。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
-      "published": "2026-11-01T20:57:58.000Z"
-    },
-    {
-      "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
-      "summary": "アップルは、やみくもにAIを導入するのではなく、人々の生活を豊かにする、より意味のあるAI機能を提供することに重点を置いている。これは、AIを単なる流行で終わらせず、実用的で役立つものにしたいという同社の考えを表している。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
-      "published": "2026-10-31T21:41:00.000Z"
-    },
-    {
-      "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
-      "summary": "11月4日にボストンで開催されるイベントでは、新しいアイデアや会社を大きく成長させるための、価値ある出会いがたくさんあります。早期登録でお得に参加しましょう。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
-      "published": "2026-10-31T21:36:07.000Z"
-    },
-    {
-      "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
-      "summary": "AI開発会社が、大気汚染防止法に違反しているとして訴えられました。裁判所はこの訴訟を進めることを認め、地域住民の健康への影響が焦点となります。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
-      "published": "2026-10-31T21:17:03.000Z"
-    },
-    {
-      "title": "OpenAI reportedly lowers funding target for new round",
-      "summary": "OpenAIが資金集め目標を引き下げたというニュース。これまでよりも集まるお金が少なかったとのこと。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
-      "published": "2026-10-31T16:12:55.000Z"
-    },
-    {
-      "title": "LRMoE: Demand-Side Load Re-Calibration for Efficient MoE Training on Memory-Constrained Nodes",
-      "summary": "「MoE（たくさんのAIを組み合わせたモデル）」の学習を、少ないコンピューターメモリでも速く行う方法「LRMoE」が提案されました。これは、AIに送る情報（トークン）の処理を賢く調整し、メモリ不足による無駄な計算を減らすことで、学習時間を大幅に短縮します。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2610.37720",
-      "published": "2026-10-31T04:00:00.000Z"
-    },
-    {
-      "title": "Amortized Localized Posterior Inference for Model Calibration with Application to an Ocean Turbulence Closure",
-      "summary": "AIが、海の水の動き（乱流）を正確に予測する新しい方法を開発しました。これにより、予測のズレを減らし、より確かな情報に基づいた判断ができるようになります。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2610.37731",
-      "published": "2026-10-31T04:00:00.000Z"
-    },
-    {
-      "title": "ThinkJev: One Thought, Every Budget for Calibrated Typed Decisions",
-      "summary": "AI（人工知能）が、迷った時に「ちょっと考えてから答える」ことで、より正確な判断ができるようになりました。しかも、考える時間とコストを抑えながら、賢く判断できるのが新しい点です。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2610.37732",
-      "published": "2026-10-31T04:00:00.000Z"
-    },
-    {
-      "title": "OpenFrontiers: A Collection of Open Research Problems and a Benchmark for Scientific Rediscovery",
-      "summary": "AI（文章を作るAI）が科学の謎を解き明かす力を測るための、新しい「OpenFrontiers」という取り組みが始まりました。これは、未解決の科学の問題を集め、AIがその答えをどのくらい見つけられるかを試すためのものです。AIが新しい発見をどれだけできるかを知るための、貴重な実験場となります。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2610.37739",
-      "published": "2026-10-31T04:00:00.000Z"
-    },
-    {
-      "title": "WebAnything: From the Wild Web to Scalable Agent Environments",
-      "summary": "WebAnythingは、ウェブサイトそっくりな学習環境を自動で作れる画期的な技術です。これにより、AI（人工知能）がウェブサイトでの作業を学習しやすくなり、より賢く、実用的なAI（エージェント）を開発できるようになります。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2610.37786",
-      "published": "2026-10-31T04:00:00.000Z"
     }
   ]
 }
