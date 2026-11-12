@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T01:44:11.065Z",
+  "updatedAt": "2026-11-12T02:44:20.515Z",
   "count": 100,
   "items": [
     {
@@ -9,6 +9,166 @@
       "category": "product",
       "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
       "published": "2026-11-12T00:00:00.000Z"
+    },
+    {
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "summary": "NVIDIAのジェンスン・フアンCEOにまつわる疑惑が、アメリカと中国のAI開発競争という背景もあり、国家安全保障にも影響する可能性があると報じられています。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "published": "2026-11-11T23:50:00.000Z"
+    },
+    {
+      "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
+      "summary": "Nvidia（NVIDIA）の創業社長が33年ぶりに交代するかもしれないというニュースです。もし交代が決まれば、会社の方向性が変わる可能性があり、注目されています。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
+      "published": "2026-11-11T23:28:45.000Z"
+    },
+    {
+      "title": "Jensen Huang accused of having another affair — with an Nvidia exec",
+      "summary": "NvidiaのCEOが、過去に女性との不倫を認めたにもかかわらず、今度は部下との不倫疑惑が浮上し、再び批判を浴びています。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/",
+      "published": "2026-11-11T23:17:05.000Z"
+    },
+    {
+      "title": "Why the data center you dread might never even be built",
+      "summary": "AIの急速な発展を支えるデータセンター建設には、地元住民の反対や電力不足など、計画を進める上で多くの困難が立ちはだかっています。さらに、発表されている計画の多くは、そもそも実現しない可能性が高いと指摘されています。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/",
+      "published": "2026-11-11T20:15:15.000Z"
+    },
+    {
+      "title": "Meta is losing its longtime head of  infrastructure",
+      "summary": "メタ社で長年インフラ（会社の土台となるシステム）を支えてきたサンタシュ・ジャナルダン氏が退任することになりました。彼の退任は、AI開発で重要となる、安定したインフラを維持する上で、新たな課題となる可能性があります。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure/",
+      "published": "2026-11-11T20:12:01.000Z"
+    },
+    {
+      "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+      "summary": "AI（人工知能）に「決断」させるための新しいAPIが登場。画像や文章など様々な情報（マルチモーダル）を理解し、素早く正確な判断ができるのが特徴です。",
+      "source": "Google AI Blog",
+      "category": "research",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+      "published": "2026-11-11T18:00:00.000Z"
+    },
+    {
+      "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
+      "summary": "Googleが新しい共同作業ツール「Tabletop」を発表。グループで旅行の計画を立てたり、アンケートやトーナメント表を作ったりできる。みんなで一緒に何かを進めるのに便利だ。",
+      "source": "Google AI Blog",
+      "category": "research",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
+      "published": "2026-11-11T16:00:00.000Z"
+    },
+    {
+      "title": "Experience the art and legacy of Dr. Esther Mahlangu",
+      "summary": "画家エスター・マハングさんの作品と人生をたどるオンラインアーカイブが、Google Arts & Cultureで公開されました。彼女のユニークなアートスタイルは、アフリカの文化や伝統を世界に広める上で大きな役割を果たしており、このアーカイブは、その功績を後世に伝える貴重な機会となります。",
+      "source": "Google AI Blog",
+      "category": "research",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/",
+      "published": "2026-11-11T09:00:00.000Z"
+    },
+    {
+      "title": "ChatGPT Plus for veterans and servicemembers",
+      "summary": "退役軍人や軍務に就いている人向けに、ChatGPT Plus（有料版）が無料で提供され、2万人以上が利用しました。彼らは、これを民間での仕事探しやキャリア準備に役立てています。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/chatgpt-plus-for-veterans",
+      "published": "2026-11-11T08:00:00.000Z"
+    },
+    {
+      "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+      "summary": "スマホの中で賢く動くAIアシスタント「BotPsy」が開発されました。これは、インターネットにつながらなくても、あなたの質問に答えたり、指示を実行したりできる、小さなAI（言語モデル）です。",
+      "source": "Hugging Face",
+      "category": "product",
+      "url": "https://huggingface.co/blog/qvac/botpsy",
+      "published": "2026-11-11T05:01:16.000Z"
+    },
+    {
+      "title": "Auditable Human-Agent Teams for Autonomous X-ray Experimentation",
+      "summary": "AIが科学実験を自動で行う研究です。AIが人間の指示を受け、X線を使った実験を自ら進めます。誰がどんな判断をしたか記録することで、AIと人間、AI同士の協力がどのように進んだか分かり、今後のAI開発に役立つ成果です。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2611.12933",
+      "published": "2026-11-11T05:00:00.000Z"
+    },
+    {
+      "title": "EarthRecord: From Pixels to Land Change with Multimodal Agents over Four Decades of Satellite Imagery",
+      "summary": "AIが、何十年も前の衛星写真を見て、土地の様子がどう変わったかを正確に分析できるかを測る新しい試験（ベンチマーク）「EarthRecord」ができました。AIが自分で写真から分析し、土地の変化を調べる能力を試せるのが新しい点です。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2611.12934",
+      "published": "2026-11-11T05:00:00.000Z"
+    },
+    {
+      "title": "Train on prefill, monitor at decode: Using sparse autoencoders for topic monitoring",
+      "summary": "AIが文章を作る途中で、どんな話題について話しているかをリアルタイムで調べる新しい方法が見つかりました。この技術を使えば、AIの回答が途中で変わっても、話題の変化を正確に捉えられます。AIが安全な内容を生成するのに役立つだけでなく、もっと色々な場面でAIを賢く使うためのヒントにもなります。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2611.12935",
+      "published": "2026-11-11T05:00:00.000Z"
+    },
+    {
+      "title": "LandslideFM: A Foundation Model Towards Unified Landslide Perception and Understanding",
+      "summary": "地震や豪雨で土砂崩れが起きたとき、早く見つけて被害を防ぐのは大事です。このAI「LandslideFM」は、写真から土砂崩れを見つけるだけでなく、なぜ起きたのか、どんな状況かを理解することを目指した、新しいAIです。少ない写真データでも賢く学べるのが特徴です。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2611.12936",
+      "published": "2026-11-11T05:00:00.000Z"
+    },
+    {
+      "title": "Tracing Psychometric Inference in Large Language Models",
+      "summary": "AI（文章を作るAI）が、人の心の状態（性格や考え方など）を、まるで人間のように理解して、それに合った返事をするかを調べました。AIが人の心の構造を真似ているだけでなく、内部でもその構造を理解している可能性が示唆されました。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2611.12937",
+      "published": "2026-11-11T05:00:00.000Z"
+    },
+    {
+      "title": "An ensemble of graph generative models for assisted history matching of the Brugge field case",
+      "summary": "AIが、石油やガスの採掘現場（ブルージュ油田）の過去のデータと将来の予測をより正確に合わせるための新しい方法を開発しました。地質が複雑な場所でも、AIが場所ごとに合わせた予測モデルを作ることで、より確かな結果が得られるようになります。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2611.12927",
+      "published": "2026-11-11T05:00:00.000Z"
+    },
+    {
+      "title": "Predictive Surprise as Self-Grounding Concept Bottleneck for Interpretable Time Series",
+      "summary": "AIが「驚き」を予測することで、データの変化点を自動で見つけ出し、その意味を理解できるようになる新しい方法が提案されました。これにより、AIの予測がどれだけ信頼できるかがわかりやすく、医療などの重要な分野で役立つ可能性があります。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2611.12955",
+      "published": "2026-11-11T05:00:00.000Z"
+    },
+    {
+      "title": "ADIndex: Layer-Adaptive Sparse Attention Indexing via Group-Level Distillation",
+      "summary": "AIが長い文章を理解する際、処理速度の遅さが課題でした。新しい「ADIndex」という技術は、AIが注目すべき部分を効率的に見つけ出すことで、この遅さを解消します。これにより、AIはより速く、より正確に長い文章を扱えるようになります。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2611.12956",
+      "published": "2026-11-11T05:00:00.000Z"
+    },
+    {
+      "title": "Exploration via Exploitation: The Blessing of Reward Diversity in Personalized Federated RL",
+      "summary": "AIがお互いの「ご褒美」の違いをうまく利用して、新しいことをたくさん試す方法を見つけました。これにより、みんなが違う目標を持っていても、協力して賢くなることができ、効率的に学べるようになります。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2611.12964",
+      "published": "2026-11-11T05:00:00.000Z"
+    },
+    {
+      "title": "StatPrompt-LLM: A Lightweight Statistical Refinement for Foundation-Style Time-Series Forecasting",
+      "summary": "AIに未来の予測をさせる研究で、特にデータが少ない場合にAIが過去の傾向をうまく捉えられない課題がありました。そこで、AIが予測をより正確にするための簡単な方法「StatPrompt-LLM」を開発。これにより、AIは予測の精度を大幅に向上させることができそうです。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2611.12974",
+      "published": "2026-11-11T05:00:00.000Z"
     },
     {
       "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
@@ -641,166 +801,6 @@
       "category": "product",
       "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
       "published": "2026-11-04T08:00:00.000Z"
-    },
-    {
-      "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
-      "summary": "アメリカ政府の特定の機関で、サイバーセキュリティ（インターネットでの安全を守ること）に役立つ、新しいAI「Daybreak Red」が使えるようになりました。これは、機密性の高い情報を扱うための特別なクラウド環境（AWS GovCloud）で利用できる、GPT-5.6 CyberというAIモデルを活用したものです。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/daybreak-red-aws-govcloud",
-      "published": "2026-11-04T07:00:00.000Z"
-    },
-    {
-      "title": "Community detection in complex networks via node similarity, graph representation learning, and hierarchical clustering",
-      "summary": "複雑なつながり（ネットワーク）の中の「群れ」を見つける新しい方法が提案されました。これは、友達のグループや論文の引用関係などを分析するのに役立ちます。新しい方法は、いくつかの段階に分かれていて、これまでの方法より多くの情報を見つけられ、群れの数が分からない時でも使いやすいのが特徴です。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2303.12212",
-      "published": "2026-11-04T05:00:00.000Z"
-    },
-    {
-      "title": "Introducing Images 2.6",
-      "summary": "OpenAIが、画像を作るAI（Images 2.6）をアップデートしました。これにより、写真のような画像をより速く作ったり、動くGIFアニメーションを作ったり、細かい部分を正確に編集したりすることが可能になり、開発者も使いやすくなりました。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/introducing-images-2-6",
-      "published": "2026-11-04T00:00:00.000Z"
-    },
-    {
-      "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
-      "summary": "DevRevは、GPT-6.1 SolというAI（文章を作るAI）を使って、会社（企業）のお客さんの質問に自動で答えるシステムを作りました。これにより、お客さんは早く、そして賢く、納得のいく答えを得られるようになります。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/devrev-enterprise-self-service",
-      "published": "2026-11-04T00:00:00.000Z"
-    },
-    {
-      "title": "StateBench: Testing how language models track state changes over long documents",
-      "summary": "AI（人工知能）が長い文章をどれだけ正確に理解できるか調べる新しい方法「StateBench」が開発されました。これにより、AIが文章の途中で変わった情報（例えば、登場人物の状況の変化など）を、どこまで覚えているかをテストできます。",
-      "source": "Hugging Face",
-      "category": "product",
-      "url": "https://huggingface.co/blog/allenai/statebench",
-      "published": "2026-11-03T17:15:21.000Z"
-    },
-    {
-      "title": "Palette: teaching a small model to build decks in your design language",
-      "summary": "「Palette」という新しい技術は、小さなAIモデルに、デザインの「色合い」や「雰囲気」を学習させて、それに合ったデザインの組み合わせ（カードデッキ）を作らせるものです。これにより、プロのデザイナーが使うような洗練されたデザインを、AIが手軽に提案できるようになります。",
-      "source": "Hugging Face",
-      "category": "product",
-      "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
-      "published": "2026-11-03T16:35:36.000Z"
-    },
-    {
-      "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
-      "summary": "アップルは、外部のAIアプリとの連携で収益を増やす方法を検討しているようです。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
-      "published": "2026-11-03T01:49:52.000Z"
-    },
-    {
-      "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
-      "summary": "Y Combinatorのゲイリー・タン氏は、AIエージェント（AIが自動で仕事をしてくれる仕組み）に夢中になりすぎて、年間20万ドル（約3000万円）もの費用をかけているそうです。AIの進化に興奮し、睡眠時間を削ってまで研究に没頭するほど、その可能性に魅了されているのが伝わってきます。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
-      "published": "2026-11-03T00:35:52.000Z"
-    },
-    {
-      "title": "CWE-bench v2: More coverage, quality, and transparency",
-      "summary": "AIの「弱点」を見つけるための新しい道具「CWE-bench v2」が登場しました。これを使えば、AIが間違ったことを言ったり、不適切な反応をしたりする原因を、より詳しく、そして分かりやすく調べることができます。",
-      "source": "Hugging Face",
-      "category": "product",
-      "url": "https://huggingface.co/blog/cwe-bench",
-      "published": "2026-11-03T00:00:00.000Z"
-    },
-    {
-      "title": "Transformers Model Integration Contracts",
-      "summary": "このAIモデル（Transformer）は、文章を作ったり、翻訳したりするのにとても役立ちます。他のAIサービスと連携しやすくするための「契約」の作り方が説明されています。これにより、AIをもっと色々なところで使いやすくなるのが新しい点です。",
-      "source": "Hugging Face",
-      "category": "product",
-      "url": "https://huggingface.co/blog/transformers-mic",
-      "published": "2026-11-03T00:00:00.000Z"
-    },
-    {
-      "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
-      "summary": "専門知識がなくてもAI（人工知能）のモデル（※AIの設計図）を作れるようにするサービスが、4500万ドル（約65億円）もの資金を集めました。これにより、これまでAI開発は専門家だけのものでしたが、より多くの人がAIを作れるようになる未来が期待されています。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
-      "published": "2026-11-02T23:13:53.000Z"
-    },
-    {
-      "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
-      "summary": "AI（人工知能）が自分で自分を賢くする能力（自己改良AI）に近づいていると、Anthropic社が警告しました。これはAIの進化が急速に進み、予測不能になる可能性を示唆しており、一部では大きな懸念も出ています。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
-      "published": "2026-11-02T22:14:50.000Z"
-    },
-    {
-      "title": "Web host Squarespace lays off 19% of its employees",
-      "summary": "Webサイト作成サービス「Squarespace」が、組織再編のために従業員の19%を解雇しました。これは、AI（人工知能）などの新しい技術に対応するため、事業のあり方を見直す動きの一部と考えられます。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/",
-      "published": "2026-11-02T19:25:59.000Z"
-    },
-    {
-      "title": "Rewarding defenders with bigger bug bounties",
-      "summary": "OpenAIは、セキュリティの専門家がAIの弱点を見つけて報告することへの報酬を増やし、報告の質や貢献度に応じてさらにボーナスを出すようにしました。これにより、AIの安全性を高めるための活動がさらに活発になることが期待されます。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
-      "published": "2026-11-02T18:00:00.000Z"
-    },
-    {
-      "title": "Preparing our next security sprint to harden OpenAI",
-      "summary": "OpenAIは、AIを使って自分たちのシステムをより安全にするための特別な取り組みを始める。これにより、AIの悪用を防ぐための対策をさらに強化し、ユーザーを危険から守ることを目指している。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
-      "published": "2026-11-02T18:00:00.000Z"
-    },
-    {
-      "title": "The latest AI news we announced in October 2026",
-      "summary": "Googleが2026年10月に発表したAIの最新情報です。新しいAI技術で、より賢く、より便利なサービスが期待されます。",
-      "source": "Google AI Blog",
-      "category": "research",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
-      "published": "2026-11-02T17:45:00.000Z"
-    },
-    {
-      "title": "Scaling Git at OpenAI",
-      "summary": "OpenAIは、Codex（コードを書くAI）のような高度なAI開発に不可欠な、Git（プログラムの変更履歴を管理する仕組み）の規模に対応できる新しいシステム「Pando」を開発しました。これにより、AI開発のスピードと効率が飛躍的に向上します。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/scaling-git-at-openai",
-      "published": "2026-11-02T15:30:00.000Z"
-    },
-    {
-      "title": "Introducing the Grid Protectors Program",
-      "summary": "OpenAIは、AIを動かすための大規模なコンピューター施設（コンピュートキャンパス）が、電力網（グリッド）の安定性を保ち、電気料金が上がらないように、電力会社と協力するプログラムを始めます。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/grid-protectors-program",
-      "published": "2026-11-02T15:00:00.000Z"
-    },
-    {
-      "title": "LifeVal",
-      "summary": "AIが日常生活のタスク（子どもの預け先探しや家計管理など）をどれだけうまく手伝えるかを測る新しい評価方法「LifeVal」が発表されました。これにより、AIが私たちの暮らしをより便利にするためにどれだけ役立つかが分かります。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/lifeval",
-      "published": "2026-11-02T09:00:00.000Z"
-    },
-    {
-      "title": "Automatic Construction of Strong Simple Baselines",
-      "summary": "新しいAI（深層学習）のすごさを正確に確かめるには、しっかりとした比較対象（ベースライン）が必要です。この研究では、文章を作るAI（LLM）を使って、比較対象を自動で作る方法を試しました。その結果、AIが作った比較対象はとても強力で、新しいAIの成果を正確に評価するのに役立つことがわかりました。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2610.40700",
-      "published": "2026-11-02T05:00:00.000Z"
     }
   ]
 }
