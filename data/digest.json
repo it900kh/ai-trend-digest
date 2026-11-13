@@ -1,13 +1,109 @@
 {
-  "updatedAt": "2026-11-12T02:44:20.515Z",
+  "updatedAt": "2026-11-13T02:26:23.970Z",
   "count": 100,
   "items": [
+    {
+      "title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
+      "summary": "アメリカの民主党が、大手半導体メーカーNvidia（NVIDIA）の中国への販売や、トランプ氏との関係について調査を開始しました。これは、スパイ事件の報道があった後、2度目の調査となり、Nvidiaの戦略に疑問を投げかけています。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
+      "published": "2026-11-12T22:42:51.000Z"
+    },
+    {
+      "title": "Muse can now place calls to US businesses — if you pay",
+      "summary": "AIのMuseが、アメリカの会社に電話をかけられるようになりました。ただし、この機能を使うにはお金がかかります。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
+      "published": "2026-11-12T22:22:28.000Z"
+    },
+    {
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "summary": "Nvidiaのジェンスン・フアンCEOが不倫を理由に辞任。これは、AI技術開発を競うアメリカと中国にとって、国家安全保障上の影響もありうる重要な出来事です。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "published": "2026-11-12T21:35:00.000Z"
+    },
+    {
+      "title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
+      "summary": "Nebiusは、AI（人工知能）の設備を増やすために400億ドル（約6兆円）を投じる計画です。これは、顧客から前払いを受けたり、お金を借りたりしてまかなわれますが、マイクロソフトのデータセンターでの遅延もあり、資金調達の方法に注目が集まっています。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
+      "published": "2026-11-12T21:27:10.000Z"
+    },
+    {
+      "title": "Jensen Huang was having a third affair, Reuters reports",
+      "summary": "NVIDIAのCEOが3度目の不倫をしていたと報道されました。相手は会社の従業員だという情報もありますが、その人物の名前は伏せられています。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/",
+      "published": "2026-11-12T20:26:47.000Z"
+    },
+    {
+      "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+      "summary": "Amplitude社が、OpenAIのAI（文章を作るAI）を活用して、新しい製品のアイデアを見つけ、開発し、効果を測るまでをわずか1〜2日で行えるようになった。これにより、ユーザーの要望に素早く応えられるようになった点が画期的だ。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/business/customer-stories/amplitude",
+      "published": "2026-11-12T20:00:00.000Z"
+    },
+    {
+      "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+      "summary": "LLM（文章を作るAI）の能力をもっと引き出すための新しい「LLMON」という言語が発表されました。これにより、AIがより賢く、複雑な指示を理解できるようになり、AI開発がさらに進むことが期待されます。",
+      "source": "Hugging Face",
+      "category": "product",
+      "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+      "published": "2026-11-12T19:07:35.000Z"
+    },
+    {
+      "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+      "summary": "Google検索がAI「Gemini 4 Hydrogen」で大きく進化し、より分かりやすく、画像も使った親切な回答ができるようになりました。",
+      "source": "Google AI Blog",
+      "category": "research",
+      "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
+      "published": "2026-11-12T18:00:00.000Z"
+    },
+    {
+      "title": "Gondola doubles revenue as its team builds more with Codex",
+      "summary": "クリエイターが正当に評価され、仕事を得るのを助けるGondolaは、AI（コデックス）でエンジニアの生産性が50%向上し、ChatGPTが日常業務を効率化して、収益を倍増させました。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/business/customer-stories/gondola",
+      "published": "2026-11-12T12:00:00.000Z"
+    },
+    {
+      "title": "Holiday Extras is rethinking what it can build with Codex",
+      "summary": "旅行予約サイトがAI（Codex）を使って、お客さんの意見をもっと良いアプリ作りに活かし、予約数を増やして新しい成長の可能性を探っています。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
+      "published": "2026-11-12T09:30:00.000Z"
+    },
     {
       "title": "Gilbert + Tobin rethinks the business of law with AI",
       "summary": "法律事務所がAI（人工知能）を使い、弁護士の仕事のやり方を変えようとしています。特に、AIで契約書をチェックする時間を大幅に短縮し、より創造的な仕事に集中できるようになるのが新しい点です。",
       "source": "OpenAI Blog",
       "category": "product",
       "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+      "published": "2026-11-12T00:00:00.000Z"
+    },
+    {
+      "title": "Supporting research on AI and children’s safety",
+      "summary": "OpenAIが、子どもたちの安全とAIについて調べる研究に200万ドル（約3億円）を寄付します。これは、子どもたちがAIを安全に、そして良く使うための方法を探るための共同プロジェクトを応援するものです。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/children-first-declaration",
+      "published": "2026-11-12T00:00:00.000Z"
+    },
+    {
+      "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
+      "summary": "3Dモデルを作るAIを、もっと得意なことに特化させる方法についてのガイドです。特別なデータでAIを少しだけ「追加学習」させることで、より目的に合った、質の高い3Dモデルが作れるようになります。",
+      "source": "Hugging Face",
+      "category": "product",
+      "url": "https://huggingface.co/blog/3d-lora-finetuning",
       "published": "2026-11-12T00:00:00.000Z"
     },
     {
@@ -171,6 +267,22 @@
       "published": "2026-11-11T05:00:00.000Z"
     },
     {
+      "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
+      "summary": "AIが5億人もの人に使われると、どんな発見があるか。JioStarの担当者が、AIがうまく動くための工夫や、実際にAIを使い始めるまでの知恵を語ります。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/jiostar-vijay-seshadri",
+      "published": "2026-11-11T00:00:00.000Z"
+    },
+    {
+      "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
+      "summary": "AIが単語を数字のリスト（ベクトル）に変換して文章の意味を理解する技術で、複数のベクトルをうまくまとめる新しい学習方法が開発されました。これにより、AIの文章理解能力が向上し、より正確で役立つ情報を提供できるようになります。",
+      "source": "Hugging Face",
+      "category": "product",
+      "url": "https://huggingface.co/blog/token-pooling",
+      "published": "2026-11-11T00:00:00.000Z"
+    },
+    {
       "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
       "summary": "OpenAIが、旅行スタートアップのOdessiaを買収しました。Odessiaを設立したのは、旅行業界で有名なSonderの創業者です。OpenAIが今後、旅行分野でどのようなサービスを作るのか、注目が集まっています。",
       "source": "TechCrunch AI",
@@ -233,6 +345,14 @@
       "category": "research",
       "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
       "published": "2026-11-10T13:00:00.000Z"
+    },
+    {
+      "title": "Helping caregivers use AI in everyday life",
+      "summary": "OpenAIが、介護をする人向けに、AI（文章を作るAI）「ChatGPT」の使い方を無料で教えるワークショップをアメリカの5都市で開催します。これにより、日々の生活でAIを役立てるための実践的なスキルを身につけられるようになります。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+      "published": "2026-11-10T12:00:00.000Z"
     },
     {
       "title": "Introducing Businesses in ChatGPT",
@@ -681,126 +801,6 @@
       "category": "research",
       "url": "https://arxiv.org/abs/2611.05436",
       "published": "2026-11-05T05:00:00.000Z"
-    },
-    {
-      "title": "Learning Implicit Solves for Dynamic Simulations",
-      "summary": "AIが、計算に時間がかかる「動き」のシミュレーションを、速く正確にできるようになりました。この新しいAIは、まず「止まっている状態」のデータから学習し、その知識を使って動きのシミュレーションを高速化します。これにより、これまで数千倍速く、より正確な予測が可能になりました。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2611.05439",
-      "published": "2026-11-05T05:00:00.000Z"
-    },
-    {
-      "title": "Matched but Not Better: An Equivalence-Tested Benchmark of Quantum Machine Learning on Six Clinical Datasets and the QML-Health-READY Reporting Framework",
-      "summary": "「量子コンピューターを使ったAI（QML）は、病気の予測で期待されているが、従来のAIと比べて本当に優れているのか、科学的にきちんと比べていなかった。今回の研究で、量子AIは従来のAIを上回ることはなく、同等レベルであることがわかった。」",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2611.05442",
-      "published": "2026-11-05T05:00:00.000Z"
-    },
-    {
-      "title": "Objective-Conditioned Active Preference Learning for Multi-Objective Alignment",
-      "summary": "AIがより良い文章を作る（LLM）には、たくさんの基準（優しさ、正直さなど）で評価する必要がある。このAIは、どの部分を評価すれば一番AIが賢くなるか、賢く効率的に選ぶ方法を見つけた。これにより、AIを育てるのにかかる時間とお金を節約できる。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2611.05506",
-      "published": "2026-11-05T05:00:00.000Z"
-    },
-    {
-      "title": "TSFM Meets LLM: Context as Covariates",
-      "summary": "AIで文章を理解できるモデル（LLM）と、数字の動きを予測するモデル（TSFM）を組み合わせ、より正確な予測を目指す新しい技術「CoCo」が開発されました。これにより、ニュースなどの文字情報と数字のデータを一緒に分析し、経済や天気など様々な分野での予測精度が大幅に向上する可能性があります。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2611.05515",
-      "published": "2026-11-05T05:00:00.000Z"
-    },
-    {
-      "title": "Setting a new standard for responsible AI infrastructure",
-      "summary": "OpenAIは、AI開発に必要なコンピューター資源を地域社会と共有し、雇用を生み出すための新しい取り組みを発表しました。これにより、AIが地域に良い影響を与えながら、大切に作られていくことが期待されます。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
-      "published": "2026-11-05T02:00:00.000Z"
-    },
-    {
-      "title": "Apple is reportedly cutting budgets for its internal AI usage",
-      "summary": "アップルは、社内のAI（人工知能）開発に使う予算を大幅に減らすと報じられています。これは、AI技術の進歩が速い中で、開発チームへの投資を抑えるという驚きの動きです。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
-      "published": "2026-11-05T01:26:22.000Z"
-    },
-    {
-      "title": "After the midterms, a bigger clash over data centers could be coming",
-      "summary": "アメリカの中間選挙で、データセンター（インターネットの情報を保管する大きな施設）を巡る意見の対立が、政党に関係なく広がっていることがわかりました。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/",
-      "published": "2026-11-05T01:02:14.000Z"
-    },
-    {
-      "title": "Flipsnack grows product signups with conversion optimization",
-      "summary": "Flipsnackは、ChatGPT広告（AIが広告文を作るサービス）を使い、製品のお試し登録を増やすことに注力しました。その結果、一人あたりの登録にかかる費用を抑えながら、登録者数を増やすことに成功しました。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/ads/customers/flipsnack",
-      "published": "2026-11-05T00:45:15.000Z"
-    },
-    {
-      "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
-      "summary": "スマホやパソコンで、まるで人間のような自然な音声合成（TTS）が、インターネットにつながらなくてもできるようになりました。この技術は「Phonon TTS」と呼ばれ、これまでの技術よりずっと自然で聞きやすい音声を、しかも手軽に実現できるのが新しい点です。",
-      "source": "Hugging Face",
-      "category": "product",
-      "url": "https://huggingface.co/blog/phonon-tts",
-      "published": "2026-11-05T00:00:00.000Z"
-    },
-    {
-      "title": "AI PACs spent millions trying to shape Congress — here’s how they fared",
-      "summary": "AI業界がお金を使い、政治家（下院議員）の選挙に影響を与えようとしましたが、結果はあまり芳しくありませんでした。それでも、次の選挙に向けてすでに動き始めています。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
-      "published": "2026-11-04T22:45:09.000Z"
-    },
-    {
-      "title": "Nothing CEO says company’s mysterious AI-first device is dropping next month",
-      "summary": "スマホメーカーNothingが、AIを最優先にした謎の新製品を来月発売すると発表しました。この製品はAIを使って、もっと効率的に作業ができるように設計されているそうです。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
-      "published": "2026-11-04T22:13:16.000Z"
-    },
-    {
-      "title": "Almost no one uses AI agents to book their Uber, company says",
-      "summary": "ウーバー（配車サービス）では、AI（人工知能）を使った予約がほとんど利用されていません。AIエージェント（AIの使い手）経由での配車予約は、最も忙しかった時期でもわずか4件だったそうです。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
-      "published": "2026-11-04T21:56:01.000Z"
-    },
-    {
-      "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
-      "summary": "AIが、どんな書類からでも必要な情報を抜き出し、整理されたかたち（JSON形式）で出力してくれるようになった。これにより、書類の情報を手作業で探す手間が省け、AIでの活用がより簡単になる。",
-      "source": "Hugging Face",
-      "category": "product",
-      "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
-      "published": "2026-11-04T17:50:10.000Z"
-    },
-    {
-      "title": "OpenAI to acquire Pierre Computer Company, Inc.",
-      "summary": "AI開発企業OpenAIが、コード生成・分析ツールを持つピエール・コンピューター社を買収しました。これにより、OpenAIのコード関連技術がさらに強化され、より高度なプログラミング支援が可能になります。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/openai-to-acquire-pierre",
-      "published": "2026-11-04T14:30:00.000Z"
-    },
-    {
-      "title": "A thousand fewer paths to root",
-      "summary": "AIがLinuxの改良点（バグ修正）を948個も見つけ、自動で直す方法を開発しました。これにより、コンピューターの安全性が高まり、より安心して使えるようになります。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
-      "published": "2026-11-04T08:00:00.000Z"
     }
   ]
 }
