@@ -1,7 +1,79 @@
 {
-  "updatedAt": "2026-11-14T01:59:27.392Z",
+  "updatedAt": "2026-11-15T01:31:55.908Z",
   "count": 100,
   "items": [
+    {
+      "title": "Where was Nvidia’s security team?",
+      "summary": "Nvidiaのセキュリティ責任者が8月に退職し、CEOも関係問題で辞任。元情報機関員は、企業セキュリティチームが対応しきれない、日常的な情報漏洩の可能性を指摘しています。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+      "published": "2026-11-15T00:08:07.000Z"
+    },
+    {
+      "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+      "summary": "イーロン・マスク氏らが、NVIDIAのジェンスン・フアンCEOの復帰を求める署名活動に賛同しました。これは、AI分野のリーダーたちが、会社のトップ交代という大きな変化に懸念を示していることを意味します。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+      "published": "2026-11-14T21:41:22.000Z"
+    },
+    {
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "summary": "AIの進化は速いが、すべてが成功するわけではない。Siriの遅延や、期待外れに終わったAIサービスなど、うまくいかなかったAIプロジェクトのリストは増え続けている。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "published": "2026-11-14T17:30:00.000Z"
+    },
+    {
+      "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
+      "summary": "アジアの国々は、NvidiaのCEOが退任したことで、半導体の供給を確実にする動きや、国内プロジェクトへの影響を注視しています。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
+      "published": "2026-11-14T16:34:15.000Z"
+    },
+    {
+      "title": "Zugwise: Domain-Aware Game Reconstruction for Digitizing Handwritten Chess Scoresheets",
+      "summary": "古い将棋の記録をデジタル化する新しい技術「Zugwise」が開発されました。これまで文字を読み取るだけだったのに対し、この技術は「人間が書いたか」という視点で、記録の誤りをより正確に見つけ出せるようにしました。これにより、これまで見逃されがちだった間違いも発見しやすくなり、記録の信頼性が向上します。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2611.14544",
+      "published": "2026-11-14T05:00:00.000Z"
+    },
+    {
+      "title": "Cleaning an Agent's History Hurts When the World Still Holds the Error",
+      "summary": "AIが過去の失敗をどう記録し直すかで、その後のAIの成果が大きく変わることがわかりました。失敗した過去の記録を修正しても、現実の世界にその失敗の影響が残っていると、かえってAIのパフォーマンスが下がることがあるのです。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2611.14654",
+      "published": "2026-11-14T05:00:00.000Z"
+    },
+    {
+      "title": "Together Compiler: Continual Compilation for AI Inference",
+      "summary": "AIの進化は速く、新しいプログラム（モデル）がたくさん出てきて、それぞれ得意なことが違います。この変化に合わせて、AIが速く動くように調整し続けるのは大変です。この新しい「Together Compiler」は、AIのプログラムを常に最適化することで、これまでより最大2.6倍速くAIが動くようにします。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2611.14681",
+      "published": "2026-11-14T05:00:00.000Z"
+    },
+    {
+      "title": "When Should Semantic Priors Enter Partially-Identified Causal Discovery?",
+      "summary": "AIが因果関係を探る時、言葉の意味（セマンティック情報）が役立つことがあります。しかし、AIの提案が間違っていると、本当の因果関係を見失ってしまうことも。今回の研究では、どの部分に言葉の意味を尋ねるか、AIの提案をどう受け入れるか、どの関係を信じるか、といった３つのポイントを整理し、AIがより賢く因果関係を見つける方法を探っています。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2611.14736",
+      "published": "2026-11-14T05:00:00.000Z"
+    },
+    {
+      "title": "SynthCorp: A Platform for Creating Benchmarks for Data Agents",
+      "summary": "AI（人工知能）がビジネスのデータを扱う能力を測る新しい方法が開発されました。SynthCorpというこのシステムは、会社のデータが時間とともにどう変化するかをシミュレーションし、AIのテスト（ベンチマーク）を自動で作ります。これにより、AIがより複雑なデータ処理を正確にできるか、詳しく調べられるようになります。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2611.14765",
+      "published": "2026-11-14T05:00:00.000Z"
+    },
     {
       "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
       "summary": "NVIDIAのCEO（最高経営責任者）が退任すると、AI（人工知能）を開発する新しい会社への投資が減るかもしれません。これまでの巨額投資が期待できなくなり、資金調達や会社の価値（評価額）が下がるのではないかと心配されています。",
@@ -729,78 +801,6 @@
       "category": "research",
       "url": "https://arxiv.org/abs/2611.06991",
       "published": "2026-11-06T05:00:00.000Z"
-    },
-    {
-      "title": "Measuring how AI agents handle everyday wet-lab science",
-      "summary": "AIが実験データを正しく理解できるか試す新しいテスト（BioBasicsBench）ができました。これにより、AIが実際の実験室での科学研究をどのくらい手伝えるかがわかります。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
-      "published": "2026-11-06T00:00:00.000Z"
-    },
-    {
-      "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
-      "summary": "エジプトとナイジェリアの英語が、AIが人の言葉をどれだけ正確に聞き取れるか（音声認識AI）を競う世界的なランキングに加わりました。これにより、これまであまり扱われなかった地域の方言もAIで認識しやすくなり、より多くの人がAIを使えるようになる可能性があります。",
-      "source": "Hugging Face",
-      "category": "product",
-      "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
-      "published": "2026-11-06T00:00:00.000Z"
-    },
-    {
-      "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
-      "summary": "Airbnbが2027年前半にAI旅行アシスタントを導入します。このAIは、旅行の計画、選択肢の比較、予約管理、滞在中のサポートまで、旅のあらゆる面でお手伝いします。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
-      "published": "2026-11-05T22:40:55.000Z"
-    },
-    {
-      "title": "Cult.fit builds operational muscle with Codex",
-      "summary": "Cult.fitという会社が、AI（Codex）を使って、社員が自分で仕事に役立つプログラム（ツール）を簡単に作れるようにしています。これにより、仕事が速く進み、働き方が変わるため、会社全体の力が強くなっています。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/cultfit-builds-with-codex",
-      "published": "2026-11-05T20:00:00.000Z"
-    },
-    {
-      "title": "Meta says US users can now video chat with their Muse AI avatar",
-      "summary": "メタ社は、ユーザーが作ったアバター（キャラクター）とビデオ通話できるAI（人工知能）サービスをアメリカで始めました。まるで友達と話しているような感覚で、特別なデバイスも発売予定です。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
-      "published": "2026-11-05T19:48:28.000Z"
-    },
-    {
-      "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
-      "summary": "NVIDIAが開発した「Cosmos 3」という新しいAIモデルは、まるで現実世界のような仮想空間を作り出すことができます。この技術は、ゲームや自動運転車のシミュレーションなど、様々な分野で役立つと期待されています。",
-      "source": "Hugging Face",
-      "category": "product",
-      "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
-      "published": "2026-11-05T19:35:16.000Z"
-    },
-    {
-      "title": "Meta warns that election backlash against data centers could make AI expansion harder",
-      "summary": "データセンター建設への反対運動が世界で高まり、AI（人工知能）を動かすためのコンピューターを増やすことが難しくなるかもしれないとMeta（Facebookの親会社）が警告しています。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
-      "published": "2026-11-05T19:12:39.000Z"
-    },
-    {
-      "title": "OpenAI released a new cybersecurity model. Is that enough?",
-      "summary": "AI開発のOpenAIが、サイバー攻撃から守るための新しいAIを発表しました。これは、AIがインターネットなどの安全を守る上で、どれだけ役立つのか、注目が集まる中で発表されたものです。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
-      "published": "2026-11-05T19:06:12.000Z"
-    },
-    {
-      "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
-      "summary": "OpenAIの社長が、2027年までに上場（会社を公開して株を誰でも買えるようにすること）できる見込みだと話しました。企業向けのサービスを伸ばしており、ライバルに負けないように頑張っています。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
-      "published": "2026-11-05T18:02:27.000Z"
     }
   ]
 }
