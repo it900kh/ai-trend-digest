@@ -1,7 +1,47 @@
 {
-  "updatedAt": "2026-11-15T01:31:55.908Z",
+  "updatedAt": "2026-11-16T01:35:37.401Z",
   "count": 100,
   "items": [
+    {
+      "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+      "summary": "インドの半導体スタートアップ「Bharat Semi」が、AI（人工知能）を使ったセンサー技術で、アメリカの軍事関連企業などから2400万ドルの資金調達に成功しました。この技術は、AIが搭載されたセンサーで、世界中のAIセンサー市場での活躍を目指しています。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+      "published": "2026-11-15T23:30:00.000Z"
+    },
+    {
+      "title": "A step toward defining the Standard Model on a lattice",
+      "summary": "AI「GPT-6 Astra」が、素粒子の標準模型（すべての素粒子とその相互作用を説明する理論）を格子（コンピューターで計算しやすいように細かく区切った空間）で定義する研究を助けました。これにより、これまで難しかった理論の検証や新しい発見につながることが期待されます。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+      "published": "2026-11-15T22:00:01.000Z"
+    },
+    {
+      "title": "Our new blog for science",
+      "summary": "OpenAIの新しい科学ブログでは、AI（人工知能）を使った科学の発見について、最新の研究結果や研究者たちの体験談が読めます。AIが科学の進歩をどう後押ししているのか、その最前線の情報がわかるのが新しい点です。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/our-new-blog-for-science",
+      "published": "2026-11-15T22:00:00.000Z"
+    },
+    {
+      "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
+      "summary": "NVIDIA（コンピューターの部品を作る会社）のトップが、AI（人工知能）の進歩に不可欠な半導体（コンピューターの頭脳）を供給する上で、今、厳しい状況に直面しています。これは、AI産業全体の将来にも影響を与える可能性があります。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
+      "published": "2026-11-15T21:56:35.000Z"
+    },
+    {
+      "title": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
+      "summary": "SNLがお金持ちのIT経営者たちを集めて、デートとスパイの技術を教えるコントを披露。普段は「変なIT屋」とネタにされる彼らも、今回は一堂に会して大いに笑いを誘った。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/",
+      "published": "2026-11-15T20:20:57.000Z"
+    },
     {
       "title": "Where was Nvidia’s security team?",
       "summary": "Nvidiaのセキュリティ責任者が8月に退職し、CEOも関係問題で辞任。元情報機関員は、企業セキュリティチームが対応しきれない、日常的な情報漏洩の可能性を指摘しています。",
@@ -760,46 +800,6 @@
       "source": "arXiv (cs.AI)",
       "category": "research",
       "url": "https://arxiv.org/abs/2611.06989",
-      "published": "2026-11-06T05:00:00.000Z"
-    },
-    {
-      "title": "SteelAgent: LLM-Orchestrated, Physics-Informed Steel Property Prediction with Audited Generalization and Calibrated Uncertainty",
-      "summary": "鉄鋼の性質を予測するAI「SteelAgent」は、新しい種類の鉄鋼でも精度高く予測できるようになりました。これまで、AIは得意な範囲では成績が良くても、未知の材料では予測が難しくなることが課題でしたが、このAIはそれを克服。どのような鉄鋼でも、その性質を正確に予測し、さらに「どれくらい確からしいか」も教えてくれます。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2611.06953",
-      "published": "2026-11-06T05:00:00.000Z"
-    },
-    {
-      "title": "Octopus: One Brain, Many Branches for Latent-KV Multi-Agent Reinforcement Learning",
-      "summary": "AIがたくさんの子分（サブエージェント）を効率よく使って、複雑な問題を解くための新しい方法「Octopus」が発表されました。これにより、AIは無駄なく情報を共有し、より速く、より正確に学習できるようになります。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2611.06956",
-      "published": "2026-11-06T05:00:00.000Z"
-    },
-    {
-      "title": "Uncertainty calibration in Bayesian M/EEG source imaging",
-      "summary": "脳の電気信号（M/EEG）から脳のどこが活動しているか調べる（ソースイメージング）には、正確な場所の特定と、その場所がどれくらい確からしいかの信頼性が大切です。この研究では、AI（ベイズ推論）を使って、この信頼性を高める新しい方法を開発しました。これにより、脳の活動をより正確に、そして信頼できる情報として得られるようになります。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2611.06979",
-      "published": "2026-11-06T05:00:00.000Z"
-    },
-    {
-      "title": "Big Models, Small Gains: Frozen Forecasters as Classifiers on MONSTER",
-      "summary": "AIが未来を予測するために作られた「予測モデル」を、そのまま「分類」に使うと、意外な結果が出た。予測モデルは、何らかのデータ（時系列データ）を学習させて、未来の値を予測するAI。しかし、この学習済みの予測モデルを「分類」に使うと、昔からある普通のAIの方が性能が良い場合が多いことがわかった。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2611.06988",
-      "published": "2026-11-06T05:00:00.000Z"
-    },
-    {
-      "title": "Robust Stream Classification using Time Neutralising Decision Trees",
-      "summary": "AIが、時間とともに変化するデータ（「コンセプトドリフト」と呼ばれます）を学習する際に、古い情報を忘れ、新しい情報にうまく適応できる「タイムニュートラライジングツリー（TNT）」という仕組みを開発しました。これにより、AIの予測精度が向上し、再学習の頻度を減らせる可能性があります。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2611.06991",
       "published": "2026-11-06T05:00:00.000Z"
     }
   ]
