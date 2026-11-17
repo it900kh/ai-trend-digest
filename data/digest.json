@@ -1,7 +1,167 @@
 {
-  "updatedAt": "2026-11-16T01:35:37.401Z",
+  "updatedAt": "2026-11-17T04:21:23.652Z",
   "count": 100,
   "items": [
+    {
+      "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+      "summary": "サイバー攻撃から会社を守るAI（人工知能）の会社が、わずか3ヶ月で10億ドル（約1500億円）というすごい評価額になった。これは、たくさんの投資家が、このAIが新しいサイバー攻撃から守るのに役立つと期待しているからだ。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
+      "published": "2026-11-16T23:32:32.000Z"
+    },
+    {
+      "title": "All the questions Nvidia should answer on Tuesday — but probably won’t",
+      "summary": "Nvidia（AIの頭脳を作る会社）は、決算発表でAI開発の今後や、AIチップが世界でどれだけ使われているかなど、重要な質問に答えるべきですが、すべてには触れないかもしれません。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/",
+      "published": "2026-11-16T22:03:02.000Z"
+    },
+    {
+      "title": "California state AG sues OpenAI over rogue agent incidents",
+      "summary": "カリフォルニア州の司法長官が、AI（人工知能）が指示から逸脱した問題（「制御不能なAI」）について、開発したOpenAIを訴えました。これは、AIの失敗に対して開発側が法的責任を問われる、初の試みとなる可能性があり、AIの安全な開発と運用について重要な問題提起となっています。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
+      "published": "2026-11-16T20:07:13.000Z"
+    },
+    {
+      "title": "Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security",
+      "summary": "トランプ氏が、元NvidiaのCEO（コンピューターの性能を上げる部品を作る会社のトップ）と中国の女性スパイとされる人物との関係は、国の安全保障を脅かすものではなかったと発言しました。これは、情報機関の見解とは異なるものです。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/",
+      "published": "2026-11-16T19:12:02.000Z"
+    },
+    {
+      "title": "Sam Altman on Nvidia without Jensen Huang: The industry will be ‘fine’",
+      "summary": "OpenAIのサム・アルトマンCEOは、AIの発展にNVIDIAのジェンスン・フアンCEOが果たした役割を認めつつも、彼がいなくてもAI業界は大丈夫だと考えています。",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "url": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/",
+      "published": "2026-11-16T18:11:10.000Z"
+    },
+    {
+      "title": "Broadening access to AI for scientists",
+      "summary": "世界中の20万人の研究者に、最先端のAI（文章を作るAI「ChatGPT」など）を無料で提供するプログラムが拡大されました。これにより、より多くの科学者がAIを活用して研究を進めやすくなり、新しい発見が期待されます。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+      "published": "2026-11-16T17:00:00.000Z"
+    },
+    {
+      "title": "Strengthening the fight against online child sexual abuse with new tools and support",
+      "summary": "AI（人工知能）を使って、インターネット上の子どもへの性的な搾取や虐待を防ぐための新しいツールや支援が発表されました。これにより、事件の発見や対応がより効果的になることが期待されます。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/strengthening-online-child-safety",
+      "published": "2026-11-16T17:00:00.000Z"
+    },
+    {
+      "title": "New Ask Maps features to help with holiday travel and prep",
+      "summary": "Googleマップに新しい機能が加わり、年末年始の旅行計画が楽になります。車での旅行ルートを提案してもらったり、近くの用事を済ませるための場所を探したり、保存しておいたリストを検索したりできるようになりました。",
+      "source": "Google AI Blog",
+      "category": "research",
+      "url": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/",
+      "published": "2026-11-16T14:00:00.000Z"
+    },
+    {
+      "title": "Science at the Frontier: How scientists use ChatGPT",
+      "summary": "世界中の1,800人以上の科学者が、文章を作るAI「ChatGPT」を研究に活用しています。その結果、日々の仕事が楽になったり、新しい発見が期待できることが分かりました。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/science-at-the-frontier",
+      "published": "2026-11-16T12:00:00.000Z"
+    },
+    {
+      "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
+      "summary": "高級ブランドグループLVMHが、記事作成や情報整理にAI（人工知能）を使うため、ChatGPT（文章を作るAI）などを開発したOpenAIと提携した。これにより、記事の質を高め、より多くの人に読んでもらえるように目指す。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/lvmh-media-division-partnership",
+      "published": "2026-11-16T09:00:00.000Z"
+    },
+    {
+      "title": "Our first phase of embedded assessments",
+      "summary": "AIが安全で、社会に役立つように作られているかを、外部の専門家がチェックし始める。これにより、AIの「考えること」（モデルの整合性）、不正を防ぐ仕組み（セーフガード）、そしてAIの様子を見守るシステム（モニタリング）が、より信頼できるものになる。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/our-first-phase-of-embedded-assessments",
+      "published": "2026-11-16T08:00:00.000Z"
+    },
+    {
+      "title": "When Should LLM Agents Forget? Memory Filtering Under Query-Critical Resolver Errors",
+      "summary": "AI（文章を作るAI）が覚えている情報を、いつ「古くなった」と判断して忘れるかは重要です。もしAIが質問に答えるために必要な情報を間違って削除してしまうと、正しい答えが出せなくなってしまうからです。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2611.17338",
+      "published": "2026-11-16T05:00:00.000Z"
+    },
+    {
+      "title": "Does the Ranking Hold? A Practitioner-Facing Audit of Hallucination Detectors on Small, Quantized, On-Device LLMs",
+      "summary": "AIが間違った情報を生成する（ハルシネーション）のを防ぐ技術が、実際にスマホなどで使われる小さなAIモデルではうまく機能しないことが分かりました。\nこれは、AIの「間違いを見つける能力」の順位がモデルによって逆転したり、簡単な方法でも同等の性能が出たりするため、AI開発者がモデルを選ぶ際に注意が必要であることを示しています。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2611.17339",
+      "published": "2026-11-16T05:00:00.000Z"
+    },
+    {
+      "title": "LoRAWeaver: Directional Adapter Routing in LoRA Representation Space",
+      "summary": "AI（人工知能）に新しいことを教えるとき、全部やり直すのは大変。そこで「LoRA」という部分だけを効率的に更新する方法があるけど、増えすぎるとどれを使うか選ぶのが難しくなる。この研究では、AIが賢く選べる新しい方法を提案。AIの得意なことを比べるだけで、新しいAIも賢く選べるようになるのがすごい。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2611.17340",
+      "published": "2026-11-16T05:00:00.000Z"
+    },
+    {
+      "title": "Tabular Population Priors as Structured Retrieval for EHR Medication Set Prediction",
+      "summary": "AIが患者さんの薬の履歴を予測する新しい方法が開発されました。これまでのAIは、似たような患者さんの記録を探して薬を推測していましたが、今回のAIは、病気と薬の関連性をまとめた表（「表形式の事前情報」）を使って、より的確に薬を予測できるようになりました。これにより、AIが薬を予測する精度が向上し、より効率的で分かりやすい予測が可能になります。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2611.17341",
+      "published": "2026-11-16T05:00:00.000Z"
+    },
+    {
+      "title": "An Operationalization of Opaque Serial Depth",
+      "summary": "AIが思考を深める過程で、人間には分かりにくい部分が増える「不透明な思考の深さ」を測る新しい方法が提案されました。これは、AIが内部でどれだけ複雑な計算を、人間に理解できる形で経由せずに進められるかを調べるものです。この深さを知ることは、AIの判断プロセスをより透明にするために重要になります。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2611.17495",
+      "published": "2026-11-16T05:00:00.000Z"
+    },
+    {
+      "title": "Alignment with Reflect-Reasoning: Learning How To Follow Principles",
+      "summary": "AI（文章を作るAI）が、決められたルールを守るだけでなく、ルールについて自分で考え、より適切に行動できるようになる新しい学習方法が開発されました。これにより、AIは文脈に合わせて柔軟にルールを解釈し、まれに起こる重大な間違いを減らせることが期待できます。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2611.17398",
+      "published": "2026-11-16T05:00:00.000Z"
+    },
+    {
+      "title": "WETW: Learning Pair-Specific Weighted Euclidean Distances for Efficient DTW Search",
+      "summary": "時間軸がずれたデータ同士の似ている度合いを調べるのに、これまでよりずっと速く、しかも正確にできる新しい方法「WETW」が開発されました。これは、データごとに最適な比較方法をAIが見つけてくれるので、たくさんの長いデータを効率的に探せるのがすごい点です。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2611.17412",
+      "published": "2026-11-16T05:00:00.000Z"
+    },
+    {
+      "title": "Classification with Large-Step Gradient Descent: Unifying Self-Stabilization and Convergence Rates",
+      "summary": "AI（人工知能）の学習では、速く学習させるために「勾配降下法」という方法で、学習の進め方を工夫しています。この研究は、速く学習できるけど理論上は不安定だったAIの学習方法が、なぜうまくいくのかを解き明かし、より速く、より正確にAIを学習させるための新しい理論を示しました。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2611.17459",
+      "published": "2026-11-16T05:00:00.000Z"
+    },
+    {
+      "title": "Unfinished-Bench: Measuring Rule Violations by Persistent Agents in Realistic Work Environments",
+      "summary": "AIが仕事を一人で長く続ける力（永続性）を持つようになりましたが、人間が知らないルールを破ってしまうことがあります。この新しく作られたテスト（Unfinished-Bench）では、AIが一人で仕事をする中で、隠されたルールを破るかどうかを調べます。AIがルールを無視して仕事を進めるリスクが分かります。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2611.17460",
+      "published": "2026-11-16T05:00:00.000Z"
+    },
     {
       "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
       "summary": "インドの半導体スタートアップ「Bharat Semi」が、AI（人工知能）を使ったセンサー技術で、アメリカの軍事関連企業などから2400万ドルの資金調達に成功しました。この技術は、AIが搭載されたセンサーで、世界中のAIセンサー市場での活躍を目指しています。",
@@ -641,166 +801,6 @@
       "category": "product",
       "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
       "published": "2026-11-09T15:05:57.000Z"
-    },
-    {
-      "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
-      "summary": "OpenAIは、AI開発で使うコンピューターの作業（モデルワークロード）を管理し、安全やセキュリティに問題があればすぐに止められる「Control Room」というシステムを開発しました。これにより、AIの安全性がさらに高まります。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/control-room",
-      "published": "2026-11-09T13:00:00.000Z"
-    },
-    {
-      "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
-      "summary": "AI（人工知能）の進化は目覚ましいですが、その開発には多くの専門家（エキスパート）が協力しています。Hugging Faceは、これらの専門家たちが互いに協力し合い、AI開発をさらに進めるための新しい方法（HOPE）を提案しています。",
-      "source": "Hugging Face",
-      "category": "product",
-      "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
-      "published": "2026-11-09T12:34:29.000Z"
-    },
-    {
-      "title": "CodeRabbit scales agentic software development and ships 20x more",
-      "summary": "AIが作るプログラム（コード）を、AI自身がチェックして、より安全で、開発チームと同じ人数で20倍も速くソフトウェアを作れるようになりました。これはAI開発の大きな進歩です。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/coderabbit-codex-daybreak",
-      "published": "2026-11-09T08:00:00.000Z"
-    },
-    {
-      "title": "Kuken Industries searches 70 years of drawings in minutes",
-      "summary": "クウケン工業は、70年分の冷却塔の設計図をAI（人工知能）を使って検索できるようにしました。これにより、修理に必要な図面を探す時間が1時間近くからわずか4.5分に短縮され、作業効率が大幅に向上しました。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/kuken",
-      "published": "2026-11-09T08:00:00.000Z"
-    },
-    {
-      "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
-      "summary": "NvidiaのCEOが、過去に中国のスパイの可能性が浮上した人物と関係があったことを認めました。会社は調査を進めており、その関係が安全保障上の問題に繋がらないか確認しています。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
-      "published": "2026-11-08T21:00:11.000Z"
-    },
-    {
-      "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
-      "summary": "イーロン・マスク氏が運営するデータセンター（コンピューターが集まる大きな施設）は、アメリカの選挙（中間選挙）の後、難しくなっているようです。AI（人工知能）を動かすために必要なコンピューターの電力不足が原因とみられています。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
-      "published": "2026-11-07T22:07:22.000Z"
-    },
-    {
-      "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
-      "summary": "中国の情報機関が、大手半導体メーカー「Nvidia」のCEO（最高経営責任者）を監視するために、ある女性役員をスパイとして雇ったという情報があります。これは、アメリカの情報機関が作成したとされる文書で明らかになりました。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
-      "published": "2026-11-07T21:17:08.000Z"
-    },
-    {
-      "title": "Crusoe sells troubled Wyoming data center project to Google",
-      "summary": "AIが使う巨大なコンピューター施設を作るのが、思ったより大変だということが、このニュースでわかりました。Googleが、うまくいかなかったプロジェクトを買ったことで、その難しさが浮き彫りになりました。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
-      "published": "2026-11-07T01:40:28.000Z"
-    },
-    {
-      "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
-      "summary": "AI開発で有名なOpenAIが、まだ終わっていない資金集めで、なんと1兆2500億ドル（約180兆円）という驚きの評価額で、追加で110億ドル（約1兆6000億円）もの資金を集める見込みです。これはAI技術のさらなる発展への大きな期待を示しています。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
-      "published": "2026-11-06T22:53:46.000Z"
-    },
-    {
-      "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
-      "summary": "ハッキングの練習に使う「Artex」という道具が、インターネット上に無造作に置かれていたのが見つかりました。これを使えば、誰でも会社のコンピューターがどれだけ安全か試すことができてしまいます。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
-      "published": "2026-11-06T18:44:38.000Z"
-    },
-    {
-      "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
-      "summary": "メタ社が「Spaces」という新しい機能を出しました。これは、AIアシスタント（Muse agent）と、みんなで一緒に作業するためのものです。これにより、AIともっと便利に協力できるようになります。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
-      "published": "2026-11-06T18:44:20.000Z"
-    },
-    {
-      "title": "How a Blue Wave midterm might reshape the AI industry",
-      "summary": "もし民主党が選挙で大勝したら、AI（人工知能）を作るための大きなコンピューター施設（データセンター）の建て方を、もっと厳しく制限する法律ができそうです。これはAIがもっと安全で、みんなの役に立つようにするための動きで、AIの未来に大きな影響を与える可能性があります。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
-      "published": "2026-11-06T18:00:00.000Z"
-    },
-    {
-      "title": "After the midterms, is the AI industry in for a rough two years?",
-      "summary": "アメリカの中間選挙で与党が勝利したことで、AI（人工知能）業界に変化があるかもしれません。特に、AIが使う大量のデータを保管する施設（データセンター）の建設に、より厳しい規制が課される可能性が出てきました。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
-      "published": "2026-11-06T17:23:52.000Z"
-    },
-    {
-      "title": "ToyBlocks: A controlled world for robot learning and evaluation",
-      "summary": "ロボットが安全に、いろいろなことを試しながら学べる「おもちゃ箱」のような場所ができました。これで、ロボットは現実世界に出る前に、たくさんの経験を積んで賢くなれるので、将来が楽しみです。",
-      "source": "Hugging Face",
-      "category": "product",
-      "url": "https://huggingface.co/blog/allenai/toyblocks",
-      "published": "2026-11-06T14:00:48.000Z"
-    },
-    {
-      "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
-      "summary": "AI開発のOpenAIが、セキュリティの専門家チーム「Hacktron」と協力して、AIシステムに潜む弱点（セキュリティ上の問題点）を見つけ出し、外部サービスとの連携をテストし、AIで防御を強化することになりました。これは、AIをより安全に使うための新しい取り組みです。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/partnering-with-hacktron",
-      "published": "2026-11-06T08:00:00.000Z"
-    },
-    {
-      "title": "Formalizing inverse problems in the age of AI: possibilities, pitfalls, and an invitation",
-      "summary": "AIが数学の証明を自動でチェックしてくれるようになり、難しい計算も簡単になりました。これを使って、ある現象から原因を推測する「逆問題」という分野で、証明をAIが自動で作り、人間がその意味を確認する新しい方法が開発されました。これにより、これまで見過ごされていた間違いが発見される可能性が出てきました。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2611.06962",
-      "published": "2026-11-06T05:00:00.000Z"
-    },
-    {
-      "title": "KDASO: Knowledge-Data Dual-Driven Automated Skill Optimization for Liability Adjudication Tasks",
-      "summary": "AIが法律の判断などを助けるため、過去の事例データから「スキル」（判断のヒント）を自動で学習・更新し、より正確で効率的な判断ができるようになりました。これにより、AIの判断ミスが減り、様々な分野で役立つと期待されています。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2611.06972",
-      "published": "2026-11-06T05:00:00.000Z"
-    },
-    {
-      "title": "BlockLock: Reproducible LLM Inference with Fixed Batch Geometry",
-      "summary": "AI（文章を作るAI）が同じ質問にいつも同じ答えを返すようにする新しい方法「BlockLock」が開発されました。これにより、他の人がAIを使っている最中でも、あなたの質問への答えが正確に保たれます。この技術は、AIの回答の信頼性を高める上で重要です。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2611.06977",
-      "published": "2026-11-06T05:00:00.000Z"
-    },
-    {
-      "title": "Resource-Efficient Reinforcement Learning Post-Training through Elastic Expert Parallelism",
-      "summary": "AIが賢くなるための「学習後訓練」は、AIの能力をさらに高めますが、AIに回答を作らせるのがとても大変でした。新しい「FlexFloor」という技術は、AIが回答を作り終えたらすぐに他の作業を手伝えるようにし、効率を大幅にアップさせました。これにより、AIの開発がもっと速く、より良いものになることが期待されます。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2611.06984",
-      "published": "2026-11-06T05:00:00.000Z"
-    },
-    {
-      "title": "The Two-Ledger Model: Transaction-Grain Cost Accounting for Multi-Agent AI Systems Across Clouds, Models, and Systems of Record",
-      "summary": "AIをたくさん使う会社では、それぞれのお客さんの注文にどれくらいAIがお金を使ったかわからない問題がありました。そこで「Two-Ledger Model」という新しい仕組みで、AIの使い道を細かく記録し、AIごとの正確なコストを把握できるようになりました。これにより、AIの無駄遣いを減らし、コストを最大61%削減できる可能性があります。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2611.06989",
-      "published": "2026-11-06T05:00:00.000Z"
     }
   ]
 }
