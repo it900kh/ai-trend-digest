@@ -1,7 +1,55 @@
 {
-  "updatedAt": "2026-11-17T04:21:23.652Z",
+  "updatedAt": "2026-11-18T03:20:23.698Z",
   "count": 100,
   "items": [
+    {
+      "title": "Introducing GPT-6.2 Astra and Sol",
+      "summary": "文章を作るAI「GPT-6.2 Astra」と「Sol」が登場。仕事で役立つ文章作成やプログラミング、パソコン操作の性能が向上し、ChatGPTなどをより安く使えるようになったのが新しい点です。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+      "published": "2026-11-17T17:45:00.000Z"
+    },
+    {
+      "title": "Put Gemini to work for you",
+      "summary": "GoogleのAI「Gemini」が、6カ国で無料で使えるようになったよ。アメリカでは、あなたの代わりに仕事をしてくれる新機能が追加されて、Googleのサービスともっと連携できるようになって便利になったんだ。",
+      "source": "Google AI Blog",
+      "category": "research",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
+      "published": "2026-11-17T17:00:00.000Z"
+    },
+    {
+      "title": "Introducing ChatGPT for Sales",
+      "summary": "ChatGPTに「営業アシスタント」機能が追加！これを使えば、お客さんを調べたり、プレゼン資料を作ったり、営業記録を更新したりできて、仕事がずっと効率的になります。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/introducing-chatgpt-for-sales",
+      "published": "2026-11-17T08:00:00.000Z"
+    },
+    {
+      "title": "Strengthening NATO and allied cyber defenses with AI",
+      "summary": "AI（人工知能）を使って、NATO（北大西洋条約機構）とその協力国がサイバー攻撃に強くなるための取り組みを紹介。AIで「弱点を見つけたり、修正を試したり、大切なシステムを守ったり」することで、信頼できる守りを強化する。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+      "published": "2026-11-17T00:00:00.000Z"
+    },
+    {
+      "title": "Astra for Law leads in legal intelligence",
+      "summary": "法律分野のAI「Astra for Law」が、24の法律分野での評価でトップになりました。ChatGPT Enterpriseを使っている人は、このAIにアクセスできるようになりました。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/astra-law-6-2",
+      "published": "2026-11-17T00:00:00.000Z"
+    },
+    {
+      "title": "Introducing OpenAI for Chile",
+      "summary": "OpenAIはチリ政府と協力し、AIを安全に使いこなせるようにしたり、公務員がAIのスキルを身につけたり、地元のスタートアップがAIアプリを開発するのを応援します。これは、AIが社会に役立つように、みんなで協力していくための取り組みです。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/introducing-openai-for-chile",
+      "published": "2026-11-17T00:00:00.000Z"
+    },
     {
       "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
       "summary": "サイバー攻撃から会社を守るAI（人工知能）の会社が、わずか3ヶ月で10億ドル（約1500億円）というすごい評価額になった。これは、たくさんの投資家が、このAIが新しいサイバー攻撃から守るのに役立つと期待しているからだ。",
@@ -161,6 +209,22 @@
       "category": "research",
       "url": "https://arxiv.org/abs/2611.17460",
       "published": "2026-11-16T05:00:00.000Z"
+    },
+    {
+      "title": "Diffusion Tree Sampling for Inference Time Adaptation of Crystal Generative Models",
+      "summary": "結晶を作るAI（生成モデル）を、目的を達成するために少しだけ賢くする新しい方法が見つかりました。これまでAIを賢くするには時間がかかりましたが、この「拡散木サンプリング」という技術を使えば、AIの学習データを直接変えずに、目的に合った結晶を効率的に見つけられるようになります。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2611.17462",
+      "published": "2026-11-16T05:00:00.000Z"
+    },
+    {
+      "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
+      "summary": "AIの会社Hugging Faceが、OpenRouterというサービスと協力して、誰でも簡単にAI（文章を作るAIなど）を使えるようにしました。これにより、色々なAIを試したり、開発したりするのがずっと楽になります。",
+      "source": "Hugging Face",
+      "category": "product",
+      "url": "https://huggingface.co/blog/openrouter",
+      "published": "2026-11-16T00:00:00.000Z"
     },
     {
       "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
@@ -737,70 +801,6 @@
       "category": "business",
       "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
       "published": "2026-11-10T01:27:12.000Z"
-    },
-    {
-      "title": "Pay for Hugging Face Hub with your Google Cloud Account",
-      "summary": "Hugging FaceのAIモデルを、Googleのクラウドサービス（コンピューティング資源などを貸し出すサービス）を通じて、さらに便利に使えるようになりました。これにより、AI開発者がより手軽に最新のAI技術を利用できるようになります。",
-      "source": "Hugging Face",
-      "category": "product",
-      "url": "https://huggingface.co/blog/hub-gcp-marketplace",
-      "published": "2026-11-10T00:00:00.000Z"
-    },
-    {
-      "title": "Decision Models in Hugging Face",
-      "summary": "AIが「どう判断するか」を決める「判断モデル」が、AI開発でよく使われる「Hugging Face」という場所で、より使いやすくなった。これにより、AIがもっと賢く、的確な判断を下せるようになることが期待される。",
-      "source": "Hugging Face",
-      "category": "product",
-      "url": "https://huggingface.co/blog/decision",
-      "published": "2026-11-10T00:00:00.000Z"
-    },
-    {
-      "title": "Jensen Huang reportedly engaged a PR firm with a history of handling  high-profile sex scandals a year ago",
-      "summary": "AI界の著名な人物が、過去にスキャンダル対応で実績のある広報会社と、1年前に契約していたことが報じられました。これは、その人物のビジネス取引に関する報道があった直後の出来事です。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/",
-      "published": "2026-11-09T23:28:37.000Z"
-    },
-    {
-      "title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
-      "summary": "NvidiaのCEOが中国の諜報員と疑われる人物と親しい関係にあると、 scandal が起きる半年も前から専門家が疑問を呈していました。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
-      "published": "2026-11-09T22:46:09.000Z"
-    },
-    {
-      "title": "The race is on to sue Nvidia",
-      "summary": "NvidiaのCEOと中国のスパイ疑惑の人物との関係について、社内調査が始まり株価が下がりました。以前「問題ない」としていた説明が、高額な訴訟につながる可能性が出てきました。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/",
-      "published": "2026-11-09T22:23:42.000Z"
-    },
-    {
-      "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
-      "summary": "NvidiaのCEOが、AI開発会社ElevenLabsのイベントをキャンセルしました。これは、同社がAI開発で使ったデータについて論争になっているためで、Anthropicという別のAI会社とのイベントもキャンセルしています。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
-      "published": "2026-11-09T20:09:06.000Z"
-    },
-    {
-      "title": "ChatGPT Enterprise now available in AWS Marketplace",
-      "summary": "ChatGPT Enterpriseが、Amazon Web Services（AWS）のマーケットプレイス（便利なアプリの集まる場所）で利用できるようになりました。これでお店が、いつも使っているAWSの契約や支払い方法で、ChatGPT Enterpriseを簡単に手に入れられます。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
-      "published": "2026-11-09T19:00:00.000Z"
-    },
-    {
-      "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
-      "summary": "日本の人々や経済の状況を学習したAIを作るため、架空のデータセット「Nemotron-Personas-Finance-Japan」が作られました。これにより、より現実に即したAIの開発が期待できます。",
-      "source": "Hugging Face",
-      "category": "product",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
-      "published": "2026-11-09T15:05:57.000Z"
     }
   ]
 }
