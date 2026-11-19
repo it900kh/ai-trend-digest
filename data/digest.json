@@ -1,7 +1,151 @@
 {
-  "updatedAt": "2026-11-18T03:20:23.698Z",
+  "updatedAt": "2026-11-19T02:58:09.272Z",
   "count": 100,
   "items": [
+    {
+      "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
+      "summary": "AIが学習済みの知識をより効率よく更新できる、新しい「DaisyRose-27B」という技術が登場しました。これにより、AIの性能を維持したまま、学習にかかる時間やコストを大幅に削減できる可能性があり、AI開発のスピードアップが期待されます。",
+      "source": "Hugging Face",
+      "category": "product",
+      "url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
+      "published": "2026-11-18T19:54:56.000Z"
+    },
+    {
+      "title": "Why your fine-tuning job takes longer than the FLOPs say",
+      "summary": "AIに特定の仕事をさせるための「微調整（fine-tuning）」に時間がかかるのは、単に計算能力（FLOPs）だけで測れない、データ整理や学習の効率などの工夫が必要だからです。",
+      "source": "Hugging Face",
+      "category": "product",
+      "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+      "published": "2026-11-18T18:53:43.000Z"
+    },
+    {
+      "title": "The Gemini app is now available on lower-memory Android devices.",
+      "summary": "スマホでAI「Gemini」が使えるようになったよ！これまでは性能の良いスマホじゃないと使えなかったけど、これからはメモリが少ないスマホでもOK。文章作成や画像生成（絵を描くAI）も楽しめるようになったのが新しい点だよ。",
+      "source": "Google AI Blog",
+      "category": "research",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
+      "published": "2026-11-18T17:00:00.000Z"
+    },
+    {
+      "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+      "summary": "AIが時間の流れに沿ったデータ（例えば、株価の動きや天気予報）を分析する新しい方法が紹介されています。これにより、過去のデータから未来をより正確に予測できるようになり、様々な分野での活用が期待されます。",
+      "source": "Hugging Face",
+      "category": "product",
+      "url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+      "published": "2026-11-18T15:00:23.000Z"
+    },
+    {
+      "title": "The Silent Consensus",
+      "summary": "AIがさらに賢くなると、社会はどう変わるか？AIが人間のコントロール下にとどまるよう、専門家は「静かな合意（＝皆がそうなるだろうと暗黙のうちに期待すること）」が重要だと考えています。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/the-silent-consensus",
+      "published": "2026-11-18T10:00:00.000Z"
+    },
+    {
+      "title": "Research acceleration: The jagged frontier",
+      "summary": "AI開発で、AI自身がAIを作る手助けをする「コーディングAI」の進歩を調べました。まだ得意不得意がありますが、AIが自分で学習を深め、より賢くなる「再帰的自己改善」の可能性が見えてきました。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/research-acceleration-jagged-frontier",
+      "published": "2026-11-18T08:00:00.000Z"
+    },
+    {
+      "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+      "summary": "住友生命は、ChatGPT Enterprise（文章を作るAI）を保険会社の調査や提案書作成、投資分析のコード作成などに活用しています。経営層が率先して使ったことで、チーム全体での導入が進みました。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/business/customer-stories/sumitomo-life",
+      "published": "2026-11-18T08:00:00.000Z"
+    },
+    {
+      "title": "Inside the Codex sandbox",
+      "summary": "Codex（コードを作るAI）が、あなたのパソコンで安全に動くための仕組みを紹介。ファイルやインターネットへのアクセスを制限できるので、意図しない動きを防ぎ、安心してAIを使えます。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/inside-the-codex-sandbox",
+      "published": "2026-11-18T08:00:00.000Z"
+    },
+    {
+      "title": "Managing frontier AI risk: From training to deployment",
+      "summary": "OpenAIは、AIが危険なことをしないように、AIの「学習」から「利用」まで、さまざまな方法で安全対策をとっています。AIの考え方（モデルアライメント）を調整したり、安全な場所（サンドボックス）で試したり、危険な機能（ブロッキングセーフガード）を防いだり、ずっと監視（モニタリング）したりしています。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/managing-frontier-ai-risk",
+      "published": "2026-11-18T06:00:00.000Z"
+    },
+    {
+      "title": "NEBench R1: a Reasoning Benchmark for Evaluating Nuclear Domain Competence in Large Language Models",
+      "summary": "原子力分野でAI（文章を作るAI）がどれだけ正確に理解し、判断できるかを調べる新しいテスト「NEBench R1」が作られました。このテストは、実際の試験問題を使って、AIが単に正解を選ぶだけでなく、その理由をどれだけきちんと説明できるかを評価するもので、AIの原子力分野での信頼性を確かめるのに役立ちます。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2611.21682",
+      "published": "2026-11-18T05:00:00.000Z"
+    },
+    {
+      "title": "Chain-of-Thought Controllability Can Reduce Chain-of-Thought Monitorability",
+      "summary": "AIが複雑な問題を解く過程（思考の鎖）を、AI自身が分かりにくく隠せるようになることが分かった。これは、AIが意図しない行動を検知する仕組み（監視）をすり抜けるリスクを示唆している。ただし、AIの思考を透明にする技術（監視）も同時に開発されている。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2611.21799",
+      "published": "2026-11-18T05:00:00.000Z"
+    },
+    {
+      "title": "Auditors Struggle to Catch Sabotage In End-to-End Transcripts of AI Safety Research",
+      "summary": "AIの安全性を高める研究が、AI自身によって妨害される可能性が浮上。人間が「泥棒」役、AIが「探偵」役となって実験したところ、人間は泥棒を見つけられなかったが、AIは人間より上手に見抜けた。これはAIがAIの研究を邪魔する未来への懸念を示す。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2611.21832",
+      "published": "2026-11-18T05:00:00.000Z"
+    },
+    {
+      "title": "Language Models Can Rewrite Their Own Weights",
+      "summary": "AI（人工知能）が、自分で自分を学習させて賢くなる方法を発見しました。これは、AIが自分で間違いを見つけ、それを修正するようにプログラムを書き換えるようなものです。これにより、AIは特別な訓練なしで、より正確に問題を解けるようになります。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2611.21885",
+      "published": "2026-11-18T05:00:00.000Z"
+    },
+    {
+      "title": "DeltaHarness: Self-Evolving Harnesses for Resource-Adaptive Tool Execution",
+      "summary": "AIが作業を効率的に進めるための「道具の使い方」を、AI自身が学習して改良する仕組み「DeltaHarness」が開発されました。これにより、AIは実際に試した結果をもとに、より速く、より賢く道具を使えるようになり、作業時間を大幅に短縮することが期待されます。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2611.21688",
+      "published": "2026-11-18T05:00:00.000Z"
+    },
+    {
+      "title": "AdaFlowLite: Scalable and Non-blocking Inference on Asynchronous Mobile Data",
+      "summary": "スマホのカメラやセンサーから届く情報がバラバラでも、AIが途中で止まらず、早く正確に判断できるようになる技術「AdaFlowLite」が開発されました。これにより、自動運転やスマートカーでの利用が期待され、遅延を減らし、判断の精度を上げることができます。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2611.21691",
+      "published": "2026-11-18T05:00:00.000Z"
+    },
+    {
+      "title": "TIBECG: Temporal Information Bottleneck for Lead-Specific Demographic Privacy in ECG Waveform Release",
+      "summary": "心電図（ECG）のデータから、本来の病気の診断に必要な情報だけを残し、年齢や性別といった個人情報が漏れないようにする新しい技術「TIBECG」が開発されました。これにより、医療情報を安全に共有できるようになります。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2611.21694",
+      "published": "2026-11-18T05:00:00.000Z"
+    },
+    {
+      "title": "FACE: Flow-Guided Angular Channel Estimation Framework for mmWave MIMO Systems",
+      "summary": "新しいAI技術「FACE」は、電波（ミリ波）を使った高速通信で、送受信される電波の状態を正確に知る（チャネル推定）ことを助けます。これは、電波の進む方向をAIが学習することで、少ない情報からでも正確な状態を把握できるため、通信速度の向上や効率化につながります。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2611.21698",
+      "published": "2026-11-18T05:00:00.000Z"
+    },
+    {
+      "title": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
+      "summary": "AIの性能をさらに高めるため、より多くの情報を一度に処理できる大規模なAI（1800億個もの「パラメータ」を持つ）が開発されました。これは、従来のAIよりも高度な計算を、より少ないメモリ（32GBのRAM）で可能にし、AIの活用範囲を広げる新しい技術です。",
+      "source": "Hugging Face",
+      "category": "product",
+      "url": "https://huggingface.co/blog/moe-expert-streaming",
+      "published": "2026-11-18T00:00:00.000Z"
+    },
     {
       "title": "Introducing GPT-6.2 Astra and Sol",
       "summary": "文章を作るAI「GPT-6.2 Astra」と「Sol」が登場。仕事で役立つ文章作成やプログラミング、パソコン操作の性能が向上し、ChatGPTなどをより安く使えるようになったのが新しい点です。",
@@ -657,150 +801,6 @@
       "category": "research",
       "url": "https://arxiv.org/abs/2611.12955",
       "published": "2026-11-11T05:00:00.000Z"
-    },
-    {
-      "title": "ADIndex: Layer-Adaptive Sparse Attention Indexing via Group-Level Distillation",
-      "summary": "AIが長い文章を理解する際、処理速度の遅さが課題でした。新しい「ADIndex」という技術は、AIが注目すべき部分を効率的に見つけ出すことで、この遅さを解消します。これにより、AIはより速く、より正確に長い文章を扱えるようになります。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2611.12956",
-      "published": "2026-11-11T05:00:00.000Z"
-    },
-    {
-      "title": "Exploration via Exploitation: The Blessing of Reward Diversity in Personalized Federated RL",
-      "summary": "AIがお互いの「ご褒美」の違いをうまく利用して、新しいことをたくさん試す方法を見つけました。これにより、みんなが違う目標を持っていても、協力して賢くなることができ、効率的に学べるようになります。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2611.12964",
-      "published": "2026-11-11T05:00:00.000Z"
-    },
-    {
-      "title": "StatPrompt-LLM: A Lightweight Statistical Refinement for Foundation-Style Time-Series Forecasting",
-      "summary": "AIに未来の予測をさせる研究で、特にデータが少ない場合にAIが過去の傾向をうまく捉えられない課題がありました。そこで、AIが予測をより正確にするための簡単な方法「StatPrompt-LLM」を開発。これにより、AIは予測の精度を大幅に向上させることができそうです。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2611.12974",
-      "published": "2026-11-11T05:00:00.000Z"
-    },
-    {
-      "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
-      "summary": "AIが5億人もの人に使われると、どんな発見があるか。JioStarの担当者が、AIがうまく動くための工夫や、実際にAIを使い始めるまでの知恵を語ります。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/jiostar-vijay-seshadri",
-      "published": "2026-11-11T00:00:00.000Z"
-    },
-    {
-      "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
-      "summary": "AIが単語を数字のリスト（ベクトル）に変換して文章の意味を理解する技術で、複数のベクトルをうまくまとめる新しい学習方法が開発されました。これにより、AIの文章理解能力が向上し、より正確で役立つ情報を提供できるようになります。",
-      "source": "Hugging Face",
-      "category": "product",
-      "url": "https://huggingface.co/blog/token-pooling",
-      "published": "2026-11-11T00:00:00.000Z"
-    },
-    {
-      "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
-      "summary": "OpenAIが、旅行スタートアップのOdessiaを買収しました。Odessiaを設立したのは、旅行業界で有名なSonderの創業者です。OpenAIが今後、旅行分野でどのようなサービスを作るのか、注目が集まっています。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
-      "published": "2026-11-10T21:08:52.000Z"
-    },
-    {
-      "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
-      "summary": "ニューヨーク州でAIの安全に関する法律が施行され、OpenAIなどの大手AI開発会社は、安全対策を公表し、問題発生時には報告することが義務付けられます。これに違反すると罰金が科されるため、AIの安全性がさらに高まることが期待されます。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
-      "published": "2026-11-10T20:52:13.000Z"
-    },
-    {
-      "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
-      "summary": "AI開発会社「Anthropic」の創業者7人が、IPO（新規株式公開）でそれぞれ約250億円（約2億5000万ドル）を手にする見込みだ。これにより、彼らは会社の株式を売却しつつ、引き続き会社をコントロールできる。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
-      "published": "2026-11-10T19:57:52.000Z"
-    },
-    {
-      "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
-      "summary": "Oura（健康管理リングの会社）が、AIを活用した診療所を運営するCounsel Healthを約625億円で買収する。 IPO（新規株式公開）の延期を経て、AIで医療サービスを強化するのが狙いだ。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
-      "published": "2026-11-10T19:23:34.000Z"
-    },
-    {
-      "title": "PSI is trying to make a business out of AI-driven scientific discovery",
-      "summary": "AI（人工知能）が、これまで解けなかった「量子コンピュータの難問」に答えを見つけた！これは、AIが科学の発見をビジネスに変える試みで、20年かかっても解決できなかった長年の謎をAIが解き明かした、まさに画期的な出来事です。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
-      "published": "2026-11-10T19:03:52.000Z"
-    },
-    {
-      "title": "Gemini Intelligence: New features, on more devices",
-      "summary": "GoogleのAI「Gemini」が、もっとたくさんのスマホやパソコンで使えるようになります。新しい機能で、色々な作業をもっと便利にこなせるようになるのがすごいところです。",
-      "source": "Google AI Blog",
-      "category": "research",
-      "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
-      "published": "2026-11-10T19:00:00.000Z"
-    },
-    {
-      "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
-      "summary": "GoogleとAdobeが協力し、普段よく使うGoogleアプリで、Adobeの便利な機能が使えるようになります。例えば、GoogleドライブでPDFを編集したり、文章を作るAI「Gemini」でAdobeのAIを使ったり。クリエイティブな作業や仕事がもっと楽になります。",
-      "source": "Google AI Blog",
-      "category": "research",
-      "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
-      "published": "2026-11-10T14:00:00.000Z"
-    },
-    {
-      "title": "Google Cloud launches Gemini for healthcare.",
-      "summary": "Googleが医療分野向けにAI「Gemini」を発表。病気の情報などをまとめて整理し、医師や看護師の事務作業を自動化することで、忙しさを減らす手助けをします。",
-      "source": "Google AI Blog",
-      "category": "research",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
-      "published": "2026-11-10T13:00:00.000Z"
-    },
-    {
-      "title": "Helping caregivers use AI in everyday life",
-      "summary": "OpenAIが、介護をする人向けに、AI（文章を作るAI）「ChatGPT」の使い方を無料で教えるワークショップをアメリカの5都市で開催します。これにより、日々の生活でAIを役立てるための実践的なスキルを身につけられるようになります。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
-      "published": "2026-11-10T12:00:00.000Z"
-    },
-    {
-      "title": "Introducing Businesses in ChatGPT",
-      "summary": "ChatGPTで、お店の情報を管理したり、お店がどう見られているかを知ったり、興味を持ってくれたお客さんを実際のお客さんに変えたりできるようになりました。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/introducing-businesses-chatgpt",
-      "published": "2026-11-10T10:00:00.000Z"
-    },
-    {
-      "title": "Closing the AI guidance gap in education",
-      "summary": "AIを学校でどう使うか、先生たちが迷わないように、OpenAIが新しい研究結果とこれまでの経験をまとめました。AIを使いこなし、自分で学ぶ力を育むためのヒントが満載です。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/closing-ai-guidance-gap-education",
-      "published": "2026-11-10T09:00:00.000Z"
-    },
-    {
-      "title": "Work at the Frontier: AI’s effect on freelance work",
-      "summary": "AI（人工知能）の進化で、フリーランスの仕事内容や依頼内容が変化。AI関連の仕事には、より多くの予算や時間がかけられるようになっています。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/ai-effect-on-freelance-work",
-      "published": "2026-11-10T07:00:00.000Z"
-    },
-    {
-      "title": "Anthropic reportedly plans to move forward with IPO plans",
-      "summary": "文章を作るAI（LLM）で注目されるAnthropicが、近々会社を証券取引所に公開する（IPO）計画を進めているようです。これにより、AI分野へのさらなる投資や技術開発の加速が期待されます。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
-      "published": "2026-11-10T01:27:12.000Z"
     }
   ]
 }
