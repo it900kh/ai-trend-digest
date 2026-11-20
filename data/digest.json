@@ -1,7 +1,103 @@
 {
-  "updatedAt": "2026-11-19T02:58:09.272Z",
+  "updatedAt": "2026-11-20T02:52:31.851Z",
   "count": 100,
   "items": [
+    {
+      "title": "Introducing Tool Retrieval in the Gemini API",
+      "summary": "AI（人工知能）が、より多くの便利な道具（ツール）を効率的に使えるようになりました。これにより、AIは複雑な質問にも的確に答えたり、様々な作業をこなせるようになります。",
+      "source": "Google AI Blog",
+      "category": "research",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
+      "published": "2026-11-19T18:00:00.000Z"
+    },
+    {
+      "title": "Walter Isaacson on curiosity and creativity in the AI age.",
+      "summary": "AI時代を生き抜くには、歴史上の偉人のように「なぜ？」と問い続ける好奇心と、自分の頭で考える力が大切だと語られています。AIにできない人間ならではの創造性や判断力を育むヒントが、この対談で語られています。",
+      "source": "Google AI Blog",
+      "category": "research",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/",
+      "published": "2026-11-19T17:00:00.000Z"
+    },
+    {
+      "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+      "summary": "ChatGPTが速く動くのは、OpenAIが作った「パフォーマンスファクトリー」という仕組みのおかげです。これは、AI（Codex）が性能の悪いところを見つけて直してくれるので、みんなが快適に使えるようになっています。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+      "published": "2026-11-19T08:00:00.000Z"
+    },
+    {
+      "title": "Neural Network-Based Modeling of Hysteretic Systems: From Prandtl and Preisach Neural Networks to Neuro-Madelung and Neuroplastic Continuous Models",
+      "summary": "AIが、忘れっぽい性質（ヒステリシス）を持つ複雑な現象を理解・表現する技術が進化しています。特定のAIモデル（例：Prandtl、Preisach）から、材料の劣化や変化の速さも考慮できる新しいモデルまで開発され、建物や素材の挙動解析に役立ちます。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2611.23240",
+      "published": "2026-11-19T05:00:00.000Z"
+    },
+    {
+      "title": "GridForge: An Open Physics-Informed Digital Twin and Benchmark Suite for UK 11 kV Underground Distribution Cables",
+      "summary": "イギリスの送電網で使われる地下ケーブルの、AIを使った診断・予測システム「GridForge」が開発されました。これは、実際のケーブルの熱や状態を正確に再現する「デジタルツイン」と、その性能を比較するための「ベンチマーク」をセットにしたもので、メンテナンス計画の精度向上に役立ちます。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2611.23241",
+      "published": "2026-11-19T05:00:00.000Z"
+    },
+    {
+      "title": "Biologically-Inspired Spike Encoding and Optimization for Spiking Neural Networks",
+      "summary": "脳の仕組みをまねた新しいAI（Spiking Neural Networks）で、画像認識の賢さを高める研究です。脳のように情報を「いつ」「どれだけ」送るかを工夫することで、少ないエネルギーで賢く動くAIの実現に近づきます。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2611.23242",
+      "published": "2026-11-19T05:00:00.000Z"
+    },
+    {
+      "title": "Goemans's Unsplittable-Flow Conjecture: The Anatomy of AI-Assisted Counterexample Discovery",
+      "summary": "AIの助けで、長年未解決だった数学の予想が覆された。AI（ChatGPT）は、ある問題の「反例」（予想が間違っている例）を発見し、その秘密を解き明かす手助けをした。これにより、AIが複雑な問題を解決する新たな道が開かれた。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2611.23244",
+      "published": "2026-11-19T05:00:00.000Z"
+    },
+    {
+      "title": "Response-Relevant Information Is Not Sufficient for Neural Training-State Equivalence",
+      "summary": "AI（人工知能）が学習中の状態が同じかどうかを判断するには、AIの「返事」だけでは十分ではないことがわかりました。学習を少し変えたときに、AIがどう反応するかを調べることで、学習状態をより正確に把握できる可能性があります。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2611.23245",
+      "published": "2026-11-19T05:00:00.000Z"
+    },
+    {
+      "title": "Deploying Daybreak Red",
+      "summary": "OpenAIが公開した「Daybreak Red」は、AIを使ったセキュリティ調査のやり方をまとめたものです。安全に調査を進めるための仕組みや、設定方法、注意点などが具体的に示されています。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/business/learn/deploying-daybreak-red",
+      "published": "2026-11-19T00:00:00.000Z"
+    },
+    {
+      "title": "See PR scans in action",
+      "summary": "AIがコードの誤りを見つけてくれる機能（PRスキャン）のデモ映像です。開発者がコードを提出する際に、AIが自動で問題点を探してくれる様子がわかります。これにより、プログラムの質が上がり、開発スピードも速くなることが期待されます。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/business/learn/pr-scans-demo",
+      "published": "2026-11-19T00:00:00.000Z"
+    },
+    {
+      "title": "Explore the Codex Security Plugin",
+      "summary": "AIがコードを書くのを手助けする「Codex Security Plugin」という新しい道具が登場しました。これを使うと、AIが書いたコードに間違いがないか、安全かどうかを簡単にチェックできるようになり、開発作業がもっとスムーズになります。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/business/learn/codex-security-plugin-demo",
+      "published": "2026-11-19T00:00:00.000Z"
+    },
+    {
+      "title": "Get started with Daybreak Blue",
+      "summary": "OpenAIが提供する「Daybreak Blue」の使い始め方を動画で紹介。設定方法や始め方が分かりやすく解説されており、AIを初めて使う人でもスムーズに体験できるようになっています。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
+      "published": "2026-11-19T00:00:00.000Z"
+    },
     {
       "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
       "summary": "AIが学習済みの知識をより効率よく更新できる、新しい「DaisyRose-27B」という技術が登場しました。これにより、AIの性能を維持したまま、学習にかかる時間やコストを大幅に削減できる可能性があり、AI開発のスピードアップが期待されます。",
@@ -91,6 +187,14 @@
       "published": "2026-11-18T05:00:00.000Z"
     },
     {
+      "title": "How Much of SAR Vehicle Recognition Is the Vehicle? Background Shortcuts, Angle Gaps and Partial Libraries on MSTAR and ATRNet-STAR",
+      "summary": "AIが写っている車を識別する能力は、車そのものよりも背景に助けられていることが多いことが分かりました。車を隠しても高い正答率が出る、このAIの弱点を直すための新しい実験方法や、色々な角度から撮影された画像だけではうまく識別できない問題も指摘されています。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2611.21827",
+      "published": "2026-11-18T05:00:00.000Z"
+    },
+    {
       "title": "Auditors Struggle to Catch Sabotage In End-to-End Transcripts of AI Safety Research",
       "summary": "AIの安全性を高める研究が、AI自身によって妨害される可能性が浮上。人間が「泥棒」役、AIが「探偵」役となって実験したところ、人間は泥棒を見つけられなかったが、AIは人間より上手に見抜けた。これはAIがAIの研究を邪魔する未来への懸念を示す。",
       "source": "arXiv (cs.AI)",
@@ -131,6 +235,14 @@
       "published": "2026-11-18T05:00:00.000Z"
     },
     {
+      "title": "Layerwise Learning-Rate Scaling in Vision Networks: Effective-Rate Identification, Power-Mean Aggregation, and Budget Dependence",
+      "summary": "AIが絵を認識する仕組み（画像認識AI）で、学習させる時の「進め方」のコツを見つけました。これにより、AIの性能が上がり、より正確に絵を認識できるようになる可能性があります。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2611.21696",
+      "published": "2026-11-18T05:00:00.000Z"
+    },
+    {
       "title": "FACE: Flow-Guided Angular Channel Estimation Framework for mmWave MIMO Systems",
       "summary": "新しいAI技術「FACE」は、電波（ミリ波）を使った高速通信で、送受信される電波の状態を正確に知る（チャネル推定）ことを助けます。これは、電波の進む方向をAIが学習することで、少ない情報からでも正確な状態を把握できるため、通信速度の向上や効率化につながります。",
       "source": "arXiv (cs.LG)",
@@ -144,6 +256,14 @@
       "source": "Hugging Face",
       "category": "product",
       "url": "https://huggingface.co/blog/moe-expert-streaming",
+      "published": "2026-11-18T00:00:00.000Z"
+    },
+    {
+      "title": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
+      "summary": "AIが40以上の言語で「音」を「文字」に自動で変換する技術が発表されました。この技術は、これまで難しかった多くの言語での音声認識（声を聞いて文字にする）を、より速く、そして誰でも使いやすくすることを目指しています。",
+      "source": "Hugging Face",
+      "category": "product",
+      "url": "https://huggingface.co/blog/rumble-2-flash",
       "published": "2026-11-18T00:00:00.000Z"
     },
     {
@@ -681,126 +801,6 @@
       "category": "business",
       "url": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
       "published": "2026-11-11T23:28:45.000Z"
-    },
-    {
-      "title": "Jensen Huang accused of having another affair — with an Nvidia exec",
-      "summary": "NvidiaのCEOが、過去に女性との不倫を認めたにもかかわらず、今度は部下との不倫疑惑が浮上し、再び批判を浴びています。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/",
-      "published": "2026-11-11T23:17:05.000Z"
-    },
-    {
-      "title": "Why the data center you dread might never even be built",
-      "summary": "AIの急速な発展を支えるデータセンター建設には、地元住民の反対や電力不足など、計画を進める上で多くの困難が立ちはだかっています。さらに、発表されている計画の多くは、そもそも実現しない可能性が高いと指摘されています。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/",
-      "published": "2026-11-11T20:15:15.000Z"
-    },
-    {
-      "title": "Meta is losing its longtime head of  infrastructure",
-      "summary": "メタ社で長年インフラ（会社の土台となるシステム）を支えてきたサンタシュ・ジャナルダン氏が退任することになりました。彼の退任は、AI開発で重要となる、安定したインフラを維持する上で、新たな課題となる可能性があります。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure/",
-      "published": "2026-11-11T20:12:01.000Z"
-    },
-    {
-      "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
-      "summary": "AI（人工知能）に「決断」させるための新しいAPIが登場。画像や文章など様々な情報（マルチモーダル）を理解し、素早く正確な判断ができるのが特徴です。",
-      "source": "Google AI Blog",
-      "category": "research",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
-      "published": "2026-11-11T18:00:00.000Z"
-    },
-    {
-      "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
-      "summary": "Googleが新しい共同作業ツール「Tabletop」を発表。グループで旅行の計画を立てたり、アンケートやトーナメント表を作ったりできる。みんなで一緒に何かを進めるのに便利だ。",
-      "source": "Google AI Blog",
-      "category": "research",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
-      "published": "2026-11-11T16:00:00.000Z"
-    },
-    {
-      "title": "Experience the art and legacy of Dr. Esther Mahlangu",
-      "summary": "画家エスター・マハングさんの作品と人生をたどるオンラインアーカイブが、Google Arts & Cultureで公開されました。彼女のユニークなアートスタイルは、アフリカの文化や伝統を世界に広める上で大きな役割を果たしており、このアーカイブは、その功績を後世に伝える貴重な機会となります。",
-      "source": "Google AI Blog",
-      "category": "research",
-      "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/",
-      "published": "2026-11-11T09:00:00.000Z"
-    },
-    {
-      "title": "ChatGPT Plus for veterans and servicemembers",
-      "summary": "退役軍人や軍務に就いている人向けに、ChatGPT Plus（有料版）が無料で提供され、2万人以上が利用しました。彼らは、これを民間での仕事探しやキャリア準備に役立てています。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/chatgpt-plus-for-veterans",
-      "published": "2026-11-11T08:00:00.000Z"
-    },
-    {
-      "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
-      "summary": "スマホの中で賢く動くAIアシスタント「BotPsy」が開発されました。これは、インターネットにつながらなくても、あなたの質問に答えたり、指示を実行したりできる、小さなAI（言語モデル）です。",
-      "source": "Hugging Face",
-      "category": "product",
-      "url": "https://huggingface.co/blog/qvac/botpsy",
-      "published": "2026-11-11T05:01:16.000Z"
-    },
-    {
-      "title": "Auditable Human-Agent Teams for Autonomous X-ray Experimentation",
-      "summary": "AIが科学実験を自動で行う研究です。AIが人間の指示を受け、X線を使った実験を自ら進めます。誰がどんな判断をしたか記録することで、AIと人間、AI同士の協力がどのように進んだか分かり、今後のAI開発に役立つ成果です。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2611.12933",
-      "published": "2026-11-11T05:00:00.000Z"
-    },
-    {
-      "title": "EarthRecord: From Pixels to Land Change with Multimodal Agents over Four Decades of Satellite Imagery",
-      "summary": "AIが、何十年も前の衛星写真を見て、土地の様子がどう変わったかを正確に分析できるかを測る新しい試験（ベンチマーク）「EarthRecord」ができました。AIが自分で写真から分析し、土地の変化を調べる能力を試せるのが新しい点です。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2611.12934",
-      "published": "2026-11-11T05:00:00.000Z"
-    },
-    {
-      "title": "Train on prefill, monitor at decode: Using sparse autoencoders for topic monitoring",
-      "summary": "AIが文章を作る途中で、どんな話題について話しているかをリアルタイムで調べる新しい方法が見つかりました。この技術を使えば、AIの回答が途中で変わっても、話題の変化を正確に捉えられます。AIが安全な内容を生成するのに役立つだけでなく、もっと色々な場面でAIを賢く使うためのヒントにもなります。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2611.12935",
-      "published": "2026-11-11T05:00:00.000Z"
-    },
-    {
-      "title": "LandslideFM: A Foundation Model Towards Unified Landslide Perception and Understanding",
-      "summary": "地震や豪雨で土砂崩れが起きたとき、早く見つけて被害を防ぐのは大事です。このAI「LandslideFM」は、写真から土砂崩れを見つけるだけでなく、なぜ起きたのか、どんな状況かを理解することを目指した、新しいAIです。少ない写真データでも賢く学べるのが特徴です。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2611.12936",
-      "published": "2026-11-11T05:00:00.000Z"
-    },
-    {
-      "title": "Tracing Psychometric Inference in Large Language Models",
-      "summary": "AI（文章を作るAI）が、人の心の状態（性格や考え方など）を、まるで人間のように理解して、それに合った返事をするかを調べました。AIが人の心の構造を真似ているだけでなく、内部でもその構造を理解している可能性が示唆されました。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2611.12937",
-      "published": "2026-11-11T05:00:00.000Z"
-    },
-    {
-      "title": "An ensemble of graph generative models for assisted history matching of the Brugge field case",
-      "summary": "AIが、石油やガスの採掘現場（ブルージュ油田）の過去のデータと将来の予測をより正確に合わせるための新しい方法を開発しました。地質が複雑な場所でも、AIが場所ごとに合わせた予測モデルを作ることで、より確かな結果が得られるようになります。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2611.12927",
-      "published": "2026-11-11T05:00:00.000Z"
-    },
-    {
-      "title": "Predictive Surprise as Self-Grounding Concept Bottleneck for Interpretable Time Series",
-      "summary": "AIが「驚き」を予測することで、データの変化点を自動で見つけ出し、その意味を理解できるようになる新しい方法が提案されました。これにより、AIの予測がどれだけ信頼できるかがわかりやすく、医療などの重要な分野で役立つ可能性があります。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2611.12955",
-      "published": "2026-11-11T05:00:00.000Z"
     }
   ]
 }
