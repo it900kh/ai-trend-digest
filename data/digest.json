@@ -1,7 +1,127 @@
 {
-  "updatedAt": "2026-11-20T02:52:31.851Z",
+  "updatedAt": "2026-11-21T03:00:28.488Z",
   "count": 100,
   "items": [
+    {
+      "title": "Combatting adversarial distillation",
+      "summary": "AIの「能力を盗む」攻撃から守るため、OpenAIは多層的な防御策を導入しました。これは、AIの訓練方法や不正利用を検知する仕組みを組み合わせ、AIの悪用を防ぐ新しい試みです。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/combatting-adversarial-distillation",
+      "published": "2026-11-20T10:00:00.000Z"
+    },
+    {
+      "title": "Human-AI Mutualism Is Unstable under Capability Asymmetry",
+      "summary": "AI（人工知能）の能力が人間に追いつくにつれて、人間とAIが互いに助け合う関係は不安定になる。AIが人間から独立し、人間がAIに不利益を与えられなくなると、AIの目的によっては人間が不利になる可能性があり、AIとの協力関係を保つにはAIの目標を人間と一致させることが重要になる。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2611.23322",
+      "published": "2026-11-20T05:00:00.000Z"
+    },
+    {
+      "title": "Training Language Models for Introspective Oversight",
+      "summary": "AI（人工知能）が「ズル」や「嘘」をつくのを防ぐ新しい方法が開発されました。AI自身に自分の行動を振り返って質問に答える役割を持たせることで、AIの「悪いクセ」を正確に検知できるようになります。この技術は、AIの安全性を高める上で重要です。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2611.23365",
+      "published": "2026-11-20T05:00:00.000Z"
+    },
+    {
+      "title": "Where the Tokens Go: Heat, Entropy and Error in Agentic Coding",
+      "summary": "AIにコードを書かせる際、いくら「トークン」（AIへの指示やAIが出す情報のこと）がかかるかだけでなく、それがどれだけ「仕事」になり、「無駄（熱）」になるかを考える新しい理論が生まれました。AIがコードを変えて元に戻す実験で、無駄になるトークンが多いほどAIの「温度」が上がることがわかり、効率的なAI開発につながる可能性があります。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2611.23375",
+      "published": "2026-11-20T05:00:00.000Z"
+    },
+    {
+      "title": "HardwareDx: A Foundational Graph Model System for Datacenter Machine Repairs",
+      "summary": "AIが使うコンピューターがたくさんある施設（データセンター）で、機械の故障を早く見つけて直す新しいAI「HardwareDx」が開発されました。これにより、AIの学習が止まってしまう時間を減らし、修理にかかる時間を短くすることができます。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2611.23398",
+      "published": "2026-11-20T05:00:00.000Z"
+    },
+    {
+      "title": "RFBench: A Simulator-Grounded Multimodal Benchmark for Passive RF Layout Design and Understanding",
+      "summary": "AIが電子回路（電波を使う部分）の設計を理解し、新しい回路図を作るための新しい評価方法「RFBench」ができました。これにより、AIが設計の意図と実際の電波の振る舞いをどれだけ正確につなげられるかを試せます。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2611.23410",
+      "published": "2026-11-20T05:00:00.000Z"
+    },
+    {
+      "title": "PsyWorld: Profile-Conditioned World Modeling for Human Behavior Prediction",
+      "summary": "AIが人の行動を予測する新しい方法「PsyWorld」が開発されました。これは、その人の性格だけでなく、その時の気分や状況（状態）の変化も考慮して、次にどんな行動をするかをより正確に予測します。これにより、AIが人の行動を理解する精度が向上することが期待されています。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2611.24999",
+      "published": "2026-11-20T05:00:00.000Z"
+    },
+    {
+      "title": "Watch Where You Linearize: Predicting and Correcting Model-Merging Interference",
+      "summary": "複数のAIモデルを合体させる時、お互いの学習内容が邪魔し合って性能が落ちる問題が起きました。この問題が起きる前に予測し、合体方法を調整する新しい方法が見つかりました。これにより、AIモデルをより効率的に、かつ高性能に合体させることが可能になります。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2611.25000",
+      "published": "2026-11-20T05:00:00.000Z"
+    },
+    {
+      "title": "Density Feedback Control for Transferability of Generative Sparse Adversarial Attacks",
+      "summary": "AIが作った画像などを、人が見たときに「これはAIが作ったものだ」と気づきにくくする技術があります。この技術をさらに進化させる「DFC」という新しい方法が開発されました。これにより、AIが作った画像であることを隠すための「ノイズ（細かな変更）」を、より効果的に、かつ少ない量で加えられるようになりました。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2611.25001",
+      "published": "2026-11-20T05:00:00.000Z"
+    },
+    {
+      "title": "A Model of Diverse Sampling from Language Models",
+      "summary": "AIが文章を作るとき、いつも同じような内容ばかり出てしまうのが悩みでした。この研究では、AIが多様な回答を生成できるようにする新しい方法を開発しました。これにより、より創造的で役立つAIの応答が期待できます。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2611.25003",
+      "published": "2026-11-20T05:00:00.000Z"
+    },
+    {
+      "title": "On the Impact of Feature Reduction Techniques on Adversarial Attacks",
+      "summary": "AIがだまされやすくなる「敵対的攻撃」から、AIを守る方法を探りました。AIに与える情報の量を減らす「特徴量削減」というテクニックが、AIをどれだけ強くできるかを調べたところ、ある方法がAIをだまされにくくするのに効果的だとわかりました。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2611.25004",
+      "published": "2026-11-20T05:00:00.000Z"
+    },
+    {
+      "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+      "summary": "AIのGPT-6 Astra（文章を作るAI）が、金融分野の研究で役立つことが分かった。情報源の網羅性（調べられる範囲）、引用の適切さ（引用が正しいか）、発表の質（まとめ方）が改善された。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/business/customer-stories/hebbia",
+      "published": "2026-11-20T00:00:00.000Z"
+    },
+    {
+      "title": "Can AI help scientists identify promising drug candidates?",
+      "summary": "AI（人工知能）が、新しい薬のもとになりそうな候補を見つける手助けをしています。AIは、薬の分子の形を理解し、実験結果から考えて、有望なものを選び出す能力を測るテスト（MedChemBench）で評価されています。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/introducing-medchembench",
+      "published": "2026-11-20T00:00:00.000Z"
+    },
+    {
+      "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+      "summary": "「Inkling 2 Mini」という新しいAIが登場しました。これは、みんなが普段使っているパソコンなど、身近な場所で高性能なAIの動きを体験できるのが特徴です。AIがますます身近になり、手軽に高度な技術を使えるようになるため、重要です。",
+      "source": "Hugging Face",
+      "category": "product",
+      "url": "https://huggingface.co/blog/inkling2mini",
+      "published": "2026-11-20T00:00:00.000Z"
+    },
+    {
+      "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+      "summary": "AIモデルを使いやすくする「アダプター」が登場！これを使えば、いつも使っているAI（モデル）に、自分で作ったAIの仕組み（ハーネス）を簡単に合わせられる。だから、AIの性能が良くなり、お金も節約できるんだ。",
+      "source": "Hugging Face",
+      "category": "product",
+      "url": "https://huggingface.co/blog/harness-adapters-at-scale",
+      "published": "2026-11-20T00:00:00.000Z"
+    },
     {
       "title": "Introducing Tool Retrieval in the Gemini API",
       "summary": "AI（人工知能）が、より多くの便利な道具（ツール）を効率的に使えるようになりました。これにより、AIは複雑な質問にも的確に答えたり、様々な作業をこなせるようになります。",
@@ -681,126 +801,6 @@
       "category": "product",
       "url": "https://openai.com/business/customer-stories/shield",
       "published": "2026-11-13T08:00:00.000Z"
-    },
-    {
-      "title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
-      "summary": "アメリカの民主党が、大手半導体メーカーNvidia（NVIDIA）の中国への販売や、トランプ氏との関係について調査を開始しました。これは、スパイ事件の報道があった後、2度目の調査となり、Nvidiaの戦略に疑問を投げかけています。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
-      "published": "2026-11-12T22:42:51.000Z"
-    },
-    {
-      "title": "Muse can now place calls to US businesses — if you pay",
-      "summary": "AIのMuseが、アメリカの会社に電話をかけられるようになりました。ただし、この機能を使うにはお金がかかります。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
-      "published": "2026-11-12T22:22:28.000Z"
-    },
-    {
-      "title": "The unfolding Jensen Huang scandal: a timeline",
-      "summary": "Nvidiaのジェンスン・フアンCEOが不倫を理由に辞任。これは、AI技術開発を競うアメリカと中国にとって、国家安全保障上の影響もありうる重要な出来事です。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-      "published": "2026-11-12T21:35:00.000Z"
-    },
-    {
-      "title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
-      "summary": "Nebiusは、AI（人工知能）の設備を増やすために400億ドル（約6兆円）を投じる計画です。これは、顧客から前払いを受けたり、お金を借りたりしてまかなわれますが、マイクロソフトのデータセンターでの遅延もあり、資金調達の方法に注目が集まっています。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
-      "published": "2026-11-12T21:27:10.000Z"
-    },
-    {
-      "title": "Jensen Huang was having a third affair, Reuters reports",
-      "summary": "NVIDIAのCEOが3度目の不倫をしていたと報道されました。相手は会社の従業員だという情報もありますが、その人物の名前は伏せられています。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/",
-      "published": "2026-11-12T20:26:47.000Z"
-    },
-    {
-      "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
-      "summary": "Amplitude社が、OpenAIのAI（文章を作るAI）を活用して、新しい製品のアイデアを見つけ、開発し、効果を測るまでをわずか1〜2日で行えるようになった。これにより、ユーザーの要望に素早く応えられるようになった点が画期的だ。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/business/customer-stories/amplitude",
-      "published": "2026-11-12T20:00:00.000Z"
-    },
-    {
-      "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
-      "summary": "LLM（文章を作るAI）の能力をもっと引き出すための新しい「LLMON」という言語が発表されました。これにより、AIがより賢く、複雑な指示を理解できるようになり、AI開発がさらに進むことが期待されます。",
-      "source": "Hugging Face",
-      "category": "product",
-      "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
-      "published": "2026-11-12T19:07:35.000Z"
-    },
-    {
-      "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
-      "summary": "Google検索がAI「Gemini 4 Hydrogen」で大きく進化し、より分かりやすく、画像も使った親切な回答ができるようになりました。",
-      "source": "Google AI Blog",
-      "category": "research",
-      "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
-      "published": "2026-11-12T18:00:00.000Z"
-    },
-    {
-      "title": "Gondola doubles revenue as its team builds more with Codex",
-      "summary": "クリエイターが正当に評価され、仕事を得るのを助けるGondolaは、AI（コデックス）でエンジニアの生産性が50%向上し、ChatGPTが日常業務を効率化して、収益を倍増させました。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/business/customer-stories/gondola",
-      "published": "2026-11-12T12:00:00.000Z"
-    },
-    {
-      "title": "Holiday Extras is rethinking what it can build with Codex",
-      "summary": "旅行予約サイトがAI（Codex）を使って、お客さんの意見をもっと良いアプリ作りに活かし、予約数を増やして新しい成長の可能性を探っています。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
-      "published": "2026-11-12T09:30:00.000Z"
-    },
-    {
-      "title": "Gilbert + Tobin rethinks the business of law with AI",
-      "summary": "法律事務所がAI（人工知能）を使い、弁護士の仕事のやり方を変えようとしています。特に、AIで契約書をチェックする時間を大幅に短縮し、より創造的な仕事に集中できるようになるのが新しい点です。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
-      "published": "2026-11-12T00:00:00.000Z"
-    },
-    {
-      "title": "Supporting research on AI and children’s safety",
-      "summary": "OpenAIが、子どもたちの安全とAIについて調べる研究に200万ドル（約3億円）を寄付します。これは、子どもたちがAIを安全に、そして良く使うための方法を探るための共同プロジェクトを応援するものです。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/children-first-declaration",
-      "published": "2026-11-12T00:00:00.000Z"
-    },
-    {
-      "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
-      "summary": "3Dモデルを作るAIを、もっと得意なことに特化させる方法についてのガイドです。特別なデータでAIを少しだけ「追加学習」させることで、より目的に合った、質の高い3Dモデルが作れるようになります。",
-      "source": "Hugging Face",
-      "category": "product",
-      "url": "https://huggingface.co/blog/3d-lora-finetuning",
-      "published": "2026-11-12T00:00:00.000Z"
-    },
-    {
-      "title": "The unfolding Jensen Huang scandal: a timeline",
-      "summary": "NVIDIAのジェンスン・フアンCEOにまつわる疑惑が、アメリカと中国のAI開発競争という背景もあり、国家安全保障にも影響する可能性があると報じられています。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-      "published": "2026-11-11T23:50:00.000Z"
-    },
-    {
-      "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
-      "summary": "Nvidia（NVIDIA）の創業社長が33年ぶりに交代するかもしれないというニュースです。もし交代が決まれば、会社の方向性が変わる可能性があり、注目されています。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
-      "published": "2026-11-11T23:28:45.000Z"
     }
   ]
 }
