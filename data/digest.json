@@ -1,7 +1,55 @@
 {
-  "updatedAt": "2026-11-23T02:16:11.175Z",
+  "updatedAt": "2026-11-24T05:45:02.665Z",
   "count": 100,
   "items": [
+    {
+      "title": "OpenAI and Cisco introduce Shirudo",
+      "summary": "OpenAIとCiscoが、Linuxのシステムを安全に保つための新しい仕組み「Shirudo」を発表しました。これにより、プログラムの修正（パッチ）を適用する最中に、システムが乗っ取られたり、不正な操作をされたりするのを防ぎます。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/introducing-shirudo",
+      "published": "2026-11-23T21:20:00.000Z"
+    },
+    {
+      "title": "RoboTrack: Point tracking for real-world robotic manipulation",
+      "summary": "ロボットが物をつかむとき、その「どこ」を掴むかを正確に知るのが難しいという課題を、RoboTrackという技術が解決します。この技術は、ロボットが掴みたいものを画像から見つけ出し、さらにその「掴むべき点」をリアルタイムに追跡することで、より上手に物をつかめるようにします。",
+      "source": "Hugging Face",
+      "category": "product",
+      "url": "https://huggingface.co/blog/allenai/robotrack",
+      "published": "2026-11-23T17:20:37.000Z"
+    },
+    {
+      "title": "A more tailored Google Search that’s uniquely yours",
+      "summary": "Google検索が、あなたのGoogleウォレットやドライブ、Geminiアプリと連携して、あなただけの特別な情報を提供してくれるようになります。これにより、より自分に合った、役立つ検索結果が得られるようになります。",
+      "source": "Google AI Blog",
+      "category": "research",
+      "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
+      "published": "2026-11-23T17:00:00.000Z"
+    },
+    {
+      "title": "Connected intelligence for in-house legal",
+      "summary": "企業の法務部がAI（人工知能）を活用して、社内の状況を理解し、業務を効率化する方法が紹介されています。これにより、外部の弁護士との連携もスムーズになり、より良い成果が期待できます。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+      "published": "2026-11-23T08:00:00.000Z"
+    },
+    {
+      "title": "Richpanel helps companies automate 50% of support in 30 days",
+      "summary": "AI（人工知能）を使って、会社の問い合わせ対応を劇的に速くするサービスが登場しました。わずか30日で、50%もの対応を自動化できるのがすごい点です。これにより、人手不足の解消や、より丁寧な対応へのシフトが期待されます。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+      "published": "2026-11-23T08:00:00.000Z"
+    },
+    {
+      "title": "How to build and maintain an agentic evaluation",
+      "summary": "AIが自分で考えて行動する「エージェント」の性能を、より正確に、そして公平に評価する方法が提案されています。これにより、AIの進化がより確かなものになり、私たちの生活をより良くするAIの開発に役立ちます。",
+      "source": "Hugging Face",
+      "category": "product",
+      "url": "https://huggingface.co/blog/agentic-evals",
+      "published": "2026-11-23T00:00:00.000Z"
+    },
     {
       "title": "Perplexity and Intelligence",
       "summary": "AIがどれだけ賢くなったかを示す「Perplexity（パープレキシティ）」という考え方を紹介。これは、AIがどれだけ「次に何が来るか」を正確に予測できるかで賢さを測るもので、AI開発者が共通の物差しでAIの成長を評価するのに役立ちます。",
@@ -753,54 +801,6 @@
       "category": "business",
       "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
       "published": "2026-11-13T18:40:30.000Z"
-    },
-    {
-      "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
-      "summary": "ロボットが物を掴んで運ぶ動きを、コンピューター上で本物そっくりに試せるようになりました。この技術を使えば、実際にロボットを作る前に、その動きがうまくいくか安全に確認できるようになります。",
-      "source": "Hugging Face",
-      "category": "product",
-      "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
-      "published": "2026-11-13T18:00:39.000Z"
-    },
-    {
-      "title": "XYBench: Helping with the problem behind the question",
-      "summary": "AIが質問に答えるとき、その質問がどれだけ分かりにくいかで、AIの答えも大きく変わってしまいます。XYBenchは、AIが曖昧な質問をどれだけうまく理解できるかを測る新しい方法で、より的確なAI開発に役立ちます。",
-      "source": "Hugging Face",
-      "category": "product",
-      "url": "https://huggingface.co/blog/allenai/xybench",
-      "published": "2026-11-13T17:02:35.000Z"
-    },
-    {
-      "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
-      "summary": "ChatGPTの新しい機能「ウォレット」を使えば、AI（人工知能）が代わりに買い物をし、支払いまで済ませてくれるようになります。まずはアメリカの有料会員向けに、AIがあなたの代わりにネットショッピングをしてくれる時代が来ます。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
-      "published": "2026-11-13T16:00:12.000Z"
-    },
-    {
-      "title": "The unfolding Jensen Huang scandal: a timeline",
-      "summary": "Nvidiaのジェンセン・フアン氏が不倫により辞任。これは、アメリカと中国がAI技術開発を競う中、国家安全保障に影響を与える可能性があるため重要です。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-      "published": "2026-11-13T15:58:00.000Z"
-    },
-    {
-      "title": "Introducing ChatGPT Wallet",
-      "summary": "ChatGPTの「ウォレット」機能が発表されました。これにより、ChatGPT内のAI（エージェント）が、ユーザーの許可を得て、登録済みのカード情報で買い物を安全にできるようになります。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/introducing-chatgpt-wallet",
-      "published": "2026-11-13T15:00:00.000Z"
-    },
-    {
-      "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
-      "summary": "「llama.cpp」というAI（人工知能）のプログラムが1.0になりました。これは、パソコン上でAIを動かすための、よりしっかりした土台ができたということです。",
-      "source": "Hugging Face",
-      "category": "product",
-      "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
-      "published": "2026-11-13T14:05:22.000Z"
     }
   ]
 }
