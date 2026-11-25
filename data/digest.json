@@ -1,7 +1,63 @@
 {
-  "updatedAt": "2026-11-24T05:45:02.665Z",
+  "updatedAt": "2026-11-25T04:47:06.972Z",
   "count": 100,
   "items": [
+    {
+      "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
+      "summary": "小さなアヒル型ロボットが、コンピューター上で仮想体験を積んで、現実世界でも障害物をうまく避けられるようになった、というお話です。これは、AIの学習方法をより効率的にするための新しい技術で、将来、ロボットがもっと賢く動けるようになるかもしれません。",
+      "source": "Hugging Face",
+      "category": "product",
+      "url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
+      "published": "2026-11-24T16:34:13.000Z"
+    },
+    {
+      "title": "How Gemini is changing the game for Golden State's organization and fans.",
+      "summary": "GoogleのAI「Gemini」が、バスケットボールチーム「ウォリアーズ」などの事業を支え、ファン体験を向上させています。これにより、試合の運営やチケット販売などがよりスムーズになり、ファンはもっと楽しめるようになります。",
+      "source": "Google AI Blog",
+      "category": "research",
+      "url": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/",
+      "published": "2026-11-24T16:00:00.000Z"
+    },
+    {
+      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "summary": "AI（人工知能）が、病気の治療薬などに使われる「タンパク質」の設計に成功しました。GPT-6というAIは、タンパク質の設計図（配列）と形（構造）を自分で考え出し、実際に体内で働くかどうかも試せるようです。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+      "published": "2026-11-24T13:00:00.000Z"
+    },
+    {
+      "title": "Searching for distant planets with Astra",
+      "summary": "宇宙望遠鏡のデータから、AI（コンピュータープログラム）の助けを借りて、地球ではない星（系外惑星）を見つける新しい方法が見つかりました。これにより、これまで見つけられなかった星が見つかるかもしれません。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/index/searching-for-distant-planets-with-astra",
+      "published": "2026-11-24T11:00:00.000Z"
+    },
+    {
+      "title": "How Intentful uses dots to make more time for growth",
+      "summary": "AIアシスタント「dot Aria」が、ウェブサイトの調査や提案書作成を助け、メッセージの確認や問題解決も自動で行ってくれる。これにより、研究者はより多くの時間を成長のための活動に使えるようになる。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/business/customer-stories/intentful-dots",
+      "published": "2026-11-24T00:00:00.000Z"
+    },
+    {
+      "title": "How iFood scales coding agents across 15,000 repositories",
+      "summary": "レストランの注文を効率化するAI（人工知能）が、1万5千ものコード（プログラム）の管理を助け、開発スピードを速めている。これにより、AIがより複雑な作業もこなし、新しいサービス開発につながることが期待される。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/business/customer-stories/ifood",
+      "published": "2026-11-24T00:00:00.000Z"
+    },
+    {
+      "title": "Clay helps sales teams win with Codex and ChatGPT",
+      "summary": "営業チームが、文章を作るAI（ChatGPT）やコードを作るAI（Codex）のおかげで、より効率的に仕事を進められるようになりました。AIがデータから良いアイデアをたくさん考えてくれるので、新しい販売戦略が立てやすくなるのです。",
+      "source": "OpenAI Blog",
+      "category": "product",
+      "url": "https://openai.com/business/customer-stories/clay-plugins-openai",
+      "published": "2026-11-24T00:00:00.000Z"
+    },
     {
       "title": "OpenAI and Cisco introduce Shirudo",
       "summary": "OpenAIとCiscoが、Linuxのシステムを安全に保つための新しい仕組み「Shirudo」を発表しました。これにより、プログラムの修正（パッチ）を適用する最中に、システムが乗っ取られたり、不正な操作をされたりするのを防ぎます。",
@@ -745,62 +801,6 @@
       "category": "research",
       "url": "https://arxiv.org/abs/2611.14544",
       "published": "2026-11-14T05:00:00.000Z"
-    },
-    {
-      "title": "Cleaning an Agent's History Hurts When the World Still Holds the Error",
-      "summary": "AIが過去の失敗をどう記録し直すかで、その後のAIの成果が大きく変わることがわかりました。失敗した過去の記録を修正しても、現実の世界にその失敗の影響が残っていると、かえってAIのパフォーマンスが下がることがあるのです。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2611.14654",
-      "published": "2026-11-14T05:00:00.000Z"
-    },
-    {
-      "title": "Together Compiler: Continual Compilation for AI Inference",
-      "summary": "AIの進化は速く、新しいプログラム（モデル）がたくさん出てきて、それぞれ得意なことが違います。この変化に合わせて、AIが速く動くように調整し続けるのは大変です。この新しい「Together Compiler」は、AIのプログラムを常に最適化することで、これまでより最大2.6倍速くAIが動くようにします。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2611.14681",
-      "published": "2026-11-14T05:00:00.000Z"
-    },
-    {
-      "title": "When Should Semantic Priors Enter Partially-Identified Causal Discovery?",
-      "summary": "AIが因果関係を探る時、言葉の意味（セマンティック情報）が役立つことがあります。しかし、AIの提案が間違っていると、本当の因果関係を見失ってしまうことも。今回の研究では、どの部分に言葉の意味を尋ねるか、AIの提案をどう受け入れるか、どの関係を信じるか、といった３つのポイントを整理し、AIがより賢く因果関係を見つける方法を探っています。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2611.14736",
-      "published": "2026-11-14T05:00:00.000Z"
-    },
-    {
-      "title": "SynthCorp: A Platform for Creating Benchmarks for Data Agents",
-      "summary": "AI（人工知能）がビジネスのデータを扱う能力を測る新しい方法が開発されました。SynthCorpというこのシステムは、会社のデータが時間とともにどう変化するかをシミュレーションし、AIのテスト（ベンチマーク）を自動で作ります。これにより、AIがより複雑なデータ処理を正確にできるか、詳しく調べられるようになります。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2611.14765",
-      "published": "2026-11-14T05:00:00.000Z"
-    },
-    {
-      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
-      "summary": "NVIDIAのCEO（最高経営責任者）が退任すると、AI（人工知能）を開発する新しい会社への投資が減るかもしれません。これまでの巨額投資が期待できなくなり、資金調達や会社の価値（評価額）が下がるのではないかと心配されています。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
-      "published": "2026-11-13T22:43:00.000Z"
-    },
-    {
-      "title": "AI agent startup LangChain hits $3B valuation",
-      "summary": "LangChainという会社が、AI（人工知能）がお客さんの代わりに色々な作業をしてくれる「AIエージェント」を作るための道具を提供し、たった1年で約4800億円もの価値があると評価されました。これは、AIがもっと身近になり、私たちの生活を助けてくれるようになる未来が近づいている証拠です。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
-      "published": "2026-11-13T19:37:57.000Z"
-    },
-    {
-      "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
-      "summary": "アメリカが輸出を禁止したNVIDIAの高性能AIチップが、中国のすごいAIを作るために使われていたことがわかりました。これは、AI技術の競争でアメリカにとって心配なニュースです。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
-      "published": "2026-11-13T18:40:30.000Z"
     }
   ]
 }
