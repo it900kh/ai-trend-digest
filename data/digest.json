@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-11-25T04:47:06.972Z",
+  "updatedAt": "2026-11-26T03:57:43.871Z",
   "count": 100,
   "items": [
+    {
+      "title": "Where scientists draw the line on AI agents",
+      "summary": "AIエージェント（自律的に行動できるAI）が、どの程度まで自由に動けるのか、科学者たちはその「線引き」について議論しています。AIが人間のように考え、行動できるようになるにつれて、その能力と制御のバランスをどう取るかが重要になっています。",
+      "source": "Hugging Face",
+      "category": "product",
+      "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+      "published": "2026-11-25T18:52:55.000Z"
+    },
+    {
+      "title": "An Indic Voice Agent with CUGA",
+      "summary": "インドの公用語に対応したAIアシスタントが開発されました。これにより、インドの多くの人々がAIをより身近に感じ、利用できるようになります。",
+      "source": "Hugging Face",
+      "category": "product",
+      "url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+      "published": "2026-11-25T10:22:09.000Z"
+    },
+    {
+      "title": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
+      "summary": "AIが「ひとつずつ」「より良い答え」を探す方法が紹介されています。これにより、AIがさらに賢くなり、複雑な問題も解けるようになるかもしれません。",
+      "source": "Hugging Face",
+      "category": "product",
+      "url": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
+      "published": "2026-11-25T00:00:00.000Z"
+    },
     {
       "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
       "summary": "小さなアヒル型ロボットが、コンピューター上で仮想体験を積んで、現実世界でも障害物をうまく避けられるようになった、というお話です。これは、AIの学習方法をより効率的にするための新しい技術で、将来、ロボットがもっと賢く動けるようになるかもしれません。",
@@ -777,30 +801,6 @@
       "category": "business",
       "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
       "published": "2026-11-14T21:41:22.000Z"
-    },
-    {
-      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-      "summary": "AIの進化は速いが、すべてが成功するわけではない。Siriの遅延や、期待外れに終わったAIサービスなど、うまくいかなかったAIプロジェクトのリストは増え続けている。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-      "published": "2026-11-14T17:30:00.000Z"
-    },
-    {
-      "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
-      "summary": "アジアの国々は、NvidiaのCEOが退任したことで、半導体の供給を確実にする動きや、国内プロジェクトへの影響を注視しています。",
-      "source": "TechCrunch AI",
-      "category": "business",
-      "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
-      "published": "2026-11-14T16:34:15.000Z"
-    },
-    {
-      "title": "Zugwise: Domain-Aware Game Reconstruction for Digitizing Handwritten Chess Scoresheets",
-      "summary": "古い将棋の記録をデジタル化する新しい技術「Zugwise」が開発されました。これまで文字を読み取るだけだったのに対し、この技術は「人間が書いたか」という視点で、記録の誤りをより正確に見つけ出せるようにしました。これにより、これまで見逃されがちだった間違いも発見しやすくなり、記録の信頼性が向上します。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2611.14544",
-      "published": "2026-11-14T05:00:00.000Z"
     }
   ]
 }
