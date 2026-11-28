@@ -1,7 +1,55 @@
 {
-  "updatedAt": "2026-11-27T03:57:35.324Z",
+  "updatedAt": "2026-11-28T03:43:57.741Z",
   "count": 100,
   "items": [
+    {
+      "title": "Context Scaling: A New Frontier of AI Scaling",
+      "summary": "AIが「状況を理解」して賢く動くためには、たくさんの情報（文脈）をうまく扱えるようにすることが大切だという新しい考え方です。これにより、AIが間違った判断をするのを減らし、より正確で安全なシステムを作るための研究が進みます。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2611.33160",
+      "published": "2026-11-27T05:00:00.000Z"
+    },
+    {
+      "title": "Constraint-Aware Test-Time Scoring for LLM and VLM Candidate Selection",
+      "summary": "AI（人工知能）が複数の答えを作ったとき、一番良いものを選ぶのが難しかった。そこで、新しい方法では、まず必ず守るべきルール（ハードチェック）と、点数化できるルール（ソフトチェック）を組み合わせる。これにより、AIが作った答えの正確さや安全性を、より確実に判断できるようになる。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2611.33161",
+      "published": "2026-11-27T05:00:00.000Z"
+    },
+    {
+      "title": "AutoformBench: A Lean Formalization Benchmark for Advanced Mathematics",
+      "summary": "高度な数学をAIに理解させるための新しいテスト「AutoformBench」ができました。これは、AIが単に証明を導くだけでなく、数学的な定義や補助的な知識を自分で作り出し、それを証明につなげる能力を測るものです。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2611.33165",
+      "published": "2026-11-27T05:00:00.000Z"
+    },
+    {
+      "title": "General-Purpose Decision Models for AI Configuration Tuning",
+      "summary": "AIの設定を細かく調整して性能を上げる「チューニング」で、AI自身に最適な設定を見つけさせる方法を研究しました。新しいAI「Jev」は、設定の候補を提案し、その良さを点数で評価できます。Jevが設定の候補を絞る手助けをすることで、より良い設定を見つけられる可能性が示されました。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2611.33190",
+      "published": "2026-11-27T05:00:00.000Z"
+    },
+    {
+      "title": "What, Who, and When: Structured Harm Assessment for Mental Health Safety via Short Reasoning",
+      "summary": "AIが心のケアで使われるとき、危険な内容をより正確に判断するために、新しい方法が考えられました。これは、「何が」「誰に」「いつ」起こるかを分けて考えることで、AIがより適切に対応できるようになります。これにより、AIの安全性が高まり、心のケアがより安心して受けられるようになります。",
+      "source": "arXiv (cs.AI)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2611.33263",
+      "published": "2026-11-27T05:00:00.000Z"
+    },
+    {
+      "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+      "summary": "AIが文章だけでなく、動画も作れるようになりました。Hugging Faceという会社が開発した「LTX-2.5」という技術を使うと、まるで本物のような、または想像上の動画を生成できます。",
+      "source": "Hugging Face",
+      "category": "product",
+      "url": "https://huggingface.co/blog/video-trainium3",
+      "published": "2026-11-27T00:00:00.000Z"
+    },
     {
       "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
       "summary": "「llama.cpp」という、パソコンでAI（人工知能）を動かしやすくする新しい仕組みが、AMD（エーエムディー）製のパソコンでもっと速く動くようになったか分かる「ベンチマークダッシュボード」が作られました。これにより、AIを自分のパソコンで試したい人が、性能を簡単に比べられるようになります。",
@@ -64,6 +112,22 @@
       "source": "arXiv (cs.LG)",
       "category": "research",
       "url": "https://arxiv.org/abs/2611.33162",
+      "published": "2026-11-26T05:00:00.000Z"
+    },
+    {
+      "title": "Quantum Machine Learning for Signature Forgery Detection",
+      "summary": "量子コンピューターの技術（量子機械学習）を使って、手書きのサインが本物か偽物かを見分ける新しい方法を研究しています。これにより、これまで難しかった偽造サインの検出精度が9割を超え、より安全な書類の確認に役立つ可能性があります。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2611.33163",
+      "published": "2026-11-26T05:00:00.000Z"
+    },
+    {
+      "title": "Code availability is not enough: schemas for documenting and extending data analysis",
+      "summary": "AIが分析結果を出すまでの「考え方」を、AIが理解できる形で整理する新しい方法を提案。これにより、分析の過程が分かりやすくなり、もし考え方を変えたら結果がどう変わるか、といった試行錯誤がしやすくなる。",
+      "source": "arXiv (cs.LG)",
+      "category": "research",
+      "url": "https://arxiv.org/abs/2611.33167",
       "published": "2026-11-26T05:00:00.000Z"
     },
     {
@@ -737,70 +801,6 @@
       "category": "product",
       "url": "https://openai.com/index/lvmh-media-division-partnership",
       "published": "2026-11-16T09:00:00.000Z"
-    },
-    {
-      "title": "Our first phase of embedded assessments",
-      "summary": "AIが安全で、社会に役立つように作られているかを、外部の専門家がチェックし始める。これにより、AIの「考えること」（モデルの整合性）、不正を防ぐ仕組み（セーフガード）、そしてAIの様子を見守るシステム（モニタリング）が、より信頼できるものになる。",
-      "source": "OpenAI Blog",
-      "category": "product",
-      "url": "https://openai.com/index/our-first-phase-of-embedded-assessments",
-      "published": "2026-11-16T08:00:00.000Z"
-    },
-    {
-      "title": "When Should LLM Agents Forget? Memory Filtering Under Query-Critical Resolver Errors",
-      "summary": "AI（文章を作るAI）が覚えている情報を、いつ「古くなった」と判断して忘れるかは重要です。もしAIが質問に答えるために必要な情報を間違って削除してしまうと、正しい答えが出せなくなってしまうからです。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2611.17338",
-      "published": "2026-11-16T05:00:00.000Z"
-    },
-    {
-      "title": "Does the Ranking Hold? A Practitioner-Facing Audit of Hallucination Detectors on Small, Quantized, On-Device LLMs",
-      "summary": "AIが間違った情報を生成する（ハルシネーション）のを防ぐ技術が、実際にスマホなどで使われる小さなAIモデルではうまく機能しないことが分かりました。\nこれは、AIの「間違いを見つける能力」の順位がモデルによって逆転したり、簡単な方法でも同等の性能が出たりするため、AI開発者がモデルを選ぶ際に注意が必要であることを示しています。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2611.17339",
-      "published": "2026-11-16T05:00:00.000Z"
-    },
-    {
-      "title": "LoRAWeaver: Directional Adapter Routing in LoRA Representation Space",
-      "summary": "AI（人工知能）に新しいことを教えるとき、全部やり直すのは大変。そこで「LoRA」という部分だけを効率的に更新する方法があるけど、増えすぎるとどれを使うか選ぶのが難しくなる。この研究では、AIが賢く選べる新しい方法を提案。AIの得意なことを比べるだけで、新しいAIも賢く選べるようになるのがすごい。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2611.17340",
-      "published": "2026-11-16T05:00:00.000Z"
-    },
-    {
-      "title": "Tabular Population Priors as Structured Retrieval for EHR Medication Set Prediction",
-      "summary": "AIが患者さんの薬の履歴を予測する新しい方法が開発されました。これまでのAIは、似たような患者さんの記録を探して薬を推測していましたが、今回のAIは、病気と薬の関連性をまとめた表（「表形式の事前情報」）を使って、より的確に薬を予測できるようになりました。これにより、AIが薬を予測する精度が向上し、より効率的で分かりやすい予測が可能になります。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2611.17341",
-      "published": "2026-11-16T05:00:00.000Z"
-    },
-    {
-      "title": "An Operationalization of Opaque Serial Depth",
-      "summary": "AIが思考を深める過程で、人間には分かりにくい部分が増える「不透明な思考の深さ」を測る新しい方法が提案されました。これは、AIが内部でどれだけ複雑な計算を、人間に理解できる形で経由せずに進められるかを調べるものです。この深さを知ることは、AIの判断プロセスをより透明にするために重要になります。",
-      "source": "arXiv (cs.AI)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2611.17495",
-      "published": "2026-11-16T05:00:00.000Z"
-    },
-    {
-      "title": "Alignment with Reflect-Reasoning: Learning How To Follow Principles",
-      "summary": "AI（文章を作るAI）が、決められたルールを守るだけでなく、ルールについて自分で考え、より適切に行動できるようになる新しい学習方法が開発されました。これにより、AIは文脈に合わせて柔軟にルールを解釈し、まれに起こる重大な間違いを減らせることが期待できます。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2611.17398",
-      "published": "2026-11-16T05:00:00.000Z"
-    },
-    {
-      "title": "WETW: Learning Pair-Specific Weighted Euclidean Distances for Efficient DTW Search",
-      "summary": "時間軸がずれたデータ同士の似ている度合いを調べるのに、これまでよりずっと速く、しかも正確にできる新しい方法「WETW」が開発されました。これは、データごとに最適な比較方法をAIが見つけてくれるので、たくさんの長いデータを効率的に探せるのがすごい点です。",
-      "source": "arXiv (cs.LG)",
-      "category": "research",
-      "url": "https://arxiv.org/abs/2611.17412",
-      "published": "2026-11-16T05:00:00.000Z"
     }
   ]
 }
